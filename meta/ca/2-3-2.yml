@@ -1,0 +1,80 @@
+SDG_GOAL: >-
+   global_goals.2-title
+SDG_TARGET: >-
+  global_targets.2-3-title
+SDG_INDICATOR: >-
+  Percentatge de població ocupada en l'agricultura
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge de població ocupada en el sector primari (agricultura, ramaderia, silvicultura i pesca) respecte a la població ocupada de la ciutat.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Enquesta de Població Activa (EPA) de la Generalitat Valenciana.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+   
+  Documentació metodològica sobre l'Enquesta de Població Activa: [Enquesta Població Activa](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
+   
+  Atés que la EPA no està dissenyada per a oferir estimacions a nivell municipal, les estimacions oferides tindran un major nivell d'error que l'associat a àmbits territorials més amplis i hauran de ser tractades amb cautela. La branca d'activitat associada a la població ocupada es classifica segons la Classificació Nacional d'Activitats Econòmiques de 2009 (CNAE-2009).
+DATA_COMP: >-
+  Mitjana dels percentatges trimestrals de població ocupada en el sector primari respecte al total de població ocupada per a l'any de referència.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

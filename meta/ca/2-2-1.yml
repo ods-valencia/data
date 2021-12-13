@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.2-title
+SDG_TARGET: >-
+  global_targets.2-2-title
+SDG_INDICATOR: >-
+  Població de 5 a 14 anys amb retard del creixement
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Es considera que una persona mostra retard del creixement si la seua alçada és menor o igual a la mitjana menys dues desviacions típiques dels patrons de creixement infantil de l'Organització Mundial de la Salut (OMS) per al seu sexe i edat.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Enquesta de Salut de la Comunitat Valenciana.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Es considera que una persona mostra retard del creixement si la seua alçada és menor o igual a la mitjana menys dues desviacions típiques dels patrons de creixement infantil de l'Organització Mundial de la Salut (OMS) per al seu sexe i edat. Aquests valors de referència poden consultar-se en: (https://www.who.int/tools/growth-reference-data-for-5to19-years/indicators/height-for-age).
+   
+  Encara que les taules de referència ofereixen dades segons mesos complits, en el fitxer de microdades de l'Enquesta de Salut de la Comunitat Valenciana únicament disposem d'informació dels anys complits de la persona enquestada. Per això, considerarem que una persona enquestada d'edat x té baixa alçada si la seua alçada és menor o igual a la mitjana menys dues desviacions típiques que apareixen en les taules de referència de les persones amb 12x+6 mesos complits del mateix sexe. Per exemple, direm que les xiquetes de 5 anys presenten retard de creixement si la seua altura és menor o igual de 102,306 centímetres. Pel fet que la mostra a la ciutat és reduïda (173 enquestats de 5 a 14 anys en l'Enquesta de Salut de la Comunitat Valenciana de 2016), les estimacions obtingudes han de prendre's amb cautela. El percentatge de persones amb retard de creixement es calcula respecte al total de persones de 5 a 14 anys en què consta l'altura.
+DATA_COMP: >-
+  Percentatge de persones de 5 a 14 anys d'edat amb retard del creixement respecte a la població de 5 a 14 anys d'edat.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
