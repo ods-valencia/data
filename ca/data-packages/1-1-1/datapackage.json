@@ -11,25 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Any"
           }
         ]
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1",
-  "title": "Proporció de la població que viu per sota del llindar internacional de pobresa, desglossada per sexe, edat, situació laboral i ubicació geogràfica (urbana o rural)"
+  "title": "1-1-1"
 }

@@ -11,25 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
           }
         ]
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1",
-  "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)"
+  "title": "1-1-1"
 }
