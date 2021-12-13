@@ -1,0 +1,105 @@
+SDG_GOAL: >-
+   global_goals.1-title
+SDG_TARGET: >-
+  global_targets.1-2-title
+SDG_INDICATOR: >-
+  Población en riesgo de pobreza y/o exclusión social considerando el umbral autonómico de pobreza: indicador AROPE
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Porcentaje de personas que están en riesgo de pobreza relativa considerando el umbral autonómico de pobreza, que sufren privación material severa o que viven en hogares con baja intensidad de ocupación. Aunque una persona cumpla dos o tres condiciones, se contabiliza una sola vez.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta de Condiciones de Vida (ECV) de la Generalitat Valenciana.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrece esta información para ámbitos territoriales superiores.
+   
+   Documentación metodológica sobre Indicadores de Pobreza y Condiciones de Vida a nivel subregional: [Pobreza y Condiciones de Vida](https://pegv.gva.es/auto/produccion/web/ECV/Metodologia/Metodologia_cas.htm).
+   
+   Los ingresos que se utilizan en el cálculo de este indicador corresponden al año anterior al de la encuesta y son directamente informados por el encuestado. El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años.
+   Como la media de los ingresos en la Comunidad Valenciana es inferior a la de España, los porcentajes de pobreza con umbral autonómico son sensiblemente inferiores a los que se tienen utilizando el umbral nacional.  Una persona estará en riesgo de pobreza relativa si vive con unos ingresos por unidad de consumo por debajo del umbral autonómico de pobreza el año anterior a la entrevista. El ingreso de cada una de las personas que residen en un determinado hogar se calcula como el ingreso del total del hogar a la cual pertenecen entre su número de unidades de consumo según la escala OCDE modificada. A continuación se obtiene la mediana (percentil 50) de la distribución de ingresos de todas las personas residentes en todos los hogares de la Comunidad Valenciana, siendo el 60% de este valor el umbral autonómico de pobreza considerado para mesurar la pobreza relativa. 
+   Una persona vive en un hogar con una intensidad de ocupación baja si sus miembros en edad de trabajar lo hicieron menos del 20% de su potencial total de trabajo el año anterior al de la entrevista. Para lo cual se calcula el número de meses en que los miembros del hogar han estado trabajando durante el año de referencia (los meses con trabajo a jornada completa cuenta como 1, los meses a jornada parcial como 0,5 y los meses sin trabajo como 0), y por otro lado el total de meses en que teóricamente esos mismos miembros podrían haber trabajado. A continuación se calcula el ratio, estableciendo que el hogar tiene una intensidad de ocupación baja si su valor es inferior al 20%. Esta condición solo se aplica en la población de 0 a 59 años de edad.
+DATA_COMP: >-
+  Una persona estará en riesgo de pobreza relativa si vive con unos ingresos por unidad de consumo por debajo del umbral autonómico de pobreza el año anterior a la entrevista.
+
+   Una persona sufre privación material severa si el hogar en la cual vive carencia al menos de cuatro conceptos de los nueve siguientes:
+
+   1) No puede permitirse ir de vacaciones al menos una semana en el año. 
+
+   2) No puede permitirse una comida de carne, pollo o pez al menos cada dos días.
+
+   3) No puede permitirse mantener la vivienda con una temperatura adecuada.
+
+   4) No tiene capacidad para afrontar gastos imprevistos (de 650 euros).
+
+   5) Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal (hipoteca o alquiler, recibidos de gas, comunidad...) en los últimos 12 meses.
+
+   6) No puede permitirse disponer de un automóvil.
+
+   7) No puede permitirse disponer de teléfono.
+
+   8) No puede permitirse disponer de un televisor.
+
+   9) No puede permitirse disponer de una lavadora.
+
+   Una persona vive en un hogar con baja intensidad de ocupación si sus miembros en edad de trabajar lo hicieron menos del 20% de su potencial total de trabajo el año anterior al de la entrevista. 
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
