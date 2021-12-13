@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-a-2-title
+graph_title: Población en riesgo de pobreza relativa considerando el umbral autonómico
+  de pobreza
 graph_titles: []
-graph_type: bar
-indicator_name: global_indicators.1-a-2-title
-indicator_number: '1.a.2'
+graph_type: line
+indicator_name: Población en riesgo de pobreza relativa considerando el umbral autonómico
+  de pobreza
+indicator_number: '1.2.1'
 national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
