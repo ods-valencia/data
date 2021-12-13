@@ -115,6 +115,30 @@
       "title": "global_indicators.1-2-6-title"
     },
     {
+      "path": "2-a-3/data.csv",
+      "name": "2-a-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "2-a-3"
+    },
+    {
       "path": "1-2-8/data.csv",
       "name": "1-2-8",
       "profile": "tabular-data-resource",
@@ -232,6 +256,54 @@
       "title": "global_indicators.1-2-4-title"
     },
     {
+      "path": "2-3-3/data.csv",
+      "name": "2-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "2-3-3"
+    },
+    {
+      "path": "2-3-4/data.csv",
+      "name": "2-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "2-3-4"
+    },
+    {
       "path": "1-2-10/data.csv",
       "name": "1-2-10",
       "profile": "tabular-data-resource",
@@ -273,6 +345,30 @@
       "title": "global_indicators.1-2-10-title"
     },
     {
+      "path": "2-a-2/data.csv",
+      "name": "2-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Total de corrents oficials de recursos (assistència oficial per al desenvolupament més altres corrents oficials) destinat al sector agrícola"
+    },
+    {
       "path": "1-a-3/data.csv",
       "name": "1-a-3",
       "profile": "tabular-data-resource",
@@ -297,6 +393,30 @@
       "title": "Suma del total de les subvencions i assignacions no generadores de deute dedicades directament a programes de reducció de la pobresa en proporció al PIB"
     },
     {
+      "path": "2-3-1/data.csv",
+      "name": "2-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Volum de producció per unitat de treball desglossat per grandària i tipus d'explotació (agropecuària/ramadera/forestal)"
+    },
+    {
       "path": "1-a-1/data.csv",
       "name": "1-a-1",
       "profile": "tabular-data-resource",
@@ -319,6 +439,30 @@
         ]
       },
       "title": "Proporció dels recursos generats a nivell intern que el govern assigna directament a programes de reducció de la pobresa"
+    },
+    {
+      "path": "2-3-2/data.csv",
+      "name": "2-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Mitjana d'ingressos dels productors d'aliments en petita escala, desglossada per sexe i condició indígena"
     },
     {
       "path": "1-2-11/data.csv",
@@ -397,6 +541,30 @@
       "title": "Proporció de la població que viu per sota del llindar nacional de pobresa, desglossada per sexe i edat"
     },
     {
+      "path": "2-3-5/data.csv",
+      "name": "2-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "2-3-5"
+    },
+    {
       "path": "1-a-4/data.csv",
       "name": "1-a-4",
       "profile": "tabular-data-resource",
@@ -419,6 +587,30 @@
         ]
       },
       "title": "global_indicators.1-a-4-title"
+    },
+    {
+      "path": "2-a-1/data.csv",
+      "name": "2-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Índex d'orientació agrícola per a la despesa pública"
     },
     {
       "path": "1-2-3/data.csv",
@@ -468,6 +660,42 @@
       "title": "valencia-goals.1-2-3-title"
     },
     {
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Prevalença de la malnutrició (pes per a l'alçada, desviació típica >+2 o <-2 de la mitjana dels patrons de creixement infantil de l'OMS) entre els nens menors de 5 anys, desglossada per tipus (emaciació i sobrepès)"
+    },
+    {
       "path": "1-2-9/data.csv",
       "name": "1-2-9",
       "profile": "tabular-data-resource",
@@ -507,6 +735,42 @@
         ]
       },
       "title": "global_indicators.1-2-9-title"
+    },
+    {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-3-title"
     },
     {
       "path": "1-a-2/data.csv",
@@ -585,6 +849,144 @@
         ]
       },
       "title": "global_indicators.1-2-7-title"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Prevalença del retard del creixement (alçada per a l'edat, desviació típica < -2 de la mitjana dels patrons de creixement infantil de l'Organització Mundial de la Salut (OMS)) entre els nens menors de 5 anys"
+    },
+    {
+      "path": "2-1-1/data.csv",
+      "name": "2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Prevalença de la subalimentació"
+    },
+    {
+      "path": "2-a-4/data.csv",
+      "name": "2-a-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "2-a-4"
+    },
+    {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 34",
+                "35 a 64",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "2-2-4"
     },
     {
       "path": "17-11-1/data.csv",
@@ -1595,30 +1997,6 @@
       "title": "Total de suport internacional oficial (assistència oficial per al desenvolupament més altres corrents oficials de recursos) destinat a la infraestructura"
     },
     {
-      "path": "2-a-2/data.csv",
-      "name": "2-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Total de corrents oficials de recursos (assistència oficial per al desenvolupament més altres corrents oficials) destinat al sector agrícola"
-    },
-    {
       "path": "3-b-2/data.csv",
       "name": "3-b-2",
       "profile": "tabular-data-resource",
@@ -2171,30 +2549,6 @@
       "title": "Valor en dòlars de l'assistència financera i tècnica (fins i tot mitjançant la cooperació Nord-Sud, Sud‐Sud i triangular) promesa als països en desenvolupament"
     },
     {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Prevalença del retard del creixement (alçada per a l'edat, desviació típica < -2 de la mitjana dels patrons de creixement infantil de l'Organització Mundial de la Salut (OMS)) entre els nens menors de 5 anys"
-    },
-    {
       "path": "13-1-3/data.csv",
       "name": "13-1-3",
       "profile": "tabular-data-resource",
@@ -2313,30 +2667,6 @@
         ]
       },
       "title": "Avanços cap a la gestió forestal sostenible"
-    },
-    {
-      "path": "2-1-1/data.csv",
-      "name": "2-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Prevalença de la subalimentació"
     },
     {
       "path": "3-9-3/data.csv",
@@ -3275,30 +3605,6 @@
       "title": "Existència d'institucions nacionals independents de drets humans, en compliment dels Principis de París"
     },
     {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Volum de producció per unitat de treball desglossat per grandària i tipus d'explotació (agropecuària/ramadera/forestal)"
-    },
-    {
       "path": "8-8-1/data.csv",
       "name": "8-8-1",
       "profile": "tabular-data-resource",
@@ -3729,30 +4035,6 @@
         ]
       },
       "title": "Proporció de la població en un grup d'edat determinat que ha aconseguit almenys un nivell fix de competència funcional en a) alfabetització i b) nocions elementals d'aritmètica, desglossada per sexe"
-    },
-    {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "global_indicators.2-2-3-title"
     },
     {
       "path": "8-6-1/data.csv",
@@ -4379,30 +4661,6 @@
       "title": "Nivell d'estrès hídric: extracció d'aigua dolça en proporció als recursos d'aigua dolça disponibles"
     },
     {
-      "path": "2-a-1/data.csv",
-      "name": "2-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Índex d'orientació agrícola per a la despesa pública"
-    },
-    {
       "path": "17-13-1/data.csv",
       "name": "17-13-1",
       "profile": "tabular-data-resource",
@@ -4499,30 +4757,6 @@
       "title": "Prevalença del consum actual de tabac a partir dels 15 anys d'edat (edats ajustades)"
     },
     {
-      "path": "2-2-2/data.csv",
-      "name": "2-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Prevalença de la malnutrició (pes per a l'alçada, desviació típica >+2 o <-2 de la mitjana dels patrons de creixement infantil de l'OMS) entre els nens menors de 5 anys, desglossada per tipus (emaciació i sobrepès)"
-    },
-    {
       "path": "7-1-1/data.csv",
       "name": "7-1-1",
       "profile": "tabular-data-resource",
@@ -4593,30 +4827,6 @@
         ]
       },
       "title": "Proporció de membres i drets de vot dels països en desenvolupament en organitzacions internacionals"
-    },
-    {
-      "path": "2-3-2/data.csv",
-      "name": "2-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Mitjana d'ingressos dels productors d'aliments en petita escala, desglossada per sexe i condició indígena"
     },
     {
       "path": "11-5-1/data.csv",
