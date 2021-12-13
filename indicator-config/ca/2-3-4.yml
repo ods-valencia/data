@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Unitats de treball-any en explotacions agrícoles
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Unitats de treball-any en explotacions agrícoles
 indicator_number: '2.3.4'
 national_geographical_coverage: València
