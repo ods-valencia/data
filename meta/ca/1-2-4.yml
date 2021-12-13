@@ -1,0 +1,96 @@
+SDG_GOAL: >-
+   global_goals.1-title
+SDG_TARGET: >-
+  global_targets.1-2-title
+SDG_INDICATOR: >-
+  Població amb manca material severa
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge de persones amb manca material severa (manca almenys de quatre conceptes d'una llista de nou).
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Enquesta de Condicions de Vida (ECV) de la Generalitat Valenciana.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+   
+  Documentació metodològica sobre Indicadors de Pobresa i Condicions de Vida a nivell subregional: [Pobresa i Condicions de Vida](https://pegv.gva.es/auto/produccion/web/ECV/Metodologia/Metodologia_val.htm).
+DATA_COMP: >-
+  Percentatge de població que viu en llars que manquen almenys de quatre conceptes dels nou següents:
+
+  1) No pot permetre's anar de vacances almenys una setmana a l'any. 
+
+  2) No pot permetre's un menjar de carn, pollastre o peix almenys cada dos dies.
+
+  3) No pot permetre's mantindre l'habitatge amb una temperatura adequada.
+
+  4) No té capacitat per a afrontar despeses imprevistes.
+
+  5) Ha tingut retards en el pagament de despeses relacionades amb l'habitatge principal en els últims 12 mesos.
+
+  6) No pot permetre's disposar d'un automòbil.
+
+  7) No pot permetre's disposar de telèfon.
+
+  8) No pot permetre's disposar d'un televisor.
+
+  9) No pot permetre's disposar d'una llavadora.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

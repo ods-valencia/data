@@ -1,0 +1,76 @@
+SDG_GOAL: >-
+   global_goals.1-title
+SDG_TARGET: >-
+  global_targets.1-2-title
+SDG_INDICATOR: >-
+  Llars familiars monoparentals
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Nombre de fulles familiars formades per un únic adult (de 18 o més anys d'edat) i almenys un menor de 18 anys.
+UNIT_MEASURE: >-
+  Nombre de llars
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+DATA_COMP: >-
+  Nombre de fulles familiars formades per un únic adult (de 18 o més anys d'edat) i almenys un menor de 18 anys empadronades a la ciutat a 1 de gener de l'any de referència.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
