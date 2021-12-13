@@ -1,0 +1,103 @@
+'Year': 'Año'
+'Month': 'Mes'
+'Value': 'Valor'
+'total': 'Total'
+'Age': 'Edad'
+'Entity': 'Entidad'
+'type of revenue': 'Tipo de ingresos'
+'Type': 'Tipo'
+'Percentage': 'Porcentaje'
+'Type_Housing': 'Tipo Vivienda'
+'Total Number': 'Número Total'
+'Roofless': 'Sin techo'
+'Homeless': 'Sin vivienda'
+'Unsafe housing': 'Vivienda insegura'
+'Inadequate housing': 'Vivienda inadecuada'
+'Geographical_Area': 'Área Geográfica'
+'Barcelona(0-15 population)': 'Barcelona(población 0-15 años)'
+'Barcelona Metropolitan Area': 'Área Metropolitana Barcelona'
+'Mean': 'Media'
+'Type_assistance': 'Tipo atención'
+'Social emergencies': 'Emergencias sociales'
+'Urgent social situations': 'Urgencias sociales'
+'Gender': 'Sexo'
+'Men': 'Hombres'
+'Women': 'Mujeres'
+'Rate per 100.000': 'Tasa por 100.000'
+'Rate per 1.000': 'Tasa por 1.000'
+'Rate per mil': 'Tasa por mil'
+'Confidence_Interval_95%': 'Intervalo de confianza 95%'
+'Central position': 'Posición central'
+'High position': 'Posición alta'
+'Low position': 'Posición baja'
+'District': 'Distrito'
+'Differential higuest lowest rate': 'Diferencial de la tasa más baja'
+'Basic_Skill': 'Habilidades básicas'
+'Catalan': 'Catalán'
+'Spanish': 'Español'
+'English': 'Inglés'
+'Mathematics': 'Matemáticas'
+'Science and Technology': 'Ciencia y Tecnología'
+'Language': 'Idioma'
+'European Union': 'Unión Europea'
+'Spain': 'España'
+'Percentage annual variation': 'Variación porcentual anual'
+'Cumulated GDP Growth': 'Crecimiento acumulado del PIB'
+'Commerce_Consumption_Tourism': 'Comercio_Consumo_Turismo'
+'Housing': 'Vivienda'
+'Mobility and air quality': 'Movilidad y calidad del aire'
+'Urban green spaces': 'Espacios verdes urbanos'
+'Waste': 'Residuos'
+'Energy': 'Energía'
+'AOWDC': 'Agregado de: agua_desarrollo local_sostenibilidad transversal'
+'Million euros': 'Millones de euros'
+'Entrepreneurial Activity Rate': 'Tasa de actividad empresarial'
+'1000 tn CO2': '1000 toneladas de CO2'
+'Kg per 1.000 euros of GVA': 'Kg por 1.000 euros de VAB'
+'Total Number in Thousands': 'Número total en miles'
+'Total Number per 100.000 inhabitants': 'Número total por 100.000 habitantes'
+'Euros per night': 'Euros por noche'
+'Euros per total stay': 'Euros por estancia total'
+'Index (0-3)': 'Índice (0-3)'
+'Type_of_boat': 'Tipo de embarcación'
+"Embarcacions d'Arts menors": "Embarcaciones de Artes menores"
+"Embarcacions d'Arrossegament": "Embarcaciones de Arrastre"
+"Embarcacions d'Encerclament": "Embarcaciones Cerqueras"
+"Embarcacions Auxiliars": "Embarcaciones Auxiliares"
+"Ratio 80/20": "Ratio 80/20"
+"Group_Age": "Edad del grupo"
+"Over 64 years": "Mas de 64 años"
+"Type_Cultural_Service": "Tipo de servicio cultural"
+"Public library": "Biblioteca pública"
+"Popular festival": "Festival popular"
+"Cultural activity": "Actividad cultural"
+"Male": "Hombre"
+"Female": "Mujer"
+"Tonnes": "Toneladas"
+"Kg/inhabitant/day": "Kg/habitante/día"
+"Domestic": "Doméstico"
+"Commerce": "Comercio"
+"Industrial": "Industrial"
+"Transport": "Transporte"
+"Others": "Otros"
+"Port and Airport": "Puerto y Aeropuerto"
+"Waste Treatment": "Tratamiento de residuos"
+"Total Emissions": "Emisiones totales"
+"x1000 Mt of CO2": "x1000 Mt de CO2"
+"Type_Public_Transport": "Tipo de transporte público"
+"Rating 0-10": "Puntuación 0-10"
+"Air_Pollutants": "Contaminantes del aire"
+"Index": "Índice"
+"m2 per habitant": "m2 por habitante"
+"Average Ha": "Promedio de Ha"
+"Number of illegal settlements": "Número de asentamientos ilegales"
+"People living in illegal settlements": "Personas que viven en asentamientos ilegales"
+"Milion cubic meter": "Millones de metros cúbicos"
+"Litres": "Litros"
+"Area": "Área"
+"Neighbourhood": "Barrio"
+"City": "Ciudad"
+"0-10 scale": "Escala de 0 a 10"
+"Average days": "Promedio de días"
+"x1000 tons of CO2": "x1000 toneladas de CO2"
+"Difference between positive and negative responses": "Diferencia entre respuestas positivas y negativas"
