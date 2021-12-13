@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Proporció d'agricultura ecològica
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Proporció d'agricultura ecològica
 indicator_number: '2.3.3'
 national_geographical_coverage: València

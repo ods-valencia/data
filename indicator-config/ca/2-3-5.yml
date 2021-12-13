@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Producció de les explotacions agrícoles
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Producció de les explotacions agrícoles
 indicator_number: '2.3.5'
 national_geographical_coverage: València
