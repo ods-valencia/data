@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-1",
+  "title": "Proporció del professorat d'educació a) preescolar, b) primària, c) secundària inferior i d) secundària superior que ha rebut almenys la mínima formació docent organitzada prèvia a l'ocupació o en l'ocupació (per exemple, formació pedagògica) exigida per a impartir ensenyament a cada nivell en un país determinat"
+}

@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-b-1",
+  "title": "Nombre de països menys avançats i petits Estats insulars en desenvolupament que reben suport especialitzat, i quantitat de suport, en particular financer, tecnològic i de creació de capacitat, per als mecanismes de desenvolupament de la capacitat de planificació i gestió eficaces en relació amb el canvi climàtic, inclosos els centrats en les dones, els joves i les comunitats locals i marginades"
+}

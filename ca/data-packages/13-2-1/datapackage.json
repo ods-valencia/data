@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-2-1",
+  "title": "Nombre de països que han comunicat l'establiment o la posada en marxa d'una política, estratègia o pla integrat que augmenti la seva capacitat per a adaptar-se als efectes adversos del canvi climàtic i que promouen la resiliència al clima i un desenvolupament amb baixes emissions de gasos d'efecte d'hivernacle sense comprometre per això la producció d'aliments (per exemple, un pla nacional d'adaptació, una contribució determinada a nivell nacional, una comunicació nacional o un informe biennal d'actualització)"
+}
