@@ -1,32 +1,82 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
-data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
-data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
-embedded_feature_url: ''
-expected_disaggregations: []
-graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: ''
-graph_title: global_indicators.2-1-1-title
-graph_titles: []
-graph_type: line
-indicator_name: global_indicators.2-1-1-title
-indicator_number: '2.1.1'
-national_geographical_coverage: ''
-page_content: ''
-permalink: ''
-precision: []
-reporting_status: notstarted
-sort: ''
-standalone: false
-tags: []
+SDG_GOAL: >-
+   global_goals.2-title
+SDG_TARGET: >-
+  global_targets.2-1-title
+SDG_INDICATOR: >-
+  Proporción del gasto anual de las personas destinada a alimentación
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Proporción del gasto anual total de las personas residentes en la ciudad que es destinada a gastos clasificadas como de alimentos y bebidas no alcohólicas.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  
+   
+   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta de Presupuestos Familiares (EPF) del Instituto Nacional de Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Documentación metodológica sobre la Encuesta de Presupuestos Familiares del INE: [Encuesta Presupuestos Familiares](https://www.ine.es/metodologia/t25/t2530p458.pdf).
+   
+   Dado que la EPF no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel error que el asociado a ámbitos territoriales más amplios y tendrán que ser tratadas con cautela. En cualquier caso, las estimaciones facilitadas por el INE para la ciudad únicamente se ofrecen para los 12 grandes grupos de gasto (en vez de los 95 códigos de gasto para la comunidad o los 268 códigos de gasto para el total nacional), sin desglosar por ninguna variable de clasificación, lo cual reduce el impacto de lo expuesto anteriormente.
+     Desde el 2016 se utiliza la nueva clasificación europea de consumo, denominada ECOICOP (European Classification of Individual Consumption by Purpose), que presenta algunos cambios en los criterios respecto a los conceptos que se incluyen en cada parcela de gasto respecto a la clasificación anterior (COICOP/HBS). La ECOICOP está estructurada en los siguientes doce grandes grupos: 1. Alimentos y bebidas no alcohólicas; 2. Bebidas alcohólicas y tabaco; 3. Traje y calzado; 4. Vivienda, agua, electricidad, gas y otros combustibles; 5. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar; 6. Sanidad; 7. Transporte; 8. Comunicaciones; 9. Ocio y cultura; 10. Enseñanza; 11. Restaurantes y hoteles; 12. Otros bienes y servicios.
+DATA_COMP: >-
+  Cociente del gasto total anual de las personas residentes en la ciudad destinada a alimentos o bebidas no alcohólicas entre el gasto total anual total de las personas residentes en la ciudad durante el año de referencia.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

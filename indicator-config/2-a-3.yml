@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.2-a-title
 SDG_INDICATOR: >-
-  Presupuesto municipal destinado a Educación para el desarrollo ODS2
+  Presupuesto municipal destinado a Acciones Humanitarias ODS2
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Presupuesto municipal destinado a Educación para el desarrollo ODS2.
+  Presupuesto municipal destinado a Acciones Humanitarias ODS2.
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
