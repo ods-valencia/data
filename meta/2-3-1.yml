@@ -1,0 +1,83 @@
+SDG_GOAL: >-
+   global_goals.2-title
+SDG_TARGET: >-
+  global_targets.2-3-title
+SDG_INDICATOR: >-
+  Percentatge de superfície destinada a terres cultivades
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge de la superfície destinada a terres cultivades respecte a la superfície total del municipi.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Consell Agrari Municipal de l'Ajuntament de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+   
+  Aquesta informació forma part de l'Estadística de Superfícies de Cultius i Aprofitaments per Termes Municipals que realitza el Ministeri d'Agricultura, Alimentació i Medi Ambient en col·laboració amb els Serveis Estadístics de les Comunitats Autònomes. 
+   
+  Documentació metodològica: [Ministeri Agricultura](https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/notas%20%20Metodol%C3%B3gicas%20Superficies%20y%20producciones%20anuales%20de%20cultivos_tcm30-122273.pdf).
+DATA_COMP: >-
+  Quocient de la superfície destinada a terres cultivades entre la superfície total del municipi per a l'any de referència.
+
+  Les terres cultivades inclouen les terres amb cultius herbacis, llenyosos o en guaret, ja siguen de secà o de regadiu. No inclouen el terreny forestal, les pastures i pasturatges, les superfícies no agrícoles, la superfície de rius i llacs o el terreny improductiu.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
