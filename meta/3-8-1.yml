@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.3-title
+SDG_TARGET: >-
+  global_targets.3-8-title
+SDG_INDICATOR: >-
+  Porcentaje de población con necesidad de atención médica insatisfecha
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Proporción de personas que en los últimos doce meses ha necesitado alguna vez asistencia médica y no la han recibido.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta de Salud de la Comunidad Valenciana.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ods/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+   
+   La información analizada en este indicador recoge las necesidades insatisfechas autoinformadas correspondientes a la propia evaluación que la persona hace sobre si necesitaba asistencia médica (para él/ella mismo/a si ha sido seleccionado/a en la encuesta de adultos o sobre su hijo/a si este/a ha sido seleccionado/a en la encuesta de menores) pero no la tuvo o no la buscó. Está recogida en la pregunta P38 del cuestionario de adultos y P35 del cuestionario de menores de la Encuesta de Salud de la Comunidad Valenciana 2016. Esta información no está recogida en la Encuesta de Salud de la Comunidad Valenciana 2010.
+DATA_COMP: >-
+  Cociente del número de personas de cualquier edad que contestan afirmativamente a esta cuestión respecto al total de personas residentes en la ciudad que contestan a la cuestión.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

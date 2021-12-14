@@ -1,0 +1,83 @@
+SDG_GOAL: >-
+   global_goals.2-title
+SDG_TARGET: >-
+  global_targets.2-3-title
+SDG_INDICATOR: >-
+  Proporción de agricultura ecológica
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Porcentaje de superficie agraria utilizada (SAU) destinada a producción ecológica.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta sobre la Estructura de las Explotaciones Agrícolas del Instituto Nacional de Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ods/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/), aunque con una referencia territorial provincial. En todos los casos se estima la superficie destinada a producción agrícola a partir de la Encuesta de Superficies y Rendimientos de Cultivo del Ministerio de Agricultura, Pesca y Alimentación, y la superficie destinada a producción agrícola productiva y sostenible a partir de la Estadística de la Producción Ecológica del Ministerio de Agricultura, Pesca y Alimentación. El ámbito territorial inferior de estos datos es el provincial, por lo cual no se dispone de datos para el municipio de València. Por eso se ha decidido utilizar como fuente alternativa la Encuesta sobre la Estructura de las Explotaciones Agrícolas de la INE.
+   
+   Documentación metodológica sobre la Encuesta sobre la Estructura de las Explotaciones Agrícolas de la INE: [Explotación Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf).
+   
+   La superficie agraria utilizada (SAU) es el conjunto de la superficie de tierras labradas y tierras para pastos permanentes. Las tierras labradas comprenden los cultivos herbáceos, los barbechos, los huertos familiares y las tierras dedicadas a cultivos leñosos.
+     En esta operación únicamente se incluyen las explotaciones agrícolas con al menos 1 hectárea de superficie agrícola utilizada o con cierta importancia económica.
+   Para calificar la producción como ecológica se requiere la identificación y separación de las parcelas y productos usados o producidos ecológicamente de los que no lo son, y estar registrada ante la autoridad-organismo de control correspondiente en cada comunidad autónoma y someterse a sus controles. En esta encuesta se investiga tanto la superficie en la cual se aplican métodos de producción ecológica (superficie cualificada), como la superficie que se encuentra en periodo de conversión.
+DATA_COMP: >-
+  Cociente de la superficie agraria utilizada destinada a producción ecológica entre la superficie agraria utilizada total.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

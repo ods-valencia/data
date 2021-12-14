@@ -1,0 +1,86 @@
+SDG_GOAL: >-
+   global_goals.3-title
+SDG_TARGET: >-
+  global_targets.3-1-title
+SDG_INDICATOR: >-
+  Tasa de mortalidad materna
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Defunciones de mujeres atribuidas a causas relacionadas con el embarazo, parte y puerperio por cada 100.000 nacimientos.
+UNIT_MEASURE: >-
+  Tanto por 100.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0741-Estadística de mortalidad según causa para los distritos municipales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Registro de Mortalidad de la Dirección General de Salud Pública de la Consellería de Sanidad Universal y Salud Pública de la Generalitat Valenciana. 
+   
+   Explotación estadística Estadística de Nacimientos del Movimiento Natural de la Población del Instituto Nacional de Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. 
+   
+   Documentación metodológica sobre la Estadística de Mortalidad según Causa en València: [Estadística Mortalidad](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
+   
+   Documentación metodológica sobre la Estadística de Nacimientos en València: [Estadística Nacimientos](https://www.ine.es/metodologia/t20/t2030301.pdf).
+   
+DATA_COMP: >-
+  Cociente del número de defunciones de mujeres residentes en la ciudad a causa de causas relacionadas con el embarazo, parte y puerperio (códigos O00-O99 de la CIE-10) durante el año de referencia entre el número de nacimientos de madres residentes en la ciudad durante el año de referencia.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

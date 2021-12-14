@@ -1,9 +1,9 @@
 SDG_GOAL: >-
    global_goals.3-title
 SDG_TARGET: >-
-  global_targets.3-5-title
+  global_targets.3-7-title
 SDG_INDICATOR: >-
-  Tasa de personas en tratamiento por consumo de alcohol
+  Tasa de fecundidad de las adolescentes de 10 a 19 años
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,9 +27,9 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Personas en tratamiento por consumo de alcohol residentes en la ciudad por cada 100.000 habitantes.
+  Nacimientos de madres de 10 a 19 años por cada 1.000 mujeres en ese rango de edad.
 UNIT_MEASURE: >-
-  Tanto por 100.000
+  Tanto por 1.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
@@ -38,7 +38,7 @@ SOURCE_TYPE: >-
    0211-Características de la población de València. Padrón municipal de València
    a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
    
-   Red Pública de Atención a las Adiccions en la Comunidad Valenciana.
+   Explotación estadística Estadística de Nacimientos del Movimiento Natural de la Población del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -54,15 +54,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofrece esta información para ámbitos territoriales superiores. 
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   En la página web de la Dirección General de Asistencia Sanitaria de la Consellería de Sanidad Universal y Salud Pública se ofrece información de adiccions para la Comunidad Valenciana (http://www.san.gva.es/web/dgas/indicadores).
+   Documentación metodológica sobre la Estadística de Nacimientos en València: [Estadística Nacimientos](https://www.ine.es/metodologia/t20/t2030301.pdf).
    
    Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-   Para las tasas específicas por sexo se consideran las personas en tratamiento y residentes de este sexo. 
 DATA_COMP: >-
-  Cociente del número de personas en tratamiento por consumo de alcohol residentes durante el año de referencia entre el número de residentes en la ciudad calculado a mitad del año de referencia.
+  Cociente del número de nacimientos de madre de 10 a 19 años de edad residente en la ciudad durante el año de referencia entre el número de mujeres de 10 a 19 años de edad residentes en la ciudad calculado a mitad del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
