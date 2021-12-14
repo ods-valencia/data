@@ -1,0 +1,75 @@
+SDG_GOAL: >-
+   global_goals.6-title
+SDG_TARGET: >-
+  global_targets.6-6-title
+SDG_INDICATOR: >-
+  Percentatge de platges amb qualificació excel·lent
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge de platges classificades com de qualitat d'aigua excel·lent.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  La valoració de la qualitat de les aigües en les zones de bany es realitza a partir dels resultats obtinguts en els diferents anàlisis microbiològics, físic-químics i controls visuals duts a terme durant un període d'avaluació, que comprén la temporada de bany considerada (de l'1 de juny al 15 de setembre) juntament amb les tres temporades anteriors. Aquesta valoració està basada en els criteris de qualitat establits en el Reial decret 1341/2007, d'11 d'octubre, sobre la gestió de la qualitat de les aigües de bany per a aigua costanera i de transició.  Les aigües de bany es classifiquen com de qualitat bona o excel·lent quan en la sèrie de dades del període d'avaluació el percentil 95 de la concentració de Enterococos intestinals és inferior a 100 i el percentil 95 de la concentració d'Escherichia coli és inferior a 250, mesurant-se tots dos valors de referència en Unitats Formadores de Colònies (UFPC) o Número més probable (NMP) per 100 ml. El percentil 95 es calcula com antilog(m+1,65s), on m és la mitjana dels logaritmes en base 10 de les observacions bacterianes i s és la seua desviació típica. S'han considerat huit platges de la ciutat de València incloses en el catàleg de platges del Ministeri d'Agricultura, Alimentació i Medi ambient: Malva-rosa, el Cabanyal, Pinedo, l'Arbre del Gos, el Saler, Garrofera, la Devesa i el Recatí.
+DATA_COMP: >-
+  Quocient del nombre de platges classificades com a excel·lents respecte del total de platges de la ciutat en les quals es realitzen mesuraments.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

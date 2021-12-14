@@ -1,0 +1,80 @@
+SDG_GOAL: >-
+   global_goals.5-title
+SDG_TARGET: >-
+  global_targets.5-2-title
+SDG_INDICATOR: >-
+  Proporció de dones i xiquetes de 16 anys o més que han patit violència sexual a mans de la seua actual parella en els últims 12 mesos
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Proporció de dones i xiquetes de 16 anys o més que han patit violència sexual a mans de la seua actual parella en els últims 12 mesos.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Macroenquesta de Violència Contra la Dona del Ministeri d'Igualtat.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/)
+   
+  Documentació metodològica sobre la Macroenquesta de Violència Contra la Dona del Ministeri d'Igualtat: [Macroenquesta Violència Contra la Dona](https://violenciagenero.igualdad.gob.es/violenciaencifras/macroencuesta2015/macroencuesta2019/home.htm).
+   
+  La mostra per al municipi de València és significativament xicoteta: 113 entrevistades.  La mostra vàlida definitiva amb la qual es treballa és de 111 dones entrevistades per a les quals disposem d'informació respecte al sexe de la parella i aquesta és un home. Obtindrem, per tant, el percentatge de dones que han patit violència sexual a mans de les seues parelles o exparelles.
+DATA_COMP: >-
+  Quocient entre el nombre de dones i xiquetes de 16 o més anys que han patit violència sexual a mans de la seua actual parella en els últims 12 mesos i el total de dones amb parella en el municipi de València.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
