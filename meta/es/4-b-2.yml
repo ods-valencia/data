@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.4-title
+SDG_TARGET: >-
+  global_targets.4-b-title
+SDG_INDICATOR: >-
+  Cobertura del cheque escolar
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Proporción de niños de 0 a 5 años que reciben el cheque escolar.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  
+   
+   El Cheque Escolar es un sistema de ayudas económicas a la escolarización infantil de 0 a 5 años, destinadas a compensar desigualdades, sufragando los gastos de enseñanza de aquellos menores empadronados en el municipio de València, y se conceden en función de la renta familiar, atendiendo también las particularidades propias de las unidades familiares que las solicitan. Se trata de contribuir a la escolarización temprana como inicio de una escolarización obligatoria satisfactoria de nuestros niños y niñas, pero no solo: también permiten a los padres y madres con menos recursos, el acceso a la ocupación y/o a la formación continua, en una etapa de la vida en que las curas a los pequeños y pequeñas los harían imposible sin estas ayudas, que se convocan durante las primeras semanas de cada año para el curso académico siguiente.
+   
+   Documentación relativa al cheque escolar: [Cheque Escolar](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=16).
+DATA_COMP: >-
+  Cociente entre el número de cheques escolares concedidos a niños entre 0 y 5 años y el total de empadronados en la ciudad de València entre 0 y 5 años el año de referencia.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

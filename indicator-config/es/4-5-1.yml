@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Población de 5 a 14 años con peso insuficiente
+graph_title: Índice de paridad entre mujeres y hombres de la población entre 18 y
+  64 años que han realizado actividades educativas en los últimos 12 meses
 graph_titles: []
-graph_type: line
-indicator_name: Población de 5 a 14 años con peso insuficiente
-indicator_number: '2.2.2'
+graph_type: bar
+indicator_name: Índice de paridad entre mujeres y hombres de la población entre 18
+  y 64 años que han realizado actividades educativas en los últimos 12 meses
+indicator_number: '4.5.1'
 national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''

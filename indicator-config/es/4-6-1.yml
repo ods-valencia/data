@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Población de 5 a 14 años con peso insuficiente
+graph_title: Población entre 25 y 64 años con estudios secundarios o inferiores
 graph_titles: []
 graph_type: line
-indicator_name: Población de 5 a 14 años con peso insuficiente
-indicator_number: '2.2.2'
+indicator_name: Población entre 25 y 64 años con estudios secundarios o inferiores
+indicator_number: '4.6.1'
 national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''

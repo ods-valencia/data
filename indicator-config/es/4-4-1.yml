@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Población de 5 a 14 años con peso insuficiente
+graph_title: Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad
+  informática en los últimos 12 meses
 graph_titles: []
 graph_type: line
-indicator_name: Población de 5 a 14 años con peso insuficiente
-indicator_number: '2.2.2'
+indicator_name: Proporción de personas entre 16 y 74 años que han utilizado alguna
+  habilidad informática en los últimos 12 meses
+indicator_number: '4.4.1'
 national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''

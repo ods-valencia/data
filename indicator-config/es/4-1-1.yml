@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Población de 5 a 14 años con peso insuficiente
+graph_title: Tasa de promoción en ESO
 graph_titles: []
 graph_type: line
-indicator_name: Población de 5 a 14 años con peso insuficiente
-indicator_number: '2.2.2'
+indicator_name: Tasa de promoción en ESO
+indicator_number: '4.1.1'
 national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''

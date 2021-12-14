@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Población de 5 a 14 años con peso insuficiente
+graph_title: Població entre 25 i 64 anys amb estudis secundaris o inferiors
 graph_titles: []
 graph_type: line
-indicator_name: Población de 5 a 14 años con peso insuficiente
-indicator_number: '2.2.2'
-national_geographical_coverage: Valencia
+indicator_name: Població entre 25 i 64 anys amb estudis secundaris o inferiors
+indicator_number: '4.6.1'
+national_geographical_coverage: València
 page_content: ''
 permalink: ''
 precision: []
