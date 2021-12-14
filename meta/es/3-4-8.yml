@@ -1,0 +1,88 @@
+SDG_GOAL: >-
+   global_goals.3-title
+SDG_TARGET: >-
+  global_targets.3-4-title
+SDG_INDICATOR: >-
+  Tasa de mortalidad por suicidio
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Defunciones atribuidas a suicidio y lesiones autoinfligidas por cada 100.000 habitantes.
+UNIT_MEASURE: >-
+  Tanto por 100.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0211-Características de la población de València. Padrón municipal de València
+   a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
+   
+   0741-Estadística de mortalidad según causa para los distritos municipales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
+   
+   Documentación metodológica sobre la Estadística de Mortalidad según Causa en València: [Estadística Mortalidad](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
+   
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   
+   Para las tasas específicas por sexo se consideran las defunciones y residentes de este sexo.  Para el cálculo de las tasas por distrito se han generado agregados de defunciones asociadas a esta causa para periodos de 5 años, asignando el valor obtenido al último año que define el periodo de agregación. Las tasas ofrecidas se obtienen como el cociente del número de defunciones asociadas a la causa durante un periodo de cinco años (por ejemplo, 2011-15) entre la suma de la población a 1 de enero de los años incluidos (de 2011 a 2015) (población sujeta a riesgo). 
+   
+   Existe un pequeño subregistre por el hecho que algunas de las defunciones registradas en la ciudad no pudieron ser geocodificades al distrito de residencia. Se puede consultar la metodología asociada a esta operación en: [Mortalidad 2011-2015](https://www.valencia.es/estadistica/CatPub/files/MortalitatCausa_2011_2015.pdf).
+DATA_COMP: >-
+  Cociente del número de defunciones de residentes en la ciudad atribuidas a suicidios y lesiones autoinfligidas (códigos X60-X84 de la CIE-10) durante el año de referencia entre el número de residentes en la ciudad calculado a mitad del año de referencia.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

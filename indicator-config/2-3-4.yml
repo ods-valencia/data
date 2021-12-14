@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.2-title
+SDG_TARGET: >-
+  global_targets.2-3-title
+SDG_INDICATOR: >-
+  Unidades de trabajo-año en explotaciones agrícolas
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Unidades de trabajo destinadas a la producción agrícola de las explotaciones de la ciudad.
+UNIT_MEASURE: >-
+  Unidades de trabajo/año
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta sobre la Estructura de las Explotaciones Agrícolas del Instituto Nacional de Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Documentación metodológica de la Encuesta sobre la Estructura de las Explotaciones Agrícolas de la INE: [Estructura Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf).
+   
+   En la documentación metodológica se muestra la tabla de equivalencias entre unidades de trabajo-año, jornadas, horas de trabajo o porcentaje de trabajo realizado por una persona. Hay que tener en cuenta el reducido tamaño muestral de explotaciones de la ciudad (32 explotaciones), lo cual dará lugar a estimaciones con poca precisión que tendremos que tomar con cautela.
+DATA_COMP: >-
+  Los datos de trabajo en la explotación se expresan en número de unidades de trabajo-año (UTA) que equivale al trabajo que realiza una persona a tiempo completo a lo largo del año. 
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
