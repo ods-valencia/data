@@ -56,7 +56,7 @@ REC_USE_LIM: >-
   En la pàgina web de la Direcció General d'Assistència Sanitària de la Conselleria de Sanitat Universal i Salut Pública s'ofereix informació d'adiccions per a la Comunitat Valenciana (http://www.san.gva.es/web/dgas/indicadores).
   Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
    
-  Per a les taxes específiques per sexe es consideren les persones en tractament i residents d'aquest sexe. 
+  Per a les taxes específiques per sexe es consideren les persones en tractament i residents d'aquest sexe.
 DATA_COMP: >-
   Quocient del nombre de persones en tractament per consum de drogues il·legals residents durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
 DATA_VALIDATION: >-

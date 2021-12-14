@@ -57,7 +57,6 @@ REC_USE_LIM: >-
   Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
    
   Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
-   
 DATA_COMP: >-
   Quocient del nombre de defuncions de dones residents a la ciutat a causa de causes relacionades amb l'embaràs, part i puerperi (codis O00-O99 de la CIE-10) durant l'any de referència entre el nombre de naixements de mares residents a la ciutat durant l'any de referència.
 DATA_VALIDATION: >-

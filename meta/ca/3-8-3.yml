@@ -52,8 +52,6 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  
-   
   Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
    
   Hospitals en departaments de salut que donen servei a població de la ciutat: Departament de Salut de València-Clínic-Malva-rosa (Hospital Clínic Universitari i Hospital de la Malva-rosa), Departament de Salut de València-Arnau de Vilanova-Llíria (Hospital Doctor Moliner, Hospital Arnau de Vilanova i Hospital de Llíria), Departament de Salut de València-La Fe (Hospital General Universitari la Fe), Departament de Salut de València-Hospital General (Hospital General), Departament de Salut València-Doctor Peset (Hospital Doctor Peset i Hospital Pare Jofré).  Per a cada departament s'ha estimat el nombre de llits instal·lats assignats a població de la ciutat com la suma de llits instal·lats als hospitals del departament multiplicat per la proporció de població resident en el departament que resideix en el municipi de València. El nombre de llits instal·lats que donen servei a la ciutat s'ha obtingut com a suma dels llits assignats per a cada departament.
