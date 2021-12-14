@@ -1,9 +1,9 @@
 SDG_GOAL: >-
-   global_goals.2-title
+   global_goals.3-title
 SDG_TARGET: >-
-  global_targets.2-a-title
+  global_targets.3-c-title
 SDG_INDICATOR: >-
-  Presupuesto municipal destinado a Ayuda a Paises en Desarrollo
+  Presupuesto municipal destinado a Educación para el desarrollo ODS3
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Estimación de las transferencias municipales de Ayuda Oficial al Desarrollo para los ODS 2.
+  Presupuesto municipal destinado a Educación para el desarrollo ODS3.
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
@@ -52,10 +52,8 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-   
-   El indicador incluye el presupuesto destinado a Cooperación, Educación para el desarrollo y Acciones Humanitarias.
 DATA_COMP: >-
-  Suma de las transferencias municipales a través de convenios con entidades no gubernamentales, mediante ejecución directa o mediante convocatorias de Ayuda al Desarrollo convocadas por el Ayuntamiento. Cada una de las acciones puede afectar más de un ODS. Para los convenios que afectan más de un ODS se ha repartido la cantidad total de manera proporcional entre los ODS a los cuales implica.
+  
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

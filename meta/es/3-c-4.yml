@@ -1,7 +1,7 @@
 SDG_GOAL: >-
-   global_goals.2-title
+   global_goals.3-title
 SDG_TARGET: >-
-  global_targets.2-a-title
+  global_targets.3-c-title
 SDG_INDICATOR: >-
   Presupuesto municipal destinado a Ayuda a Paises en Desarrollo
 SDG_SERIES_DESCR: >-
@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Estimación de las transferencias municipales de Ayuda Oficial al Desarrollo para los ODS 2.
+  Estimación de las transferencias municipales de Ayuda Oficial al Desarrollo para los ODS 3.
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-

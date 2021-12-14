@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Documentación metodológica sobre la Encuesta de Población Activa: [Encuesta Población Activa](https://www.ine.es/inebasedyn/epa30308/docs/resumetepa21.pdf).
+   Documentación metodológica sobre la Encuesta de Población Activa: [Encuesta Población Activa](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
    
    Dado que la EPA no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel de error que el asociado a ámbitos territoriales más amplios y tendrán que ser tratadas con cautela. La rama de actividad asociada a la población ocupada se clasifica según la Clasificación Nacional de Actividades Económicas de 2009 (CNAE-2009).
 DATA_COMP: >-

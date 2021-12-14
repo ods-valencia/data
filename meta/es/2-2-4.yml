@@ -56,7 +56,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Documentación metodológica sobre la 9 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 9](https://www.valencia.es/estadistica/barometro/metodologia9.pdf).
+   Documentación metodológica sobre la 9 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 9](https://www.valencia.es/estadistica/Barometro/Metodologia9.pdf).
    
    El Índice de Massa Corporal (IMC) se calcula como el cociente del peso de la persona (en kilogramos) entre el cuadrado de la altura (en metros), y se utiliza para clasificar el estado ponderal de la persona. Se considera que una persona de 18 o más años de edad tiene pes insuficiente si su IMC es menor de 18,5 kg/m²; tiene pes normal si su IMC es mayor o igual a 18,5 kg/m² y menor de 25 kg/m²; tiene sobrepeso si su IMC es mayor o igual a 25 kg/m² y menor de 30 kg/m²; tiene obesidad si su IMC es mayor o igual a 30 kg/m². El porcentaje de personas con sobrepeso u obesidad se calcula respecto al total de personas en las cuales consta el peso y la altura. Los datos de peso y altura son informadas en la encuesta por el propio encuestado.  Hay que tener en cuenta que el reducido tamaño de la muestra de población de 18 o más años de edad de la Encuesta de Salud en la ciudad (603 para 2016 y 619 para 2010) implica que tenemos que tomar con cautela las estimaciones obtenidas al estar sujetas a mayores errores muestrales. Para la encuesta asociada al Barómetro de Opinión Pública la muestra es sensiblemente mayor (2.298 personas de 18 o más años), por lo cual las estimaciones serán mucho más precisas.
 DATA_COMP: >-
