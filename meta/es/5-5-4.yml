@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Presupuesto municipal destinado a Ayuda a Paises en Desarrollo
+graph_title: Porcentaje de mujeres profesoras en la UV
 graph_titles: []
-graph_type: bar
-indicator_name: Presupuesto municipal destinado a Ayuda a Paises en Desarrollo
-indicator_number: '4.c.4'
+graph_type: line
+indicator_name: Porcentaje de mujeres profesoras en la UV
+indicator_number: '5.5.4'
 national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''

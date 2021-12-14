@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Presupuesto municipal destinado a Ayuda a Paises en Desarrollo
+graph_title: Proporción de mujeres y niñas de 16 años o más que han sufrido violencia
+  psicológica emocional a manos de su actual pareja en los últimos 12 meses
 graph_titles: []
 graph_type: bar
-indicator_name: Presupuesto municipal destinado a Ayuda a Paises en Desarrollo
-indicator_number: '4.c.4'
+indicator_name: Proporción de mujeres y niñas de 16 años o más que han sufrido violencia
+  psicológica emocional a manos de su actual pareja en los últimos 12 meses
+indicator_number: '5.2.4'
 national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''

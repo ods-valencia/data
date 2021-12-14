@@ -1,81 +1,34 @@
-SDG_GOAL: >-
-   global_goals.4-title
-SDG_TARGET: >-
-  global_targets.4-1-title
-SDG_INDICATOR: >-
-  Tasa de promoción en ESO
-SDG_SERIES_DESCR: >-
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Tasa de promoción en ESO
+graph_titles: []
+graph_type: line
+indicator_name: Tasa de promoción en ESO
+indicator_number: '4.1.1'
+national_geographical_coverage: Valencia
+page_content: ''
+permalink: ''
+precision: []
+progress_status: target_achieved
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
-
-CONTACT_ORGANISATION: >-
-
-CONTACT_NAME: >-
-
-ORGANISATION_UNIT: >-
-
-CONTACT_FUNCT: >-
-
-CONTACT_PHONE: >-
-
-CONTACT_MAIL: >-
-
-CONTACT_EMAIL: >-
-
-STAT_CONC_DEF: >- 
-  Porcentaje de estudiantes evaluados en ESO que han superado la Educación Secundaria Obligatoria.
-UNIT_MEASURE: >-
-  Porcentaje
-CLASS_SYSTEM: >-
-
-SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-COLL_METHOD: >-
-
-FREQ_COLL: >-
-
-REL_CAL_POLICY: >-
-
-DATA_SOURCE: >-
-
-COMPILING_ORG: >-
-
-INST_MANDATE: >-
-
-RATIONALE: >-
-
-REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-   
-   La educación secundaria obligatoria (ESO) tiene una duración de cuatro cursos académicos, que se siguen ordinariamente entre los 12 y los 16 años de edad. Se establece un modelo común para los tres primeros cursos y se le da en el cuarto curso un carácter orientador. Al concluir esta etapa, el alumnado puede seguir sus estudios de Bachillerato o Ciclos Formativos o puede acceder en el mundo laboral.
-   
-   Este indicador expresa el porcentaje de alumnos que promocionan respecto al total de alumnos que son evaluados en el cuarto curso de la ESO. La promoción de este curso está regulada por la legislación educativa aplicable en cada curso académico.  Para el año t, esta información proviene de los resultados de evaluación del curso t-1/t obtenida de la explotación estadística de los datos a cierre de curso de los centros que imparten cuarto de ESO situados en la ciudad de València. Esta información no incluye los centros con sistemas educativos extranjeros. 
-   
-   Para las tasas específicas por sexo se consideran las personas de este sexo.
-DATA_COMP: >-
-  Cociente del alumnado que promociona en cuarto de ESO entre el alumnado total evaluado.
-DATA_VALIDATION: >-
-
-ADJUSTMENT: >-
-
-IMPUTATION: >-
-
-REG_AGG: >-
-
-DOC_METHOD: >-
-
-QUALITY_MGMNT: >-
-
-QUALITY_ASSURE: >-
-
-QUALITY_ASSMNT: >-
-
-COVERAGE: >-
-
-COMPARABILITY: >-
-
-OTHER_DOC: >-
