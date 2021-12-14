@@ -1,9 +1,9 @@
 SDG_GOAL: >-
    global_goals.3-title
 SDG_TARGET: >-
-  global_targets.3-2-title
+  global_targets.3-8-title
 SDG_INDICATOR: >-
-  Taxa de mortalitat neonatal
+  Percentatge de població amb necessitat d'atenció mèdica insatisfeta
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Defuncions de menors de 28 dies d'edat per cada 1.000 naixements.
+  Proporció de persones que en els últims dotze mesos ha necessitat alguna vegada assistència mèdica i no l'han rebuda.
 UNIT_MEASURE: >-
-  Tant per 1.000
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Estadística de Parts del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
-  Explotació estadística Estadística de Defuncions del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
+  Explotació estadística Enquesta de Salut de la Comunitat Valenciana.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,14 +51,9 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
-   
-  Documentació metodològica sobre l'Estadística de Defuncions a València: [Estadística Defuncions](https://www.ine.es/metodologia/t20/t2030301.pdf).
-   
-  Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
-   
-  Per a les taxes específiques per sexe es consideren les defuncions i naixements d'aquest sexe.
+  La informació analitzada en aquest indicador recull les necessitats insatisfetes autoinformades corresponents a la pròpia avaluació que la persona fa sobre si necessitava asistencia mèdica (per a ell/ella mateix/a si ha sigut seleccionat/a en l'enquesta d'adults o sobre el seu fill/a si aquest/a ha sigut seleccionat/a en l'enquesta de menors) però no la va tindre o no la va buscar. Està recollida en la pregunta P38 del qüestionari d'adults i P35 del qüestionari de menors de l'Enquesta de Salut de la Comunitat Valenciana 2016. Aquesta informació no està recollida en l'Enquesta de Salut de la Comunitat Valenciana 2010.
 DATA_COMP: >-
-  Quocient del nombre de defuncions de menors de 28 dies d'edat residents a la ciutat durant l'any de referència entre el nombre de naixements de mares residents a la ciutat durant l'any de referència.
+  Quocient del nombre de persones de qualsevol edat que contesten afirmativament a aquesta qüestió respecte al total de persones residents a la ciutat que contesten a la qüestió.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

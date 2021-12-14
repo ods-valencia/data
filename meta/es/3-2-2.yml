@@ -60,7 +60,6 @@ REC_USE_LIM: >-
    Documentación metodológica sobre la Estadística de Nacimientos en València: [Estadística Nacimientos](https://www.ine.es/metodologia/t20/t2030301.pdf).
    
    Para las tasas específicas por sexo se consideran las defunciones y nacimientos de este sexo.
-   
 DATA_COMP: >-
   Cociente del número de defunciones de menores de 28 días de edad residentes en la ciudad durante el año de referencia entre el número de nacimientos de madres residentes en la ciudad durante el año de referencia.
 DATA_VALIDATION: >-

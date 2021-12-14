@@ -33,8 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-   
-   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
    0211-Características de la población de València. Padrón municipal de València
    a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
@@ -61,7 +60,7 @@ REC_USE_LIM: >-
    
    Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
    
-   Para las tasas específicas por sexo se consideran las personas en tratamiento y residentes de este sexo. 
+   Para las tasas específicas por sexo se consideran las personas en tratamiento y residentes de este sexo.
 DATA_COMP: >-
   Cociente del número de personas en tratamiento por consumo de drogas ilegales residentes durante el año de referencia entre el número de residentes en la ciudad calculado a mitad del año de referencia.
 DATA_VALIDATION: >-

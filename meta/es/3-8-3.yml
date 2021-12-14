@@ -54,9 +54,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  
-   
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
    
    Hospitales en departamentos de salud que dan servicio a población de la ciudad: Departamento de Salud de València-Clínico-Malvarrosa (Hospital Clínico Universitario y Hospital de la Malvarrosa), Departamento de Salud de València-Arnau de Vilanova-Llíria (Hospital Doctor Moliner, Hospital Arnau de Vilanova y Hospital de Llíria), Departamento de Salud de València-La Fe (Hospital General Universitario la Fe), Departamento de Salud de València-Hospital General (Hospital General), Departamento de Salud València-Doctor Peset (Hospital Doctor Peset y Hospital Padre Jofré).  Para cada departamento se ha estimado el número de camas instaladas asignadas a población de la ciudad como la suma de camas instaladas en los hospitales del departamento multiplicado por la proporción de población residente en el departamento que reside en el municipio de València. El número de camas instaladas que dan servicio en la ciudad se ha obtenido como suma de las camas asignadas para cada departamento.
 DATA_COMP: >-
