@@ -1,0 +1,85 @@
+SDG_GOAL: >-
+   global_goals.4-title
+SDG_TARGET: >-
+  global_targets.4-4-title
+SDG_INDICATOR: >-
+  Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad informática en los últimos 12 meses
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Porcentaje de población adulta (16-74 años) que en los últimos 12 meses ha hecho alguna tarea de carácter informático.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  1103-Encuesta de tecnologías de la información y comunicaciones en los hogares en la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares del Instituto Nacional de Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+   
+   Documentación metodológica sobre la Encuesta sobre Equipación y Uso de Tecnologías de la Información y Comunicación en los Hogares del INE: [Encuesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf)
+   
+   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).  A pesar de que la Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares se realiza de manera anual, las preguntas respecto a la competencias en habilidades informáticas no aparecen para el año 2018. Del año 2014 jefe atrás la pregunta se hacía en un contexto diferente.
+   
+   En la encuesta se preguntaba por las siguientes habilidades informáticas: Utilizar al menos un conocimiento informático. Transferir ficheros entre el ordenador y otros dispositivos. Instalar y configurar software o aplicaciones. Copiar o mover ficheros o carpetas. Crear presentaciones o documentos que integran texto, mesas o gráficos. Usar hojas de cálculo. Programar en un lenguaje de programación.
+   
+   Se considera que cualquier persona que respondió afirmativamente a al menos una tarea ha realizado una habilidad informática en los últimos 12 meses.
+DATA_COMP: >-
+  Cociente entre las personas entre 16 y 74 años que en los últimos 12 meses han hecho alguna tarea que requiriera de habilidades informáticas y el total de la población entre 16 y 74 años.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
