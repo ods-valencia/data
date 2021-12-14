@@ -1,1 +1,7 @@
-Year,Value
+Year,Sexo,Value
+2010,,21.99
+2016,,22.84
+2010,Hombres,26.02
+2016,Hombres,23.99
+2010,Mujeres,18.33
+2016,Mujeres,21.81

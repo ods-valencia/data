@@ -3,5 +3,11 @@ Value,Disaggregation combinations using this value,Number of indicators
 18 a 34,1,1
 18 a 64,2,2
 <18,2,2
+25 a 34,1,1
+30 a 69,8,8
+<30,8,8
+35 a 54,1,1
 35 a 64,1,1
+55 a 64,1,1
 >=65,3,3
+>=70,8,8
