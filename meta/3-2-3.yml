@@ -1,0 +1,84 @@
+SDG_GOAL: >-
+   global_goals.3-title
+SDG_TARGET: >-
+  global_targets.3-2-title
+SDG_INDICATOR: >-
+  Taxa de mortalitat infantil
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Defuncions de menors d'1 any per cada 1.000 naixements
+UNIT_MEASURE: >-
+  Tant per 1.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Estadística de Parts del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
+  Explotació estadística Estadística de Defuncions del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+   
+  Documentació metodològica sobre l'Estadística de Defuncions a València: [Estadística Defuncions](https://www.ine.es/metodologia/t20/t2030301.pdf).
+   
+  Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
+   
+  Per a les taxes específiques per sexe es consideren les defuncions i naixements d'aquest sexe.  La informació per districte prové de l'explotació estadística del fitxer d'altes i baixes en el Padró Municipal d'Habitants de la ciutat de València durant l'any de referència. Els naixements corresponen a altes per naixement registrades en el Padró Municipal durant l'any de referència. Les defuncions corresponen a baixes per defunció registrades en el Padró Municipal durant l'any de referència. El registre de naixements i defuncions del Padró Municipal presenta un subregistre respecte de les dades del Moviment Natural de la Població d'aproximadament el 4% en el cas dels naixements i del 7% per a les defuncions. Per al cas de les defuncions de menors d'1 anys, el subregistre s'eleva al 20%. Aquestes estimacions s'han obtingut per al període 2010-19.
+   
+DATA_COMP: >-
+  Quocient del nombre de defuncions de menors d'1 any residents a la ciutat durant l'any de referència entre el nombre de naixements de mares residents a la ciutat durant l'any de referència.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

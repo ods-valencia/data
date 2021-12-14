@@ -1,0 +1,80 @@
+SDG_GOAL: >-
+   global_goals.3-title
+SDG_TARGET: >-
+  global_targets.3-3-title
+SDG_INDICATOR: >-
+  Incidència de la tuberculosi per cada 100.000 habitants
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Casos notificats de tuberculosis de residents a la ciutat per cada 100.000 residents.
+UNIT_MEASURE: >-
+  Tant per 100.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Xarxa de Vigilància Microbiològica de la Comunitat Valenciana. Direcció General de Salut Pública a l'Oficina d'Estadística de l'Ajuntament de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofereix aquesta informació a nivell nacional.
+   
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   
+  El Sistema de Notificació Obligatòria és un sistema de la Conselleria de Sanitat Universal i Salut Pública que permet recollir en temps real les dades de les Malalties de Declaració Obligatòria (EDO), dels brots, i de les alertes, la seua anàlisi i la difusió de la informació als usuaris de manera automatitzada, dins del territori de la Comunitat Valenciana. La notificació obligatòria es refereix a casos nous de qualsevol de les malalties de declaració obligatòria apareguts. La notificació es realitza sota sospita clínica per qualsevol metge, del sector públic o privat, que es troben o exercisquen la seua professió en l'àmbit territorial de la Comunitat Valenciana.
+DATA_COMP: >-
+  Quocient del nombre de casos notificats de tuberculosis (codi A15-A19 de la CIE-10) de residents a la ciutat durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència. 
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
