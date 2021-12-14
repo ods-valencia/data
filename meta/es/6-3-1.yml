@@ -1,0 +1,75 @@
+SDG_GOAL: >-
+   global_goals.6-title
+SDG_TARGET: >-
+  global_targets.6-3-title
+SDG_INDICATOR: >-
+  Caudal diario de las aguas residuales
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Caudal diario de las aguas residuales del municipio.
+UNIT_MEASURE: >-
+  Litros
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Para el cálculo de este indicador se han sumado los caudales diarios de las depuradoras que depuran aguas residuales procedentes de la ciudad de València. Se han incluido las depuradoras que dan servicio de manera exclusiva en la ciudad (el Palmar, el Salero, Massarojos, Perellonet, Casal de Esparcimiento y Pinedo 1) y las que también dan servicio en otras localidades de l'Horta (Pinedo 2, Cuenca Carraixet, Quart - Benàger). En las depuradoras de Pinedo 2 y Cuenca Carraixet el caudal diario correspondiendo a la población de València se ha estimado utilizando la proporción de población de la ciudad de València respecto a la población a la cual mujer servicio cada depuradora.
+DATA_COMP: >-
+  Suma de los caudales diarios de las depuradoras que tratan aguas residuales procedentes de la ciudad de València durante el año de referencia.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
