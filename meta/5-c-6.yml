@@ -1,0 +1,77 @@
+SDG_GOAL: >-
+   global_goals.5-title
+SDG_TARGET: >-
+  global_targets.5-c-title
+SDG_INDICATOR: >-
+  Percentatge d'ordres d'allunyament concedides a dones pels Jutjats de Violència Domèstica
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Proporció d'ordres d'allunyament concedides a dones pels Jutjats de Violència Domèstica. 
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  El Jutjat de Violència Domèstica presenta per separat les ordres d'allunyament que són de nacionalitat espanyola i les que són de nacionalitat estrangera. Atés que no ofereix la dada total, se sumen totes dues dades per a obtindre l'indicador.
+   
+  Documentació relativa al nombre de dones a les quals s'ha concedit ordres d'allunyament en els Jutjats de Violència Domèstica: [Violència Domèstica](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15).
+DATA_COMP: >-
+  Quocient entre el nombre de dones a les quals s'ha concedit una ordre d'allunyament i el total de persones a les que s'ha concedit una ordre d'allunyament en els Jutjats de Violència Domèstica.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
