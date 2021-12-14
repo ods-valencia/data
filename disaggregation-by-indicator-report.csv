@@ -24,6 +24,10 @@ Indicator,Disaggregations,Number of disaggregations
 #3-5-3,Gender,1
 #3-5-4,"Gender, Age",2
 #4-6-2,"Gender, Age",2
+#5-1-1,Age,1
+#5-4-1,"Gender, Age",2
 #5-4-2,"Gender, Age",2
 #5-4-3,"Gender, Age",2
+#5-b-1,Gender,1
 #5-b-2,Gender,1
+#5-c-1,Gender,1
