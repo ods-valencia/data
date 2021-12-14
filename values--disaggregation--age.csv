@@ -8,6 +8,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 <30,8,8
 35 a 54,1,1
 35 a 64,1,1
+40 a 64,2,2
+<40,2,2
 55 a 64,1,1
->=65,3,3
+>=65,5,5
 >=70,8,8
