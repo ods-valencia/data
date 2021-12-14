@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de dones en llocs municipals de direcció superior
+graph_title: Proporció de dones i xiquetes de 16 anys o més que han patit violència
+  econòmica a mans de la seua actual parella en els últims 12 mesos
 graph_titles: []
-graph_type: line
-indicator_name: Percentatge de dones en llocs municipals de direcció superior
-indicator_number: '5.5.2'
+graph_type: bar
+indicator_name: Proporció de dones i xiquetes de 16 anys o més que han patit violència
+  econòmica a mans de la seua actual parella en els últims 12 mesos
+indicator_number: '5.2.5'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''

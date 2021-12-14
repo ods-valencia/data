@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de dones en llocs municipals de direcció superior
+graph_title: Denúncies de violència de gènere per 10.000 dones
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de dones en llocs municipals de direcció superior
-indicator_number: '5.5.2'
+indicator_name: Denúncies de violència de gènere per 10.000 dones
+indicator_number: '5.c.9'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''
