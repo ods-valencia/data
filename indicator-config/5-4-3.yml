@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de dones en llocs municipals de direcció superior
+graph_title: Temps que dedica la població a la realització de les tasques domèstiques
+  i de la llar
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de dones en llocs municipals de direcció superior
-indicator_number: '5.5.2'
+indicator_name: Temps que dedica la població a la realització de les tasques domèstiques
+  i de la llar
+indicator_number: '5.4.3'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''

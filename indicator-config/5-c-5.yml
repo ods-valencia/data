@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de dones en llocs municipals de direcció superior
+graph_title: Percentatge de dones víctimes de denúncies en els Jutjats de Violència
+  Domèstica
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de dones en llocs municipals de direcció superior
-indicator_number: '5.5.2'
+indicator_name: Percentatge de dones víctimes de denúncies en els Jutjats de Violència
+  Domèstica
+indicator_number: '5.c.5'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''
