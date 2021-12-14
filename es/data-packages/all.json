@@ -71,7 +71,7 @@
           }
         ]
       },
-      "title": "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena"
+      "title": "2-3-2"
     },
     {
       "path": "2-1-1/data.csv",
@@ -95,7 +95,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la subalimentación"
+      "title": "2-1-1"
     },
     {
       "path": "2-a-2/data.csv",
@@ -119,7 +119,7 @@
           }
         ]
       },
-      "title": "Total de corrientes oficiales de recursos (asistencia oficial para el desarrollo más otras corrientes oficiales) destinado al sector agrícola"
+      "title": "2-a-2"
     },
     {
       "path": "1-2-3/data.csv",
@@ -214,7 +214,7 @@
           }
         ]
       },
-      "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)"
+      "title": "2-3-1"
     },
     {
       "path": "1-a-4/data.csv",
@@ -363,7 +363,7 @@
           }
         ]
       },
-      "title": "Índice de orientación agrícola para el gasto público"
+      "title": "2-a-1"
     },
     {
       "path": "2-2-1/data.csv",
@@ -399,7 +399,7 @@
           }
         ]
       },
-      "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años"
+      "title": "2-2-1"
     },
     {
       "path": "2-2-2/data.csv",
@@ -435,7 +435,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)"
+      "title": "2-2-2"
     },
     {
       "path": "1-a-1/data.csv",
@@ -850,7 +850,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada por embarazo (porcentaje)"
+      "title": "2-2-3"
     },
     {
       "path": "1-2-11/data.csv",
@@ -1155,30 +1155,6 @@
         ]
       },
       "title": "Nivel de cumplimiento nacional de los derechos laborales (libertad de asociación y negociación colectiva) con arreglo a las fuentes textuales de la Organización Internacional del Trabajo (OIT) y la legislación interna, desglosado por sexo y estatus migratorio"
-    },
-    {
-      "path": "3-d-2/data.csv",
-      "name": "3-d-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Porcentaje de infecciones del torrente sanguíneo debidas a determinados organismos resistentes a los antimicrobianos seleccionados"
     },
     {
       "path": "9-a-1/data.csv",
@@ -2477,30 +2453,6 @@
       "title": "Determinar si existen o no marcos jurídicos para promover, hacer cumplir y supervisar la igualdad y la no discriminación por razón de sexo"
     },
     {
-      "path": "3-b-1/data.csv",
-      "name": "3-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de la población inmunizada con todas las vacunas incluidas en cada programa nacional"
-    },
-    {
       "path": "17-14-1/data.csv",
       "name": "17-14-1",
       "profile": "tabular-data-resource",
@@ -2835,30 +2787,6 @@
         ]
       },
       "title": "Proporción de partos atendidos por personal sanitario especializado"
-    },
-    {
-      "path": "3-9-2/data.csv",
-      "name": "3-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))"
     },
     {
       "path": "9-1-2/data.csv",
@@ -3459,30 +3387,6 @@
         ]
       },
       "title": "Grado de aplicación de instrumentos internacionales cuyo objetivo es combatir la pesca ilegal, no declarada y no reglamentada"
-    },
-    {
-      "path": "3-b-3/data.csv",
-      "name": "3-b-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de centros de salud que disponen de un conjunto básico de medicamentos esenciales asequibles de manera sostenible"
     },
     {
       "path": "5-3-2/data.csv",
@@ -4133,30 +4037,6 @@
       "title": "Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno"
     },
     {
-      "path": "3-b-2/data.csv",
-      "name": "3-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Total neto de asistencia oficial para el desarrollo destinado a los sectores de la investigación médica y la atención sanitaria básica"
-    },
-    {
       "path": "8-1-1/data.csv",
       "name": "8-1-1",
       "profile": "tabular-data-resource",
@@ -4539,30 +4419,6 @@
         ]
       },
       "title": "Número de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad"
-    },
-    {
-      "path": "3-9-3/data.csv",
-      "name": "3-9-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Tasa de mortalidad atribuida a intoxicaciones involuntarias"
     },
     {
       "path": "9-5-1/data.csv",
@@ -5091,30 +4947,6 @@
         ]
       },
       "title": "Proporción de negocios que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a los que un funcionario público les ha pedido un soborno, durante los últimos 12 meses"
-    },
-    {
-      "path": "3-d-1/data.csv",
-      "name": "3-d-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Capacidad prevista en el Reglamento Sanitario Internacional (RSI) y preparación para emergencias de salud"
     },
     {
       "path": "14-3-1/data.csv",
