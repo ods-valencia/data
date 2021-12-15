@@ -11151,30 +11151,6 @@
       "title": "Existència d'una estratègia nacional organitzada i en marxa per a l'ús dels joves, com a estratègia independent o com a part d'una estratègia nacional d'ocupació"
     },
     {
-      "path": "5-6-2/data.csv",
-      "name": "5-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països amb lleis i reglaments que garanteixen als homes i les dones a partir dels 15 anys d'edat un accés ple i igualitari als serveis de salut sexual i reproductiva i a la informació i educació sobre aquest tema"
-    },
-    {
       "path": "13-a-1/data.csv",
       "name": "13-a-1",
       "profile": "tabular-data-resource",
