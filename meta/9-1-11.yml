@@ -1,0 +1,83 @@
+SDG_GOAL: >-
+   global_goals.9-title
+SDG_TARGET: >-
+  global_targets.9-1-title
+SDG_INDICATOR: >-
+  Població amb una parada de MetroValencia a menys de 10 min
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge de població amb una parada de MetroValencia a menys de 10 minuts.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+   
+  Elaboració pròpia Oficina d'Estadística Ajuntament de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+  La informació respecte a la distància a parades de MetroValencia en metres procedeix de la publicació de Areas Vulnerables de l'Oficina d'Estadística de l'Ajuntament de València. Per a realitzar la conversió de metres a minuts es considera l'indicador estàndard que apunta que una persona recorre en 1 hora 4.5 quilòmetres (75 metres en un minut).
+   
+  El fitxer de parades de metres georreferenciadas és d'elaboració pròpia.
+   
+  Documentació metodològica sobre la Publicació de Areas Vulnerables: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
+DATA_COMP: >-
+  Quocient entre la població amb una parada de MetroValencia a menys de 10 minuts i el total de la població.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
