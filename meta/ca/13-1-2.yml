@@ -1,0 +1,80 @@
+SDG_GOAL: >-
+   global_goals.13-title
+SDG_TARGET: >-
+  global_targets.13-1-title
+SDG_INDICATOR: >-
+  Romanent de tresoreria per a despeses generals
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  El romanent de tresoreria disponible per al finançament de despeses generals reflecteix la situació de liquiditat de l'entitat al tancament de l'exercici, que es troba disponible per a finançar despeses, resultant un indicador molt important per a valorar la solvència financera a curt termini de l'entitat local. 
+UNIT_MEASURE: >-
+  Milions d'euros
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Portal de Rendició de Comptes (www.rendiciondecuentas.es).
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+  El romanent de tresoreria s'obté com a suma dels fons líquids més els drets pendents de cobrament, deduint les obligacions pendents de pagament i agregant les partides pendents d'aplicació. Els saldos de dubtós cobrament corresponen a aquells drets reconeguts que figuren comptabilitzats i que, previsiblement, no donaran lloc al seu cobrament. Les desviacions de finançament afectat representen la diferència que ha existit en l'exercici entre els drets reconeguts per ingressos que estan vinculats (afectats) a un determinat projecte de despesa i les obligacions reconegudes d'aquest, el ritme d'execució de les quals no ha resultat homogeni (per exemple, una obra finançada amb una subvenció, que s'ha anat executant al llarg de l'any, però encara no s'ha rebut el finançament de la mateixa).
+   
+  Quan el romanent de tresoreria presenta valors negatius, ens indica que l'entitat local haurà d'obtindre majors recursos futurs per a atendre l'excés de despeses, és a dir, l'entitat és incapaç d'afrontar els seus deutes en finalitzar l'exercici. Aquesta insolvència a curt termini sorgeix perquè al llarg de l'exercici hi ha hagut més despeses que ingressos, sense que els recursos líquids siguen suficients.
+DATA_COMP: >-
+  És el resultat de deduir al romanent de tresoreria els saldos de dubtós cobrament i l'excés de finançament afectat (suma de les desviacions amb finançaments afectats, positives i acumulades a fi d'exercici). 
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
