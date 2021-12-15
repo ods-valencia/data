@@ -10935,30 +10935,6 @@
       "title": "Cobertura de les zones protegides en relació amb les zones marines"
     },
     {
-      "path": "16-9-1/data.csv",
-      "name": "16-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de nens menors de 5 anys el naixement dels quals s'ha registrat davant una autoritat civil, desglossada per edat"
-    },
-    {
       "path": "16-4-2/data.csv",
       "name": "16-4-2",
       "profile": "tabular-data-resource",
