@@ -10527,6 +10527,30 @@
       "title": "Avanços cap a la gestió forestal sostenible"
     },
     {
+      "path": "17-8-1/data.csv",
+      "name": "17-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de persones que utilitzen Internet"
+    },
+    {
       "path": "14-7-1/data.csv",
       "name": "14-7-1",
       "profile": "tabular-data-resource",
@@ -10743,6 +10767,30 @@
       "title": "Valor total dels corrents financers il·lícits entrants i sortints (en dòlars corrents dels Estats Units)"
     },
     {
+      "path": "17-7-1/data.csv",
+      "name": "17-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Total dels fons aprovats per als països en desenvolupament a fi de promoure el desenvolupament, la transferència i la difusió de tecnologies ecològicament racionals"
+    },
+    {
       "path": "15-8-1/data.csv",
       "name": "15-8-1",
       "profile": "tabular-data-resource",
@@ -10885,6 +10933,30 @@
         ]
       },
       "title": "Proporció de víctimes de violència en els últims 12 mesos que han notificat la seva victimització a les autoritats competents o altres mecanismes de resolució de conflictes reconeguts oficialment"
+    },
+    {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Valor en dòlars de tots els recursos proporcionats per a enfortir la capacitat estadística dels països en desenvolupament"
     },
     {
       "path": "16-10-1/data.csv",
@@ -11511,6 +11583,30 @@
       "title": "Taxa de creixement anual del PIB real per càpita"
     },
     {
+      "path": "17-19-2/data.csv",
+      "name": "17-19-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de països que a) han realitzat almenys un cens de població i habitatge en els últims deu anys; i b) han registrat el 100% dels naixements i el 80% de les defuncions"
+    },
+    {
       "path": "9-4-1/data.csv",
       "name": "9-4-1",
       "profile": "tabular-data-resource",
@@ -11581,6 +11677,54 @@
         ]
       },
       "title": "Grau en què i) l'educació per a la ciutadania mundial i ii) l'educació per al desenvolupament sostenible, inclosa la igualtat de gènere i els drets humans, s'incorporen en tots els nivells de a) les polítiques nacionals d'educació, b) els plans d'estudi, c) la formació del professorat i d) l'avaluació dels estudiants"
+    },
+    {
+      "path": "17-5-1/data.csv",
+      "name": "17-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre de països que adopten i apliquen sistemes de promoció de les inversions en favor dels països menys avançats"
+    },
+    {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre d'acords i programes de cooperació en matèria de ciència o tecnologia subscrits pels països, desglossat per tipus de cooperació"
     },
     {
       "path": "7-3-1/data.csv",
