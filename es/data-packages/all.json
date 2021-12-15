@@ -10407,30 +10407,6 @@
       "title": "Superficie forestal en proporción a la superficie total"
     },
     {
-      "path": "6-5-2/data.csv",
-      "name": "6-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas"
-    },
-    {
       "path": "15-4-1/data.csv",
       "name": "15-4-1",
       "profile": "tabular-data-resource",
@@ -12109,30 +12085,6 @@
         ]
       },
       "title": "Acidez media del mar (pH) medida en un conjunto convenido de estaciones de muestreo representativas"
-    },
-    {
-      "path": "6-b-1/data.csv",
-      "name": "6-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión del agua y el saneamiento"
     }
   ]
 }
