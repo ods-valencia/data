@@ -10743,30 +10743,6 @@
       "title": "Proporció de països que han aprovat la legislació nacional pertinent i han destinat recursos suficients per a la prevenció o el control de les espècies exòtiques invasores"
     },
     {
-      "path": "17-14-1/data.csv",
-      "name": "17-14-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països que compten amb mecanismes per a millorar la coherència de les polítiques de desenvolupament sostenible"
-    },
-    {
       "path": "16-10-2/data.csv",
       "name": "16-10-2",
       "profile": "tabular-data-resource",
@@ -11005,30 +10981,6 @@
         ]
       },
       "title": "Proporció del valor afegit total del sector industrial corresponent a les petites indústries"
-    },
-    {
-      "path": "17-15-1/data.csv",
-      "name": "17-15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Grau d'utilització dels marcs de resultats i les eines de planificació dels propis països pels proveïdors de cooperació per al desenvolupament"
     },
     {
       "path": "14-5-1/data.csv",
