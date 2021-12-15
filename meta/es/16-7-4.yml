@@ -1,0 +1,78 @@
+SDG_GOAL: >-
+   global_goals.16-title
+SDG_TARGET: >-
+  global_targets.16-7-title
+SDG_INDICATOR: >-
+  Porcentaje de población adulta que considera que los políticos/as se preocupan por la gente
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Porcentaje de personas de 18 o más años de edad que está en desacuerdo o mucho en desacuerdo con la afirmación que los/as políticos/as no se preocupan mucho de la gente como ellos respecto al total de población de 18 o más años de edad que ha contestado a esa cuestión.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Barómetro de Opinión Ciudadana de la ciudad de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Documentación metodológica sobre el Barómetro de Opinión Ciudadana de la ciudad de València:
+   https://www.valencia.es/cas/estadistica/barometro-municipal
+   
+   A todos los encuestados se los pide que valoren su grado de acuerdo con la afirmación que los/as políticos/as no se preocupen mucho de la gente como ellos, mesurando el grado de acuerdo como 1. Mucho de acuerdo, 2. De acuerdo, 3. Ni de acuerdo ni en desacuerdo, 4. En desacuerdo, 5. Mucho en desacuerdo. A partir de las respuestas obtenidas en los encuestados que valoran al grado de acuerdo, y teniendo en cuenta los factores de elevación asociados a los individuos encuestados, se estima el porcentaje de personas de 18 o más años de edad que están en desacuerdo o mucho en desacuerdo con esta afirmación.
+DATA_COMP: >-
+  Cociente del número de personas de 18 o más años que contestan que están en desacuerdo o mucho en desacuerdo con la afirmación que los/as políticos/as no se preocupan mucho de la gente como ellos respecto al total de población de 18 o más años de edad que ofrece su grado de acuerdo con esa afirmación.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

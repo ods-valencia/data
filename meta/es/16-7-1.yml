@@ -1,0 +1,77 @@
+SDG_GOAL: >-
+   global_goals.16-title
+SDG_TARGET: >-
+  global_targets.16-7-title
+SDG_INDICATOR: >-
+  Presupuesto destinado a procesos de Presupuestos Participativos Municipales
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Recursos económicos municipales en inversión que se asignan a través de Presupuestos Participativos.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Servicio de Descentralización y Participación Ciudadana del Ayuntamiento de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS de la Comisión Europea definido en European Handbook for SDG Voluntary Local Reviews.
+   
+   Los Presupuestos Participativos Municipales son procesos estructurados y cíclicos donde los ciudadanos se convierten en actores centrales en la toma de decisiones sobre la asignación de fondos públicos. Para la ciudad de València estos procesos constan de diferentes fases: una primera fase de presentación de propuestas, una segunda fase de apoyo ciudadano a las propuestas presentadas, una tercera fase de estudio de viabilidad jurídica, técnica y/o presupuestaria por parte de los servicios técnicos del Ayuntamiento, y una cuarta fase de votación de propuestas viables y con suficientes apoyos.
+DATA_COMP: >-
+  Cociente del presupuesto total asignado a procesos de Presupuestos Participativos respecto al presupuesto municipal ordinario de gastos destinado a los capítulos 6 (inversiones reales) y 7 (transferencias de capital) del Ayuntamiento de València.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

@@ -1,0 +1,76 @@
+SDG_GOAL: >-
+   global_goals.16-title
+SDG_TARGET: >-
+  global_targets.16-6-title
+SDG_INDICATOR: >-
+  Índice de transparencia
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Nivel de transparencia del Ayuntamiento de València mesurado a través del índice de transparencia de los ayuntamientos (ITA) elaborado por Transparency International España. El ITA constituye una herramienta para mesurar el nivel de transparencia de los ayuntamientos españoles ante los ciudadanos y la sociedad .
+UNIT_MEASURE: >-
+  Escala 1-100
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Índice de Transparencia de los Ayuntamientos (ITA) de España.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Documentación metodológica sobre el Índice de Transparencia de los Ayuntamientos de España (https://transparencia.org.es/wp-content/uploads/2017/02/metodologia_ita-2017.pdf).
+   En la página web de Transparency International España se pueden consultar los cambios metodológicos que se han llevado a cabo a lo largo del tiempo.
+DATA_COMP: >-
+  Para su cálculo se utilizan los valores de ochenta indicadores agrupados en seis áreas de transparencia: a) Transparencia activa e información sobre la corporación municipal; b) Página web, relaciones con los ciudadanos y la sociedad, y participación ciudadana; c) Transparencia económico-financiera; d) Transparencia en las contrataciones, convenios, subvenciones y costes de los servicios; e) Transparencia en materias de urbanismo, obras públicas y medio ambiente; f) Derecho de acceso a la información. Cada uno de estos indicadores recibe una valoración de 0 (no se cumple), 0,5 (se cumple parcialmente) o 1 (se cumple). El valor del índice de transparencia global se obtiene sumando las valoraciones de los 80 indicadores y transformando el resultado en una escala 0-100 (esto es, multiplicando la suma de valoraciones por 100 y dividiendo por el número de indicadores).
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
