@@ -10719,30 +10719,6 @@
       "title": "Proporción de las pequeñas industrias que han obtenido un préstamo o una línea de crédito"
     },
     {
-      "path": "16-3-1/data.csv",
-      "name": "16-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de víctimas de violencia en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente"
-    },
-    {
       "path": "15-7-1/data.csv",
       "name": "15-7-1",
       "profile": "tabular-data-resource",
@@ -10885,30 +10861,6 @@
         ]
       },
       "title": "Cobertura de las zonas protegidas en relación con las zonas marinas"
-    },
-    {
-      "path": "16-4-2/data.csv",
-      "name": "16-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de armas incautadas, encontradas o entregadas cuyo origen o contexto ilícitos han sido determinados o establecidos por una autoridad competente, de conformidad con los instrumentos internacionales"
     },
     {
       "path": "14-6-1/data.csv",
