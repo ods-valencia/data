@@ -10647,30 +10647,6 @@
       "title": "Proporció de zones econòmiques exclusives nacionals gestionades mitjançant enfocaments basats en els ecosistemes"
     },
     {
-      "path": "16-5-1/data.csv",
-      "name": "16-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de persones que han tingut almenys un contacte amb un funcionari públic i que han pagat un suborn a un funcionari públic, o a les quals un funcionari públic els ha demanat un suborn, durant els últims 12 mesos"
-    },
-    {
       "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",

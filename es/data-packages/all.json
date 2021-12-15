@@ -10647,30 +10647,6 @@
       "title": "Número de países que aplican enfoques basados en los ecosistemas para gestionar las zonas marinas"
     },
     {
-      "path": "16-5-1/data.csv",
-      "name": "16-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses"
-    },
-    {
       "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",

@@ -9716,28 +9716,6 @@
       "title": "global_indicators.14-2-1-title"
     },
     {
-      "path": "16-5-1/data.csv",
-      "name": "16-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-5-1-title"
-    },
-    {
       "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",
