@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.13-title
+SDG_TARGET: >-
+  global_targets.13-2-title
+SDG_INDICATOR: >-
+  Compra de energía verde certificada (MW) por cada 100 habitantes
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Energía verde certificada por cada 100 habitantes
+UNIT_MEASURE: >-
+  MW por 100 habitantes
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Pla de Acción para el Clima y la Energía Sostenible de la ciudad de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/), del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews y del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+   Documentación metodológica sobre el Plan de Acción para el Clima y la Energía Sostenible de la ciudad de València: [PACES](https://www.valencia.es/documents/20142/424002/190415_AYTO_VALENCIA_PACES__Actualizado_.pdf/1cefe22e-7b64-1db9-7f4a-7006aa12bf75).
+DATA_COMP: >-
+  Cociente entre el total de la energía verde certificada y el total de la población a 1 de julio del año de referencia. 
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

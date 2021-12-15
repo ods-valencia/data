@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.12-title
+SDG_TARGET: >-
+  global_targets.12-8-title
+SDG_INDICATOR: >-
+  Población que considera el cambio climático como uno de los tres temas medioambientales de la ciudad que más lo preocupa
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Porcentaje que considera el cambio climático como uno de los tres temas medioambientales de la ciudad que más lo preocupa.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Tercera ola del Barómetro Municipal de Opinión Ciudadana de la ciudad de València. Temática de espacios verdes, medio ambiente y limpieza de la ciudad.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+   Documentación metodológica sobre la 3 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 3](https://www.valencia.es/estadistica/Barometro/Metodologia3.pdf).
+   
+   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Diciembre de 2017 y Febrero de 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.  El entrevistado tenía que elegir tres temas entre los siguientes asuntos medioambientales: producción de residuos, consumo excesivo de energía, contaminación del mar, playas y la Albufera, mala calidad del aire, perdida de terreno de cultivo de huerta, contaminación acústica, falta de espacios verdes, desaparición de especies autóctonas y aparición de especies invasoras, mala calidad del agua de consumo y la contaminación de aguas subterraneas, plagas, cambio climático, incendios forestales.
+DATA_COMP: >-
+  Cociente entre la población que considerar el cambio climático como uno de los tres temas medioambientales de la ciudad que más lo preocupa y el total de la población encuestada.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

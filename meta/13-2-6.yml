@@ -1,0 +1,77 @@
+SDG_GOAL: >-
+   global_goals.13-title
+SDG_TARGET: >-
+  global_targets.13-2-title
+SDG_INDICATOR: >-
+  Emisions tonelades CO2 en residus per cada 100 habitants
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Emisions de CO2 per cada 100 habitants en l'any de referència. 
+UNIT_MEASURE: >-
+  Tonelades per 100 habitants
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Pla d'Acció per al Clima i l' Energia Sostenible de la ciutat de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Documentació metodológica sobre el Pla d'Acció per al Clima i l'Energia Sostenible de la ciutat de València: [PACES](https://www.valencia.es/documents/20142/424002/190415_AYTO_VALENCIA_PACES__Actualizado_.pdf/1cefe22e-7b64-1db9-7f4a-7006aa12bf75).
+DATA_COMP: >-
+  Quocient entre el total de emisions de CO2 en l'any de referència procedents de residus i el total de la població a 1 de juliol de l'any de referència. 
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

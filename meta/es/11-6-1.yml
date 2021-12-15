@@ -1,0 +1,77 @@
+SDG_GOAL: >-
+   global_goals.11-title
+SDG_TARGET: >-
+  global_targets.11-6-title
+SDG_INDICATOR: >-
+  Proporción de residuos tratados
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Relación entre los residuos sólidos tratados y el total de residuos sólidos el año de referencia.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valènciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+   
+   Documentación relativa al Tratado de Residuos: [Residuos](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=12).
+DATA_COMP: >-
+  Cociente entre las toneladas de residuos sólidos tratadas el año de referencia y el total de toneladas de residuos sólidos registradas.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

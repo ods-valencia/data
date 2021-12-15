@@ -1,0 +1,82 @@
+SDG_GOAL: >-
+   global_goals.11-title
+SDG_TARGET: >-
+  global_targets.11-3-title
+SDG_INDICATOR: >-
+  Densidad de la población
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Evolución de la densidad de la población.
+UNIT_MEASURE: >-
+  Habitantes por kilómetro cuadrado
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+   Representa el número medio de habitantes por kilómetro cuadrado de la superficie potencialmente habitable de la ciudad. 
+   El dato de población proviene de la explotación estadística del fichero del Padrón Municipal de Habitantes del Ayuntamiento de València. El dato de superficie proviene del cálculo del área definida por los límites municipales registrada en el SIGESPA, exceptuando la superficie del puerto y del lago de la Albufera.
+   
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+DATA_COMP: >-
+  Cociente entre la población residente a 1 de enero del año de referencia y la superficie de la ciudad de València, excepto la superficie del puerto y del lago de la Albufera.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

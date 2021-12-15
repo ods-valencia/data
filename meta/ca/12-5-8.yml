@@ -1,0 +1,77 @@
+SDG_GOAL: >-
+   global_goals.12-title
+SDG_TARGET: >-
+  global_targets.12-5-title
+SDG_INDICATOR: >-
+  Percentatge de residus que són reciclats
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge total de residus, tant els sòlids com les substàncies recollides en contenidors específics, que són reciclats.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+  Els residus sòlids urbans de la ciutat de València, juntament amb els de la resta de municipis de l'àrea metropolitana, són enviats a la planta de tractament de Los Hornillos. De l'activitat de la planta s'obté un percentatge total de residus sòlids urbans que són reciclats. Aquest percentatge s'aplica al total de residus que provenen de València per a estimar quantes tones es reciclen dels residus originats a la ciutat. El percentatge de residus totals que són reciclats s'obté de la divisió de la suma dels residus depositats en contenidors especials de vidre, cartó i paper o plàstic (que suposem es recicla íntegrament) més l'estimació anterior dividit pel total de residus (sòlids urbans i els de contenidors específics). No s'inclouen les dades dels residus depositats en l'Ecoparc de Vara de Quart.
+DATA_COMP: >-
+  
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

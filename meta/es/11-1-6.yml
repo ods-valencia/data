@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.11-title
+SDG_TARGET: >-
+  global_targets.11-1-title
+SDG_INDICATOR: >-
+  Precio medio m² vivienda en alquiler
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Precio medio en metros cuadrados de las viviendas en alquiler.
+UNIT_MEASURE: >-
+  Euros por metro cuadrado
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+   Hasta el año 2017, la información procede exclusivamente del portal inmobiliario Fotocasa. A partir del año 2018 se ofrece una media ponderada entre los precios de alquiler en los portales inmobiliarios de Fotocasa e Idealista.
+   
+   Documentación metodológica relativa a viviendas en alquiler: [Alquiler](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
+DATA_COMP: >-
+  Media aritmética del cociente entre el precio y los metros cuadrados de las viviendas en alquiler.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

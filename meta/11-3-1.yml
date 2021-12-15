@@ -1,0 +1,82 @@
+SDG_GOAL: >-
+   global_goals.11-title
+SDG_TARGET: >-
+  global_targets.11-3-title
+SDG_INDICATOR: >-
+  Densitat de la població
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Evolució de la densitat de la població.
+UNIT_MEASURE: >-
+  Habitants per quilòmetre quadrat
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+   
+  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+  Representa el nombre mitjà d'habitants per quilòmetre quadrat de la superfície potencialment habitable de la ciutat. 
+  La dada de població prové de l'explotació estadística del fitxer del Padró Municipal d'Habitants de l'Ajuntament de València. La dada de superfície prové del càlcul de l'àrea definida pels límits municipals registrada en el SIGESPA, exceptuant la superfície del port i del llac de l'Albufera.
+   
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+DATA_COMP: >-
+  Quocient entre la població resident a 1 de gener de l'any de referència i la superfície de la ciutat de València, excepte la superfície del port i del llac de l'Albufera.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
