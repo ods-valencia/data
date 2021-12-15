@@ -10359,30 +10359,6 @@
       "title": "Proporció del pressupost total de recerca assignada a la recerca en el camp de la tecnologia marina"
     },
     {
-      "path": "17-17-1/data.csv",
-      "name": "17-17-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Suma en dòlars dels Estats Units promesa a les: a) aliances públic-privades i b) aliances amb la societat civil"
-    },
-    {
       "path": "15-1-1/data.csv",
       "name": "15-1-1",
       "profile": "tabular-data-resource",
@@ -11101,30 +11077,6 @@
         ]
       },
       "title": "Proporció de nens menors de 5 anys el naixement dels quals s'ha registrat davant una autoritat civil, desglossada per edat"
-    },
-    {
-      "path": "17-18-1/data.csv",
-      "name": "17-18-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció d'indicadors de desenvolupament sostenible produïts a nivell nacional, amb ple desglossament quan sigui pertinent per a la meta, de conformitat amb els Principis Fonamentals de les Estadístiques Oficials"
     },
     {
       "path": "16-4-2/data.csv",
