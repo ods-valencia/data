@@ -11103,30 +11103,6 @@
       "title": "Proporció d'armes confiscades, trobades o lliurades l'origen o el context de les quals il·lícits han estat determinats o establerts per una autoritat competent, de conformitat amb els instruments internacionals"
     },
     {
-      "path": "17-16-1/data.csv",
-      "name": "17-16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països que informen dels seus progressos en els marcs de múltiples interessats per al seguiment de l'eficàcia de les activitats de desenvolupament que donen suport a l'assoliment dels Objectius de Desenvolupament Sostenible"
-    },
-    {
       "path": "14-6-1/data.csv",
       "name": "14-6-1",
       "profile": "tabular-data-resource",
