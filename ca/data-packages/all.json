@@ -11319,30 +11319,6 @@
       "title": "Nombre de països la legislació nacional dels quals sobre estadístiques compleix els Principis Fonamentals de les Estadístiques Oficials"
     },
     {
-      "path": "4-2-2/data.csv",
-      "name": "4-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Taxa de participació en l'aprenentatge organitzat (un any abans de l'edat oficial d'ingrés en l'ensenyament primari), desglossada per sexe"
-    },
-    {
       "path": "16-9-1/data.csv",
       "name": "16-9-1",
       "profile": "tabular-data-resource",
