@@ -10791,30 +10791,6 @@
       "title": "Proporció de víctimes de violència en els últims 12 mesos que han notificat la seva victimització a les autoritats competents o altres mecanismes de resolució de conflictes reconeguts oficialment"
     },
     {
-      "path": "16-10-1/data.csv",
-      "name": "16-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de casos verificats d'assassinat, segrest, desaparició forçada, detenció arbitrària i tortura de periodistes, membres associats dels mitjans de comunicació, sindicalistes i defensors dels drets humans, en els últims 12 mesos"
-    },
-    {
       "path": "15-7-1/data.csv",
       "name": "15-7-1",
       "profile": "tabular-data-resource",
