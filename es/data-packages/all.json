@@ -10479,30 +10479,6 @@
       "title": "Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas"
     },
     {
-      "path": "6-4-1/data.csv",
-      "name": "6-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Cambio en el uso eficiente de los recursos hídricos con el paso del tiempo"
-    },
-    {
       "path": "16-3-2/data.csv",
       "name": "16-3-2",
       "profile": "tabular-data-resource",
