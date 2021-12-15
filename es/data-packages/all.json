@@ -173,7 +173,7 @@
           }
         ]
       },
-      "title": "11-1-7"
+      "title": "Taxa de sobrecàrrega preu de l'habitatge"
     },
     {
       "path": "5-c-6/data.csv",
@@ -328,7 +328,7 @@
           }
         ]
       },
-      "title": "13-3-2"
+      "title": "Població que considera que l'afecta el calfament global"
     },
     {
       "path": "1-2-4/data.csv",
@@ -428,7 +428,7 @@
           }
         ]
       },
-      "title": "11-1-3"
+      "title": "Percentatge de població que viu en seccions censals vulnerables a nivell d'equipament"
     },
     {
       "path": "8-5-5/data.csv",
@@ -554,7 +554,7 @@
           }
         ]
       },
-      "title": "13-2-6"
+      "title": "Emisions tonelades CO2 en residus per cada 100 habitants"
     },
     {
       "path": "2-1-1/data.csv",
@@ -655,7 +655,7 @@
           }
         ]
       },
-      "title": "11-1-2"
+      "title": "Percentatge de població que viu en seccions censals vulnerables"
     },
     {
       "path": "12-5-4/data.csv",
@@ -679,7 +679,7 @@
           }
         ]
       },
-      "title": "12-5-4"
+      "title": "Contenidors de plàstic per cada 1.000 habitants"
     },
     {
       "path": "9-1-1/data.csv",
@@ -1058,7 +1058,7 @@
           }
         ]
       },
-      "title": "Número de países con contribuciones determinadas a nivel nacional, estrategias a largo plazo y planes y estrategias nacionales de adaptación y estrategias indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales"
+      "title": "Emisions tonelades CO2 per cada 100 habitants"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1188,7 +1188,7 @@
           }
         ]
       },
-      "title": "11-2-1"
+      "title": "Temps mitjà a la parada de MetroValència més pròxima"
     },
     {
       "path": "10-2-8/data.csv",
@@ -1412,7 +1412,7 @@
           }
         ]
       },
-      "title": "11-6-5"
+      "title": "Concentració mitjana anual de NO2"
     },
     {
       "path": "10-2-3/data.csv",
@@ -1490,7 +1490,7 @@
           }
         ]
       },
-      "title": "11-c-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS11"
     },
     {
       "path": "2-3-3/data.csv",
@@ -1610,7 +1610,7 @@
           }
         ]
       },
-      "title": "11-c-1"
+      "title": "Pressupost municipal destinat a Cooperació ODS11"
     },
     {
       "path": "10-4-1/data.csv",
@@ -1904,7 +1904,7 @@
           }
         ]
       },
-      "title": "11-6-3"
+      "title": "Concentració mitjana anual de PM10"
     },
     {
       "path": "7-b-3/data.csv",
@@ -2286,7 +2286,7 @@
           }
         ]
       },
-      "title": "11-2-5"
+      "title": "Viatges en MetroValència per habitant"
     },
     {
       "path": "3-4-5/data.csv",
@@ -2455,7 +2455,7 @@
           }
         ]
       },
-      "title": "12-5-5"
+      "title": "Recollida anual de vidre per habitant"
     },
     {
       "path": "5-c-5/data.csv",
@@ -2527,7 +2527,7 @@
           }
         ]
       },
-      "title": "12-a-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS12"
     },
     {
       "path": "9-5-2/data.csv",
@@ -2676,7 +2676,7 @@
           }
         ]
       },
-      "title": "11-2-12"
+      "title": "Víctimes en accidents de circulació"
     },
     {
       "path": "9-c-6/data.csv",
@@ -2760,7 +2760,7 @@
           }
         ]
       },
-      "title": "12-b-2"
+      "title": "Estada mitjana apartaments turístics"
     },
     {
       "path": "13-2-5/data.csv",
@@ -2784,7 +2784,7 @@
           }
         ]
       },
-      "title": "13-2-5"
+      "title": "Emisions tonelades CO2 transport privat i comercial per cada 100 habitants"
     },
     {
       "path": "9-a-2/data.csv",
@@ -2982,7 +2982,7 @@
           }
         ]
       },
-      "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, \nc) la formación del profesorado y d) la evaluación de los estudiantes"
+      "title": "Població que considera el canvi climàtic com un dels tres temes mediambientals de la ciutat que més el preocupa"
     },
     {
       "path": "1-2-7/data.csv",
@@ -3084,7 +3084,7 @@
           }
         ]
       },
-      "title": "12-a-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS12"
     },
     {
       "path": "8-8-4/data.csv",
@@ -3360,7 +3360,7 @@
           }
         ]
       },
-      "title": "11-2-10"
+      "title": "Preu del bitllet senzill d'EMT"
     },
     {
       "path": "5-5-1/data.csv",
@@ -3654,7 +3654,7 @@
           }
         ]
       },
-      "title": "11-6-2"
+      "title": "Concentració mitjana anual de PM2.5"
     },
     {
       "path": "10-1-3/data.csv",
@@ -3864,7 +3864,7 @@
           }
         ]
       },
-      "title": "12-b-1"
+      "title": "Turistes (viatgers) per càpita"
     },
     {
       "path": "16-6-1/data.csv",
@@ -4031,7 +4031,7 @@
           }
         ]
       },
-      "title": "13-b-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS13"
     },
     {
       "path": "5-c-8/data.csv",
@@ -4312,7 +4312,7 @@
           }
         ]
       },
-      "title": "12-a-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "16-1-2/data.csv",
@@ -4508,7 +4508,7 @@
           }
         ]
       },
-      "title": "11-1-5"
+      "title": "Percentatge de població que viu en seccions censals vulnerables a nivell socioeconòmic"
     },
     {
       "path": "3-4-3/data.csv",
@@ -4615,7 +4615,7 @@
           }
         ]
       },
-      "title": "11-1-1"
+      "title": "Renda mitjana de la població"
     },
     {
       "path": "10-2-10/data.csv",
@@ -4760,7 +4760,7 @@
           }
         ]
       },
-      "title": "11-3-2"
+      "title": "Superfície construïda per cápita."
     },
     {
       "path": "10-b-3/data.csv",
@@ -4910,7 +4910,7 @@
           }
         ]
       },
-      "title": "12-8-1"
+      "title": "Població que considera el canvi climàtic com un dels tres temes mediambientals de la ciutat que més el preocupa"
     },
     {
       "path": "9-a-3/data.csv",
@@ -5028,7 +5028,7 @@
           }
         ]
       },
-      "title": "11-1-4"
+      "title": "Percentatge de població que viu en seccions censals vulnerables a nivell demogràfic"
     },
     {
       "path": "10-2-1/data.csv",
@@ -5213,7 +5213,7 @@
           }
         ]
       },
-      "title": "11-6-7"
+      "title": "Concentració mitjana anual de SO2"
     },
     {
       "path": "10-4-2/data.csv",
@@ -5320,7 +5320,7 @@
           }
         ]
       },
-      "title": "13-2-3"
+      "title": "Emisions tonelades CO2 sector servicis per cada 100 habitants"
     },
     {
       "path": "3-3-3/data.csv",
@@ -5416,7 +5416,7 @@
           }
         ]
       },
-      "title": "12-5-8"
+      "title": "Percentatge de residus que són reciclats"
     },
     {
       "path": "13-1-2/data.csv",
@@ -5440,7 +5440,7 @@
           }
         ]
       },
-      "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030"
+      "title": "Romanent de tresoreria per a despeses generals"
     },
     {
       "path": "13-2-9/data.csv",
@@ -5464,7 +5464,7 @@
           }
         ]
       },
-      "title": "13-2-9"
+      "title": "Compra d'energia verd certificada (MW) per cada 100 habitants"
     },
     {
       "path": "11-2-7/data.csv",
@@ -5488,7 +5488,7 @@
           }
         ]
       },
-      "title": "11-2-7"
+      "title": "Parades de MetroValència per cada 100.000 habitants"
     },
     {
       "path": "10-b-4/data.csv",
@@ -5536,7 +5536,7 @@
           }
         ]
       },
-      "title": "11-2-9"
+      "title": "Usuaris abonats a Valenbisi"
     },
     {
       "path": "3-7-3/data.csv",
@@ -5891,7 +5891,7 @@
           }
         ]
       },
-      "title": "12-5-1"
+      "title": "Proporció de residus tractats"
     },
     {
       "path": "5-c-3/data.csv",
@@ -6134,7 +6134,7 @@
           }
         ]
       },
-      "title": "11-1-6"
+      "title": "Preu mitjà m² habitatge en lloguer"
     },
     {
       "path": "3-9-1/data.csv",
@@ -6256,7 +6256,7 @@
           }
         ]
       },
-      "title": "11-6-1"
+      "title": "Proporció de residus tractats"
     },
     {
       "path": "3-8-4/data.csv",
@@ -6500,7 +6500,7 @@
           }
         ]
       },
-      "title": "12-8-2"
+      "title": "Població que considera que l'afecta el calfament global"
     },
     {
       "path": "5-c-7/data.csv",
@@ -6832,7 +6832,7 @@
           }
         ]
       },
-      "title": "12-5-7"
+      "title": "Recollida anual de plàstic per habitant"
     },
     {
       "path": "11-2-11/data.csv",
@@ -6861,7 +6861,7 @@
           }
         ]
       },
-      "title": "11-2-11"
+      "title": "Accidents de circulació"
     },
     {
       "path": "12-5-2/data.csv",
@@ -6885,7 +6885,7 @@
           }
         ]
       },
-      "title": "12-5-2"
+      "title": "Contenidors de vidre per cada 1.000 habitants"
     },
     {
       "path": "3-4-4/data.csv",
@@ -7059,7 +7059,7 @@
           }
         ]
       },
-      "title": "13-2-8"
+      "title": "Energia (MWh) procedent de fonts renovables per cada 100 habitants"
     },
     {
       "path": "13-1-1/data.csv",
@@ -7088,7 +7088,7 @@
           }
         ]
       },
-      "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 personas"
+      "title": "Percentatge de superfície municipal amb el risc d'inundació"
     },
     {
       "path": "13-2-7/data.csv",
@@ -7112,7 +7112,7 @@
           }
         ]
       },
-      "title": "13-2-7"
+      "title": "Emisions tonelades CO2 en àmbits de l'Ajuntament per cada 100 habitants"
     },
     {
       "path": "4-5-1/data.csv",
@@ -7465,7 +7465,7 @@
           }
         ]
       },
-      "title": "12-5-3"
+      "title": "Contenidors de paper i cartó per cada 1.000 habitants"
     },
     {
       "path": "11-c-4/data.csv",
@@ -7489,7 +7489,7 @@
           }
         ]
       },
-      "title": "11-c-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "5-5-4/data.csv",
@@ -7753,7 +7753,7 @@
           }
         ]
       },
-      "title": "11-2-6"
+      "title": "Viatges en EMT per habitant"
     },
     {
       "path": "11-2-3/data.csv",
@@ -7782,7 +7782,7 @@
           }
         ]
       },
-      "title": "11-2-3"
+      "title": "Població amb una parada de MetroValència a menys de 10 min"
     },
     {
       "path": "10-2-6/data.csv",
@@ -7864,7 +7864,7 @@
           }
         ]
       },
-      "title": "13-b-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "11-6-4/data.csv",
@@ -7888,7 +7888,7 @@
           }
         ]
       },
-      "title": "11-6-4"
+      "title": "Nombre de superacions diàries de partícules en suspensió PM10"
     },
     {
       "path": "13-b-2/data.csv",
@@ -7912,7 +7912,7 @@
           }
         ]
       },
-      "title": "13-b-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS13"
     },
     {
       "path": "8-9-2/data.csv",
@@ -8314,7 +8314,7 @@
           }
         ]
       },
-      "title": "11-2-8"
+      "title": "Parades d'EMT per cada 10.000 habitants"
     },
     {
       "path": "5-1-1/data.csv",
@@ -8496,7 +8496,7 @@
           }
         ]
       },
-      "title": "Número de países menos adelantados y pequeños Estados insulares en desarrollo con contribuciones determinadas a nivel nacional, estrategias a largo plazo y planes, estrategias nacionales de adaptación y estrategias indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales"
+      "title": "Pressupost municipal destinat a Cooperació ODS13"
     },
     {
       "path": "13-2-2/data.csv",
@@ -8520,7 +8520,7 @@
           }
         ]
       },
-      "title": "Emisiones totales de gases de efecto invernadero por año"
+      "title": "Emisions tonelades CO2 sector residencial per cada 100 habitants"
     },
     {
       "path": "16-1-8/data.csv",
@@ -8802,7 +8802,7 @@
           }
         ]
       },
-      "title": "11-b-1"
+      "title": "Romanent de tresoreria per a despeses generals"
     },
     {
       "path": "11-3-1/data.csv",
@@ -8831,7 +8831,7 @@
           }
         ]
       },
-      "title": "11-3-1"
+      "title": "Densitat de la població"
     },
     {
       "path": "12-a-1/data.csv",
@@ -8855,7 +8855,7 @@
           }
         ]
       },
-      "title": "12-a-1"
+      "title": "Pressupost municipal destinat a Cooperació ODS12"
     },
     {
       "path": "5-5-3/data.csv",
@@ -9138,7 +9138,7 @@
           }
         ]
       },
-      "title": "11-2-4"
+      "title": "Població amb una parada d'EMT a menys de 10 min"
     },
     {
       "path": "9-a-1/data.csv",
@@ -9244,7 +9244,7 @@
           }
         ]
       },
-      "title": "11-2-13"
+      "title": "Víctimes mortals en accidents de circulació"
     },
     {
       "path": "1-2-11/data.csv",
@@ -9874,7 +9874,7 @@
           }
         ]
       },
-      "title": "12-5-6"
+      "title": "Recollida anual de paper i cartó per habitant"
     },
     {
       "path": "5-2-3/data.csv",
@@ -10047,7 +10047,7 @@
           }
         ]
       },
-      "title": "13-2-4"
+      "title": "Emisions tonelades CO2 sector industrial per cada 100 habitants"
     },
     {
       "path": "8-10-1/data.csv",
@@ -10105,7 +10105,7 @@
           }
         ]
       },
-      "title": "11-2-2"
+      "title": "Temps mitjà a la parada d'EMT més pròxima"
     },
     {
       "path": "11-c-3/data.csv",
@@ -10129,7 +10129,7 @@
           }
         ]
       },
-      "title": "11-c-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS11"
     },
     {
       "path": "11-6-6/data.csv",
@@ -10153,7 +10153,7 @@
           }
         ]
       },
-      "title": "11-6-6"
+      "title": "Concentració mitjana anual d'O3"
     },
     {
       "path": "8-10-2/data.csv",
