@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.9-title
+SDG_TARGET: >-
+  global_targets.9-1-title
+SDG_INDICATOR: >-
+  Valoració de la facilitat per a desplaçar-se amb EMT
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Valoració de 0 a 10 respecte a la facilitat per a desplaçar-se amb EMT per la ciutat de València
+UNIT_MEASURE: >-
+  Escala 1-10
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Primera Ona Baròmetre d'Opinió Ciutadana: Mobilitat. (2017).
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+   
+  Documentació metodològica sobre la 1 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 1](https://www.valencia.es/estadistica/Barometro/Metodologia1.pdf).
+   
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Febrer i Març de 2017. Es va entrevistar un total de 2211 persones empadronades a la ciutat de València.
+DATA_COMP: >-
+  Mitjana aritmètica de la valoració de la població respecte a la facilitat per a desplaçar-se amb EMT.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
