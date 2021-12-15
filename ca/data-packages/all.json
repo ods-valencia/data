@@ -11655,30 +11655,6 @@
       "title": "Nombre de països que adopten i apliquen sistemes de promoció de les inversions en favor dels països menys avançats"
     },
     {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre d'acords i programes de cooperació en matèria de ciència o tecnologia subscrits pels països, desglossat per tipus de cooperació"
-    },
-    {
       "path": "7-3-1/data.csv",
       "name": "7-3-1",
       "profile": "tabular-data-resource",

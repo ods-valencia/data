@@ -11655,30 +11655,6 @@
       "title": "Número de países que adoptan y aplican sistemas de promoción de las inversiones en favor de los países en desarrollo, entre ellos los países menos adelantados"
     },
     {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Número de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad"
-    },
-    {
       "path": "7-3-1/data.csv",
       "name": "7-3-1",
       "profile": "tabular-data-resource",
