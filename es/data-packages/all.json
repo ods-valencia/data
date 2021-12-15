@@ -11583,30 +11583,6 @@
       "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB"
     },
     {
-      "path": "5-6-1/data.csv",
-      "name": "5-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva"
-    },
-    {
       "path": "17-12-1/data.csv",
       "name": "17-12-1",
       "profile": "tabular-data-resource",

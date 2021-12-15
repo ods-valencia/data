@@ -11583,30 +11583,6 @@
       "title": "Consum material intern en termes absoluts, consum material intern per càpita i consum material intern per PIB"
     },
     {
-      "path": "5-6-1/data.csv",
-      "name": "5-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de dones d'entre 15 i 49 anys que prenen les seves pròpies decisions informades sobre les relacions sexuals, l'ús d'anticonceptius i l'atenció de la salut reproductiva"
-    },
-    {
       "path": "17-12-1/data.csv",
       "name": "17-12-1",
       "profile": "tabular-data-resource",
