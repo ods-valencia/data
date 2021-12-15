@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Percentatge de població que viu en seccions censals vulnerables a nivell
   d'equipament
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Percentatge de població que viu en seccions censals vulnerables a
   nivell d'equipament
 indicator_number: '11.1.3'

@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Porcentaje de población que vive en secciones censales vulnerables a
   nivel demográfico
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Porcentaje de población que vive en secciones censales vulnerables
   a nivel demográfico
 indicator_number: '11.1.4'
