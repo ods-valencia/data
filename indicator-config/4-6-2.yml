@@ -17,13 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de persones que en l'últim any han realitzat algun curs,
-  taller o activitat formativa
+graph_title: Població entre 25 i 64 anys amb estudis postobligatoris
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de persones que en l'últim any han realitzat algun curs,
-  taller o activitat formativa
-indicator_number: '4.3.1'
+indicator_name: Població entre 25 i 64 anys amb estudis postobligatoris
+indicator_number: '4.6.2'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''
