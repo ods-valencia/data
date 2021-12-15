@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Tiempo medio a la parada de EMT más próxima
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Tiempo medio a la parada de EMT más próxima
 indicator_number: '11.2.2'
 national_geographical_coverage: Valencia
