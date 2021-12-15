@@ -11559,30 +11559,6 @@
       "title": "a) Asistencia oficial para el desarrollo destinada concretamente a la conservación y el uso sostenible de la biodiversidad y b) ingresos generados y financiación movilizada mediante instrumentos económicos pertinentes para la biodiversidad"
     },
     {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Inversión extranjera directa, asistencia oficial para el desarrollo y cooperación Sur-Sur como proporción del ingreso nacional bruto"
-    },
-    {
       "path": "16-2-2/data.csv",
       "name": "16-2-2",
       "profile": "tabular-data-resource",

@@ -11559,30 +11559,6 @@
       "title": "Assistència oficial per al desenvolupament i despesa pública destinats a la conservació i l'ús sostenible de la biodiversitat i els ecosistemes"
     },
     {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Inversió estrangera directa, assistència oficial per al desenvolupament i cooperació Sud-Sud en proporció al pressupost nacional total"
-    },
-    {
       "path": "16-2-2/data.csv",
       "name": "16-2-2",
       "profile": "tabular-data-resource",
