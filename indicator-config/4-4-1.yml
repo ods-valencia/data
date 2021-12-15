@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,16 +17,20 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.4-4-1-title
+graph_title: Proporció de persones entre 16 i 74 anys que han utilitzat alguna habilitat
+  informàtica en els últims 12 mesos
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.4-4-1-title
+indicator_name: Proporció de persones entre 16 i 74 anys que han utilitzat alguna
+  habilitat informàtica en els últims 12 mesos
 indicator_number: '4.4.1'
-national_geographical_coverage: ''
+national_geographical_coverage: València
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+
