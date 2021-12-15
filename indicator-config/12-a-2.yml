@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Romanent de tresoreria per a despeses generals
+graph_title: Pressupost municipal destinat a Educació per al desenvolupament ODS12
 graph_titles: []
-graph_type: line
-indicator_name: Romanent de tresoreria per a despeses generals
-indicator_number: '13.1.2'
+graph_type: bar
+indicator_name: Pressupost municipal destinat a Educació per al desenvolupament ODS12
+indicator_number: '12.a.2'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''

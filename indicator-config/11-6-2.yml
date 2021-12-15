@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Romanent de tresoreria per a despeses generals
+graph_title: Concentració mitjana anual de PM2.5
 graph_titles: []
 graph_type: line
-indicator_name: Romanent de tresoreria per a despeses generals
-indicator_number: '13.1.2'
+indicator_name: Concentració mitjana anual de PM2.5
+indicator_number: '11.6.2'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''

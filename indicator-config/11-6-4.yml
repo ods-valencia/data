@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Romanent de tresoreria per a despeses generals
+graph_title: Nombre de superacions diàries de partícules en suspensió PM10
 graph_titles: []
 graph_type: line
-indicator_name: Romanent de tresoreria per a despeses generals
-indicator_number: '13.1.2'
+indicator_name: Nombre de superacions diàries de partícules en suspensió PM10
+indicator_number: '11.6.4'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''

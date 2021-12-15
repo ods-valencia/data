@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Romanent de tresoreria per a despeses generals
+graph_title: Proporció de residus tractats
 graph_titles: []
 graph_type: line
-indicator_name: Romanent de tresoreria per a despeses generals
-indicator_number: '13.1.2'
+indicator_name: Proporció de residus tractats
+indicator_number: '12.5.1'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''
