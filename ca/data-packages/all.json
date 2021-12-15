@@ -10479,30 +10479,6 @@
       "title": "Proporció de zones econòmiques exclusives nacionals gestionades mitjançant enfocaments basats en els ecosistemes"
     },
     {
-      "path": "15-8-1/data.csv",
-      "name": "15-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de països que han aprovat la legislació nacional pertinent i han destinat recursos suficients per a la prevenció o el control de les espècies exòtiques invasores"
-    },
-    {
       "path": "4-a-1/data.csv",
       "name": "4-a-1",
       "profile": "tabular-data-resource",
@@ -10813,30 +10789,6 @@
         ]
       },
       "title": "Proporció de la població que utilitza: a) serveis de sanejament gestionats sense riscos i b) instal·lacions per a la rentada de mans amb aigua i sabó"
-    },
-    {
-      "path": "15-a-1/data.csv",
-      "name": "15-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Assistència oficial per al desenvolupament i despesa pública destinats a la conservació i l'ús sostenible de la biodiversitat i els ecosistemes"
     },
     {
       "path": "8-1-1/data.csv",
