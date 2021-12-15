@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Temps mitjà a la parada d'EMT més pròxima
+graph_title: Tiempo mediano a la parada de EMT más próxima
 graph_titles: []
-graph_type: line
-indicator_name: Temps mitjà a la parada d'EMT més pròxima
+graph_type: bar
+indicator_name: Tiempo mediano a la parada de EMT más próxima
 indicator_number: '9.1.10'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []

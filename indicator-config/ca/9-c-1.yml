@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge d'habitatges amb telèfon fix
+graph_title: Porcentaje de viviendas con teléfono fijo
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge d'habitatges amb telèfon fix
+indicator_name: Porcentaje de viviendas con teléfono fijo
 indicator_number: '9.c.1'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []

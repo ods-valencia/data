@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Població que utilitza MetroValencia com a principal mitjà per a desplaçar-se
+graph_title: Población que utiliza MetroValencia como principal medio para desplazarse
 graph_titles: []
-graph_type: line
-indicator_name: Població que utilitza MetroValencia com a principal mitjà per a desplaçar-se
+graph_type: bar
+indicator_name: Población que utiliza MetroValencia como principal medio para desplazarse
 indicator_number: '9.1.5'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []

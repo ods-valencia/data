@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge d'habitatges amb connexió de banda ampla
+graph_title: Porcentaje de viviendas con conexión de banda ancha
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge d'habitatges amb connexió de banda ampla
+indicator_name: Porcentaje de viviendas con conexión de banda ancha
 indicator_number: '9.c.6'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []

@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge d'empreses en el Sector Industrial
+graph_title: Porcentaje de empresas en el Sector Industrial
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge d'empreses en el Sector Industrial
+indicator_name: Porcentaje de empresas en el Sector Industrial
 indicator_number: '9.2.1'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []

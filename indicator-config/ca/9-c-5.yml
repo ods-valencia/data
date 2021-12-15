@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge d'habitatges amb accés a Internet
+graph_title: Porcentaje de viviendas con acceso a Internet
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge d'habitatges amb accés a Internet
+indicator_name: Porcentaje de viviendas con acceso a Internet
 indicator_number: '9.c.5'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []

@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Passatgers que han passat per l'Aeroport de València
+graph_title: Pasajeros que han pasado por el Aeropuerto de Valencia
 graph_titles: []
 graph_type: line
-indicator_name: Passatgers que han passat per l'Aeroport de València
+indicator_name: Pasajeros que han pasado por el Aeropuerto de Valencia
 indicator_number: '9.1.4'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []

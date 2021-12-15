@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge d'habitatges amb alguna mena de telèfon
+graph_title: Porcentaje de viviendas con algún tipo de teléfono
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge d'habitatges amb alguna mena de telèfon
+indicator_name: Porcentaje de viviendas con algún tipo de teléfono
 indicator_number: '9.c.3'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []

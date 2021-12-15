@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Valoració de la facilitat per a desplaçar-se amb EMT
+graph_title: Valoración de la facilidad para desplazarse con EMT
 graph_titles: []
-graph_type: line
-indicator_name: Valoració de la facilitat per a desplaçar-se amb EMT
+graph_type: bar
+indicator_name: Valoración de la facilidad para desplazarse con EMT
 indicator_number: '9.1.8'
-national_geographical_coverage: València
+national_geographical_coverage: Valencia
 page_content: ''
 permalink: ''
 precision: []
