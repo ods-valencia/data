@@ -1,0 +1,77 @@
+SDG_GOAL: >-
+   global_goals.15-title
+SDG_TARGET: >-
+  global_targets.15-3-title
+SDG_INDICATOR: >-
+  Percentatge de superfície municipal amb el risc d'inundació freqüent
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge de superfície classificada amb el risc d'inundació freqüent segons el Pla d'Acció Territorial sobre Prevenció del risc d'Inundació a la Comunitat Valenciana (PATRICOVA)
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Pla d'Acció Territorial sobre Prevenció del risc d'Inundació a la Comunitat Valenciana (PATRICOVA) de 2015
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Es consideren zones de risc d'inundació freqüent aquelles en les quals la probabilitat que en un any qualsevol es patisca, almenys, una inundació és superior a 0’04 (o el que és equivalent, amb un període de retorn inferior a 25 anys). 
+   
+  Documentació metodològica sobre el  PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb)
+DATA_COMP: >-
+  Superfície classificada com de risc d'inundació freqüent (període de retorn inferior a 25 anys) entre la superfície total del municipi
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

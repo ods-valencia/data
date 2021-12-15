@@ -1,0 +1,77 @@
+SDG_GOAL: >-
+   global_goals.16-title
+SDG_TARGET: >-
+  global_targets.16-1-title
+SDG_INDICATOR: >-
+  Valoració de la població adulta del grau de seguretat del seu barri de residència
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Valoració mitjana de la població de 18 o més anys d'edat del grau de seguretat del seu barri de residència.
+UNIT_MEASURE: >-
+  Escala 1-10
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Baròmetre d'Opinió Ciutadana de la ciutat de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Documentació metodològica sobre la sisena ona del Baròmetre d'Opinió Ciutadana de la ciutat de València: https://www.valencia.es/estadistica/Barometro/Metodologia6.pdf
+   
+  A tots els enquestats se'ls demana que valoren la seguretat del seu barri de residència, en una escala del 0 al 10, on 0 és molt insegur i 10 és molt segur. A partir de les respostes obtingudes en els enquestats que valoren el grau de seguretat, i tenint en compte els factors d'elevació associats als individus enquestats, s'estima la valoració mitjana de les persones de 18 o més anys d'edat respecte al grau de seguretat del seu barri de residència.
+DATA_COMP: >-
+  Mitjana aritmètica de les valoracions de la població de 18 i més anys sobre el grau de seguretat del barri en el qual resideixen en una escala 0-10, on 0 és molt insegur i 10 és molt segur.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

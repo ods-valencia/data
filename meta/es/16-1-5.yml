@@ -1,0 +1,81 @@
+SDG_GOAL: >-
+   global_goals.16-title
+SDG_TARGET: >-
+  global_targets.16-1-title
+SDG_INDICATOR: >-
+  Tasa de delitos contra la libertad e indemnidad sexual
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Infracciones penales tipificadas como delitos contra la libertad e indemnidad sexual (incluidas en el Título VIII del Libro II del Código Penal) en la ciudad conocidas por las diferentes Fuerzas y Cuerpos de Seguridad (Guardia Civil, Cuerpo Nacional de Policía, Policía Autonómica o Policía Local de València), ya sea por medio de denuncia interpuesta o por actuación policial realizada motu proprio (labor preventiva o de investigación).
+UNIT_MEASURE: >-
+  Tanto por 100.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Balance Trimestral de Criminalidad del SEC (Sistema Estadístico de Criminalidad) del Ministerio del Interior.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del panel de indicadores locales de Idencity.
+   
+   Documentación metodológica sobre el Balance Trimestral de Criminalidad: (https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:b36b25ac-491b-49a6-be33-9cdcb168f0c9/01_Metodolog%C3%ADA_Balances_criminalidad.pdf).
+   
+   Documentación metodológica sobre la Explotación estadística del Padrón Municipal de Habitantes de València: [Explotación Estadística Padrón](https://www.valencia.es/estadistica/Padron/2020/Padron2020Cast.pdf).
+   
+   Los datos del último año son provisionales pendientes de consolidar. La población de referencia utilizada para el cálculo el indicador es la calculada a mitad de año a partir de la semisuma de las poblaciones registradas en el Padrón Municipal del Ayuntamiento de València a 1 de enero del año de referencia y del año siguiente.
+DATA_COMP: >-
+  Cociente del número de delitos contra la libertad e indemnidad sexual durante el año de referencia entre la población calculada a mitad del año.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
