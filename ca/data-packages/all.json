@@ -10455,30 +10455,6 @@
       "title": "Proporció de zones econòmiques exclusives nacionals gestionades mitjançant enfocaments basats en els ecosistemes"
     },
     {
-      "path": "4-a-1/data.csv",
-      "name": "4-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció d'escoles amb accés a a) electricitat, b) Internet amb finalitats pedagògics, c) computadores amb finalitats pedagògics, d) infraestructura i materials adaptats als estudiants amb discapacitat, e) subministrament bàsic d'aigua potable, f) instal·lacions de sanejament bàsiques separades per sexe i g) instal·lacions bàsiques per a la rentada de mans (segons les definicions dels indicadors WASH)"
-    },
-    {
       "path": "9-3-2/data.csv",
       "name": "9-3-2",
       "profile": "tabular-data-resource",
