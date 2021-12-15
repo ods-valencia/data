@@ -11463,30 +11463,6 @@
       "title": "Promedio ponderado de los aranceles que enfrentan los países en desarrollo, los países menos adelantados y los pequeños Estados insulares en desarrolloPromedio de los aranceles que enfrentan los países en desarrollo, los países menos adelantados y los pequeños Estados insulares en desarrollo"
     },
     {
-      "path": "17-3-2/data.csv",
-      "name": "17-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Volumen de remesas (en dólares de los Estados Unidos) en proporción al PIB total"
-    },
-    {
       "path": "6-2-1/data.csv",
       "name": "6-2-1",
       "profile": "tabular-data-resource",
