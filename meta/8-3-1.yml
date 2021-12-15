@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-3-title
 SDG_INDICATOR: >-
-  Població amb contracte laboral temporal
+  Población con contrato laboral temporal
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones amb contracte laboral temporal.
+  Porcentaje de personas con contrato laboral temporal.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +49,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
 DATA_COMP: >-
-  Quocient entre el total de persones ocupades amb contracte laboral temporal i el total de persones ocupades amb contracte laboral l'últim dia del mes de desembre de l'any de referència.
+  Cociente entre el total de personas ocupadas con contrato laboral temporal y el total de personas ocupadas con contrato laboral el último día del mes de diciembre del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-9-title
 SDG_INDICATOR: >-
-  Nombre de places hoteleres
+  Número de plazas hoteleras
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Total de places hoteleres a la ciutat de València.
+  Total de plazas hoteleras en la ciudad de València.
 UNIT_MEASURE: >-
-  Places hoteleres
+  Plazas hoteleras
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,7 +49,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'Enquesta d'Ocupació Hotelera: [EOH](https://www.ine.es/daco/daco42/ocuphotel/meto_eoh.pdf).
+  Documentación metodológica sobre la Encuesta de Ocupación Hotelera: [EOH](https://www.ine.es/daco/daco42/ocuphotel/meto_eoh.pdf).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

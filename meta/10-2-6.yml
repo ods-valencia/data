@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.10-2-title
 SDG_INDICATOR: >-
-  Percentatge de renda que controla el 20% més pobre
+  Porcentaje de renta que controla el 20% más pobre
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Mesura de distribució de la renda que s'obté com el rang entre el percentil 0 i el percentil 20 dels ingressos per unitat de consum de les persones que resideixen en un determinat àmbit territorial.
+  Medida de distribución de la renta que se obtiene como el rango entre el percentil 0 y el percentil 20 de los ingresos por unidad de consumo de las personas que residen en un determinado ámbito territorial.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0506-Rentas en IRPF a la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0506-Rentas en IRPF a la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-  Explotació estadística Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
+   Explotación estadística Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,13 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-  Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
+   Documentación metodológica sobre el Atlas de Distribución de Renta de los Hogares del INE: [Atlas Renta](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
    
-  Els conceptes tributaris inclosos en la renda neta de la llar es descriuen en el document metodològic de l'operació estadística.
+   Los conceptos tributarios incluidos en la renta neta del hogar se describen en el documento metodológico de la operación estadística.
 DATA_COMP: >-
-  Quocient entre la renda que controla el 20% més pobre i la renda total.
+  Cociente entre la renta que controla el 20% más pobre y la renta total.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

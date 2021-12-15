@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-1-title
 SDG_INDICATOR: >-
-  Població amb una parada d'EMT a menys de 10 min
+  Población con una parada de EMT a menos de 10 min
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de població amb una parada d'EMT a menys de 10 minuts.
+  Porcentaje de población con una parada de EMT a menos de 10 minutos.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Datos estadísticos de la ciudad de Valencia. Plan Valenciano de Estadística 2019-2022.
    
-  Elaboració pròpia Oficina d'Estadística Ajuntament de València.
+   Elaboración propia Oficina de Estadística Ayuntamiento de Valencia.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,15 +51,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
-  La informació respecte a la distància a parades d'EMT en metres procedeix de la publicació de Areas Vulnerables de l'Oficina d'Estadística de l'Ajuntament de València. Per a realitzar la conversió de metres a minuts es considera l'indicador estàndard que apunta que una persona recorre en 1 hora 4.5 quilòmetres (75 metres en un minut).
+   La información respecto a la distancia a paradas de EMT en metros procede de la publicación de Areas Vulnerables de la Oficina de Estadística del Ayuntamiento de Valencia. Para realizar la conversión de metros a minutos se considera el indicador estándar que apunta que una persona recorre en 1 hora 4.5 kilómetros (75 metros en un minuto).
    
-  El fitxer de parades d'EMT georreferenciadas procedeix de Dades Obertes (https://www.valencia.es/dadesobertes/va/).
+   El fichero de paradas de EMT georreferenciadas procede de Datos Abiertos (https://www.valencia.es/dadesobertes/va/).
    
-  Documentació metodològica sobre la Publicació de Areas Vulnerables: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
+   Documentación metodológica sobre la Publicación de Areas Vulnerables: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
 DATA_COMP: >-
-  Quocient entre la població amb una parada d'EMT a menys de 10 minuts i el total de la població.
+  Cociente entre la población con una parada de EMT a menos de 10 minutos y el total de la población.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

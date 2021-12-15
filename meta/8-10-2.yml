@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-10-title
 SDG_INDICATOR: >-
-  Sucursals bancàries per cada 1.000 habitants > 15 anys
+  Sucursales bancarias por cada 1.000 habitantes > 15 años
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Relació entre les sucursals bancàries del municipi de València i la població empadronada major de 15 anys en aquest.
+  Relación entre las sucursales bancarias del municipio de València y la población empadronada mayor de 15 años en este.
 UNIT_MEASURE: >-
-  Tant per 1.000
+  Tanto por 1.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+   0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Quocient entre el nombre de sucursals bancàries en el municipi de València l'any de referència i la població total major de 15 anys del municipi.
+  Cociente entre el número de sucursales bancarias en el municipio de València el año de referencia y la población total mayor de 15 años del municipio.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

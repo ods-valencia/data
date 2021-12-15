@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-5-title
 SDG_INDICATOR: >-
-  Patents presentades per la Universitat Politècnica de València (UPV)
+  Patentes presentadas por la Universitat Politècnica de Valencia (UPV)
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Total de patents sol·licitades per la Universitat Politècnica de València com a institució.
+  Total de patentes solicitadas por la Universitat Politècnica de Valencia como institución.
 UNIT_MEASURE: >-
-  Patents
+  Patentes
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  2103-Censo de actividades econo´micas de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  2103-Censo de actividades econo´micas de la ciudad de Valencia. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,7 +49,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
+  Documentación metodológica sobre el Censo de Actividades Económicas de la ciudad de Valencia: [Actividades Económicas](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

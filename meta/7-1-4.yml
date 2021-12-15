@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.7-1-title
 SDG_INDICATOR: >-
-  Percentatge de nous habitatges
+  Porcentaje de nuevas viviendas
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge d'habitatges construïts de 1980 en avant.
+  Porcentaje de viviendas construidas de 1980 en adelante.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  1504-Censo de inmuebles de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  1504-Censo de inmuebles de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,14 +49,16 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
-  En el cas de la propietat horitzontal, es defineix habitatge com l'agregat de totes les unitats constructives amb destinació habitatge que pertanyen a un mateix càrrec fiscal, eliminant aquells agregats la superfície dels quals siga menor de 24 o major de 700 metres quadrats. En el cas de la propietat vertical, es defineix habitatge com l'agregat de les unitats constructives d'un càrrec fiscal que comparteixen la mateixa planta i porta, eliminant aquells agregats la superfície dels quals siga menor de 24 metres quadrats.
-  Les dades provenen de la tabulació del fitxer del Cadastre de Béns i Immobles de naturalesa urbana de la ciutat de València a 1 de gener de l'any de referència.
-  L'any 2017 es va produir un canvi en els criteris de consideració d'habitatge.
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  Documentació relativa a béns i immobles: [Béns i Immobles](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
+   En el caso de la propiedad horizontal, se define vivienda como el agregado de todas las unidades constructivas con destino vivienda que pertenecen a un mismo cargo fiscal, eliminando aquellos agregados la superficie de los cuales sea menor de 24 o mayor de 700 metros cuadrados. En el caso de la propiedad vertical, se define vivienda como el agregado de las unidades constructivas de un cargo fiscal que comparten la misma planta y puerta, eliminando aquellos agregados la superficie de los cuales sea menor de 24 metros cuadrados.
+   Los datos provienen de la tabulación del fichero del Catastro de Bienes e Inmuebles de naturaleza urbana de la ciudad de València a 1 de enero del año de referencia.
+   
+   El año 2017 se produjo un cambio en los criterios de consideración de vivienda.
+   
+   Documentación relativa a bienes e inmuebles: [Bienes e Inmuebles](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
 DATA_COMP: >-
-  Quocient del nombre d'habitatges construïts de 1980 en avant entre el nombre total d'habitatges a la ciutat de València registrats en el Cadastre de Béns i Immobles.
+  Cociente del número de viviendas construidas de 1980 en adelante entre el número total de viviendas en la ciudad de València registrados en el Catastro de Bienes e Inmuebles.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

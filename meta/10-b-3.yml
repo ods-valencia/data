@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.10-b-title
 SDG_INDICATOR: >-
-  Pressupost municipal destinat a Accions Humanitàries ODS10
+  Presupuesto municipal destinado a Acciones Humanitarias ODS10
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Pressupost municipal destinat a Accions Humanitàries ODS10.
+  Presupuesto municipal destinado a Acciones Humanitarias ODS10.
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Servei de Cooperació Municipal. Ajuntament de València.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Servicio de Cooperación Municipal. Ayuntamiento de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,7 +51,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

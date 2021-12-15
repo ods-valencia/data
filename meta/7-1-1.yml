@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.7-1-title
 SDG_INDICATOR: >-
-  Consum d'energia elèctrica total per habitant i dia (kWh)
+  Consumo de energía eléctrica total por habitante y día (kWh)
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Consum d'energia elèctrica total per habitant i dia.
+  Consumo de energía eléctrica total por habitante y día.
 UNIT_MEASURE: >-
-  KWH per habitant i dia
+  KWH por habitante y día
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,10 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
-  Energia elèctrica total és la suma de l'energia facturada per a ús domèstic, comercial, industrial i no classificat.
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
+   
+   Energía eléctrica total es la suma de la energía facturada para uso doméstico, comercial, industrial y no clasificado.  NA
 DATA_COMP: >-
-  Quocient entre l'energia elèctrica facturada a les persones abonades al llarg de l'any i la població a 1 de juliol de l'any de referència, dividit al seu torn entre el nombre de dies de l'any de referència (365, o 366).
+  Cociente entre la energía eléctrica facturada a las personas abonadas a lo largo del año y la población a 1 de julio del año de referencia, dividido a su vez entre el número de días del año de referencia (365, o 366).
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

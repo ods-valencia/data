@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-1-title
 SDG_INDICATOR: >-
-  Població que utilitza MetroValencia com a principal mitjà per a desplaçar-se
+  Población que utiliza MetroValencia como principal medio para desplazarse
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Entre els diferents mitjans de transport, percentatge de població que tria MetroValencia com el seu mitjà habitual per a desplaçar-se.
+  Entre los diferentes medios de transporte, porcentaje de población que elige MetroValencia como su medio habitual para desplazarse.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Primera Ona Baròmetre d'Opinió Ciutadana: Mobilitat. (2017).
+  Primera Ola Barómetro de Opinión Ciudadana: Movilidad. (2017).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,13 +49,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  Documentació metodològica sobre la 1 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 1](https://www.valencia.es/estadistica/Barometro/Metodologia1.pdf).
+   Documentación metodológica sobre la 1 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 1](https://www.valencia.es/estadistica/Barometro/Metodologia1.pdf).
    
-  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Febrer i Març de 2017. Es va entrevistar un total de 2211 persones empadronades a la ciutat de València.
+   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Febrero y Marzo de 2017. Se entrevistó un total de 2211 personas empadronadas en la ciudad de Valencia.
 DATA_COMP: >-
-  Quocient entre la població que tria MetroValencia com mig principal per a desplaçar-se per la ciutat i el total de la població.
+  Cociente entre la población que elige MetroValencia como medio principal para desplazarse por la ciudad y el total de la población.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-1-title
 SDG_INDICATOR: >-
-  Mercancíes transportades en l'Aeroport de València (tones)
+  Mercancíes transportadas en el Aeropuerto de Valencia (toneladas)
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Pes de les mercaderies transportades en l'Aeroport de València durant l'any de referència.
+  Pes de las mercancías transportadas en el Aeropuerto de Valencia durante el año de referencia.
 UNIT_MEASURE: >-
-  Tones
+  Toneladas
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadoras sociales de la ciudad de Valencia. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +49,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
-  La mercaderia en trànsit és aquella que arriba a l'Aeroport de València i continua el seu viatge en un vol amb el mateix número de vol. L'Aeroport de València (Codi IATA: VLC, codi OACI: LEVC) està situat a huit quilòmetres a l'oest de la capital.
+   La mercancía en tráfico es aquella que llega al Aeropuerto de Valencia y continúa su viaje en un vuelo con el mismo número de vol. El Aeropuerto de Valencia (Código IATA: VLC, código OACI: LEVC) está situado a ocho kilómetros en el oeste de la capital.
 DATA_COMP: >-
-  Pes del total de mercaderia transportada (inclou mercaderia carregada, descarregada o en trànsit) en l'Aeroport de València. 
+  Pes del total de mercancía transportada (incluye mercancía cargada, descargada o en tráfico) en el Aeropuerto de Valencia. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

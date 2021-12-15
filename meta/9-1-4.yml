@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-1-title
 SDG_INDICATOR: >-
-  Passatgers que han passat per l'Aeroport de València
+  Pasajeros que han pasado por el Aeropuerto de Valencia
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de persones que arriben (desembarcades o en trànsit) o ixen amb avió de l'Aeroport de València durant l'any de referència.
+  Número de personas que llegan (desembarcadas o en tráfico) o salen en avión del Aeropuerto de Valencia durante el año de referencia.
 UNIT_MEASURE: >-
-  Passatgers
+  Pasajeros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadoras sociales de la ciudad de Valencia. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,8 +49,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-  Els passatgers en trànsit (que arriben a l'aeroport i continuen el seu viatge en un vol amb el mateix número de vol que en el qual van arribar) es consideren com a arribades a l'aeroport. El nombre total de passatgers inclou per tant la suma de les arribades més les eixides de l'Aeroport de València, per la qual cosa inclou passatgers embarcats, desembarcats o en trànsit. L'Aeroport de València (Codi IATA: VLC, codi OACI: LEVC) està situat a huit quilòmetres a l'oest de la capital.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+   
+   Los pasajeros en tráfico (que llegan al aeropuerto y continúan su viaje en un vuelo con el mismo número de vuelo que en el cual llegaron) se consideran como llegadas al aeropuerto. El número total de pasajeros incluye por lo tanto la suma de las llegadas más las salidas del Aeropuerto de Valencia, por lo cual incluye pasajeros embarcados, desembarcados o en tráfico. El Aeropuerto de Valencia (Código IATA: VLC, código OACI: LEVC) está situado a ocho kilómetros en el oeste de la capital.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

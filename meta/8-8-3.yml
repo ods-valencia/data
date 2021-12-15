@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-8-title
 SDG_INDICATOR: >-
-  Població amb malalties professionals
+  Población con enfermedades profesionales
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de malalties adquirides a conseqüència del treball en centres de treball a la ciutat de València durant l'any de referència.
+  Número de enfermedades adquiridas a consecuencia del trabajo en centros de trabajo en la ciudad de València durante el año de referencia.
 UNIT_MEASURE: >-
-  Malalties professionals
+  Enfermedades profesionales
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,7 +49,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Es coneix com a malaltia professional aquella que, a més de tindre el seu origen laboral, està inclosa en una llista oficial publicada pel Ministeri de Treball donant, per tant, dret al cobrament de les indemnitzacions oportunes. La informació prové del Ministeri de Treball i Seguretat Social fins a 2006, i de la Conselleria d'Educació, Formació i Ocupació des de 2009.
+  Se conoce como enfermedad profesional aquella que, además de tener su origen laboral, está incluida en una lista oficial publicada por el Ministerio de Trabajo dando, por lo tanto, derecho al cobro de las indemnizaciones oportunas. La información proviene del Ministerio de Trabajo y Seguridad Social hasta 2006, y de la Consellería de Educación, Formación y Ocupación desde 2009.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

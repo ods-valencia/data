@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-a-title
 SDG_INDICATOR: >-
-  Pressupost municipal destinat a Ajuda a Paises en Desenvolupament
+  Presupuesto municipal destinado a Ayuda a Paises en Desarrollo
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Estimació de les transferències municipals d'Ajuda Oficial al Desenvolupament per als ODS 8.
+  Estimación de las transferencias municipales de Ayuda Oficial al Desarrollo para los ODS 8.
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Servei de Cooperació Municipal. Ajuntament de València.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Servicio de Cooperación Municipal. Ayuntamiento de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,10 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-  L'indicador inclou el pressupost destinat a Cooperació, Educació per al desenvolupament i Accions Humanitàries.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+   
+   El indicador incluye el presupuesto destinado a Cooperación, Educación para el desarrollo y Acciones Humanitarias.
 DATA_COMP: >-
-  Suma de les transferències municipals a través de convenis amb entitats no governamentals, mitjançant execució directa o mitjançant convocatòries d'Ajuda al Desenvolupament convocades per l'Ajuntament. Cadascuna de les accions pot afectar més d'un ODS. Per als convenis que afecten més d'un ODS s'ha repartit la quantitat total de manera proporcional entre els ODS als quals implica.
+  Suma de las transferencias municipales a través de convenios con entidades no gubernamentales, mediante ejecución directa o mediante convocatorias de Ayuda al Desarrollo convocadas por el Ayuntamiento. Cada una de las acciones puede afectar más de un ODS. Para los convenios que afectan más de un ODS se ha repartido la cantidad total de manera proporcional entre los ODS a los cuales implica.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

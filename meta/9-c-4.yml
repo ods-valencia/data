@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-c-title
 SDG_INDICATOR: >-
-  Percentatge d'habitatges amb alguna mena d'ordinador
+  Porcentaje de viviendas con algún tipo de ordenador
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporció d'habitatges que disposen d'alguna mena d'ordinador.
+  Proporción de viviendas que disponen de algún tipo de ordenador.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  1103-Encuesta de tecnologías de la información y comunicaciones en los hogares, en la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Enquesta sobre Equipament i Ús de Tecnologies d'Informació i Comunicació en les Llars de l'Institut Nacional d'Estadística.
+  1103-Encuesta de tecnologías de la información y comunicaciones en los hogares, en la ciudad de Valencia. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,11 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Indicador de l'equipament de tecnologies de la informació i la comunicació, com en aquest cas l'ordinador, en els habitatges familiars principals de la ciutat habitats per persones majors de 15 anys.
+  Indicador de la equipación de tecnologías de la información y la comunicación, como en este caso el ordenador, en las viviendas familiares principales de la ciudad habitados por personas mayores de 15 años.
    
-  Documentació metodològica sobre l'Enquesta sobre Equipament i Ús de Tecnologies de la Informació i Comunicació en les Llars de l'INE: [Enquesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf)
+   Documentación metodológica sobre la Encuesta sobre Equipación y Uso de Tecnologías de la Información y Comunicación en los Hogares del INE: [Encuesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf)
 DATA_COMP: >-
-  Quocient entre el nombre d'habitatges que posseeixen algun tipus d'ordinador (sobretaula, portàtil, un altre tipus, com per exemple agenda electrònica, PDA o Pocket PC) i el nombre total d'habitatges.
+  Cociente entre el número de viviendas que poseen algún tipo de ordenador (sobremesa, portátil, otro tipo, como por ejemplo agenda electrónica, PDA o Pocket PC) y el número total de viviendas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.10-3-title
 SDG_INDICATOR: >-
-  Percentatge de persones que s'han sentit discriminades per motius de discapacitat en els últims 12 mesos
+  Porcentaje de personas que se han sentido discriminadas por motivos de discapacidad en los últimos 12 meses
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones discriminades per motius de discapacitat en els últims dotze mesos.
+  Porcentaje de personas discriminadas por motivos de discapacidad en los últimos doce meses.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Cinquena ona del Baròmetre Municipal d'Opinió Ciutadana de la ciutat de València. Temàtica de convivència i drets socials.
+  Quinta ola del Barómetro Municipal de Opinión Ciudadana de la ciudad de València. Temática de convivencia y derechos sociales.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,13 +49,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
-  Documentació metodològica sobre la 5 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
+   Documentación metodológica sobre la 5 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
    
-  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Juny i Juliol de 2018 publicant-se el Baròmetre el mes de setembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Juny/Juliol 2017 - Juny/Juliol 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
+   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Junio y Julio de 2018 publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Junio/Julio 2017 - Junio/Julio 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
-  Quocient entre el nombre de persones que han patit discriminació per motius de discapacitat l'any de referència i el total de persones en el municipi de València.
+  Cociente entre el número de personas que han sufrido discriminación por motivos de discapacidad el año de referencia y el total de personas en el municipio de València.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

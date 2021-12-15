@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.10-2-title
 SDG_INDICATOR: >-
-  Població amb ingressos per unitat de consum per davall del 50% de la mediana
+  Población con ingresos por unidad de consumo por debajo del 50% de la mediana
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones amb ingressos per unitat de consum per davall del 50% de la mediana nacional d'ingressos per unitat de consum (escala OCDE modificada).
+  Porcentaje de personas con ingresos por unidad de consumo por debajo del 50% de la mediana nacional de ingresos por unidad de consumo (escala OCDE modificada).
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0506-Rentas en IRPF a la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0506-Rentas en IRPF a la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-  Explotació estadística Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
+   Explotación estadística Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,16 +51,16 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valènciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valènciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
-  Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
+   Documentación metodológica sobre el Atlas de Distribución de Renta de los Hogares del INE: [Atlas Renta](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
    
-  Els ingressos que s'utilitzen en el càlcul d'aquest indicador corresponen a l'any anterior al de l'enquesta i són directament informats per l'enquestat. 
-  El nombre d'unitats de consum d'una llar es calcula utilitzant l'escala OCDE modificada, que assigna un pes d'1 a la primera persona de 14 o més anys, un pes de 0,5 a la resta de persones de 14 o més anys i un pes de 0,3 a les persones de menys de 14 anys. Per exemple, una llar formada per dos adults i dos xiquets menors de 14 anys estaria formada per 2,1 unitats de consum. Els ingressos per unitat de consum de la llar s'obtenen dividint els ingressos totals de la llar entre el nombre d'unitats de consum que la componen.
+   Los ingresos que se utilizan en el cálculo de este indicador corresponden al año anterior al de la encuesta y son directamente informados por el encuestado. 
+   El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años. Por ejemplo, un hogar formado por dos adultos y dos niños menores de 14 años estaría formada por 2,1 unidades de consumo. Los ingresos por unidad de consumo del hogar se obtienen dividiendo los ingresos totales del hogar entre el número de unidades de consumo que la componen.
 DATA_COMP: >-
-  Quocient de la població en risc de pobresa relativa considerant el llindar nacional de pobresa l'any de referència respecte a la població resident.
+  Cociente de la población en riesgo de pobreza relativa considerando el umbral nacional de pobreza el año de referencia respecto a la población residente.
 
-  L'ingrés de cadascuna de les persones que resideixen en una determinada llar es calcula com l'ingrés del total de la llar a la qual pertanyen entre el seu nombre d'unitats de consum. A continuació s'obté la mediana (percentil 50) de la distribució d'ingressos de totes les persones residents, sent el 60% d'aquest valor el llindar de pobresa considerat per a mesurar la pobresa relativa.
+   El ingreso de cada una de las personas que residen en un determinado hogar se calcula como el ingreso del total del hogar a la cual pertenecen entre su número de unidades de consumo. A continuación se obtiene la mediana (percentil 50) de la distribución de ingresos de todas las personas residentes, siendo el 60% de este valor el umbral de pobreza considerado para mesurar la pobreza relativa.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
