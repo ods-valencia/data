@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Pressupost destinat a processos de Pressupostos Participatius Municipals
+graph_title: Autonomia de la institució municipal
 graph_titles: []
 graph_type: line
-indicator_name: Pressupost destinat a processos de Pressupostos Participatius Municipals
-indicator_number: '16.7.1'
+indicator_name: Autonomia de la institució municipal
+indicator_number: '16.6.3'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''

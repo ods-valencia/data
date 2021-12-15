@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Pressupost destinat a processos de Pressupostos Participatius Municipals
+graph_title: Taxa de delictes per lesions, renyines tumultuàries i segrestos
 graph_titles: []
 graph_type: line
-indicator_name: Pressupost destinat a processos de Pressupostos Participatius Municipals
-indicator_number: '16.7.1'
+indicator_name: Taxa de delictes per lesions, renyines tumultuàries i segrestos
+indicator_number: '16.1.7'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''

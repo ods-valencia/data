@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Pressupost destinat a processos de Pressupostos Participatius Municipals
+graph_title: Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS
+  4
 graph_titles: []
-graph_type: line
-indicator_name: Pressupost destinat a processos de Pressupostos Participatius Municipals
-indicator_number: '16.7.1'
+graph_type: bar
+indicator_name: Pressupost municipal destinat a Ajuda a Paises en Desenvolupament
+  ODS 4
+indicator_number: '17.1.4'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''
