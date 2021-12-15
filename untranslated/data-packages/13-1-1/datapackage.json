@@ -11,12 +11,16 @@
       "schema": {
         "fields": [
           {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           },
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

@@ -44,6 +44,54 @@
       "title": "3-4-6"
     },
     {
+      "path": "15-b-4/data.csv",
+      "name": "15-b-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-b-4"
+    },
+    {
+      "path": "17-1-3/data.csv",
+      "name": "17-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-3"
+    },
+    {
       "path": "5-c-4/data.csv",
       "name": "5-c-4",
       "profile": "tabular-data-resource",
@@ -102,6 +150,30 @@
         ]
       },
       "title": "3-5-3"
+    },
+    {
+      "path": "11-1-7/data.csv",
+      "name": "11-1-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-1-7"
     },
     {
       "path": "5-c-6/data.csv",
@@ -181,6 +253,84 @@
       "title": "Proporció de dones en edat de procrear (entre 15 i 49 anys) que cobreixen les seves necessitats de planificació familiar amb mètodes moderns"
     },
     {
+      "path": "17-1-5/data.csv",
+      "name": "17-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-5"
+    },
+    {
+      "path": "13-3-2/data.csv",
+      "name": "13-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40 a 64",
+                "<39",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-3-2"
+    },
+    {
       "path": "1-2-4/data.csv",
       "name": "1-2-4",
       "profile": "tabular-data-resource",
@@ -226,6 +376,113 @@
         ]
       },
       "title": "global_indicators.1-2-4-title"
+    },
+    {
+      "path": "17-1-7/data.csv",
+      "name": "17-1-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-7"
+    },
+    {
+      "path": "11-1-3/data.csv",
+      "name": "11-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-1-3"
+    },
+    {
+      "path": "8-5-5/data.csv",
+      "name": "8-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-5-5"
     },
     {
       "path": "2-3-2/data.csv",
@@ -276,6 +533,30 @@
       "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència econòmica a mans de la seua actual parella en els últims 12 mesos"
     },
     {
+      "path": "13-2-6/data.csv",
+      "name": "13-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-2-6"
+    },
+    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -300,6 +581,245 @@
       "title": "2-1-1"
     },
     {
+      "path": "15-b-1/data.csv",
+      "name": "15-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Assistència oficial per al desenvolupament i despesa pública destinats a la conservació i l'ús sostenible de la biodiversitat i els ecosistemes"
+    },
+    {
+      "path": "16-a-2/data.csv",
+      "name": "16-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-a-2"
+    },
+    {
+      "path": "11-1-2/data.csv",
+      "name": "11-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-1-2"
+    },
+    {
+      "path": "12-5-4/data.csv",
+      "name": "12-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-5-4"
+    },
+    {
+      "path": "9-1-1/data.csv",
+      "name": "9-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de la població rural que viu a menys de 2 km d'una carretera transitable tot l'any"
+    },
+    {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció d'ocupació informal en el sector no agrícola, desglossada per sexe"
+    },
+    {
+      "path": "10-1-2/data.csv",
+      "name": "10-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 64",
+                "<18",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-1-2"
+    },
+    {
+      "path": "16-a-3/data.csv",
+      "name": "16-a-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-a-3"
+    },
+    {
       "path": "2-a-2/data.csv",
       "name": "2-a-2",
       "profile": "tabular-data-resource",
@@ -322,6 +842,30 @@
         ]
       },
       "title": "2-a-2"
+    },
+    {
+      "path": "17-1-12/data.csv",
+      "name": "17-1-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-12"
     },
     {
       "path": "5-4-2/data.csv",
@@ -419,6 +963,102 @@
         ]
       },
       "title": "Percentatge de reducció de DBO5"
+    },
+    {
+      "path": "16-6-4/data.csv",
+      "name": "16-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-6-4"
+    },
+    {
+      "path": "10-b-2/data.csv",
+      "name": "10-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-b-2"
+    },
+    {
+      "path": "16-6-7/data.csv",
+      "name": "16-6-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-6-7"
+    },
+    {
+      "path": "13-2-1/data.csv",
+      "name": "13-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre de països que han comunicat l'establiment o la posada en marxa d'una política, estratègia o pla integrat que augmenti la seva capacitat per a adaptar-se als efectes adversos del canvi climàtic i que promouen la resiliència al clima i un desenvolupament amb baixes emissions de gasos d'efecte d'hivernacle sense comprometre per això la producció d'aliments (per exemple, un pla nacional d'adaptació, una contribució determinada a nivell nacional, una comunicació nacional o un informe biennal d'actualització)"
     },
     {
       "path": "3-4-1/data.csv",
@@ -522,6 +1162,132 @@
       "title": "valencia-goals.1-2-3-title"
     },
     {
+      "path": "11-2-1/data.csv",
+      "name": "11-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-1"
+    },
+    {
+      "path": "10-2-8/data.csv",
+      "name": "10-2-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-8"
+    },
+    {
+      "path": "15-3-4/data.csv",
+      "name": "15-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-4"
+    },
+    {
+      "path": "15-3-10/data.csv",
+      "name": "15-3-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-10"
+    },
+    {
       "path": "3-c-2/data.csv",
       "name": "3-c-2",
       "profile": "tabular-data-resource",
@@ -544,6 +1310,61 @@
         ]
       },
       "title": "3-c-2"
+    },
+    {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 a 24",
+                "25 a 29",
+                "30 a 54",
+                ">=55"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Taxa de desocupació, desglossada per sexe, edat i persones amb discapacitat"
     },
     {
       "path": "5-a-3/data.csv",
@@ -570,6 +1391,108 @@
       "title": "Pressupost municipal destinat a Accions Humanitàries ODS5"
     },
     {
+      "path": "11-6-5/data.csv",
+      "name": "11-6-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-6-5"
+    },
+    {
+      "path": "10-2-3/data.csv",
+      "name": "10-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 64",
+                "<18",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-3"
+    },
+    {
+      "path": "11-c-2/data.csv",
+      "name": "11-c-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-c-2"
+    },
+    {
       "path": "2-3-3/data.csv",
       "name": "2-3-3",
       "profile": "tabular-data-resource",
@@ -592,6 +1515,155 @@
         ]
       },
       "title": "2-3-3"
+    },
+    {
+      "path": "9-2-2/data.csv",
+      "name": "9-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Ús del sector manufacturer en proporció a l'ocupació total"
+    },
+    {
+      "path": "16-7-5/data.csv",
+      "name": "16-7-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-7-5"
+    },
+    {
+      "path": "8-a-2/data.csv",
+      "name": "8-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-a-2"
+    },
+    {
+      "path": "11-c-1/data.csv",
+      "name": "11-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-c-1"
+    },
+    {
+      "path": "10-4-1/data.csv",
+      "name": "10-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-4-1"
+    },
+    {
+      "path": "9-c-3/data.csv",
+      "name": "9-c-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-c-3"
     },
     {
       "path": "5-5-2/data.csv",
@@ -678,6 +1750,55 @@
       "title": "2-3-1"
     },
     {
+      "path": "10-2-7/data.csv",
+      "name": "10-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-7"
+    },
+    {
       "path": "5-c-9/data.csv",
       "name": "5-c-9",
       "profile": "tabular-data-resource",
@@ -738,6 +1859,78 @@
       "title": "Cobertura dels serveis de salut essencials (definida com la cobertura mitjana dels serveis essencials entre la població general i els més desfavorits, calculada a partir d'intervencions traçadores com les relacionades amb la salut reproductiva, materna, neonatal i infantil, les malalties infeccioses, les malalties no transmissibles i la capacitat dels serveis i l'accés a ells)"
     },
     {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció del pressupost nacional finançat per impostos interns"
+    },
+    {
+      "path": "11-6-3/data.csv",
+      "name": "11-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-6-3"
+    },
+    {
+      "path": "7-b-3/data.csv",
+      "name": "7-b-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "7-b-3"
+    },
+    {
       "path": "3-2-3/data.csv",
       "name": "3-2-3",
       "profile": "tabular-data-resource",
@@ -779,6 +1972,132 @@
       "title": "3-2-3"
     },
     {
+      "path": "9-5-4/data.csv",
+      "name": "9-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-5-4"
+    },
+    {
+      "path": "9-c-2/data.csv",
+      "name": "9-c-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-c-2"
+    },
+    {
+      "path": "10-3-1/data.csv",
+      "name": "10-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 64",
+                "<18",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-3-1"
+    },
+    {
+      "path": "9-5-3/data.csv",
+      "name": "9-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-5-3"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -801,6 +2120,30 @@
         ]
       },
       "title": "Pressupost municipal destinat a Cooperació ODS6"
+    },
+    {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporcions de places (desglossades per sexe, edat, persones amb discapacitat i grups de població) en les institucions públiques (assemblees legislatives nacionals i locals, administració pública, poder judicial), en comparació amb la distribució nacional"
     },
     {
       "path": "6-3-1/data.csv",
@@ -866,6 +2209,84 @@
         ]
       },
       "title": "Taxa de mortalitat de nens menors de 5 anys"
+    },
+    {
+      "path": "9-1-5/data.csv",
+      "name": "9-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40 a 64",
+                "<40",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-5"
+    },
+    {
+      "path": "11-2-5/data.csv",
+      "name": "11-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-5"
     },
     {
       "path": "3-4-5/data.csv",
@@ -941,6 +2362,30 @@
       "title": "Proporció de dones i xiquetes de 16 anys o més que han patit en els 12 mesos anteriors violència sexual fora de l'àmbit de la parella"
     },
     {
+      "path": "7-1-2/data.csv",
+      "name": "7-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de la població la font primària de la qual d'energia són els combustibles i tecnologies nets"
+    },
+    {
       "path": "4-3-2/data.csv",
       "name": "4-3-2",
       "profile": "tabular-data-resource",
@@ -987,6 +2432,30 @@
         ]
       },
       "title": "global_indicators.1-a-4-title"
+    },
+    {
+      "path": "12-5-5/data.csv",
+      "name": "12-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-5-5"
     },
     {
       "path": "5-c-5/data.csv",
@@ -1037,6 +2506,54 @@
       "title": "4-c-2"
     },
     {
+      "path": "12-a-3/data.csv",
+      "name": "12-a-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-a-3"
+    },
+    {
+      "path": "9-5-2/data.csv",
+      "name": "9-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre d'investigadors (en equivalent a temps complet) per cada milió d'habitants"
+    },
+    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -1085,6 +2602,107 @@
       "title": "Densitat i distribució del personal sanitari"
     },
     {
+      "path": "15-b-2/data.csv",
+      "name": "15-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-b-2"
+    },
+    {
+      "path": "16-1-7/data.csv",
+      "name": "16-1-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-1-7"
+    },
+    {
+      "path": "11-2-12/data.csv",
+      "name": "11-2-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-12"
+    },
+    {
+      "path": "9-c-6/data.csv",
+      "name": "9-c-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-c-6"
+    },
+    {
       "path": "3-2-2/data.csv",
       "name": "3-2-2",
       "profile": "tabular-data-resource",
@@ -1119,6 +2737,102 @@
         ]
       },
       "title": "Taxa de mortalitat neonatal"
+    },
+    {
+      "path": "12-b-2/data.csv",
+      "name": "12-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-b-2"
+    },
+    {
+      "path": "13-2-5/data.csv",
+      "name": "13-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-2-5"
+    },
+    {
+      "path": "9-a-2/data.csv",
+      "name": "9-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-a-2"
+    },
+    {
+      "path": "10-3-2/data.csv",
+      "name": "10-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-3-2"
     },
     {
       "path": "3-3-5/data.csv",
@@ -1217,6 +2931,60 @@
       "title": "Proporció de la població que viu per sota del llindar nacional de pobresa, desglossada per sexe i edat"
     },
     {
+      "path": "13-3-1/data.csv",
+      "name": "13-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40 a 64",
+                "<39",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre de països que han incorporat la mitigació del canvi climàtic, l'adaptació a ell, la reducció dels seus efectes i l'alerta primerenca en els plans d'estudis de l'ensenyament primari, secundària i terciària"
+    },
+    {
       "path": "1-2-7/data.csv",
       "name": "1-2-7",
       "profile": "tabular-data-resource",
@@ -1295,6 +3063,181 @@
       "title": "Percentatge de substàncies solgudes eliminades"
     },
     {
+      "path": "12-a-2/data.csv",
+      "name": "12-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-a-2"
+    },
+    {
+      "path": "8-8-4/data.csv",
+      "name": "8-8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-8-4"
+    },
+    {
+      "path": "7-1-5/data.csv",
+      "name": "7-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "7-1-5"
+    },
+    {
+      "path": "9-1-4/data.csv",
+      "name": "9-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-4"
+    },
+    {
+      "path": "8-5-4/data.csv",
+      "name": "8-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-5-4"
+    },
+    {
       "path": "5-c-2/data.csv",
       "name": "5-c-2",
       "profile": "tabular-data-resource",
@@ -1317,6 +3260,107 @@
         ]
       },
       "title": "Dones assistides per Espai Dones i Igualtat del Servei d'Igualtat i Polítiques inclusives"
+    },
+    {
+      "path": "7-b-4/data.csv",
+      "name": "7-b-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "7-b-4"
+    },
+    {
+      "path": "9-1-9/data.csv",
+      "name": "9-1-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-9"
+    },
+    {
+      "path": "8-9-4/data.csv",
+      "name": "8-9-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-9-4"
+    },
+    {
+      "path": "11-2-10/data.csv",
+      "name": "11-2-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-10"
     },
     {
       "path": "5-5-1/data.csv",
@@ -1343,6 +3387,30 @@
       "title": "Percentatge de regidores dones"
     },
     {
+      "path": "8-a-1/data.csv",
+      "name": "8-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Compromisos i desemborsaments en relació amb la iniciativa Ajuda per al Comerç"
+    },
+    {
       "path": "4-b-1/data.csv",
       "name": "4-b-1",
       "profile": "tabular-data-resource",
@@ -1365,6 +3433,54 @@
         ]
       },
       "title": "Volum de l'assistència oficial per al desenvolupament destinada a beques, desglossat per sector i tipus d'estudi"
+    },
+    {
+      "path": "9-c-4/data.csv",
+      "name": "9-c-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-c-4"
+    },
+    {
+      "path": "7-1-3/data.csv",
+      "name": "7-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "7-1-3"
     },
     {
       "path": "4-c-3/data.csv",
@@ -1391,6 +3507,30 @@
       "title": "4-c-3"
     },
     {
+      "path": "16-a-4/data.csv",
+      "name": "16-a-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-a-4"
+    },
+    {
       "path": "5-2-8/data.csv",
       "name": "5-2-8",
       "profile": "tabular-data-resource",
@@ -1413,6 +3553,30 @@
         ]
       },
       "title": "Proporció de dones i xiquetes de 16 anys o més que han patit en els 12 mesos anteriors violència sexual fora de l'àmbit de la parella"
+    },
+    {
+      "path": "9-c-1/data.csv",
+      "name": "9-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de la població amb cobertura de xarxa mòbil, desglossada per tecnologia"
     },
     {
       "path": "3-6-1/data.csv",
@@ -1467,6 +3631,108 @@
         ]
       },
       "title": "Taxa de mortalitat per lesions degudes a accidents de trànsit"
+    },
+    {
+      "path": "11-6-2/data.csv",
+      "name": "11-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-6-2"
+    },
+    {
+      "path": "10-1-3/data.csv",
+      "name": "10-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 64",
+                "<18",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-1-3"
+    },
+    {
+      "path": "17-1-17/data.csv",
+      "name": "17-1-17",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-17"
     },
     {
       "path": "4-3-1/data.csv",
@@ -1577,6 +3843,54 @@
       "title": "Proporció de la població amb grans despeses sanitàries per llar com a percentatge del total de despeses o ingressos de les llars"
     },
     {
+      "path": "12-b-1/data.csv",
+      "name": "12-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-b-1"
+    },
+    {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Despeses primàries del govern en proporció al pressupost aprovat originalment, desglossats per sector (o per codis pressupostaris o elements similars)"
+    },
+    {
       "path": "4-6-1/data.csv",
       "name": "4-6-1",
       "profile": "tabular-data-resource",
@@ -1631,6 +3945,47 @@
       "title": "Proporció de la població en un grup d'edat determinat que ha aconseguit almenys un nivell fix de competència funcional en a) alfabetització i b) nocions elementals d'aritmètica, desglossada per sexe"
     },
     {
+      "path": "8-5-6/data.csv",
+      "name": "8-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-5-6"
+    },
+    {
       "path": "5-2-7/data.csv",
       "name": "5-2-7",
       "profile": "tabular-data-resource",
@@ -1653,6 +4008,30 @@
         ]
       },
       "title": "Proporció de dones i xiquetes de 16 anys o més que han patit en els 12 mesos anteriors violència sexual fora de l'àmbit de la parella"
+    },
+    {
+      "path": "13-b-3/data.csv",
+      "name": "13-b-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-b-3"
     },
     {
       "path": "5-c-8/data.csv",
@@ -1701,6 +4080,35 @@
         ]
       },
       "title": "2-a-1"
+    },
+    {
+      "path": "10-2-5/data.csv",
+      "name": "10-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-5"
     },
     {
       "path": "5-2-4/data.csv",
@@ -1761,6 +4169,30 @@
         ]
       },
       "title": "Consum nociu d'alcohol, definit segons el context nacional com el consum d'alcohol per càpita (a partir dels 15 anys d'edat) durant un any civil en litres d'alcohol pur"
+    },
+    {
+      "path": "10-b-1/data.csv",
+      "name": "10-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-b-1"
     },
     {
       "path": "3-1-2/data.csv",
@@ -1859,6 +4291,113 @@
       "title": "2-2-1"
     },
     {
+      "path": "12-a-4/data.csv",
+      "name": "12-a-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-a-4"
+    },
+    {
+      "path": "16-1-2/data.csv",
+      "name": "16-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 39",
+                "40 a 64",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Morts relacionades amb conflictes per cada 100.000 habitants, desglossades per sexe, edat i causa"
+    },
+    {
+      "path": "9-1-10/data.csv",
+      "name": "9-1-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-10"
+    },
+    {
       "path": "2-2-2/data.csv",
       "name": "2-2-2",
       "profile": "tabular-data-resource",
@@ -1893,6 +4432,83 @@
         ]
       },
       "title": "2-2-2"
+    },
+    {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de la població que té accés a l'electricitat"
+    },
+    {
+      "path": "7-b-2/data.csv",
+      "name": "7-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "7-b-2"
+    },
+    {
+      "path": "11-1-5/data.csv",
+      "name": "11-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-1-5"
     },
     {
       "path": "3-4-3/data.csv",
@@ -1947,6 +4563,108 @@
         ]
       },
       "title": "3-4-3"
+    },
+    {
+      "path": "17-1-15/data.csv",
+      "name": "17-1-15",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-15"
+    },
+    {
+      "path": "11-1-1/data.csv",
+      "name": "11-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-1-1"
+    },
+    {
+      "path": "10-2-10/data.csv",
+      "name": "10-2-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-10"
     },
     {
       "path": "4-1-2/data.csv",
@@ -2021,6 +4739,54 @@
       "title": "Percentatge de persones que han utilitzat Internet en els últims 3 mesos"
     },
     {
+      "path": "11-3-2/data.csv",
+      "name": "11-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-3-2"
+    },
+    {
+      "path": "10-b-3/data.csv",
+      "name": "10-b-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-b-3"
+    },
+    {
       "path": "5-a-2/data.csv",
       "name": "5-a-2",
       "profile": "tabular-data-resource",
@@ -2043,6 +4809,132 @@
         ]
       },
       "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS5"
+    },
+    {
+      "path": "17-1-9/data.csv",
+      "name": "17-1-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-9"
+    },
+    {
+      "path": "16-1-4/data.csv",
+      "name": "16-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de la població que se sent segura en caminar sola en la seva zona de residència"
+    },
+    {
+      "path": "12-8-1/data.csv",
+      "name": "12-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40 a 64",
+                "<39",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-8-1"
+    },
+    {
+      "path": "9-a-3/data.csv",
+      "name": "9-a-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-a-3"
     },
     {
       "path": "1-a-1/data.csv",
@@ -2110,6 +5002,89 @@
       "title": "global_indicators.1-2-8-title"
     },
     {
+      "path": "11-1-4/data.csv",
+      "name": "11-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-1-4"
+    },
+    {
+      "path": "10-2-1/data.csv",
+      "name": "10-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 64",
+                "<18",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-1"
+    },
+    {
       "path": "1-2-5/data.csv",
       "name": "1-2-5",
       "profile": "tabular-data-resource",
@@ -2161,6 +5136,191 @@
         ]
       },
       "title": "2-3-5"
+    },
+    {
+      "path": "9-1-7/data.csv",
+      "name": "9-1-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40 a 64",
+                "<40",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-7"
+    },
+    {
+      "path": "11-6-7/data.csv",
+      "name": "11-6-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-6-7"
+    },
+    {
+      "path": "10-4-2/data.csv",
+      "name": "10-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-4-2"
+    },
+    {
+      "path": "16-7-2/data.csv",
+      "name": "16-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 a 34",
+                "35 a 64",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de la població que considera que l'adopció de decisions és inclusiva i respon a les seves necessitats, desglossada per sexe, edat, discapacitat i grup de població"
+    },
+    {
+      "path": "13-2-3/data.csv",
+      "name": "13-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-2-3"
     },
     {
       "path": "3-3-3/data.csv",
@@ -2235,6 +5395,150 @@
       "title": "2-a-4"
     },
     {
+      "path": "12-5-8/data.csv",
+      "name": "12-5-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-5-8"
+    },
+    {
+      "path": "13-1-2/data.csv",
+      "name": "13-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre de països que adopten i apliquen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendái per a la Reducció del Risc de Desastres 2015‐2030"
+    },
+    {
+      "path": "13-2-9/data.csv",
+      "name": "13-2-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-2-9"
+    },
+    {
+      "path": "11-2-7/data.csv",
+      "name": "11-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-7"
+    },
+    {
+      "path": "10-b-4/data.csv",
+      "name": "10-b-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-b-4"
+    },
+    {
+      "path": "11-2-9/data.csv",
+      "name": "11-2-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-9"
+    },
+    {
       "path": "3-7-3/data.csv",
       "name": "3-7-3",
       "profile": "tabular-data-resource",
@@ -2259,6 +5563,78 @@
       "title": "3-7-3"
     },
     {
+      "path": "17-1-1/data.csv",
+      "name": "17-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Total d'ingressos del govern en proporció al PIB, desglossat per font."
+    },
+    {
+      "path": "9-a-4/data.csv",
+      "name": "9-a-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-a-4"
+    },
+    {
+      "path": "15-b-3/data.csv",
+      "name": "15-b-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-b-3"
+    },
+    {
       "path": "5-2-2/data.csv",
       "name": "5-2-2",
       "profile": "tabular-data-resource",
@@ -2281,6 +5657,30 @@
         ]
       },
       "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència sexual a mans de la seua actual parella en els últims 12 mesos"
+    },
+    {
+      "path": "16-1-6/data.csv",
+      "name": "16-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-1-6"
     },
     {
       "path": "4-c-4/data.csv",
@@ -2392,6 +5792,108 @@
       "title": "Taxa d'activitat"
     },
     {
+      "path": "10-2-2/data.csv",
+      "name": "10-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 64",
+                "<18",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-2"
+    },
+    {
+      "path": "16-1-5/data.csv",
+      "name": "16-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-1-5"
+    },
+    {
+      "path": "12-5-1/data.csv",
+      "name": "12-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-5-1"
+    },
+    {
       "path": "5-c-3/data.csv",
       "name": "5-c-3",
       "profile": "tabular-data-resource",
@@ -2414,6 +5916,59 @@
         ]
       },
       "title": "Dones víctimes de denúncies en els Jutjats de Violència Domèstica"
+    },
+    {
+      "path": "17-1-11/data.csv",
+      "name": "17-1-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-11"
+    },
+    {
+      "path": "10-1-4/data.csv",
+      "name": "10-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-1-4"
     },
     {
       "path": "6-3-4/data.csv",
@@ -2440,6 +5995,42 @@
       "title": "Percentatge de reducció de DQO"
     },
     {
+      "path": "8-3-2/data.csv",
+      "name": "8-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-3-2"
+    },
+    {
       "path": "3-c-4/data.csv",
       "name": "3-c-4",
       "profile": "tabular-data-resource",
@@ -2462,6 +6053,88 @@
         ]
       },
       "title": "3-c-4"
+    },
+    {
+      "path": "8-9-3/data.csv",
+      "name": "8-9-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-9-3"
+    },
+    {
+      "path": "17-1-16/data.csv",
+      "name": "17-1-16",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-16"
+    },
+    {
+      "path": "11-1-6/data.csv",
+      "name": "11-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-1-6"
     },
     {
       "path": "3-9-1/data.csv",
@@ -2511,6 +6184,79 @@
         ]
       },
       "title": "Taxa de mortalitat atribuïda a la contaminació de les llars i de l'aire ambient"
+    },
+    {
+      "path": "8-5-3/data.csv",
+      "name": "8-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-5-3"
+    },
+    {
+      "path": "11-6-1/data.csv",
+      "name": "11-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-6-1"
     },
     {
       "path": "3-8-4/data.csv",
@@ -2626,6 +6372,59 @@
       "title": "Nombre de noves infeccions pel VIH per cada 1.000 habitants no infectats, desglossat per sexe, edat i poblacions clau"
     },
     {
+      "path": "17-1-8/data.csv",
+      "name": "17-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-8"
+    },
+    {
+      "path": "16-7-3/data.csv",
+      "name": "16-7-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-7-3"
+    },
+    {
       "path": "2-a-3/data.csv",
       "name": "2-a-3",
       "profile": "tabular-data-resource",
@@ -2648,6 +6447,60 @@
         ]
       },
       "title": "2-a-3"
+    },
+    {
+      "path": "12-8-2/data.csv",
+      "name": "12-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40 a 64",
+                "<39",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-8-2"
     },
     {
       "path": "5-c-7/data.csv",
@@ -2728,6 +6581,128 @@
       "title": "3-4-8"
     },
     {
+      "path": "15-3-7/data.csv",
+      "name": "15-3-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-7"
+    },
+    {
+      "path": "8-5-1/data.csv",
+      "name": "8-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 a 24",
+                "25 a 29",
+                "30 a 54",
+                ">=55"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Ingrés mitjà per hora d'empleades i empleats, desglossat per ocupació, edat i persones amb discapacitat"
+    },
+    {
+      "path": "15-3-1/data.csv",
+      "name": "15-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de terres degradades en comparació amb la superfície total"
+    },
+    {
+      "path": "8-a-4/data.csv",
+      "name": "8-a-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-a-4"
+    },
+    {
       "path": "6-a-2/data.csv",
       "name": "6-a-2",
       "profile": "tabular-data-resource",
@@ -2788,6 +6763,30 @@
       "title": "Percentatge de persones que han comprat per Internet en els últims 3 mesos"
     },
     {
+      "path": "9-2-1/data.csv",
+      "name": "9-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Valor afegit del sector manufacturo en proporció al PIB i per càpita"
+    },
+    {
       "path": "5-2-1/data.csv",
       "name": "5-2-1",
       "profile": "tabular-data-resource",
@@ -2810,6 +6809,83 @@
         ]
       },
       "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència física al llarg de la seua vida"
+    },
+    {
+      "path": "12-5-7/data.csv",
+      "name": "12-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-5-7"
+    },
+    {
+      "path": "11-2-11/data.csv",
+      "name": "11-2-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-11"
+    },
+    {
+      "path": "12-5-2/data.csv",
+      "name": "12-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-5-2"
     },
     {
       "path": "3-4-4/data.csv",
@@ -2861,6 +6937,59 @@
       "title": "3-4-4"
     },
     {
+      "path": "8-8-2/data.csv",
+      "name": "8-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nivell de compliment nacional dels drets laborals (llibertat d'associació i negociació col·lectiva) conformement a les fonts textuals de l'Organització Internacional del Treball (OIT) i la legislació interna, desglossat per sexe i estatus migratori"
+    },
+    {
+      "path": "9-1-12/data.csv",
+      "name": "9-1-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-12"
+    },
+    {
       "path": "3-7-2/data.csv",
       "name": "3-7-2",
       "profile": "tabular-data-resource",
@@ -2909,6 +7038,83 @@
       "title": "Suma del total de les subvencions i assignacions no generadores de deute dedicades directament a programes de reducció de la pobresa en proporció al PIB"
     },
     {
+      "path": "13-2-8/data.csv",
+      "name": "13-2-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-2-8"
+    },
+    {
+      "path": "13-1-1/data.csv",
+      "name": "13-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre de persones mortes, desaparegudes i afectades directament atribuït a desastres per cada 100.000 persones"
+    },
+    {
+      "path": "13-2-7/data.csv",
+      "name": "13-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-2-7"
+    },
+    {
       "path": "4-5-1/data.csv",
       "name": "4-5-1",
       "profile": "tabular-data-resource",
@@ -2955,6 +7161,30 @@
         ]
       },
       "title": "Pressupost municipal destinat a Accions Humanitàries ODS6"
+    },
+    {
+      "path": "8-8-1/data.csv",
+      "name": "8-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Taxes de freqüència de les lesions ocupacionals mortals i no mortals, desglossades per sexe i estatus migratori"
     },
     {
       "path": "3-4-7/data.csv",
@@ -3088,6 +7318,180 @@
       "title": "global_indicators.1-2-9-title"
     },
     {
+      "path": "16-1-3/data.csv",
+      "name": "16-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 39",
+                "40 a 64",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de la població que ha sofert a) violència física, b) violència psicològica i c) violència sexual en els últims 12 mesos"
+    },
+    {
+      "path": "15-3-6/data.csv",
+      "name": "15-3-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-6"
+    },
+    {
+      "path": "17-1-6/data.csv",
+      "name": "17-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-6"
+    },
+    {
+      "path": "17-1-13/data.csv",
+      "name": "17-1-13",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-13"
+    },
+    {
+      "path": "12-5-3/data.csv",
+      "name": "12-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-5-3"
+    },
+    {
+      "path": "11-c-4/data.csv",
+      "name": "11-c-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-c-4"
+    },
+    {
       "path": "5-5-4/data.csv",
       "name": "5-5-4",
       "profile": "tabular-data-resource",
@@ -3110,6 +7514,66 @@
         ]
       },
       "title": "Percentatge de dones professores en la UV"
+    },
+    {
+      "path": "16-1-1/data.csv",
+      "name": "16-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre de víctimes d'homicidis intencionals per cada 100.000 habitants, desglossat per sexe i edat"
+    },
+    {
+      "path": "10-2-11/data.csv",
+      "name": "10-2-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-11"
     },
     {
       "path": "1-2-12/data.csv",
@@ -3141,6 +7605,109 @@
       "title": "global_indicators.1-2-12-title"
     },
     {
+      "path": "8-8-3/data.csv",
+      "name": "8-8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-8-3"
+    },
+    {
+      "path": "10-2-9/data.csv",
+      "name": "10-2-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "35 a 64",
+                "<35",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-9"
+    },
+    {
       "path": "6-a-4/data.csv",
       "name": "6-a-4",
       "profile": "tabular-data-resource",
@@ -3163,6 +7730,213 @@
         ]
       },
       "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+    },
+    {
+      "path": "11-2-6/data.csv",
+      "name": "11-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-6"
+    },
+    {
+      "path": "11-2-3/data.csv",
+      "name": "11-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-3"
+    },
+    {
+      "path": "10-2-6/data.csv",
+      "name": "10-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-6"
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "PIB generat directament pel turisme en proporció al PIB total i a la taxa de creixement"
+    },
+    {
+      "path": "13-b-4/data.csv",
+      "name": "13-b-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-b-4"
+    },
+    {
+      "path": "11-6-4/data.csv",
+      "name": "11-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-6-4"
+    },
+    {
+      "path": "13-b-2/data.csv",
+      "name": "13-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-b-2"
+    },
+    {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-9-2"
     },
     {
       "path": "2-2-4/data.csv",
@@ -3217,6 +7991,30 @@
         ]
       },
       "title": "2-2-4"
+    },
+    {
+      "path": "15-3-8/data.csv",
+      "name": "15-3-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-8"
     },
     {
       "path": "4-2-1/data.csv",
@@ -3279,6 +8077,30 @@
       "title": "Proporció del professorat d'educació a) preescolar, b) primària, c) secundària inferior i d) secundària superior que ha rebut almenys la mínima formació docent organitzada prèvia a l'ocupació o en l'ocupació (per exemple, formació pedagògica) exigida per a impartir ensenyament a cada nivell en un país determinat"
     },
     {
+      "path": "15-3-3/data.csv",
+      "name": "15-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-3"
+    },
+    {
       "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
@@ -3328,6 +8150,30 @@
       "title": "Proporció de joves i adults amb competències en tecnologia de la informació i les comunicacions (TIC), desglossada per tipus de competència tècnica"
     },
     {
+      "path": "17-1-10/data.csv",
+      "name": "17-1-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-10"
+    },
+    {
       "path": "6-1-2/data.csv",
       "name": "6-1-2",
       "profile": "tabular-data-resource",
@@ -3350,6 +8196,60 @@
         ]
       },
       "title": "Consum de litres d'aigua domèstica per habitant i dia"
+    },
+    {
+      "path": "16-6-8/data.csv",
+      "name": "16-6-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 39",
+                "40 a 64",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-6-8"
     },
     {
       "path": "3-5-1/data.csv",
@@ -3388,6 +8288,35 @@
       "title": "Cobertura dels tractaments(farmacològics i psicosocials i serveis de rehabilitació i posttractament) de trastorns per abús de substàncies addictives"
     },
     {
+      "path": "11-2-8/data.csv",
+      "name": "11-2-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-8"
+    },
+    {
       "path": "5-1-1/data.csv",
       "name": "5-1-1",
       "profile": "tabular-data-resource",
@@ -3423,6 +8352,30 @@
         ]
       },
       "title": "Dones discriminades per motius de sexe en els últims 12 mesos"
+    },
+    {
+      "path": "16-a-1/data.csv",
+      "name": "16-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Existència d'institucions nacionals independents de drets humans, en compliment dels Principis de París"
     },
     {
       "path": "3-3-8/data.csv",
@@ -3472,6 +8425,300 @@
         ]
       },
       "title": "3-3-8"
+    },
+    {
+      "path": "9-1-2/data.csv",
+      "name": "9-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Volum de transport de passatgers i càrrega, desglossat per mitjà de transport"
+    },
+    {
+      "path": "7-b-1/data.csv",
+      "name": "7-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Inversions en eficiència energètica en proporció al PIB i a la quantia de la inversió estrangera directa en transferències financeres destinades a infraestructura i tecnologia per a serveis de desenvolupament sostenible"
+    },
+    {
+      "path": "13-b-1/data.csv",
+      "name": "13-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Nombre de països menys avançats i petits Estats insulars en desenvolupament que reben suport especialitzat, i quantitat de suport, en particular financer, tecnològic i de creació de capacitat, per als mecanismes de desenvolupament de la capacitat de planificació i gestió eficaces en relació amb el canvi climàtic, inclosos els centrats en les dones, els joves i les comunitats locals i marginades"
+    },
+    {
+      "path": "13-2-2/data.csv",
+      "name": "13-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "global_indicators.13-2-2-title"
+    },
+    {
+      "path": "16-1-8/data.csv",
+      "name": "16-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-1-8"
+    },
+    {
+      "path": "15-9-1/data.csv",
+      "name": "15-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Avanços en l'assoliment de les metes nacionals establertes de conformitat amb la segona Meta de Aichi per a la Diversitat Biològica del Pla Estratègic per a la Diversitat Biològica 2011‐2020"
+    },
+    {
+      "path": "16-6-6/data.csv",
+      "name": "16-6-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-6-6"
+    },
+    {
+      "path": "15-3-9/data.csv",
+      "name": "15-3-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-9"
+    },
+    {
+      "path": "9-1-8/data.csv",
+      "name": "9-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40 a 64",
+                "<40",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-8"
+    },
+    {
+      "path": "15-3-11/data.csv",
+      "name": "15-3-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-11"
+    },
+    {
+      "path": "9-1-3/data.csv",
+      "name": "9-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-3"
     },
     {
       "path": "3-3-4/data.csv",
@@ -3534,6 +8781,83 @@
       "title": "2-2-3"
     },
     {
+      "path": "11-b-1/data.csv",
+      "name": "11-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-b-1"
+    },
+    {
+      "path": "11-3-1/data.csv",
+      "name": "11-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-3-1"
+    },
+    {
+      "path": "12-a-1/data.csv",
+      "name": "12-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-a-1"
+    },
+    {
       "path": "5-5-3/data.csv",
       "name": "5-5-3",
       "profile": "tabular-data-resource",
@@ -3556,6 +8880,60 @@
         ]
       },
       "title": "Percentatge de dones professores en la UPV"
+    },
+    {
+      "path": "9-1-6/data.csv",
+      "name": "9-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40 a 64",
+                "<40",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-6"
     },
     {
       "path": "3-3-6/data.csv",
@@ -3607,6 +8985,84 @@
       "title": "3-3-6"
     },
     {
+      "path": "10-1-1/data.csv",
+      "name": "10-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 64",
+                "<18",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-1-1"
+    },
+    {
+      "path": "16-6-5/data.csv",
+      "name": "16-6-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-6-5"
+    },
+    {
       "path": "5-4-3/data.csv",
       "name": "5-4-3",
       "profile": "tabular-data-resource",
@@ -3656,6 +9112,141 @@
       "title": "Temps que dedica la població a la realització de les tasques domèstiques i de la llar"
     },
     {
+      "path": "11-2-4/data.csv",
+      "name": "11-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-4"
+    },
+    {
+      "path": "9-a-1/data.csv",
+      "name": "9-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Total de suport internacional oficial (assistència oficial per al desenvolupament més altres corrents oficials de recursos) destinat a la infraestructura"
+    },
+    {
+      "path": "8-a-3/data.csv",
+      "name": "8-a-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "8-a-3"
+    },
+    {
+      "path": "7-1-4/data.csv",
+      "name": "7-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "7-1-4"
+    },
+    {
+      "path": "11-2-13/data.csv",
+      "name": "11-2-13",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-13"
+    },
+    {
       "path": "1-2-11/data.csv",
       "name": "1-2-11",
       "profile": "tabular-data-resource",
@@ -3683,6 +9274,59 @@
         ]
       },
       "title": "global_indicators.1-2-11-title"
+    },
+    {
+      "path": "10-4-3/data.csv",
+      "name": "10-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-4-3"
+    },
+    {
+      "path": "9-c-5/data.csv",
+      "name": "9-c-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-c-5"
     },
     {
       "path": "1-2-6/data.csv",
@@ -3761,6 +9405,64 @@
         ]
       },
       "title": "Temps que dedica la població a l'atenció i cura dels fills convivents"
+    },
+    {
+      "path": "10-2-4/data.csv",
+      "name": "10-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "10-2-4"
+    },
+    {
+      "path": "9-1-11/data.csv",
+      "name": "9-1-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "9-1-11"
     },
     {
       "path": "4-6-2/data.csv",
@@ -3871,6 +9573,209 @@
       "title": "Taxa de mortalitat per suïcidi"
     },
     {
+      "path": "16-7-4/data.csv",
+      "name": "16-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 a 39",
+                "40 a 64",
+                ">=65"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-7-4"
+    },
+    {
+      "path": "17-1-4/data.csv",
+      "name": "17-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-4"
+    },
+    {
+      "path": "9-5-1/data.csv",
+      "name": "9-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Despeses en recerca i desenvolupament en proporció al PIB"
+    },
+    {
+      "path": "8-6-1/data.csv",
+      "name": "8-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 a 24",
+                "25 a 34"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de joves (entre 15 i 24 anys) que no cursen estudis, no estan ocupats ni reben capacitació"
+    },
+    {
+      "path": "15-3-2/data.csv",
+      "name": "15-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-2"
+    },
+    {
+      "path": "16-6-3/data.csv",
+      "name": "16-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "16-6-3"
+    },
+    {
       "path": "1-a-2/data.csv",
       "name": "1-a-2",
       "profile": "tabular-data-resource",
@@ -3893,6 +9798,35 @@
         ]
       },
       "title": "Proporció de la despesa pública total que es dedica a serveis essencials (educació, salut i protecció social)"
+    },
+    {
+      "path": "15-3-5/data.csv",
+      "name": "15-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-5"
     },
     {
       "path": "6-6-1/data.csv",
@@ -3919,6 +9853,30 @@
       "title": "Percentatge de platges amb qualificació excel·lent"
     },
     {
+      "path": "12-5-6/data.csv",
+      "name": "12-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "12-5-6"
+    },
+    {
       "path": "5-2-3/data.csv",
       "name": "5-2-3",
       "profile": "tabular-data-resource",
@@ -3941,6 +9899,30 @@
         ]
       },
       "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència psicològica de control a mans de la seua actual parella en els últims 12 mesos"
+    },
+    {
+      "path": "17-1-14/data.csv",
+      "name": "17-1-14",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "17-1-14"
     },
     {
       "path": "3-8-3/data.csv",
@@ -4020,6 +10002,189 @@
       "title": "Consum de litres d'aigua per habitant i dia"
     },
     {
+      "path": "15-3-12/data.csv",
+      "name": "15-3-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "15-3-12"
+    },
+    {
+      "path": "13-2-4/data.csv",
+      "name": "13-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "13-2-4"
+    },
+    {
+      "path": "8-10-1/data.csv",
+      "name": "8-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "a) Nombre de sucursals de bancs comercials per cada 100.000 adults i b) nombre de caixers automàtics per cada 100.000 adults"
+    },
+    {
+      "path": "11-2-2/data.csv",
+      "name": "11-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-2-2"
+    },
+    {
+      "path": "11-c-3/data.csv",
+      "name": "11-c-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-c-3"
+    },
+    {
+      "path": "11-6-6/data.csv",
+      "name": "11-6-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "11-6-6"
+    },
+    {
+      "path": "8-10-2/data.csv",
+      "name": "8-10-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció d'adults (a partir de 15 anys d'edat) que tenen un compte en un banc o una altra institució financera o un proveïdor de serveis de diners mòbils"
+    },
+    {
       "path": "1-2-2/data.csv",
       "name": "1-2-2",
       "profile": "tabular-data-resource",
@@ -4074,6 +10239,30 @@
       "title": "Proporció d'homes, dones i nens de totes les edats que viuen en la pobresa, en totes les seves dimensions, conformement a les definicions nacionals"
     },
     {
+      "path": "16-6-2/data.csv",
+      "name": "16-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          }
+        ]
+      },
+      "title": "Proporció de la població que se sent satisfeta amb la seva última experiència dels serveis públics"
+    },
+    {
       "path": "15-4-2/data.csv",
       "name": "15-4-2",
       "profile": "tabular-data-resource",
@@ -4122,30 +10311,6 @@
       "title": "Índex d'eutrofització costanera i densitat de detritus plàstics flotants"
     },
     {
-      "path": "16-1-3/data.csv",
-      "name": "16-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població que ha sofert a) violència física, b) violència psicològica i c) violència sexual en els últims 12 mesos"
-    },
-    {
       "path": "6-4-2/data.csv",
       "name": "6-4-2",
       "profile": "tabular-data-resource",
@@ -4170,30 +10335,6 @@
       "title": "Nivell d'estrès hídric: extracció d'aigua dolça en proporció als recursos d'aigua dolça disponibles"
     },
     {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de víctimes d'homicidis intencionals per cada 100.000 habitants, desglossat per sexe i edat"
-    },
-    {
       "path": "15-c-1/data.csv",
       "name": "15-c-1",
       "profile": "tabular-data-resource",
@@ -4216,54 +10357,6 @@
         ]
       },
       "title": "Proporció d'espècimens de flora i fauna silvestre comercialitzats procedents de la caça furtiva o el tràfic il·lícit"
-    },
-    {
-      "path": "8-8-2/data.csv",
-      "name": "8-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nivell de compliment nacional dels drets laborals (llibertat d'associació i negociació col·lectiva) conformement a les fonts textuals de l'Organització Internacional del Treball (OIT) i la legislació interna, desglossat per sexe i estatus migratori"
-    },
-    {
-      "path": "9-a-1/data.csv",
-      "name": "9-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Total de suport internacional oficial (assistència oficial per al desenvolupament més altres corrents oficials de recursos) destinat a la infraestructura"
     },
     {
       "path": "14-a-1/data.csv",
@@ -4362,30 +10455,6 @@
       "title": "Proporció de la superfície de conques transfrontereres subjectes a arranjaments operacionals per a la cooperació en matèria d'aigües"
     },
     {
-      "path": "15-3-1/data.csv",
-      "name": "15-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de terres degradades en comparació amb la superfície total"
-    },
-    {
       "path": "15-4-1/data.csv",
       "name": "15-4-1",
       "profile": "tabular-data-resource",
@@ -4432,30 +10501,6 @@
         ]
       },
       "title": "Canvi en l'ús eficient dels recursos hídrics amb el pas del temps"
-    },
-    {
-      "path": "16-7-2/data.csv",
-      "name": "16-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població que considera que l'adopció de decisions és inclusiva i respon a les seves necessitats, desglossada per sexe, edat, discapacitat i grup de població"
     },
     {
       "path": "16-3-2/data.csv",
@@ -4578,54 +10623,6 @@
       "title": "Valor en dòlars de l'assistència financera i tècnica (fins i tot mitjançant la cooperació Nord-Sud, Sud‐Sud i triangular) promesa als països en desenvolupament"
     },
     {
-      "path": "15-9-1/data.csv",
-      "name": "15-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Avanços en l'assoliment de les metes nacionals establertes de conformitat amb la segona Meta de Aichi per a la Diversitat Biològica del Pla Estratègic per a la Diversitat Biològica 2011‐2020"
-    },
-    {
-      "path": "13-2-1/data.csv",
-      "name": "13-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països que han comunicat l'establiment o la posada en marxa d'una política, estratègia o pla integrat que augmenti la seva capacitat per a adaptar-se als efectes adversos del canvi climàtic i que promouen la resiliència al clima i un desenvolupament amb baixes emissions de gasos d'efecte d'hivernacle sense comprometre per això la producció d'aliments (per exemple, un pla nacional d'adaptació, una contribució determinada a nivell nacional, una comunicació nacional o un informe biennal d'actualització)"
-    },
-    {
       "path": "17-8-1/data.csv",
       "name": "17-8-1",
       "profile": "tabular-data-resource",
@@ -4650,30 +10647,6 @@
       "title": "Proporció de persones que utilitzen Internet"
     },
     {
-      "path": "7-b-1/data.csv",
-      "name": "7-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Inversions en eficiència energètica en proporció al PIB i a la quantia de la inversió estrangera directa en transferències financeres destinades a infraestructura i tecnologia per a serveis de desenvolupament sostenible"
-    },
-    {
       "path": "14-7-1/data.csv",
       "name": "14-7-1",
       "profile": "tabular-data-resource",
@@ -4696,30 +10669,6 @@
         ]
       },
       "title": "Proporció del PIB corresponent a la pesca sostenible en els petits Estats insulars en desenvolupament, als països menys avançats i en tots els països"
-    },
-    {
-      "path": "15-b-1/data.csv",
-      "name": "15-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Assistència oficial per al desenvolupament i despesa pública destinats a la conservació i l'ús sostenible de la biodiversitat i els ecosistemes"
     },
     {
       "path": "8-2-1/data.csv",
@@ -4792,30 +10741,6 @@
         ]
       },
       "title": "Proporció de dones i homes joves d'entre 18 i 29 anys que van sofrir violència sexual abans de complir els 18 anys"
-    },
-    {
-      "path": "8-a-1/data.csv",
-      "name": "8-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Compromisos i desemborsaments en relació amb la iniciativa Ajuda per al Comerç"
     },
     {
       "path": "17-13-1/data.csv",
@@ -4962,30 +10887,6 @@
       "title": "Total dels fons aprovats per als països en desenvolupament a fi de promoure el desenvolupament, la transferència i la difusió de tecnologies ecològicament racionals"
     },
     {
-      "path": "16-7-1/data.csv",
-      "name": "16-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporcions de places (desglossades per sexe, edat, persones amb discapacitat i grups de població) en les institucions públiques (assemblees legislatives nacionals i locals, administració pública, poder judicial), en comparació amb la distribució nacional"
-    },
-    {
       "path": "17-10-1/data.csv",
       "name": "17-10-1",
       "profile": "tabular-data-resource",
@@ -5008,102 +10909,6 @@
         ]
       },
       "title": "Mitjana aranzelària mundial ponderada"
-    },
-    {
-      "path": "17-1-1/data.csv",
-      "name": "17-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Total d'ingressos del govern en proporció al PIB, desglossat per font."
-    },
-    {
-      "path": "8-5-1/data.csv",
-      "name": "8-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Ingrés mitjà per hora d'empleades i empleats, desglossat per ocupació, edat i persones amb discapacitat"
-    },
-    {
-      "path": "17-1-2/data.csv",
-      "name": "17-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció del pressupost nacional finançat per impostos interns"
-    },
-    {
-      "path": "9-c-1/data.csv",
-      "name": "9-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població amb cobertura de xarxa mòbil, desglossada per tecnologia"
     },
     {
       "path": "15-8-1/data.csv",
@@ -5202,78 +11007,6 @@
       "title": "Proporció d'escoles amb accés a a) electricitat, b) Internet amb finalitats pedagògics, c) computadores amb finalitats pedagògics, d) infraestructura i materials adaptats als estudiants amb discapacitat, e) subministrament bàsic d'aigua potable, f) instal·lacions de sanejament bàsiques separades per sexe i g) instal·lacions bàsiques per a la rentada de mans (segons les definicions dels indicadors WASH)"
     },
     {
-      "path": "9-2-2/data.csv",
-      "name": "9-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Ús del sector manufacturer en proporció a l'ocupació total"
-    },
-    {
-      "path": "16-1-4/data.csv",
-      "name": "16-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població que se sent segura en caminar sola en la seva zona de residència"
-    },
-    {
-      "path": "16-6-2/data.csv",
-      "name": "16-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població que se sent satisfeta amb la seva última experiència dels serveis públics"
-    },
-    {
       "path": "9-3-2/data.csv",
       "name": "9-3-2",
       "profile": "tabular-data-resource",
@@ -5298,54 +11031,6 @@
       "title": "Proporció de les petites indústries que han obtingut un préstec o una línia de crèdit"
     },
     {
-      "path": "16-1-2/data.csv",
-      "name": "16-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Morts relacionades amb conflictes per cada 100.000 habitants, desglossades per sexe, edat i causa"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població que té accés a l'electricitat"
-    },
-    {
       "path": "16-3-1/data.csv",
       "name": "16-3-1",
       "profile": "tabular-data-resource",
@@ -5368,30 +11053,6 @@
         ]
       },
       "title": "Proporció de víctimes de violència en els últims 12 mesos que han notificat la seva victimització a les autoritats competents o altres mecanismes de resolució de conflictes reconeguts oficialment"
-    },
-    {
-      "path": "9-1-2/data.csv",
-      "name": "9-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Volum de transport de passatgers i càrrega, desglossat per mitjà de transport"
     },
     {
       "path": "17-19-1/data.csv",
@@ -5706,30 +11367,6 @@
       "title": "Proporció de nens menors de 5 anys el naixement dels quals s'ha registrat davant una autoritat civil, desglossada per edat"
     },
     {
-      "path": "13-2-2/data.csv",
-      "name": "13-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "global_indicators.13-2-2-title"
-    },
-    {
       "path": "17-18-1/data.csv",
       "name": "17-18-1",
       "profile": "tabular-data-resource",
@@ -5752,30 +11389,6 @@
         ]
       },
       "title": "Proporció d'indicadors de desenvolupament sostenible produïts a nivell nacional, amb ple desglossament quan sigui pertinent per a la meta, de conformitat amb els Principis Fonamentals de les Estadístiques Oficials"
-    },
-    {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població la font primària de la qual d'energia són els combustibles i tecnologies nets"
     },
     {
       "path": "16-4-2/data.csv",
@@ -5970,30 +11583,6 @@
       "title": "Proporció i nombre de nens d'entre 5 i 17 anys que fan treball infantil, desglossats per sexe i edat"
     },
     {
-      "path": "9-2-1/data.csv",
-      "name": "9-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Valor afegit del sector manufacturo en proporció al PIB i per càpita"
-    },
-    {
       "path": "13-1-3/data.csv",
       "name": "13-1-3",
       "profile": "tabular-data-resource",
@@ -6040,54 +11629,6 @@
         ]
       },
       "title": "Consum material intern en termes absoluts, consum material intern per càpita i consum material intern per PIB"
-    },
-    {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de persones mortes, desaparegudes i afectades directament atribuït a desastres per cada 100.000 persones"
-    },
-    {
-      "path": "8-10-2/data.csv",
-      "name": "8-10-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció d'adults (a partir de 15 anys d'edat) que tenen un compte en un banc o una altra institució financera o un proveïdor de serveis de diners mòbils"
     },
     {
       "path": "5-6-1/data.csv",
@@ -6306,30 +11847,6 @@
       "title": "Proporció de llocs importants per a la biodiversitat terrestre i de l'aigua dolça inclosos en zones protegides, desglossada per tipus d'ecosistema"
     },
     {
-      "path": "13-1-2/data.csv",
-      "name": "13-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països que adopten i apliquen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendái per a la Reducció del Risc de Desastres 2015‐2030"
-    },
-    {
       "path": "8-1-1/data.csv",
       "name": "8-1-1",
       "profile": "tabular-data-resource",
@@ -6376,30 +11893,6 @@
         ]
       },
       "title": "Proporció de països que a) han realitzat almenys un cens de població i habitatge en els últims deu anys; i b) han registrat el 100% dels naixements i el 80% de les defuncions"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Taxes de freqüència de les lesions ocupacionals mortals i no mortals, desglossades per sexe i estatus migratori"
     },
     {
       "path": "9-4-1/data.csv",
@@ -6450,30 +11943,6 @@
       "title": "Nombre de països que han adoptat marcs legislatius, administratius i normatius per a assegurar una distribució justa i equitativa dels beneficis"
     },
     {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció d'ocupació informal en el sector no agrícola, desglossada per sexe"
-    },
-    {
       "path": "6-5-1/data.csv",
       "name": "6-5-1",
       "profile": "tabular-data-resource",
@@ -6496,30 +11965,6 @@
         ]
       },
       "title": "Grau d'implementació de la gestió integrada dels recursos hídrics (0‐100)"
-    },
-    {
-      "path": "13-b-1/data.csv",
-      "name": "13-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països menys avançats i petits Estats insulars en desenvolupament que reben suport especialitzat, i quantitat de suport, en particular financer, tecnològic i de creació de capacitat, per als mecanismes de desenvolupament de la capacitat de planificació i gestió eficaces en relació amb el canvi climàtic, inclosos els centrats en les dones, els joves i les comunitats locals i marginades"
     },
     {
       "path": "4-7-1/data.csv",
@@ -6546,30 +11991,6 @@
       "title": "Grau en què i) l'educació per a la ciutadania mundial i ii) l'educació per al desenvolupament sostenible, inclosa la igualtat de gènere i els drets humans, s'incorporen en tots els nivells de a) les polítiques nacionals d'educació, b) els plans d'estudi, c) la formació del professorat i d) l'avaluació dels estudiants"
     },
     {
-      "path": "8-10-1/data.csv",
-      "name": "8-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "a) Nombre de sucursals de bancs comercials per cada 100.000 adults i b) nombre de caixers automàtics per cada 100.000 adults"
-    },
-    {
       "path": "17-5-1/data.csv",
       "name": "17-5-1",
       "profile": "tabular-data-resource",
@@ -6594,30 +12015,6 @@
       "title": "Nombre de països que adopten i apliquen sistemes de promoció de les inversions en favor dels països menys avançats"
     },
     {
-      "path": "16-a-1/data.csv",
-      "name": "16-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Existència d'institucions nacionals independents de drets humans, en compliment dels Principis de París"
-    },
-    {
       "path": "17-6-1/data.csv",
       "name": "17-6-1",
       "profile": "tabular-data-resource",
@@ -6640,78 +12037,6 @@
         ]
       },
       "title": "Nombre d'acords i programes de cooperació en matèria de ciència o tecnologia subscrits pels països, desglossat per tipus de cooperació"
-    },
-    {
-      "path": "9-5-1/data.csv",
-      "name": "9-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Despeses en recerca i desenvolupament en proporció al PIB"
-    },
-    {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "PIB generat directament pel turisme en proporció al PIB total i a la taxa de creixement"
-    },
-    {
-      "path": "9-5-2/data.csv",
-      "name": "9-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre d'investigadors (en equivalent a temps complet) per cada milió d'habitants"
     },
     {
       "path": "7-3-1/data.csv",
@@ -6808,54 +12133,6 @@
         ]
       },
       "title": "Nombre de països que compten amb un pla estadístic nacional plenament finançat i en procés d'aplicació, desglossat per font de finançament"
-    },
-    {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Despeses primàries del govern en proporció al pressupost aprovat originalment, desglossats per sector (o per codis pressupostaris o elements similars)"
-    },
-    {
-      "path": "8-6-1/data.csv",
-      "name": "8-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de joves (entre 15 i 24 anys) que no cursen estudis, no estan ocupats ni reben capacitació"
     },
     {
       "path": "16-b-1/data.csv",
@@ -6978,54 +12255,6 @@
       "title": "Proporció de dones d'entre 20 i 24 anys que estaven casades o mantenien una unió estable abans de complir els 15 anys i abans de complir els 18 anys"
     },
     {
-      "path": "13-3-1/data.csv",
-      "name": "13-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països que han incorporat la mitigació del canvi climàtic, l'adaptació a ell, la reducció dels seus efectes i l'alerta primerenca en els plans d'estudis de l'ensenyament primari, secundària i terciària"
-    },
-    {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població rural que viu a menys de 2 km d'una carretera transitable tot l'any"
-    },
-    {
       "path": "16-5-2/data.csv",
       "name": "16-5-2",
       "profile": "tabular-data-resource",
@@ -7096,30 +12325,6 @@
         ]
       },
       "title": "Proporció de dependències administratives locals que han establert polítiques i procediments operacionals per a la participació de les comunitats locals en la gestió de l'aigua i el sanejament"
-    },
-    {
-      "path": "8-5-2/data.csv",
-      "name": "8-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Taxa de desocupació, desglossada per sexe, edat i persones amb discapacitat"
     }
   ]
 }

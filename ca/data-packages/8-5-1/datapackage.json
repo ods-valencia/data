@@ -11,13 +11,39 @@
       "schema": {
         "fields": [
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 a 24",
+                "25 a 29",
+                "30 a 54",
+                ">=55"
+              ]
+            },
+            "title": "Edat"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Homes",
+                "Dones"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Valor"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Any"
           }
         ]
