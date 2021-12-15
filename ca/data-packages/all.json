@@ -10719,30 +10719,6 @@
       "title": "Proporció de països que han aprovat la legislació nacional pertinent i han destinat recursos suficients per a la prevenció o el control de les espècies exòtiques invasores"
     },
     {
-      "path": "16-10-2/data.csv",
-      "name": "16-10-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països que adopten i apliquen garanties constitucionals, legals o normatives per a l'accés públic a la informació"
-    },
-    {
       "path": "4-a-1/data.csv",
       "name": "4-a-1",
       "profile": "tabular-data-resource",
@@ -11175,30 +11151,6 @@
       "title": "Consum material intern en termes absoluts, consum material intern per càpita i consum material intern per PIB"
     },
     {
-      "path": "17-12-1/data.csv",
-      "name": "17-12-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Mitjana dels aranzels que enfronten els països en desenvolupament, els països menys avançats i els petits Estats insulars en desenvolupament"
-    },
-    {
       "path": "6-2-1/data.csv",
       "name": "6-2-1",
       "profile": "tabular-data-resource",
@@ -11485,30 +11437,6 @@
         ]
       },
       "title": "Progressos realitzats pels països en el grau d'aplicació d'un marc jurídic, reglamentari, normatiu o institucional que reconegui i protegeixi els drets d'accés per a la pesca en petita escala"
-    },
-    {
-      "path": "16-b-1/data.csv",
-      "name": "16-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la població que declara haver-se sentit personalment discriminada o assetjada en els últims 12 mesos per motius de discriminació prohibits pel dret internacional dels drets humans"
     },
     {
       "path": "15-5-1/data.csv",
