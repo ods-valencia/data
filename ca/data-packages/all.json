@@ -11799,30 +11799,6 @@
       "title": "Nombre de països que han adoptat marcs legislatius, administratius i normatius per a assegurar una distribució justa i equitativa dels beneficis"
     },
     {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Grau d'implementació de la gestió integrada dels recursos hídrics (0‐100)"
-    },
-    {
       "path": "4-7-1/data.csv",
       "name": "4-7-1",
       "profile": "tabular-data-resource",
