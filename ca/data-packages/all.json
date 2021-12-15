@@ -10575,30 +10575,6 @@
       "title": "Proporció i nombre de nens d'entre 5 i 17 anys que fan treball infantil, desglossats per sexe i edat"
     },
     {
-      "path": "8-4-2/data.csv",
-      "name": "8-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Consum material intern en termes absoluts, consum material intern per càpita i consum material intern per PIB"
-    },
-    {
       "path": "9-4-1/data.csv",
       "name": "9-4-1",
       "profile": "tabular-data-resource",
