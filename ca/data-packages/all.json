@@ -10311,30 +10311,6 @@
       "title": "Proporció del pressupost total de recerca assignada a la recerca en el camp de la tecnologia marina"
     },
     {
-      "path": "8-4-1/data.csv",
-      "name": "8-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Empremta material en termes absoluts, Empremta material per càpita i Empremta material per PIB"
-    },
-    {
       "path": "9-b-1/data.csv",
       "name": "9-b-1",
       "profile": "tabular-data-resource",
