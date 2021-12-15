@@ -10887,30 +10887,6 @@
       "title": "Proporción de víctimas de violencia en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente"
     },
     {
-      "path": "17-19-1/data.csv",
-      "name": "17-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Valor en dólares de todos los recursos proporcionados para fortalecer la capacidad estadística de los países en desarrollo"
-    },
-    {
       "path": "16-10-1/data.csv",
       "name": "16-10-1",
       "profile": "tabular-data-resource",
@@ -11533,30 +11509,6 @@
         ]
       },
       "title": "Tasa de crecimiento anual del PIB real per cápita"
-    },
-    {
-      "path": "17-19-2/data.csv",
-      "name": "17-19-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción de países que a) han realizado al menos un censo de población y vivienda en los últimos diez años; y b) han registrado el 100% de los nacimientos y el 80% de las defunciones"
     },
     {
       "path": "9-4-1/data.csv",

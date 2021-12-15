@@ -10887,30 +10887,6 @@
       "title": "Proporció de víctimes de violència en els últims 12 mesos que han notificat la seva victimització a les autoritats competents o altres mecanismes de resolució de conflictes reconeguts oficialment"
     },
     {
-      "path": "17-19-1/data.csv",
-      "name": "17-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Valor en dòlars de tots els recursos proporcionats per a enfortir la capacitat estadística dels països en desenvolupament"
-    },
-    {
       "path": "16-10-1/data.csv",
       "name": "16-10-1",
       "profile": "tabular-data-resource",
@@ -11533,30 +11509,6 @@
         ]
       },
       "title": "Taxa de creixement anual del PIB real per càpita"
-    },
-    {
-      "path": "17-19-2/data.csv",
-      "name": "17-19-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de països que a) han realitzat almenys un cens de població i habitatge en els últims deu anys; i b) han registrat el 100% dels naixements i el 80% de les defuncions"
     },
     {
       "path": "9-4-1/data.csv",
