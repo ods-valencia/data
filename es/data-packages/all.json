@@ -10695,30 +10695,6 @@
       "title": "Emisiones de CO2 por unidad de valor añadido"
     },
     {
-      "path": "7-a-1/data.csv",
-      "name": "7-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos"
-    },
-    {
       "path": "14-b-1/data.csv",
       "name": "14-b-1",
       "profile": "tabular-data-resource",

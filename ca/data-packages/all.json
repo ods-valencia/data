@@ -10695,30 +10695,6 @@
       "title": "Emissions de CO2 per unitat de valor afegit"
     },
     {
-      "path": "7-a-1/data.csv",
-      "name": "7-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Corrents financers internacionals cap als països en desenvolupament per a donar suport a la recerca i el desenvolupament d'energies netes i la producció d'energia renovable, inclosos els sistemes híbrids"
-    },
-    {
       "path": "14-b-1/data.csv",
       "name": "14-b-1",
       "profile": "tabular-data-resource",
