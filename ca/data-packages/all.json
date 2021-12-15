@@ -10599,30 +10599,6 @@
       "title": "Proporció de dones i homes joves d'entre 18 i 29 anys que van sofrir violència sexual abans de complir els 18 anys"
     },
     {
-      "path": "17-13-1/data.csv",
-      "name": "17-13-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Tauler macroeconòmic"
-    },
-    {
       "path": "16-2-1/data.csv",
       "name": "16-2-1",
       "profile": "tabular-data-resource",

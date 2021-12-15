@@ -10599,30 +10599,6 @@
       "title": "Proporción de mujeres y hombres jóvenes de entre 18 y 29 años que sufrieron violencia sexual antes de cumplir los 18 años"
     },
     {
-      "path": "17-13-1/data.csv",
-      "name": "17-13-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Tablero macroeconómico"
-    },
-    {
       "path": "16-2-1/data.csv",
       "name": "16-2-1",
       "profile": "tabular-data-resource",
