@@ -10575,30 +10575,6 @@
       "title": "Proporció de dones i homes joves d'entre 18 i 29 anys que van sofrir violència sexual abans de complir els 18 anys"
     },
     {
-      "path": "16-2-1/data.csv",
-      "name": "16-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de nens d'entre 1 i 17 anys que han sofert algun càstig físic o agressió psicològica a les mans dels seus cuidadors en l'últim mes"
-    },
-    {
       "path": "14-2-1/data.csv",
       "name": "14-2-1",
       "profile": "tabular-data-resource",
@@ -11005,30 +10981,6 @@
         ]
       },
       "title": "Assistència oficial per al desenvolupament i despesa pública destinats a la conservació i l'ús sostenible de la biodiversitat i els ecosistemes"
-    },
-    {
-      "path": "16-2-2/data.csv",
-      "name": "16-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de víctimes del tràfic de persones per cada 100.000 habitants, desglossat per sexe, edat i tipus d'explotació"
     },
     {
       "path": "15-1-2/data.csv",
