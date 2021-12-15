@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.12-title
+SDG_TARGET: >-
+  global_targets.12-5-title
+SDG_INDICATOR: >-
+  Recollida anual de vidre per habitant
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Quocient entre la quantitat de vidre recollida durant l'any de referència entre la població calculada a meitat de l'any.
+UNIT_MEASURE: >-
+  Quilograms per habitant
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+  No s'inclouen les dades dels residus depositats en l'Ecoparc de Vara de Quart. La població calculada a meitat de l'any de referència s'obté com a semisuma de les poblacions corresponents a 1 de gener de l'any de referència i 1 de gener de l'any següent.  Les dades de població provenen de l'explotació estadística del fitxer del Padró Municipal d'Habitants de l'Ajuntament de València.
+   
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+DATA_COMP: >-
+  
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
