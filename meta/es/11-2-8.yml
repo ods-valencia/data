@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.11-title
+SDG_TARGET: >-
+  global_targets.11-2-title
+SDG_INDICATOR: >-
+  Paradas de EMT por cada 10.000 habitantes
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Relación entre las paradas de EMT y la población empadronada en el municipio el año de referencia.
+UNIT_MEASURE: >-
+  Tanto por 10.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/), del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews y del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+   Solo se contabilizan los datos facilitados por la EMT. La población calculada a mitad del año de referencia se obtiene como semisuma de las poblaciones correspondientes a 1 de enero del año de referencia y 1 de enero del año siguiente.
+DATA_COMP: >-
+  Cociente entre la población con ingresos por unidad de consumo por debajo de 5000 euros y el total de la población.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
