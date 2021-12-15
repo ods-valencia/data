@@ -11343,30 +11343,6 @@
       "title": "Proporció de membres i drets de vot dels països en desenvolupament en organitzacions internacionals"
     },
     {
-      "path": "17-2-1/data.csv",
-      "name": "17-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Assistència oficial per al desenvolupament neta, total i per als països menys avançats en proporció a l'ingrés nacional brut (INB) dels donants del Comitè d'Assistència per al Desenvolupament de l'Organització de Cooperació i Desenvolupament Econòmics (OCDE)"
-    },
-    {
       "path": "14-4-1/data.csv",
       "name": "14-4-1",
       "profile": "tabular-data-resource",
