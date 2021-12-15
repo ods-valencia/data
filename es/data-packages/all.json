@@ -226,7 +226,7 @@
           }
         ]
       },
-      "title": "4-b-2"
+      "title": "Cobertura del xec escolar"
     },
     {
       "path": "3-7-1/data.csv",
@@ -482,7 +482,7 @@
           }
         ]
       },
-      "title": "8-5-5"
+      "title": "Població parada de llarga duració"
     },
     {
       "path": "2-3-2/data.csv",
@@ -703,7 +703,7 @@
           }
         ]
       },
-      "title": "Proporción de la población rural que vive a menos de 2 km de una carretera transitable todo el año"
+      "title": "Mercancíes transportades en el Port de València (tones)"
     },
     {
       "path": "8-3-1/data.csv",
@@ -739,7 +739,7 @@
           }
         ]
       },
-      "title": "Proporción de empleo informal con respecto al empleo total, desglosada por sector y sexo"
+      "title": "Població amb contracte laboral temporal"
     },
     {
       "path": "10-1-2/data.csv",
@@ -793,7 +793,7 @@
           }
         ]
       },
-      "title": "10-1-2"
+      "title": "Població amb ingressos per unitat de consum per davall de 7500 euros"
     },
     {
       "path": "16-a-3/data.csv",
@@ -1010,7 +1010,7 @@
           }
         ]
       },
-      "title": "10-b-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS10"
     },
     {
       "path": "16-6-7/data.csv",
@@ -1237,7 +1237,7 @@
           }
         ]
       },
-      "title": "10-2-8"
+      "title": "Percentatge de població amb discapacitat entre els desocupats"
     },
     {
       "path": "15-3-4/data.csv",
@@ -1364,7 +1364,7 @@
           }
         ]
       },
-      "title": "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad"
+      "title": "Atur registrat"
     },
     {
       "path": "5-a-3/data.csv",
@@ -1466,7 +1466,7 @@
           }
         ]
       },
-      "title": "10-2-3"
+      "title": "Població amb ingressos per unitat de consum per davall del 60% de la mediana"
     },
     {
       "path": "11-c-2/data.csv",
@@ -1538,7 +1538,7 @@
           }
         ]
       },
-      "title": "Empleo del sector manufacturero en proporción al empleo total"
+      "title": "Percentatge de població ocupada en el Sector Industrial"
     },
     {
       "path": "16-7-5/data.csv",
@@ -1586,7 +1586,7 @@
           }
         ]
       },
-      "title": "8-a-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS8"
     },
     {
       "path": "11-c-1/data.csv",
@@ -1639,7 +1639,7 @@
           }
         ]
       },
-      "title": "10-4-1"
+      "title": "Percentatge de rendes procedents del salari"
     },
     {
       "path": "9-c-3/data.csv",
@@ -1663,7 +1663,7 @@
           }
         ]
       },
-      "title": "9-c-3"
+      "title": "Percentatge d'habitatges amb alguna mena de telèfon"
     },
     {
       "path": "5-5-2/data.csv",
@@ -1796,7 +1796,7 @@
           }
         ]
       },
-      "title": "10-2-7"
+      "title": "Atur registrat en persones amb discapacitat"
     },
     {
       "path": "5-c-9/data.csv",
@@ -1928,7 +1928,7 @@
           }
         ]
       },
-      "title": "7-b-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS7"
     },
     {
       "path": "3-2-3/data.csv",
@@ -1993,7 +1993,7 @@
           }
         ]
       },
-      "title": "9-5-4"
+      "title": "Taxa de Patents per 100.000 habitants "
     },
     {
       "path": "9-c-2/data.csv",
@@ -2017,7 +2017,7 @@
           }
         ]
       },
-      "title": "9-c-2"
+      "title": "Percentatge d'habitatges amb telèfon mòbil"
     },
     {
       "path": "10-3-1/data.csv",
@@ -2071,7 +2071,7 @@
           }
         ]
       },
-      "title": "10-3-1"
+      "title": "Percentatge de persones que s'han sentit discriminades per alguna causa en els últims 12 mesos"
     },
     {
       "path": "9-5-3/data.csv",
@@ -2095,7 +2095,7 @@
           }
         ]
       },
-      "title": "9-5-3"
+      "title": "Patents presentades per la Universitat Politècnica de València (UPV)"
     },
     {
       "path": "6-a-1/data.csv",
@@ -2262,7 +2262,7 @@
           }
         ]
       },
-      "title": "9-1-5"
+      "title": "Població que utilitza MetroValencia com a principal mitjà per a desplaçar-se"
     },
     {
       "path": "11-2-5/data.csv",
@@ -2383,7 +2383,7 @@
           }
         ]
       },
-      "title": "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios"
+      "title": "Consum d'energia elèctrica domèstica per habitant i dia (kWh)"
     },
     {
       "path": "4-3-2/data.csv",
@@ -2407,7 +2407,7 @@
           }
         ]
       },
-      "title": "4-3-2"
+      "title": "Percentatge de dones entre els estudiants universitaris"
     },
     {
       "path": "1-a-4/data.csv",
@@ -2503,7 +2503,7 @@
           }
         ]
       },
-      "title": "4-c-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS4"
     },
     {
       "path": "12-a-3/data.csv",
@@ -2551,7 +2551,7 @@
           }
         ]
       },
-      "title": "Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes"
+      "title": "Patents presentades per la Universitat de València (UV)"
     },
     {
       "path": "3-3-2/data.csv",
@@ -2700,7 +2700,7 @@
           }
         ]
       },
-      "title": "9-c-6"
+      "title": "Percentatge d'habitatges amb connexió de banda ampla"
     },
     {
       "path": "3-2-2/data.csv",
@@ -2808,7 +2808,7 @@
           }
         ]
       },
-      "title": "9-a-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS9"
     },
     {
       "path": "10-3-2/data.csv",
@@ -2832,7 +2832,7 @@
           }
         ]
       },
-      "title": "10-3-2"
+      "title": "Percentatge de persones que s'han sentit discriminades per motius de discapacitat en els últims 12 mesos"
     },
     {
       "path": "3-3-5/data.csv",
@@ -3133,7 +3133,7 @@
           }
         ]
       },
-      "title": "8-8-4"
+      "title": "Malalties professionals per cada 10.000 treballadors actius"
     },
     {
       "path": "7-1-5/data.csv",
@@ -3162,7 +3162,7 @@
           }
         ]
       },
-      "title": "7-1-5"
+      "title": "Punts d'enllumenat públic"
     },
     {
       "path": "9-1-4/data.csv",
@@ -3186,7 +3186,7 @@
           }
         ]
       },
-      "title": "9-1-4"
+      "title": "Passatgers que han passat per l'Aeroport de València"
     },
     {
       "path": "8-5-4/data.csv",
@@ -3235,7 +3235,7 @@
           }
         ]
       },
-      "title": "8-5-4"
+      "title": "Percentatge de població amb discapacitat entre els desocupats"
     },
     {
       "path": "5-c-2/data.csv",
@@ -3283,7 +3283,7 @@
           }
         ]
       },
-      "title": "7-b-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "9-1-9/data.csv",
@@ -3312,7 +3312,7 @@
           }
         ]
       },
-      "title": "9-1-9"
+      "title": "Temps mitjà a la parada de MetroValencia més pròxima"
     },
     {
       "path": "8-9-4/data.csv",
@@ -3336,7 +3336,7 @@
           }
         ]
       },
-      "title": "8-9-4"
+      "title": "Apartaments turístics per cada 1.000 habitants"
     },
     {
       "path": "11-2-10/data.csv",
@@ -3408,7 +3408,7 @@
           }
         ]
       },
-      "title": "Compromisos y desembolsos en relación con la iniciativa Ayuda para el Comercio"
+      "title": "Pressupost municipal destinat a Cooperació ODS8"
     },
     {
       "path": "4-b-1/data.csv",
@@ -3432,7 +3432,7 @@
           }
         ]
       },
-      "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
+      "title": "Assistència oficial destinada a xec escolar"
     },
     {
       "path": "9-c-4/data.csv",
@@ -3456,7 +3456,7 @@
           }
         ]
       },
-      "title": "9-c-4"
+      "title": "Percentatge d'habitatges amb alguna mena d'ordinador"
     },
     {
       "path": "7-1-3/data.csv",
@@ -3480,7 +3480,7 @@
           }
         ]
       },
-      "title": "7-1-3"
+      "title": "Consum de gas per habitant i dia (kWh)"
     },
     {
       "path": "4-c-3/data.csv",
@@ -3504,7 +3504,7 @@
           }
         ]
       },
-      "title": "4-c-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS4"
     },
     {
       "path": "16-a-4/data.csv",
@@ -3576,7 +3576,7 @@
           }
         ]
       },
-      "title": "Proporción de la población con cobertura de red móvil, desglosada por tecnología"
+      "title": "Percentatge d'habitatges amb telèfon fix"
     },
     {
       "path": "3-6-1/data.csv",
@@ -3708,7 +3708,7 @@
           }
         ]
       },
-      "title": "10-1-3"
+      "title": "Població amb ingressos per unitat de consum per davall de 10000 euros"
     },
     {
       "path": "17-1-17/data.csv",
@@ -3768,7 +3768,7 @@
           }
         ]
       },
-      "title": "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo"
+      "title": "Percentatge de persones que en l'últim any han realitzat algun curs, taller o activitat formativa"
     },
     {
       "path": "3-8-5/data.csv",
@@ -3942,7 +3942,7 @@
           }
         ]
       },
-      "title": "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones elementales de aritmética, desglosada por sexo"
+      "title": "Població entre 25 i 64 anys amb estudis secundaris o inferiors"
     },
     {
       "path": "8-5-6/data.csv",
@@ -3983,7 +3983,7 @@
           }
         ]
       },
-      "title": "8-5-6"
+      "title": "Percentatge de població desocupada parada de llarga duració"
     },
     {
       "path": "5-2-7/data.csv",
@@ -4108,7 +4108,7 @@
           }
         ]
       },
-      "title": "10-2-5"
+      "title": "Percentatge de renda que controla el 20% més ric"
     },
     {
       "path": "5-2-4/data.csv",
@@ -4192,7 +4192,7 @@
           }
         ]
       },
-      "title": "10-b-1"
+      "title": "Pressupost municipal destinat a Cooperació ODS10"
     },
     {
       "path": "3-1-2/data.csv",
@@ -4252,7 +4252,7 @@
           }
         ]
       },
-      "title": "Proporción de niños, niñas y adolescentes que, a) en los cursos segundo y tercero, b) al final de la enseñanza primaria y c) al final de la enseñanza secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, desglosada por sexo"
+      "title": "Taxa de promoció en ESO"
     },
     {
       "path": "2-2-1/data.csv",
@@ -4395,7 +4395,7 @@
           }
         ]
       },
-      "title": "9-1-10"
+      "title": "Temps mitjà a la parada d'EMT més pròxima"
     },
     {
       "path": "2-2-2/data.csv",
@@ -4455,7 +4455,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que tiene acceso a la electricidad"
+      "title": "Consum d'energia elèctrica total per habitant i dia (kWh)"
     },
     {
       "path": "7-b-2/data.csv",
@@ -4479,7 +4479,7 @@
           }
         ]
       },
-      "title": "7-b-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS7"
     },
     {
       "path": "11-1-5/data.csv",
@@ -4664,7 +4664,7 @@
           }
         ]
       },
-      "title": "10-2-10"
+      "title": "Percentatge de població parada de nacionalitat estrangera"
     },
     {
       "path": "4-1-2/data.csv",
@@ -4700,7 +4700,7 @@
           }
         ]
       },
-      "title": "Índice de finalización (enseñanza primaria, primer ciclo de enseñanza secundaria y segundo ciclo de enseñanza secundaria)"
+      "title": "Taxa de promoció en l'educació secundària postobligatòria"
     },
     {
       "path": "5-b-1/data.csv",
@@ -4784,7 +4784,7 @@
           }
         ]
       },
-      "title": "10-b-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS10"
     },
     {
       "path": "5-a-2/data.csv",
@@ -4934,7 +4934,7 @@
           }
         ]
       },
-      "title": "9-a-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS9"
     },
     {
       "path": "1-a-1/data.csv",
@@ -5082,7 +5082,7 @@
           }
         ]
       },
-      "title": "10-2-1"
+      "title": "Població amb ingressos per unitat de consum per davall del 40% de la mediana"
     },
     {
       "path": "1-2-5/data.csv",
@@ -5189,7 +5189,7 @@
           }
         ]
       },
-      "title": "9-1-7"
+      "title": "Valoració de la facilitat per a desplaçar-se amb MetroValencia"
     },
     {
       "path": "11-6-7/data.csv",
@@ -5242,7 +5242,7 @@
           }
         ]
       },
-      "title": "10-4-2"
+      "title": "Percentatge de rendes procedents de pensions"
     },
     {
       "path": "16-7-2/data.csv",
@@ -5512,7 +5512,7 @@
           }
         ]
       },
-      "title": "10-b-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "11-2-9/data.csv",
@@ -5608,7 +5608,7 @@
           }
         ]
       },
-      "title": "9-a-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "15-b-3/data.csv",
@@ -5704,7 +5704,7 @@
           }
         ]
       },
-      "title": "4-c-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "3-5-4/data.csv",
@@ -5843,7 +5843,7 @@
           }
         ]
       },
-      "title": "10-2-2"
+      "title": "Població amb ingressos per unitat de consum per davall del 50% de la mediana"
     },
     {
       "path": "16-1-5/data.csv",
@@ -5968,7 +5968,7 @@
           }
         ]
       },
-      "title": "10-1-4"
+      "title": "Índex de Gini"
     },
     {
       "path": "6-3-4/data.csv",
@@ -6028,7 +6028,7 @@
           }
         ]
       },
-      "title": "8-3-2"
+      "title": "Població afiliada en règim autònom"
     },
     {
       "path": "3-c-4/data.csv",
@@ -6081,7 +6081,7 @@
           }
         ]
       },
-      "title": "8-9-3"
+      "title": "Nombre d'apartaments turístics"
     },
     {
       "path": "17-1-16/data.csv",
@@ -6232,7 +6232,7 @@
           }
         ]
       },
-      "title": "8-5-3"
+      "title": "Atur registrat en persones amb discapacitat"
     },
     {
       "path": "11-6-1/data.csv",
@@ -6652,7 +6652,7 @@
           }
         ]
       },
-      "title": "Ingreso medio por hora de las personas empleadas, desglosado por sexo, edad, ocupación y personas con discapacidad"
+      "title": "Taxa de desocupació"
     },
     {
       "path": "15-3-1/data.csv",
@@ -6700,7 +6700,7 @@
           }
         ]
       },
-      "title": "8-a-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "6-a-2/data.csv",
@@ -6784,7 +6784,7 @@
           }
         ]
       },
-      "title": "Valor añadido del sector manufacturo en proporción al PIB y per cápita"
+      "title": "Percentatge d'empreses en el Sector Industrial"
     },
     {
       "path": "5-2-1/data.csv",
@@ -6958,7 +6958,7 @@
           }
         ]
       },
-      "title": "Nivel de cumplimiento nacional de los derechos laborales (libertad de asociación y negociación colectiva) con arreglo a las fuentes textuales de la Organización Internacional del Trabajo (OIT) y la legislación interna, desglosado por sexo y estatus migratorio"
+      "title": "Accidents laborals per cada 1.000 treballadors actius"
     },
     {
       "path": "9-1-12/data.csv",
@@ -6987,7 +6987,7 @@
           }
         ]
       },
-      "title": "9-1-12"
+      "title": "Població amb una parada d'EMT a menys de 10 min"
     },
     {
       "path": "3-7-2/data.csv",
@@ -7136,7 +7136,7 @@
           }
         ]
       },
-      "title": "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
+      "title": "Índex de paritat entre dones i homes de la població entre 18 i 64 anys que han realitzat activitats educatives en els últims 12 mesos"
     },
     {
       "path": "6-a-3/data.csv",
@@ -7184,7 +7184,7 @@
           }
         ]
       },
-      "title": "Lesiones ocupacionales mortales y no mortales por cada 100.000 trabajadores, desglosadas por sexo y estatus migratorio"
+      "title": "Nombre d'accidents laborals amb baixa"
     },
     {
       "path": "3-4-7/data.csv",
@@ -7573,7 +7573,7 @@
           }
         ]
       },
-      "title": "10-2-11"
+      "title": "Percentatge de població afiliada a la SS de nacionalitat estrangera"
     },
     {
       "path": "1-2-12/data.csv",
@@ -7651,7 +7651,7 @@
           }
         ]
       },
-      "title": "8-8-3"
+      "title": "Població amb malalties professionals"
     },
     {
       "path": "10-2-9/data.csv",
@@ -7705,7 +7705,7 @@
           }
         ]
       },
-      "title": "10-2-9"
+      "title": "Percentatge de població de nacionalitat estrangera"
     },
     {
       "path": "6-a-4/data.csv",
@@ -7811,7 +7811,7 @@
           }
         ]
       },
-      "title": "10-2-6"
+      "title": "Percentatge de renda que controla el 20% més pobre"
     },
     {
       "path": "8-9-1/data.csv",
@@ -7840,7 +7840,7 @@
           }
         ]
       },
-      "title": "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento"
+      "title": "Nombre de places hoteleres"
     },
     {
       "path": "13-b-4/data.csv",
@@ -7936,7 +7936,7 @@
           }
         ]
       },
-      "title": "8-9-2"
+      "title": "Places hoteleres per cada 1.000 habitants"
     },
     {
       "path": "2-2-4/data.csv",
@@ -8050,7 +8050,7 @@
           }
         ]
       },
-      "title": "Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo"
+      "title": "Taxa d'escolarització en edat infantil"
     },
     {
       "path": "4-c-1/data.csv",
@@ -8074,7 +8074,7 @@
           }
         ]
       },
-      "title": "Proporción de docentes con las calificaciones mínimas requeridas, por nivel educativo"
+      "title": "Pressupost municipal destinat a Cooperació ODS4"
     },
     {
       "path": "15-3-3/data.csv",
@@ -8147,7 +8147,7 @@
           }
         ]
       },
-      "title": "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica"
+      "title": "Proporció de persones entre 16 i 74 anys que han utilitzat alguna habilitat informàtica en els últims 12 mesos"
     },
     {
       "path": "17-1-10/data.csv",
@@ -8448,7 +8448,7 @@
           }
         ]
       },
-      "title": "Volumen de transporte de pasajeros y carga, desglosado por medio de transporte"
+      "title": "Passatgers que han passat pel Port de València"
     },
     {
       "path": "7-b-1/data.csv",
@@ -8472,7 +8472,7 @@
           }
         ]
       },
-      "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
+      "title": "Pressupost municipal destinat a Cooperació ODS7"
     },
     {
       "path": "13-b-1/data.csv",
@@ -8670,7 +8670,7 @@
           }
         ]
       },
-      "title": "9-1-8"
+      "title": "Valoració de la facilitat per a desplaçar-se amb EMT"
     },
     {
       "path": "15-3-11/data.csv",
@@ -8718,7 +8718,7 @@
           }
         ]
       },
-      "title": "9-1-3"
+      "title": "Mercancíes transportades en l'Aeroport de València (tones)"
     },
     {
       "path": "3-3-4/data.csv",
@@ -8933,7 +8933,7 @@
           }
         ]
       },
-      "title": "9-1-6"
+      "title": "Població que utilitza EMT com a principal mitjà per a desplaçar-se"
     },
     {
       "path": "3-3-6/data.csv",
@@ -9036,7 +9036,7 @@
           }
         ]
       },
-      "title": "10-1-1"
+      "title": "Població amb ingressos per unitat de consum per davall de 5000 euros"
     },
     {
       "path": "16-6-5/data.csv",
@@ -9162,7 +9162,7 @@
           }
         ]
       },
-      "title": "Total de apoyo internacional oficial (asistencia oficial para el desarrollo más otras corrientes oficiales de recursos) destinado a la infraestructura"
+      "title": "Pressupost municipal destinat a Cooperació ODS9"
     },
     {
       "path": "8-a-3/data.csv",
@@ -9186,7 +9186,7 @@
           }
         ]
       },
-      "title": "8-a-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS8"
     },
     {
       "path": "7-1-4/data.csv",
@@ -9215,7 +9215,7 @@
           }
         ]
       },
-      "title": "7-1-4"
+      "title": "Percentatge de nous habitatges"
     },
     {
       "path": "11-2-13/data.csv",
@@ -9302,7 +9302,7 @@
           }
         ]
       },
-      "title": "10-4-3"
+      "title": "Percentatge de rendes procedents de prestacions per incapacitat o dependència"
     },
     {
       "path": "9-c-5/data.csv",
@@ -9326,7 +9326,7 @@
           }
         ]
       },
-      "title": "9-c-5"
+      "title": "Percentatge d'habitatges amb accés a Internet"
     },
     {
       "path": "1-2-6/data.csv",
@@ -9433,7 +9433,7 @@
           }
         ]
       },
-      "title": "10-2-4"
+      "title": "Índex de Dependència Demogràfica"
     },
     {
       "path": "9-1-11/data.csv",
@@ -9462,7 +9462,7 @@
           }
         ]
       },
-      "title": "9-1-11"
+      "title": "Població amb una parada de MetroValencia a menys de 10 min"
     },
     {
       "path": "4-6-2/data.csv",
@@ -9516,7 +9516,7 @@
           }
         ]
       },
-      "title": "4-6-2"
+      "title": "Població entre 25 i 64 anys amb estudis postobligatoris"
     },
     {
       "path": "3-4-2/data.csv",
@@ -9672,7 +9672,7 @@
           }
         ]
       },
-      "title": "Gastos en investigación y desarrollo en proporción al PIB"
+      "title": "Patents sol·licitades per residents a València"
     },
     {
       "path": "8-6-1/data.csv",
@@ -9725,7 +9725,7 @@
           }
         ]
       },
-      "title": "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación"
+      "title": "Atur registrat en població jove amb baix nivell d'estudis"
     },
     {
       "path": "15-3-2/data.csv",
@@ -10076,7 +10076,7 @@
           }
         ]
       },
-      "title": "a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos"
+      "title": "Sucursals bancàries"
     },
     {
       "path": "11-2-2/data.csv",
@@ -10182,7 +10182,7 @@
           }
         ]
       },
-      "title": "Proporción de adultos (a partir de 15 años de edad) que tienen una cuenta en un banco u otra institución financiera o un proveedor de servicios de dinero móvil"
+      "title": "Sucursals bancàries per cada 1.000 habitants > 15 anys"
     },
     {
       "path": "1-2-2/data.csv",
