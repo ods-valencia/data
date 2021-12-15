@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-4-2",
+  "title": "Proporció d'armes confiscades, trobades o lliurades l'origen o el context de les quals il·lícits han estat determinats o establerts per una autoritat competent, de conformitat amb els instruments internacionals"
+}
