@@ -10551,30 +10551,6 @@
       "title": "Proporció de les petites indústries que han obtingut un préstec o una línia de crèdit"
     },
     {
-      "path": "15-7-1/data.csv",
-      "name": "15-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció d'espècimens de flora i fauna silvestre comercialitzats procedents de la caça furtiva o el tràfic il·lícit"
-    },
-    {
       "path": "8-b-1/data.csv",
       "name": "8-b-1",
       "profile": "tabular-data-resource",
@@ -10909,30 +10885,6 @@
         ]
       },
       "title": "Emissions de CO2 per unitat de valor afegit"
-    },
-    {
-      "path": "15-6-1/data.csv",
-      "name": "15-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nombre de països que han adoptat marcs legislatius, administratius i normatius per a assegurar una distribució justa i equitativa dels beneficis"
     },
     {
       "path": "4-7-1/data.csv",
