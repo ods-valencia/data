@@ -10311,30 +10311,6 @@
       "title": "Índex d'eutrofització costanera i densitat de detritus plàstics flotants"
     },
     {
-      "path": "6-4-2/data.csv",
-      "name": "6-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Nivell d'estrès hídric: extracció d'aigua dolça en proporció als recursos d'aigua dolça disponibles"
-    },
-    {
       "path": "15-c-1/data.csv",
       "name": "15-c-1",
       "profile": "tabular-data-resource",
@@ -10429,30 +10405,6 @@
         ]
       },
       "title": "Superfície forestal en proporció a la superfície total"
-    },
-    {
-      "path": "6-5-2/data.csv",
-      "name": "6-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de la superfície de conques transfrontereres subjectes a arranjaments operacionals per a la cooperació en matèria d'aigües"
     },
     {
       "path": "15-4-1/data.csv",
@@ -11821,30 +11773,6 @@
         ]
       },
       "title": "Nombre de països que han adoptat marcs legislatius, administratius i normatius per a assegurar una distribució justa i equitativa dels beneficis"
-    },
-    {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Grau d'implementació de la gestió integrada dels recursos hídrics (0‐100)"
     },
     {
       "path": "4-7-1/data.csv",
