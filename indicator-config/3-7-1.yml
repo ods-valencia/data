@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,16 +17,18 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-7-1-title
+graph_title: Taxa de fecunditat de les adolescents de 10 a 14 anys
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.3-7-1-title
+indicator_name: Taxa de fecunditat de les adolescents de 10 a 14 anys
 indicator_number: '3.7.1'
-national_geographical_coverage: ''
+national_geographical_coverage: València
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+

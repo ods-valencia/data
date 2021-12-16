@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Incidència de l'hepatitis B per cada 100.000 habitants
+graph_title: 'Percentatge de persones de 15 i més anys que consumeixen begudes alcohòliques
+  almenys una vegada per setmana '
 graph_titles: []
 graph_type: line
-indicator_name: Incidència de l'hepatitis B per cada 100.000 habitants
-indicator_number: '3.3.4'
+indicator_name: 'Percentatge de persones de 15 i més anys que consumeixen begudes
+  alcohòliques almenys una vegada per setmana '
+indicator_number: '3.5.3'
 national_geographical_coverage: València
 page_content: ''
 permalink: ''
