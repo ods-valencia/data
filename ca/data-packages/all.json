@@ -10263,30 +10263,6 @@
       "title": "Endeutament municipal per habitant"
     },
     {
-      "path": "14-a-1/data.csv",
-      "name": "14-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció del pressupost total de recerca assignada a la recerca en el camp de la tecnologia marina"
-    },
-    {
       "path": "14-c-1/data.csv",
       "name": "14-c-1",
       "profile": "tabular-data-resource",
