@@ -41,7 +41,7 @@
           }
         ]
       },
-      "title": "3-4-6"
+      "title": "Taxa de mortalitat prematura"
     },
     {
       "path": "15-b-4/data.csv",
@@ -149,7 +149,7 @@
           }
         ]
       },
-      "title": "3-5-3"
+      "title": "Percentatge de persones de 15 i més anys que consumeixen begudes alcohòliques almenys una vegada per setmana "
     },
     {
       "path": "11-1-7/data.csv",
@@ -250,7 +250,7 @@
           }
         ]
       },
-      "title": "Proporció de dones en edat de procrear (entre 15 i 49 anys) que cobreixen les seves necessitats de planificació familiar amb mètodes moderns"
+      "title": "Taxa de fecunditat de les adolescents de 10 a 14 anys"
     },
     {
       "path": "17-1-5/data.csv",
@@ -1112,7 +1112,7 @@
           }
         ]
       },
-      "title": "Taxa de mortalitat atribuïda a les malalties cardiovasculars, el càncer, la diabetis o les malalties respiratòries cròniques"
+      "title": "Taxa de mortalitat atribuïda a les malalties cardiovasculars"
     },
     {
       "path": "1-2-3/data.csv",
@@ -1309,7 +1309,7 @@
           }
         ]
       },
-      "title": "3-c-2"
+      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS3"
     },
     {
       "path": "8-5-2/data.csv",
@@ -1723,7 +1723,7 @@
           }
         ]
       },
-      "title": "Prevalença del consum actual de tabac a partir dels 15 anys d'edat (edats ajustades)"
+      "title": "Percentatge de població de 15 i més anys que són fumadors diaris"
     },
     {
       "path": "2-3-1/data.csv",
@@ -1856,7 +1856,7 @@
           }
         ]
       },
-      "title": "Cobertura dels serveis de salut essencials (definida com la cobertura mitjana dels serveis essencials entre la població general i els més desfavorits, calculada a partir d'intervencions traçadores com les relacionades amb la salut reproductiva, materna, neonatal i infantil, les malalties infeccioses, les malalties no transmissibles i la capacitat dels serveis i l'accés a ells)"
+      "title": "Percentatge de població amb necessitat d'atenció mèdica insatisfeta"
     },
     {
       "path": "17-1-2/data.csv",
@@ -1969,7 +1969,7 @@
           }
         ]
       },
-      "title": "3-2-3"
+      "title": "Taxa de mortalitat infantil"
     },
     {
       "path": "9-5-4/data.csv",
@@ -2208,7 +2208,7 @@
           }
         ]
       },
-      "title": "Taxa de mortalitat de nens menors de 5 anys"
+      "title": "Taxa de mortalitat de menors de 5 anys"
     },
     {
       "path": "9-1-5/data.csv",
@@ -2335,7 +2335,7 @@
           }
         ]
       },
-      "title": "3-4-5"
+      "title": "Taxa de mortalitat atribuïda a tumors del sistema respiratori"
     },
     {
       "path": "5-2-6/data.csv",
@@ -2599,7 +2599,7 @@
           }
         ]
       },
-      "title": "Densitat i distribució del personal sanitari"
+      "title": "Pressupost municipal destinat a Cooperació ODS3"
     },
     {
       "path": "15-b-2/data.csv",
@@ -2881,7 +2881,7 @@
           }
         ]
       },
-      "title": "Nombre de persones que requereixen intervencions contra malalties tropicals desateses"
+      "title": "Taxa de mortalitat atribuïda al VIH"
     },
     {
       "path": "1-2-1/data.csv",
@@ -3630,7 +3630,7 @@
           }
         ]
       },
-      "title": "Taxa de mortalitat per lesions degudes a accidents de trànsit"
+      "title": "Taxa de mortalitat per lesions degudes a accident de trànsit"
     },
     {
       "path": "11-6-2/data.csv",
@@ -3792,7 +3792,7 @@
           }
         ]
       },
-      "title": "3-8-5"
+      "title": "Farmàcies per cada 10.000 habitants"
     },
     {
       "path": "5-a-4/data.csv",
@@ -3840,7 +3840,7 @@
           }
         ]
       },
-      "title": "Proporció de la població amb grans despeses sanitàries per llar com a percentatge del total de despeses o ingressos de les llars"
+      "title": "Proporció de la despesa anual de les persones destinada a despeses relacionades amb la salut"
     },
     {
       "path": "12-b-1/data.csv",
@@ -4168,7 +4168,7 @@
           }
         ]
       },
-      "title": "Consum nociu d'alcohol, definit segons el context nacional com el consum d'alcohol per càpita (a partir dels 15 anys d'edat) durant un any civil en litres d'alcohol pur"
+      "title": "Taxa de persones en tractament per consum d'alcohol"
     },
     {
       "path": "10-b-1/data.csv",
@@ -4562,7 +4562,7 @@
           }
         ]
       },
-      "title": "3-4-3"
+      "title": "Taxa de mortalitat atribuïda a la diabetis"
     },
     {
       "path": "17-1-15/data.csv",
@@ -5344,7 +5344,7 @@
           }
         ]
       },
-      "title": "Incidència de la malària per cada 1.000 habitants"
+      "title": "Incidència de la malària per cada 100.000 habitants"
     },
     {
       "path": "3-c-3/data.csv",
@@ -5368,7 +5368,7 @@
           }
         ]
       },
-      "title": "3-c-3"
+      "title": "Pressupost municipal destinat a Accions Humanitàries ODS3"
     },
     {
       "path": "2-a-4/data.csv",
@@ -5560,7 +5560,7 @@
           }
         ]
       },
-      "title": "3-7-3"
+      "title": "Taxa de fecunditat de les adolescents de 10 a 19 anys"
     },
     {
       "path": "17-1-1/data.csv",
@@ -5753,7 +5753,7 @@
           }
         ]
       },
-      "title": "3-5-4"
+      "title": "Taxa de mortalitat atribuïda a trastorns mentals derivats de l'abús d'alcohol i drogues"
     },
     {
       "path": "5-c-1/data.csv",
@@ -6052,7 +6052,7 @@
           }
         ]
       },
-      "title": "3-c-4"
+      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
     },
     {
       "path": "8-9-3/data.csv",
@@ -6183,7 +6183,7 @@
           }
         ]
       },
-      "title": "Taxa de mortalitat atribuïda a la contaminació de les llars i de l'aire ambient"
+      "title": "Taxa de mortalitat atribuïda a intoxicacions involuntàries"
     },
     {
       "path": "8-5-3/data.csv",
@@ -6280,7 +6280,7 @@
           }
         ]
       },
-      "title": "3-8-4"
+      "title": "Consultes d'odontologia per cada 10.000 habitants"
     },
     {
       "path": "1-2-10/data.csv",
@@ -6369,7 +6369,7 @@
           }
         ]
       },
-      "title": "Nombre de noves infeccions pel VIH per cada 1.000 habitants no infectats, desglossat per sexe, edat i poblacions clau"
+      "title": "Incidència del VIH/SIDA per cada 100.000 habitants"
     },
     {
       "path": "17-1-8/data.csv",
@@ -6578,7 +6578,7 @@
           }
         ]
       },
-      "title": "3-4-8"
+      "title": "Taxa de mortalitat per suïcidi"
     },
     {
       "path": "15-3-7/data.csv",
@@ -6934,7 +6934,7 @@
           }
         ]
       },
-      "title": "3-4-4"
+      "title": "Taxa de mortalitat atribuïda al càncer"
     },
     {
       "path": "8-8-2/data.csv",
@@ -7011,7 +7011,7 @@
           }
         ]
       },
-      "title": "Taxa de fecunditat de les adolescents (entre 10 i 14 anys i entre 15 i 19 anys) per cada 1.000 dones d'aquest grup d'edat"
+      "title": "Taxa de fecunditat de les adolescents de 15 a 19 anys"
     },
     {
       "path": "1-a-3/data.csv",
@@ -7225,7 +7225,7 @@
           }
         ]
       },
-      "title": "3-4-7"
+      "title": "Esperança de vida en nàixer"
     },
     {
       "path": "3-3-7/data.csv",
@@ -7274,7 +7274,7 @@
           }
         ]
       },
-      "title": "3-3-7"
+      "title": "Taxa de mortalitat atribuïda a l'hepatitis vírica"
     },
     {
       "path": "1-2-9/data.csv",
@@ -8285,7 +8285,7 @@
           }
         ]
       },
-      "title": "Cobertura dels tractaments(farmacològics i psicosocials i serveis de rehabilitació i posttractament) de trastorns per abús de substàncies addictives"
+      "title": "Taxa de persones en tractament per consum de drogues il·legals"
     },
     {
       "path": "11-2-8/data.csv",
@@ -8424,7 +8424,7 @@
           }
         ]
       },
-      "title": "3-3-8"
+      "title": "Taxa de mortalitat atribuïda a enf. infeccioses del sistema respiratori"
     },
     {
       "path": "9-1-2/data.csv",
@@ -8982,7 +8982,7 @@
           }
         ]
       },
-      "title": "3-3-6"
+      "title": "Taxa de mortalitat atribuïda a la tuberculosi"
     },
     {
       "path": "10-1-1/data.csv",
@@ -9570,7 +9570,7 @@
           }
         ]
       },
-      "title": "Taxa de mortalitat per suïcidi"
+      "title": "Taxa de mortalitat atribuïda a les malalties respiratòries"
     },
     {
       "path": "16-7-4/data.csv",
@@ -9946,7 +9946,7 @@
           }
         ]
       },
-      "title": "3-8-3"
+      "title": "Llits instal·lats en hospitals públics per cada 10.000 habitants"
     },
     {
       "path": "3-1-1/data.csv",

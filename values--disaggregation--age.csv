@@ -10,8 +10,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 25 a 34,3,3
 30 a 49,8,8
 30 a 54,2,2
-30 a 69,8,8
-<30,16,16
+30 a 69,13,13
+<30,21,21
 35 a 54,3,3
 35 a 64,3,3
 <35,2,2
@@ -23,4 +23,4 @@ Value,Disaggregation combinations using this value,Number of indicators
 55 a 74,1,1
 >=55,2,2
 >=65,28,28
->=70,8,8
+>=70,13,13
