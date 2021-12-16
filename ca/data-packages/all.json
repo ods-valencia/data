@@ -10383,30 +10383,6 @@
       "title": "Progressos realitzats pels països en el grau d'aplicació dels instruments internacionals l'objectiu dels quals és combatre la pesca il·legal, no declarada i no reglamentada"
     },
     {
-      "path": "14-4-1/data.csv",
-      "name": "14-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de poblacions de peixos els nivells dels quals són biològicament sostenibles"
-    },
-    {
       "path": "14-b-1/data.csv",
       "name": "14-b-1",
       "profile": "tabular-data-resource",
@@ -10429,30 +10405,6 @@
         ]
       },
       "title": "Progressos realitzats pels països en el grau d'aplicació d'un marc jurídic, reglamentari, normatiu o institucional que reconegui i protegeixi els drets d'accés per a la pesca en petita escala"
-    },
-    {
-      "path": "14-3-1/data.csv",
-      "name": "14-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Acidesa mitjana de la mar (pH) mesura en un conjunt convingut d'estacions de mostreig representatives"
     }
   ]
 }
