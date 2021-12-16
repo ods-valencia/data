@@ -10335,30 +10335,6 @@
       "title": "Nombre de països que, mitjançant marcs jurídicos, normatius i institucionals, avancen en la ratificació, l'acceptació i la implementació dels instruments relacionats amb els oceans que apliquen el dret internacional reflectit en la Convenció de les Nacions Unides sobre el Dret de la Mar per a la conservació i l'ús sostenible dels oceans i els seus recursos"
     },
     {
-      "path": "14-2-1/data.csv",
-      "name": "14-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          }
-        ]
-      },
-      "title": "Proporció de zones econòmiques exclusives nacionals gestionades mitjançant enfocaments basats en els ecosistemes"
-    },
-    {
       "path": "14-5-1/data.csv",
       "name": "14-5-1",
       "profile": "tabular-data-resource",
