@@ -10287,30 +10287,6 @@
       "title": "Proporción del presupuesto total de investigación asignada a la investigación en el campo de la tecnología marina"
     },
     {
-      "path": "14-7-1/data.csv",
-      "name": "14-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "Proporción del PIB correspondiente a la pesca sostenible en los pequeños Estados insulares en desarrollo, en los países menos adelantados y en todos los países"
-    },
-    {
       "path": "14-c-1/data.csv",
       "name": "14-c-1",
       "profile": "tabular-data-resource",
