@@ -10263,30 +10263,6 @@
       "title": "Endeutament municipal per habitant"
     },
     {
-      "path": "14-1-1/data.csv",
-      "name": "14-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          }
-        ]
-      },
-      "title": "a) Índice de eutrofización costera; y b) densidad de detritos plásticos"
-    },
-    {
       "path": "14-a-1/data.csv",
       "name": "14-a-1",
       "profile": "tabular-data-resource",

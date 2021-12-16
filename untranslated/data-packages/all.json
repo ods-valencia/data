@@ -9364,28 +9364,6 @@
       "title": "Endeutament municipal per habitant"
     },
     {
-      "path": "14-1-1/data.csv",
-      "name": "14-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-1-1-title"
-    },
-    {
       "path": "14-a-1/data.csv",
       "name": "14-a-1",
       "profile": "tabular-data-resource",
