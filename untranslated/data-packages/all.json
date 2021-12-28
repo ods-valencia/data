@@ -2660,8 +2660,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Dona",
-                "Home"
+                "Men",
+                "Women"
               ]
             }
           },

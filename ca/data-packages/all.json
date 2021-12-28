@@ -2910,8 +2910,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Dona",
-                "Home"
+                "Homes",
+                "Dones"
               ]
             },
             "title": "Sexe"
