@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Presupuesto municipal destinado a Ayuda a Países en Desarrollo
+graph_title: Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con
+  el ODS 1
 graph_titles: []
 graph_type: bar
-indicator_name: Presupuesto municipal destinado a Ayuda a Países en Desarrollo
+indicator_name: Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con
+  el ODS 1
 indicator_number: '1.a.4'
 national_geographical_coverage: Valencia
 page_content: ''
