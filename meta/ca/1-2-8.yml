@@ -1,34 +1,78 @@
-composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
-data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
-data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
-embedded_feature_url: ''
-expected_disaggregations: []
-graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: ''
-graph_title: Hogares familiares monoparentales
-graph_titles: []
-graph_type: line
-indicator_name: Hogares familiares monoparentales
-indicator_number: '1.2.8'
-national_geographical_coverage: Valencia
-page_content: ''
-permalink: ''
-precision: []
-progress_status: target_achieved
-reporting_status: complete
-sort: ''
-standalone: false
-tags: []
+SDG_GOAL: >-
+   global_goals.1-title
+SDG_TARGET: >-
+  global_targets.1-2-title
+SDG_INDICATOR: >-
+  Llars familiars monoparentals
+SDG_SERIES_DESCR: >-
 
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Nombre de fulls padronals familiars formats per una única persona adulta (de 18 o més anys d'edat) i almenys un menor de 18 anys.
+UNIT_MEASURE: >-
+  Llars
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf). 
+  El concepte de llar familiar adoptada correspon amb el conjunt de persones residents en un mateix habitatge familiar que apareixen inscrites en un mateix full padronal. No és per tant coincident amb el concepte ampli de llar (persona o conjunt de persones que resideixen habitualment en un mateix habitatge familiar principal) que s'utilitza, per exemple, en l'Enquesta Contínua de Llars. Tampoc és coincident amb el concepte estricte de llar (persona o conjunt de persones que ocupen en comú un habitatge familiar principal o part, i consumeixen i/o comparteixen aliments o altres béns amb càrrec a un mateix pressupost) utilitzat, per exemple, en l'Enquesta de Pressupostos Familiars. La informació referida a llars utilitzada per a aquest indicador és, per tant, una aproximació a la realitat, i ha de ser presa amb una certa cautela en ser obtinguda d'una font l'objecte de la qual no és tractar aquesta variable.  El terme monoparental utilitzat en l'indicador no fa referència a una relació patern filial entre els membres de la llar (ja que les relacions de parentiu no s'inclouen en la informació recollida en el registre padronal), sinó que fa referència a una relació de convivència respecte als menors empadronats. 
+  Encara que aquest indicador no és un indicador directe de pobresa, s'ha inclòs en aquesta meta en existir una important relació amb la presència de pobresa relativa, ja que les famílies monoparentals estan especialment exposades a aquesta situació pel fet que, en molts casos, compten amb els ingressos d'un sol progenitor.
+DATA_COMP: >-
+  Nombre de fulls padronals familiars formats per una única persona adulta (de 18 o més anys d'edat) i almenys un menor de 18 anys registrats en el Padró Municipal d'Habitants de l'Ajuntament de València a 1 de gener de l'any de referència. 
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
