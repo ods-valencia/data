@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge d'ordres d'allunyament concedides a dones pels Jutjats de
-  Violència Domèstica
+graph_title: Proporció d'ordres d' allunyament concedides a dones
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge d'ordres d'allunyament concedides a dones pels Jutjats
-  de Violència Domèstica
+indicator_name: Proporció d'ordres d' allunyament concedides a dones
 indicator_number: '5.c.6'
 national_geographical_coverage: València
 page_content: ''

@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Temps que dedica la població a l'atenció i cura dels fills convivents
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Temps que dedica la població a l'atenció i cura dels fills convivents
 indicator_number: '5.4.1'
 national_geographical_coverage: València

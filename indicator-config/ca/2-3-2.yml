@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de població ocupada en l'agricultura
+graph_title: Població ocupada en l'agricultura
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de població ocupada en l'agricultura
+indicator_name: Població ocupada en l'agricultura
 indicator_number: '2.3.2'
 national_geographical_coverage: València
 page_content: ''

@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proporció de la despesa anual de les persones destinada a alimentació
+graph_title: Despesa anual de les persones destinada a alimentació
 graph_titles: []
 graph_type: line
-indicator_name: Proporció de la despesa anual de les persones destinada a alimentació
+indicator_name: Despesa anual de les persones destinada a alimentació
 indicator_number: '2.1.1'
 national_geographical_coverage: València
 page_content: ''

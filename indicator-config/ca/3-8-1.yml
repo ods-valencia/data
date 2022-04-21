@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Percentatge de població amb necessitat d'atenció mèdica insatisfeta
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Percentatge de població amb necessitat d'atenció mèdica insatisfeta
 indicator_number: '3.8.1'
 national_geographical_coverage: València

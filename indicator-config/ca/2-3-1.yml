@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de superfície destinada a terres cultivades
+graph_title: Superfície destinada a terres cultivades
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de superfície destinada a terres cultivades
+indicator_name: Superfície destinada a terres cultivades
 indicator_number: '2.3.1'
 national_geographical_coverage: València
 page_content: ''
