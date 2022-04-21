@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Població de 5 a 14 anys amb obesitat o sobrepés
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Població de 5 a 14 anys amb obesitat o sobrepés
 indicator_number: '2.2.3'
 national_geographical_coverage: València

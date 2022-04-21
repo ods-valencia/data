@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de órdenes de alejamiento concedidas a mujeres por los Juzgados
-  de Violencia Doméstica
+graph_title: Proporción de órdenes de alejamiento concedidas a mujeres
 graph_titles: []
 graph_type: line
-indicator_name: Porcentaje de órdenes de alejamiento concedidas a mujeres por los
-  Juzgados de Violencia Doméstica
+indicator_name: Proporción de órdenes de alejamiento concedidas a mujeres
 indicator_number: '5.c.6'
 national_geographical_coverage: Valencia
 page_content: ''

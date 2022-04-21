@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proporción del gasto anual de las personas destinada a alimentación
+graph_title: Gasto anual de las personas destinado a alimentación
 graph_titles: []
 graph_type: line
-indicator_name: Proporción del gasto anual de las personas destinada a alimentación
+indicator_name: Gasto anual de las personas destinado a alimentación
 indicator_number: '2.1.1'
 national_geographical_coverage: Valencia
 page_content: ''

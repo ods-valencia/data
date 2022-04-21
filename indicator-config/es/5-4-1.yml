@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Tiempo que dedica la población a la atención y cura de los hijos convivientes
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Tiempo que dedica la población a la atención y cura de los hijos convivientes
 indicator_number: '5.4.1'
 national_geographical_coverage: Valencia

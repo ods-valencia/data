@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proporción de mujeres y niñas de 16 años o más que han sufrido en los
-  12 meses anteriores violencia sexual fuera del ámbito de la pareja
+graph_title: Proporción de mujeres y niñas de 16 años o más que han sufrido violencia
+  física y/o sexual a manos de su actual pareja en los últimos 12 meses
 graph_titles: []
 graph_type: bar
-indicator_name: Proporción de mujeres y niñas de 16 años o más que han sufrido en
-  los 12 meses anteriores violencia sexual fuera del ámbito de la pareja
+indicator_name: Proporción de mujeres y niñas de 16 años o más que han sufrido violencia
+  física y/o sexual a manos de su actual pareja en los últimos 12 meses
 indicator_number: '5.2.8'
 national_geographical_coverage: Valencia
 page_content: ''

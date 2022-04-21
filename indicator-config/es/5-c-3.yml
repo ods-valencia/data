@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Mujeres víctimas de denuncias en los Juzgados de Violencia Doméstica
+graph_title: Mujeres víctimas de Violencia Doméstica
 graph_titles: []
 graph_type: line
-indicator_name: Mujeres víctimas de denuncias en los Juzgados de Violencia Doméstica
+indicator_name: Mujeres víctimas de Violencia Doméstica
 indicator_number: '5.c.3'
 national_geographical_coverage: Valencia
 page_content: ''

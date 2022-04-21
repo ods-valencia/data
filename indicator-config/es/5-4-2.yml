@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Tiempo que dedica la población a la atención y cura de personas convivientes
   dependientes o con discapacidad
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Tiempo que dedica la población a la atención y cura de personas convivientes
   dependientes o con discapacidad
 indicator_number: '5.4.2'

@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Porcentaje de personas que en el último año han realizado algún curso,
   taller o actividad formativa
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Porcentaje de personas que en el último año han realizado algún curso,
   taller o actividad formativa
 indicator_number: '4.3.1'

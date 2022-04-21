@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Pressupost municipal destinat a Cooperació ODS3
+graph_title: Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament
+  relacionat amb l’ODS 3
 graph_titles: []
 graph_type: bar
-indicator_name: Pressupost municipal destinat a Cooperació ODS3
+indicator_name: Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament
+  relacionat amb l’ODS 3
 indicator_number: '3.c.1'
 national_geographical_coverage: València
 page_content: ''

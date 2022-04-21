@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Porcentaje de población con necesidad de atención médica insatisfecha
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Porcentaje de población con necesidad de atención médica insatisfecha
 indicator_number: '3.8.1'
 national_geographical_coverage: Valencia

@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proporción del gasto anual de las personas destinada a gastos relacionados
+graph_title: Proporción del gasto anual de las personas destinado a gastos relacionados
   con la salud
 graph_titles: []
 graph_type: line
-indicator_name: Proporción del gasto anual de las personas destinada a gastos relacionados
+indicator_name: Proporción del gasto anual de las personas destinado a gastos relacionados
   con la salud
 indicator_number: '3.8.2'
 national_geographical_coverage: Valencia

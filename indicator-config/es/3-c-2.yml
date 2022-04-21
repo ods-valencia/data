@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Presupuesto municipal destinado a Educación para el desarrollo ODS3
+graph_title: Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía
+  Global relacionado con el ODS 3
 graph_titles: []
 graph_type: bar
-indicator_name: Presupuesto municipal destinado a Educación para el desarrollo ODS3
+indicator_name: Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía
+  Global relacionado con el ODS 3
 indicator_number: '3.c.2'
 national_geographical_coverage: Valencia
 page_content: ''

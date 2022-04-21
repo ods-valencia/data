@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proporción de partes atendidos por personal sanitario especializado
+graph_title: Proporción de partos atendidos por personal sanitario especializado
 graph_titles: []
 graph_type: line
-indicator_name: Proporción de partes atendidos por personal sanitario especializado
+indicator_name: Proporción de partos atendidos por personal sanitario especializado
 indicator_number: '3.1.2'
 national_geographical_coverage: Valencia
 page_content: ''

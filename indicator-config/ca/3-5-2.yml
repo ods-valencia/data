@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Taxa de persones en tractament per consum d'alcohol
+graph_title: Persones en tractament per consum d'alcohol
 graph_titles: []
 graph_type: line
-indicator_name: Taxa de persones en tractament per consum d'alcohol
+indicator_name: Persones en tractament per consum d'alcohol
 indicator_number: '3.5.2'
 national_geographical_coverage: València
 page_content: ''

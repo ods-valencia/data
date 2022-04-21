@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de mujeres víctimas de denuncias en los Juzgados de Violencia
-  Doméstica
+graph_title: Proporción de mujeres víctimas de Violencia Doméstica
 graph_titles: []
 graph_type: line
-indicator_name: Porcentaje de mujeres víctimas de denuncias en los Juzgados de Violencia
-  Doméstica
+indicator_name: Proporción de mujeres víctimas de Violencia Doméstica
 indicator_number: '5.c.5'
 national_geographical_coverage: Valencia
 page_content: ''

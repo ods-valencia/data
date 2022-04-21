@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de mujeres profesoras en la UPV
+graph_title: Mujeres profesoras en la UPV
 graph_titles: []
 graph_type: line
-indicator_name: Porcentaje de mujeres profesoras en la UPV
+indicator_name: Mujeres profesoras en la UPV
 indicator_number: '5.5.3'
 national_geographical_coverage: Valencia
 page_content: ''

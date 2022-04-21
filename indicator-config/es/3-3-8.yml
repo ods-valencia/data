@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Tasa de mortalidad atribuida a enf. infecciosas del sistema respiratorio
+graph_title: Tasa de mortalidad atribuida a enf. Infecciosas del sistema respiratorio
 graph_titles: []
 graph_type: line
-indicator_name: Tasa de mortalidad atribuida a enf. infecciosas del sistema respiratorio
+indicator_name: Tasa de mortalidad atribuida a enf. Infecciosas del sistema respiratorio
 indicator_number: '3.3.8'
 national_geographical_coverage: Valencia
 page_content: ''
