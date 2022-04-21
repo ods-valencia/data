@@ -1,83 +1,34 @@
-SDG_GOAL: >-
-   global_goals.1-title
-SDG_TARGET: >-
-  global_targets.1-2-title
-SDG_INDICATOR: >-
-  Ràtio P80/P20 en desigualtat d'ingressos recollits en fonts tributàries
-SDG_SERIES_DESCR: >-
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Ratio P80/P20 en desigualdad de ingresos recogidos en fuentes tributarias
+graph_titles: []
+graph_type: line
+indicator_name: Ratio P80/P20 en desigualdad de ingresos recogidos en fuentes tributarias
+indicator_number: '1.2.5'
+national_geographical_coverage: Valencia
+page_content: ''
+permalink: ''
+precision: []
+progress_status: target_achieved
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
-
-CONTACT_ORGANISATION: >-
-
-CONTACT_NAME: >-
-
-ORGANISATION_UNIT: >-
-
-CONTACT_FUNCT: >-
-
-CONTACT_PHONE: >-
-
-CONTACT_MAIL: >-
-
-CONTACT_EMAIL: >-
-
-STAT_CONC_DEF: >- 
-  Mesura de distribució de la renda que s'obté com el quocient entre el percentil 80 i el percentil 20 dels ingressos per unitat de consum de les persones que resideixen en un determinat àmbit territorial.
-UNIT_MEASURE: >-
-  Ràtio
-CLASS_SYSTEM: >-
-
-SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
-COLL_METHOD: >-
-
-FREQ_COLL: >-
-
-REL_CAL_POLICY: >-
-
-DATA_SOURCE: >-
-
-COMPILING_ORG: >-
-
-INST_MANDATE: >-
-
-RATIONALE: >-
-
-REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
-   
-  Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
-   
-  Les dades de renda percebuda que s'utilitzen en el càlcul d'aquest indicador corresponen a l'any de referència i s'obtenen a partir de l'enllaç d'informació de l'INE amb dades tributàries, fonamentalment de la AEAT i de les Hisendes Forals. La població utilitzada per als càlculs està referida a 1 de gener de l'any següent al de referència. 
-  El nombre d'unitats de consum d'una llar es calcula utilitzant l'escala OCDE modificada, que assigna un pes d'1 a la primera persona de 14 o més anys, un pes de 0,5 a la resta de persones de 14 o més anys i un pes de 0,3 a les persones de menys de 14 anys. Per exemple, una llar formada per dos adults i dos xiquets menors de 14 anys estaria formada per 2,1 unitats de consum. Els ingressos per unitat de consum de la llar s'obtenen dividint els ingressos totals de la llar entre el nombre d'unitats de consum que la componen. A continuació s'adjudica aquest valor a cadascun dels membres que componen la llar.
-  Els conceptes tributaris inclosos en la renda neta de la llar es descriuen en el document metodològic de l'operació estadística.
-  La informació de l'Atles de Distribució de Renda de les Llars de l'INE està disponible per a àmbits territorials menors (barris i seccions).
-DATA_COMP: >-
-  És el quocient entre el percentil 80 i el percentil 20 dels ingressos per unitat de consum de les persones que resideixen en un determinat àmbit territorial. El percentil 80 (20) de la distribució d'ingressos de les persones residents per unitat de consum és el valor que, una vegada ordenats els ingressos de menor a major, deixa per davall el 80% (20%) dels ingressos per unitat de consum. 
-DATA_VALIDATION: >-
-
-ADJUSTMENT: >-
-
-IMPUTATION: >-
-
-REG_AGG: >-
-
-DOC_METHOD: >-
-
-QUALITY_MGMNT: >-
-
-QUALITY_ASSURE: >-
-
-QUALITY_ASSMNT: >-
-
-COVERAGE: >-
-
-COMPARABILITY: >-
-
-OTHER_DOC: >-
