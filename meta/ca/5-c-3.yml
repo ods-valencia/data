@@ -1,80 +1,34 @@
-SDG_GOAL: >-
-   global_goals.5-title
-SDG_TARGET: >-
-  global_targets.5-c-title
-SDG_INDICATOR: >-
-  Dones víctimes de Violència Domèstica
-SDG_SERIES_DESCR: >-
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Dones víctimes de Violència Domèstica
+graph_titles: []
+graph_type: line
+indicator_name: Dones víctimes de Violència Domèstica
+indicator_number: '5.c.3'
+national_geographical_coverage: València
+page_content: ''
+permalink: ''
+precision: []
+progress_status: target_achieved
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
-
-CONTACT_ORGANISATION: >-
-
-CONTACT_NAME: >-
-
-ORGANISATION_UNIT: >-
-
-CONTACT_FUNCT: >-
-
-CONTACT_PHONE: >-
-
-CONTACT_MAIL: >-
-
-CONTACT_EMAIL: >-
-
-STAT_CONC_DEF: >- 
-  Nombre de dones víctimes registrades en l'estadística judicial de denúncies en Jutjats de Primera Instància i Instrucció de València per Violència Domèstica.
-UNIT_MEASURE: >-
-  Dones
-CLASS_SYSTEM: >-
-
-SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.                                                                                                                         
-  Explotació estadística Estadística Judicial. Consell General del Poder Judicial.
-COLL_METHOD: >-
-
-FREQ_COLL: >-
-
-REL_CAL_POLICY: >-
-
-DATA_SOURCE: >-
-
-COMPILING_ORG: >-
-
-INST_MANDATE: >-
-
-RATIONALE: >-
-
-REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
-   
-  Documentació relativa al nombre de dones víctimes de Violència Domèstica: [Violència Domèstica](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15).
-  La violència domèstica o intrafamiliar és la que es produeix entre membres del nucli familiar amb prèvia convivència. Són víctimes qui han patit directament o indirectament les conseqüències psicològiques, físiques, econòmiques i socials d'un fet delictiu. 
-  A la ciutat de València se situen 21 Jutjats de Primera Instància i Instrucció, que entenen d'assumptes judicials del partit judicial de València, format únicament pel municipi.
-DATA_COMP: >-
-  Valor numèric registrat en els butlletins estadístics trimestrals dels Jutjats de Primera Instància i Instrucció de la ciutat.
-DATA_VALIDATION: >-
-
-ADJUSTMENT: >-
-
-IMPUTATION: >-
-
-REG_AGG: >-
-
-DOC_METHOD: >-
-
-QUALITY_MGMNT: >-
-
-QUALITY_ASSURE: >-
-
-QUALITY_ASSMNT: >-
-
-COVERAGE: >-
-
-COMPARABILITY: >-
-
-OTHER_DOC: >-

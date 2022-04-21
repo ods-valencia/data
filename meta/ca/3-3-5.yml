@@ -1,82 +1,34 @@
-SDG_GOAL: >-
-   global_goals.3-title
-SDG_TARGET: >-
-  global_targets.3-3-title
-SDG_INDICATOR: >-
-  Taxa de mortalitat atribuïda al VIH/SIDA
-SDG_SERIES_DESCR: >-
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Taxa de mortalitat atribuïda al VIH/SIDA
+graph_titles: []
+graph_type: line
+indicator_name: Taxa de mortalitat atribuïda al VIH/SIDA
+indicator_number: '3.3.5'
+national_geographical_coverage: València
+page_content: ''
+permalink: ''
+precision: []
+progress_status: target_achieved
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
-
-CONTACT_ORGANISATION: >-
-
-CONTACT_NAME: >-
-
-ORGANISATION_UNIT: >-
-
-CONTACT_FUNCT: >-
-
-CONTACT_PHONE: >-
-
-CONTACT_MAIL: >-
-
-CONTACT_EMAIL: >-
-
-STAT_CONC_DEF: >- 
-  Defuncions atribuïdes a VIH per cada 100.000 habitants.
-UNIT_MEASURE: >-
-  Tant per 100.000
-CLASS_SYSTEM: >-
-
-SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
-COLL_METHOD: >-
-
-FREQ_COLL: >-
-
-REL_CAL_POLICY: >-
-
-DATA_SOURCE: >-
-
-COMPILING_ORG: >-
-
-INST_MANDATE: >-
-
-RATIONALE: >-
-
-REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
-   
-  Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-  Per a les taxes específiques per sexe es consideren les defuncions i residents d'aquest sexe.
-DATA_COMP: >-
-  Quocient del nombre de defuncions de residents a la ciutat a causa de causes relacionades amb el Virus de la Immunodeficiència Humana (VIH) (codis B20-B24 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
-DATA_VALIDATION: >-
-
-ADJUSTMENT: >-
-
-IMPUTATION: >-
-
-REG_AGG: >-
-
-DOC_METHOD: >-
-
-QUALITY_MGMNT: >-
-
-QUALITY_ASSURE: >-
-
-QUALITY_ASSMNT: >-
-
-COVERAGE: >-
-
-COMPARABILITY: >-
-
-OTHER_DOC: >-
