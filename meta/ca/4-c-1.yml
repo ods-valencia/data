@@ -1,36 +1,77 @@
-composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
-data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
-data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
-embedded_feature_url: ''
-expected_disaggregations: []
-graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: ''
-graph_title: Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament
-  relacionat amb l'ODS 4
-graph_titles: []
-graph_type: bar
-indicator_name: Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament
-  relacionat amb l'ODS 4
-indicator_number: '4.c.1'
-national_geographical_coverage: València
-page_content: ''
-permalink: ''
-precision: []
-progress_status: target_achieved
-reporting_status: complete
-sort: ''
-standalone: false
-tags: []
+SDG_GOAL: >-
+   global_goals.4-title
+SDG_TARGET: >-
+  global_targets.4-c-title
+SDG_INDICATOR: >-
+  Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l'ODS 4
+SDG_SERIES_DESCR: >-
 
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Pressupost municipal executat del programa de Cooperació Internacional per al Desenvolupament relacionat amb l'Objectiu de Desenvolupament Sostenible ODS 4 (Garantir una educació inclusiva, equitativa i de qualitat i promoure oportunitats d'aprenentatge durant tota la vida per a tots).
+UNIT_MEASURE: >-
+  Euros
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Pressupost Municipal de l'Ajuntament de València (Servei de Cooperació al Desenvolupament i Migració).
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). 
+  El Programa de Cooperació Internacional per al Desenvolupament té com a objectiu la concessió de subvencions dirigides a Organitzacions No Governamentals de Desenvolupament per a finançar actuacions en matèria de Cooperació al desenvolupament, per a contribuir a un major enfortiment entre el municipi de València i els països empobrits econòmicament. Aquest programa figura en el Pla Estratègic de Subvencions aprovat per la Junta de Govern Local, té un termini anual i es finança amb fons municipals.
+DATA_COMP: >-
+  El pressupost executat total (en euros) del programa de Cooperació Internacional per al Desenvolupament de l'Ajuntament de València relacionat amb l’ODS 4 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

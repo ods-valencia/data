@@ -1,34 +1,77 @@
-composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
-data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
-data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
-embedded_feature_url: ''
-expected_disaggregations: []
-graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: ''
-graph_title: Cobertura del xec escolar
-graph_titles: []
-graph_type: line
-indicator_name: Cobertura del xec escolar
-indicator_number: '4.b.2'
-national_geographical_coverage: València
-page_content: ''
-permalink: ''
-precision: []
-progress_status: target_achieved
-reporting_status: complete
-sort: ''
-standalone: false
-tags: []
+SDG_GOAL: >-
+   global_goals.4-title
+SDG_TARGET: >-
+  global_targets.4-b-title
+SDG_INDICATOR: >-
+  Cobertura del xec escolar
+SDG_SERIES_DESCR: >-
 
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Proporció de xiquets de 0 a 5 anys que reben el xec escolar.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Xec escolar (Servei d'Educació  de l'Ajuntament de València).
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Documentació relativa al xec escolar: [Xec Escolar](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=16).
+  El Xec Escolar és un sistema d'ajudes econòmiques a l'escolarització infantil de 0 a 5 anys, destinades a compensar desigualtats, sufragant les despeses d'ensenyament d'aquells menors empadronats en el municipi de València, i es concedeixen en funció de la renda familiar, atenent també les particularitats pròpies de les unitats familiars que les sol·liciten. Es tracta de contribuir a l'escolarització primerenca com a inici d'una escolarització obligatòria satisfactòria dels nostres xiquets i xiquetes, però no solament: també permeten als pares i mares amb menys recursos, l'accés a l'ocupació i/o a la formació contínua, en una etapa de la vida en què les cures als xicotets i xicotetes els farien impossible sense aquestes ajudes, que es convoquen durant les primeres setmanes de cada any per al curs acadèmic següent.
+DATA_COMP: >-
+  Quocient del nombre de xecs escolars concedits a estudiants de 0 a 5 anys d'edat entre el total de persones de 0 a 5 anys durant l'any de referència. Per a un any t, el nombre de xecs concedits correspon amb el curs escolar t-1/t, mentre que la població correspon a 1 de gener de l'any t.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

@@ -1,34 +1,82 @@
-composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
-data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
-data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
-embedded_feature_url: ''
-expected_disaggregations: []
-graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: ''
-graph_title: Proporció d'agricultura ecològica
-graph_titles: []
-graph_type: bar
-indicator_name: Proporció d'agricultura ecològica
-indicator_number: '2.3.3'
-national_geographical_coverage: València
-page_content: ''
-permalink: ''
-precision: []
-progress_status: target_achieved
-reporting_status: complete
-sort: ''
-standalone: false
-tags: []
+SDG_GOAL: >-
+   global_goals.2-title
+SDG_TARGET: >-
+  global_targets.2-3-title
+SDG_INDICATOR: >-
+  Proporció d'agricultura ecològica
+SDG_SERIES_DESCR: >-
 
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge de superfície agrària utilitzada (SAU) destinada a producció ecològica a la ciutat de València.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'Institut Nacional d'Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/). 
+  En tots els casos s'estima la superfície destinada a producció agrícola a partir de l'Enquesta de Superfícies i Rendiments de Cultiu del Ministeri d'Agricultura, Pesca i Alimentació, i la superfície destinada a producció agrícola productiva i sostenible a partir de l'Estadística de la Producció Ecològica del Ministeri d'Agricultura, Pesca i Alimentació. L'àmbit territorial inferior d'aquestes dades és el provincial, per la qual cosa no es disposa de dades per al municipi de València. Per això s'ha decidit utilitzar com a font alternativa l'Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'INE.
+   
+  Documentació metodològica sobre l'Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'INE: [Explotació Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf).
+   
+  La superfície agrària utilitzada (SAU) és el conjunt de la superfície de terres llaurades i terres per a pastures permanents. Les terres llaurades comprenen els cultius herbacis, els guarets, els horts familiars i les terres dedicades a cultius llenyosos.  En aquesta operació únicament s'inclouen les explotacions agrícoles amb almenys 1 hectàrea de superfície agrícola utilitzada o amb una certa importància econòmica.
+  Per a qualificar la producció com a ecològica es requereix la identificació i separació de les parcel·les i productes usats o produïts ecològicament dels que no ho són, estar registrada davant l'autoritat-organisme de control corresponent en cada comunitat autònoma i sotmetre's als seus controls. En aquesta enquesta s'investiga tant la superfície en la qual s'apliquen mètodes de producció ecològica (superfície qualificada), com la superfície que es troba en període de conversió.
+DATA_COMP: >-
+  Quocient de la superfície agrària utilitzada destinada a producció ecològica entre la superfície agrària utilitzada total.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

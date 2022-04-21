@@ -1,34 +1,88 @@
-composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
-data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
-data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
-embedded_feature_url: ''
-expected_disaggregations: []
-graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: ''
-graph_title: Taxa de mortalitat per lesions degudes a accident de trànsit
-graph_titles: []
-graph_type: line
-indicator_name: Taxa de mortalitat per lesions degudes a accident de trànsit
-indicator_number: '3.6.1'
-national_geographical_coverage: València
-page_content: ''
-permalink: ''
-precision: []
-progress_status: target_achieved
-reporting_status: complete
-sort: ''
-standalone: false
-tags: []
+SDG_GOAL: >-
+   global_goals.3-title
+SDG_TARGET: >-
+  global_targets.3-6-title
+SDG_INDICATOR: >-
+  Taxa de mortalitat per lesions degudes a accident de trànsit
+SDG_SERIES_DESCR: >-
 
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Defuncions atribuïdes a accidents de trànsit per cada 100.000 habitants.
+UNIT_MEASURE: >-
+  Tant per 100.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Estadística de Defuncions del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+   
+  Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
+   
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   
+  Per a les taxes específiques per sexe (per edat) es consideren les defuncions i naixements d'aquest sexe (grup d'edat). 
+  Els codis CIE-10 inclosos en la causa 90 (Accidents de trànsit) són V01-V06.1.9, V09.2.3.9, V10-V18.3.4.5.9, V19.4.5.6.9, V20-V28 .3.4.5.9, V29.4.5.6.9, V30-V38.4.5.6.7.9, V39.4.5.6.9, V40-V48.4.5.6.7.9, V49.4.5.6.9, V50-V58.4.5.6.7.9, V59.4.5.6.9, V60-V68.4.5.6.7.9, V69.4.5.6.9, V70-V78.4.5.6.7.9, V79.4.5.6.9, V80.2.3.4.5, V81.1, V82.1.9, V83.0.1.2.3.4, V84.0.1.2.3.4, V85.0.1.2.3.4, V86.0.1.2.3.4, V87.0.1.2.3.4.5.6.7.8.9, V89.2.3.9.  
+  Des de 2016 s'han incorporat a aquest grup els accidents de trànsit de vehicles sense motor, els accidents de transport no especificats com deguts o no a trànsit i les víctimes d'accident de trànsit en les quals en el moment de l'accident estaven pujant o baixant del vehicle. Per tant, des d'aqueix moment van quedar incorporats tots els accidents de trànsit, per la qual cosa va canviar la seua denominació d'accidents de trànsit de vehicles amb motor a accidents de trànsit.
+  Per al càlcul de les taxes per districte s'han generat agregats de defuncions associades a aquesta causa per a períodes de 5 anys, assignant el valor obtingut a l'últim any que defineix el període d'agregació. Les taxes oferides s'obtenen com el quocient del nombre de defuncions asociades a la causa durant un període de cinc anys (per exemple, 2011-15) entre la suma de la població a 1 de gener dels anys inclosos (de 2011 a 2015) (població subjecta a risc). 
+   
+  Existeix un xicotet subregistre pel fet que algunes de les defuncions registrades a la ciutat no van poder ser geocodificades al districte de residència. Es pot consultar la metodologia associada a aquesta operació en: [Mortalitat 2011-2015](https://www.valencia.es/estadistica/CatPub/files/MortalitatCausa_2011_2015.pdf).
+DATA_COMP: >-
+  Quocient del nombre de defuncions de residents a la ciutat a causa de causes relacionades amb accidents de trànsit (selecció de codis dels accidents de transport V00-V98 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
