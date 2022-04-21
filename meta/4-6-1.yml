@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporció de persones entre 25 i 64 anys amb titulació en educació secundària obligatòria o inferior.
+  Proporció de persones entre 25 i 64 anys d'edat residents en la ciutat amb titulació d'educació secundària obligatòria o inferior. 
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0211-Características de la población de València. Padrón municipal de València a 1 de Enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  0211-Características de la población de València. Padrón municipal d'Habitants de València a 1 de Enero de cada año. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -56,7 +56,7 @@ REC_USE_LIM: >-
   Per a les taxes específiques per sexe (edat) es consideren les persones d'aquest sexe (edat).
   Per al seu càlcul s'ha utilitzat la informació registrada en el Padró Municipal d'Habitants de la ciutat de València a 1 de gener de l'any de referència.
 DATA_COMP: >-
-  Quocient del nombre de persones entre 25 i 64 anys amb nivell d'estudis 1, 2 o 3 i el total de persones entre 25 i 64 anys d'edat.
+  Quocient del nombre de persones entre 25 i 64 anys d'edat amb nivell d'estudis 1, 2 o 3 entre el total de persones de 25 a 64 anys d'edat residents a la ciutat a 1 de gener de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

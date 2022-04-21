@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-2-title
 SDG_INDICATOR: >-
-  Proporció de dones i xiquetes de 16 anys o més que han patit en els 12 mesos anteriors violència sexual fora de l'àmbit de la parella
+  Proporció de dones i xiquetes de 16 anys o més que han patit violència física i/o sexual a les mans de la seua actual parella en els últims 12 mesos
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporció de dones i xiquetes de 16 anys o més que han patit en els 12 mesos anteriors violència sexual fora de l'àmbit de la parella.
+  Proporció de dones i xiquetes de 16 o més anys d'edat que declaren haver patit violència física o
+  sexual durant els últims 12 mesos a les mans de la seua actual parella.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Macroenquesta de Violència Contra la Dona del Ministeri d'Igualtat.
+  Explotació estadística Macroenquesta de Violència Contra la Dona 2019 del Ministeri d'Igualtat.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,13 +51,19 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/)
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
    
   Documentació metodològica sobre la Macroenquesta de Violència Contra la Dona del Ministeri d'Igualtat: [Macroenquesta Violència Contra la Dona](https://violenciagenero.igualdad.gob.es/violenciaencifras/macroencuesta2015/macroencuesta2019/home.htm).
    
   La mostra per al municipi de València és significativament xicoteta: 113 entrevistades.
 DATA_COMP: >-
-  Quocient entre el nombre de dones i xiquetes de 16 o més anys que han patit violència sexual fora de l'àmbit de la parella en els últims 12 mesos i el total de dones empadronades en el municipi de València.
+  Quocient del nombre de dones i xiquetes de 16 o més anys d'edat que declaren haver patit
+
+  violència física o sexual en els últims 12 mesos a les mans de la seua actual parella entre el total de
+
+  dones enquestades de 16 o més anys d'edat residents a la ciutat de València que declaren tindre
+
+  actualment parella.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

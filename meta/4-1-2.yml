@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge d'estudiants avaluats en Batxillerat o CFGM que han superat aquests.
+  Percentatge de l'alumnat avaluat en l'últim curs de Batxillerat o Cicles Formatius de Grau Mitjà que promociona en haver superat aquesta avaluació.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Explotació estadística Equipament Escolar de la Ciutat de València (Oficina d'Estadística de l'Ajuntament de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,7 +56,7 @@ REC_USE_LIM: >-
   L'educació de batxillerat té com a finalitat la formació general de l'alumnat, així com la seua orientació i preparació per a aconseguir una maduresa intel·lectual i humana que els permeta integrar-se en la vida activa o continuar estudis superiors, tant universitaris com de formació professional específica de grau superior. Als estudis del batxillerat pot accedir l'alumnat que estiga en possessió del títol de Graduat en Educació Secundària Obligatòria.
   Els cicles formatius de grau mitjà (CFGM) són estudis professionals més pròxims a la realitat del mercat de treball i que condueixen al títol de Tècnic Mitjà.
    
-  Aquest indicador expressa el percentatge d'alumnat que promociona respecte al total d'alumnat que és avaluat en segon curs de batxiller o segon curs de CFGM. La promoció d'aquests cursos està regulada per la legislació educativa aplicable en cada curs acadèmic.  Per a l'any t, aquesta informació prové dels resultats d'avaluació del curs t-1/t obtinguda de l'explotació estadística de les dades a tancament de curs dels centres que imparteixen segon de Batxiller i/o segon de CFGM situats a la ciutat de València. Aquesta informació no inclou els centres amb sistemes educatius estrangers. 
+  Aquest indicador expressa el percentatge d'alumnes que promocionen respecte al total d'alumnes que és avaluat en segon curs de batxiller o segon curs de CFGM. La promoció d'aquests cursos està regulada per la legislació educativa aplicable en cada curs acadèmic.  Per a l'any t, aquesta informació prové dels resultats d'avaluació del curs t-1/t obtinguda de l'explotació estadística de les dades a tancament de curs dels centres que imparteixen segon de Batxiller i/o segon de CFGM situats a la ciutat de València. Aquesta informació no inclou els centres amb sistemes educatius estrangers. 
   Per a les taxes específiques per sexe es consideren les persones d'aquest sexe.
 DATA_COMP: >-
   Quocient de l'alumnat que promociona en segon de batxillerat o segon de CFGM entre l'alumnat total avaluat.

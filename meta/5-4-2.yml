@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Minuts que la població, al llarg d'un dia, dedica a atendre les necessitats i cures de les persones dependents o amb discapacitat de la llar.
+  Temps (en minuts) que la població dedica, al llarg d'un dia, a atendre les necessitats i cures de les persones dependents o amb discapacitat en la llar.
 UNIT_MEASURE: >-
   Minuts
 CLASS_SYSTEM: >-
@@ -58,7 +58,7 @@ REC_USE_LIM: >-
    
   Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Juny i Juliol de 2018 publicant-se el Baròmetre el mes de setembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Juny/Juliol 2017 - Juny/Juliol 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.  En les entrevistes realitzades una part important de la mostra contestava que atenia i cuidava a les persones amb discapacitat o dependents les 24 hores del dia (1440 minuts). L'excés que produeix aquesta resposta, es corregeix considerant per al càlcul de l'indicador tota la població. És a dir, considerem també les persones que no compten amb persones dependents o amb discapacitat en el seu domicili, que en aquest cas dediquen 0 minuts a l'atenció i cura d'aquests.
 DATA_COMP: >-
-  Quocient entre el temps total dedicat a la cura i atenció de les persones dependents o amb discapacitat per part de la població del municipi i el nombre d'habitants del propi municipi. 
+  Quocient del temps total dedicat a la cura i atenció de les persones dependents o amb discapacitat declarat entre el total de persones enquestades que responen a la pregunta.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

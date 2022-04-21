@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de població activa en el municipi de València.
+  Percentatge de població econòmicament activa en el municipi de València.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
@@ -58,7 +58,7 @@ REC_USE_LIM: >-
   Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
   Documentació metodològica sobre l'Enquesta de Població Activa de l'INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  Quocient del nombre estimat de persones actives entre el total estimat de població activa resident a la ciutat de València, per a l'any de referència. Aquests valors s'han obtingut com a mitjanes aritmètiques de les estimacions trimestrals oferides per l'Enquesta de Població Activa (EPA).
+  Quocient del nombre estimat de persones econòmicament actives (ocupades o parades) entre el total de persones de 16 o més anys d'edat residents a la ciutat. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
