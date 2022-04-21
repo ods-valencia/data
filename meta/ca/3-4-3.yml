@@ -1,34 +1,86 @@
-composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
-data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
-data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
-embedded_feature_url: ''
-expected_disaggregations: []
-graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: ''
-graph_title: Taxa de mortalitat atribuïda a la diabetis
-graph_titles: []
-graph_type: line
-indicator_name: Taxa de mortalitat atribuïda a la diabetis
-indicator_number: '3.4.3'
-national_geographical_coverage: València
-page_content: ''
-permalink: ''
-precision: []
-progress_status: target_achieved
-reporting_status: complete
-sort: ''
-standalone: false
-tags: []
+SDG_GOAL: >-
+   global_goals.3-title
+SDG_TARGET: >-
+  global_targets.3-4-title
+SDG_INDICATOR: >-
+  Taxa de mortalitat atribuïda a la diabetis
+SDG_SERIES_DESCR: >-
 
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Defuncions atribuïdes a la diabetis per cada 100.000 habitants.
+UNIT_MEASURE: >-
+  Tant per 100.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0211-Características de la población de València. Padrón municipal de València
+  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  0741-Estadística de mortalidad según causa para los distritos municipales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+   
+  Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
+   
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   
+  Per a les taxes específiques per sexe (per edat) es consideren les defuncions i residents d'aquest sexe (edat). En la categorització de l'edat s'ha considerat la delimitació de mortalitat prematura de l'OMS.  Per al càlcul de les taxes per districte s'han generat agregats de defuncions associades a aquesta causa per a períodes de 5 anys, assignant el valor obtingut a l'últim any que defineix el període d'agregació. Les taxes oferides s'obtenen com el quocient del nombre de defuncions associades a la causa durant un període de cinc anys (per exemple, 2011-15) entre la suma de la població a 1 de gener dels anys inclosos (de 2011 a 2015) (població subjecta a risc). 
+   
+  Existeix un xicotet subregistre pel fet que algunes de les defuncions registrades a la ciutat no van poder ser geocodificades al districte de residència. Es pot consultar la metodologia associada a aquesta operació en: [Mortalitat 2011-2015](https://www.valencia.es/estadistica/CatPub/files/MortalitatCausa_2011_2015.pdf).
+DATA_COMP: >-
+  Quocient del nombre de defuncions de residents a la ciutat a causa de causes relacionades amb la diabetis mellitus (codis E10-E14 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
