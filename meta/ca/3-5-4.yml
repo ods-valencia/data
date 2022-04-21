@@ -58,7 +58,7 @@ REC_USE_LIM: >-
    
   Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Quocient del nombre de defuncions de residents a la ciutat a causa de causes relacionades amb trastorns mentals derivats de l'abús d'alcohol i drogues (codis F00-F10 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
+  Quocient del nombre de defuncions de residents a la ciutat a causa de causes relacionades amb trastorns mentals derivats de l'abús d'alcohol i drogues (codis F10-F16, F18-F19  de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

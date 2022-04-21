@@ -27,14 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Unitats de treball destinades a la producció agrícola de les explotacions de la ciutat.
+  Unitats de treball destinades a la producció agrícola de les explotacions de la ciutat de Valencia durant l'any de referència.
 UNIT_MEASURE: >-
   Unitats de treball/any
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'Institut Nacional d'Estadística.
+  Explotació estadística  Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,9 +52,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Documentació metodològica de l'Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'INE: [Estructura Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf).
    
-  En la documentació metodològica es mostra la taula d'equivalències entre unitats de treball-any, jornades, hores de treball o percentatge de treball realitzat per una persona. Cal tindre en compte la reduïda grandària mostral d'explotacions de la ciutat (32 explotacions), la qual cosa donarà lloc a estimacions amb poca precisió que haurem de prendre amb cautela.
+  Els resultats que s'ofereixen procedeixen de l'explotació estadística del fitxer de microdades de l'Enquesta sobre l'Estructura de les Explotacions Agrícoles, seleccionant les explotacions agrícoles situades a la ciutat. Atés que l'Enquesta sobre l'Estructura de les Explotacions Agrícoles no està dissenyada per a oferir estimacions a nivell municipal, les estimacions oferides tindran un major nivell d’error que l'associat a àmbits territorials més amplis, i hauran de ser tractades amb cautela a causa de la reduïda grandària mostral d'explotacions de la ciutat (32 explotacions).
 DATA_COMP: >-
-  Les dades de treball en l'explotació s'expressen en nombre d'unitats de treball-any (UTA) que equival al treball que realitza una persona a temps complet al llarg de l'any. 
+  Les dades de treball en l'explotació agrícola s'expressen com a nombre d'unitats de treball-any (UTA). Una UTA equival al treball que realitza una persona a temps complet al llarg de l'any.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

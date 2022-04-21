@@ -52,9 +52,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
    
-  Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
+  Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).  La definició de part utilitzada en aquesta estadística coincideix amb el concepte medicobiològic, és a dir, expulsió o extracció del claustre matern del producte de la concepció viable (incloent tant els naixements com les morts fetals tardanes); per tant, queda exclòs l'avortament o expulsió del fetus no viable. Es considera mort fetal tardana la defunció, abans de la seua completa expulsió o extracció del cos de la mare, d'un producte de la concepció viable. Aquest caràcter de viabilitat és el que serveix per a diferenciar les morts fetals tardanes dels avortaments. El criteri utilitzat per a definir la viabilitat, a l'efecte d'aquesta estadística, és el pes del fetus mort, considerant com a mort fetal tardana els fetus morts amb un pes igual o superior als 500 grams.
 DATA_COMP: >-
-  Quocient del nombre de parts atés per personal sanitari especialitzat de dones residents a la ciutat durant l'any de referència entre el nombre de parts de mares residents a la ciutat durant l'any de referència.
+  Quocient del nombre de parts atesos per personal sanitari especialitzat de dones residents a la ciutat durant l'any de referència entre el nombre de parts de mares residents a la ciutat en aqueix mateix any.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
