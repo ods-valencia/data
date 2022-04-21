@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-1-title
 SDG_INDICATOR: >-
-  Tasa de mortalidad materna
+  Taxa de mortalitat materna
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,19 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Defunciones de mujeres atribuidas a causas relacionadas con el embarazo, parte y puerperio por cada 100.000 nacimientos.
+  Defuncions de dones per causes relacionades amb l'embaràs, part o puerperi per cada 100.000 naixements.
 UNIT_MEASURE: >-
-  Tanto por 100.000
+  Tant per 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   0741-Estadística de mortalidad según causa para los distritos municipales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Explotación estadística Registro de Mortalidad de la Dirección General de Salud Pública de la Consellería de Sanidad Universal y Salud Pública de la Generalitat Valenciana. 
-   
-   Explotación estadística Estadística de Nacimientos del Movimiento Natural de la Población del Instituto Nacional de Estadística.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Registre de Mortalitat de la Direcció General de Salut Pública de la Conselleria de Sanitat Universal i Salut Pública de la Generalitat Valenciana. 
+  Explotació estadística Estadística de Naixements del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,13 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. 
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. 
    
-   Documentación metodológica sobre la Estadística de Mortalidad según Causa en València: [Estadística Mortalidad](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
+  Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
    
-   Documentación metodológica sobre la Estadística de Nacimientos en València: [Estadística Nacimientos](https://www.ine.es/metodologia/t20/t2030301.pdf).
+  Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
 DATA_COMP: >-
-  Cociente del número de defunciones de mujeres residentes en la ciudad a causa de causas relacionadas con el embarazo, parte y puerperio (códigos O00-O99 de la CIE-10) durante el año de referencia entre el número de nacimientos de madres residentes en la ciudad durante el año de referencia.
+  Quocient del nombre de defuncions de dones residents a la ciutat de València per causes relacionades amb l'embaràs, part o puerperi (codis O00-O99 de la CIE-10) durant l'any de referència entre el nombre de naixements de mares residents a la ciutat durant l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

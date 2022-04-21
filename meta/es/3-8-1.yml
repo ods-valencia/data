@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-8-title
 SDG_INDICATOR: >-
-  Porcentaje de población con necesidad de atención médica insatisfecha
+  Percentatge de població amb necessitat d'atenció mèdica insatisfeta
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporción de personas que en los últimos doce meses ha necesitado alguna vez asistencia médica y no la han recibido.
+  Proporció de persones que en els últims dotze mesos ha necessitat alguna vegada assistència mèdica i no l'han rebuda.
 UNIT_MEASURE: >-
-  Porcentaje
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Explotación estadística Encuesta de Salud de la Comunidad Valenciana.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Enquesta de Salut de la Comunitat Valenciana.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ods/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
-   
-   La información analizada en este indicador recoge las necesidades insatisfechas autoinformadas correspondientes a la propia evaluación que la persona hace sobre si necesitaba asistencia médica (para él/ella mismo/a si ha sido seleccionado/a en la encuesta de adultos o sobre su hijo/a si este/a ha sido seleccionado/a en la encuesta de menores) pero no la tuvo o no la buscó. Está recogida en la pregunta P38 del cuestionario de adultos y P35 del cuestionario de menores de la Encuesta de Salud de la Comunidad Valenciana 2016. Esta información no está recogida en la Encuesta de Salud de la Comunidad Valenciana 2010.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  La informació analitzada en aquest indicador recull les necessitats insatisfetes autoinformades corresponents a la pròpia avaluació que la persona fa sobre si necessitava asistencia mèdica (per a ell/ella mateix/a si ha sigut seleccionat/a en l'enquesta d'adults o sobre el seu fill/a si aquest/a ha sigut seleccionat/a en l'enquesta de menors) però no la va tindre o no la va buscar. Està recollida en la pregunta P38 del qüestionari d'adults i P35 del qüestionari de menors de l'Enquesta de Salut de la Comunitat Valenciana 2016. Aquesta informació no està recollida en l'Enquesta de Salut de la Comunitat Valenciana 2010.
 DATA_COMP: >-
-  Cociente del número de personas de cualquier edad que contestan afirmativamente a esta cuestión respecto al total de personas residentes en la ciudad que contestan a la cuestión.
+  Quocient del nombre de persones que contesten afirmativament a aquesta qüestió en l'enquesta respecte al total de persones residents a la ciutat de València que contesten a la qüestió.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

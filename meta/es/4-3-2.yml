@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.4-3-title
 SDG_INDICATOR: >-
-  Porcentaje de mujeres entre los estudiantes universitarios
+  Percentatge de dones entre els estudiants universitaris
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporción de mujeres matriculadas en estudios universitarios respecto al total de los matriculados.
+  Proporció de dones matriculades en estudis universitaris respecte al total dels matriculats.
 UNIT_MEASURE: >-
-  Porcentaje
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Explotació estadística Matriculació Universitària (Universitats públiques i privades a la ciutat).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +50,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
+  Aquest indicador forma part  del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.                                            
    
-   Documentación relativa al alumnado en las universidades valencianas: [Universidades](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=9).
+  Documentació relativa a l'alumnat en les universitats valencianes: [Universitats](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=9).
+  Per a l'any t, aquesta informació prové de la matriculació en centres universitaris per al curs t-1/t.  La informació procedeix de les universitats públiques i privades de la ciutat. En concret inclou informació de la Universitat Politècnica de València (no inclou l'alumnat de l'Escola Politècnica Superior d'Alcoi ni de l'Escola Politècnica Superior de Gandia), de la Universitat de València (no inclou l'alumnat dels centres adscrits ni el centre d'Ontinyent), de la Universitat Nacional a Distància (no inclou l'alumnat de la seu d'Alzira , l'extensió de Gandia, l'aula de Xàtiva , l'extensió d'Ontinyent i l'aula de Sagunt ), de la Universitat Cardenal Herrera – CEU (inclou l'alumnat dels centres situats a la ciutat), de la Facultat de Teologia Sant Vicent Ferrer, de la Universitat Europea de València, de Florida Universitària, de la Universitat Catòlica de València Sant Vicent Màrtir (no inclou l'alumnat dels centres d'Alzira  i Xàtiva), de l'Escola  Universitària d'Infermeria  La Fe, de l'Escola  Universitària d'Infermeria La nostra Senyora del Sagrat Cor, de la Universitat Internacional Valenciana i del Centre Universitari EDEM. 
 DATA_COMP: >-
-  Cociente entre el número de mujeres matriculadas en las universidades públicas y privadas de la ciudad de València y el total de matriculados en las universidades de la ciudad de València.
+  Quocient del nombre de dones matriculades en estudis universitaris entre el total de persones matriculades en estudis universitaris en les universitats públiques i privades de la ciutat de València. Dins dels estudis universitaris s'inclouen els estudis de grau, màsters, programes de doctorat, postgraus oficials, diplomes de postgrau (d'especialització o expert universitaris) o diplomes d'extensió universitària.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

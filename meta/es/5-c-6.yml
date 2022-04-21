@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-c-title
 SDG_INDICATOR: >-
-  Porcentaje de órdenes de alejamiento concedidas a mujeres por los Juzgados de Violencia Doméstica
+  Proporció d'ordres d' allunyament concedides a dones
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporción de órdenes de alejamiento concedidas a mujeres por los Juzgados de Violencia Doméstica. 
+  Proporció d'ordres d'allunyament concedides a dones respecte al total d'ordres d'allunyament concedides registrades en l'estadística judicial de denúncies en Jutjats de Primera Instància i Instrucció de València per Violència Domèstica.
 UNIT_MEASURE: >-
-  Porcentaje
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.                                                                                                                         
+  Explotació estadística Estadística Judicial. Consell General del Poder Judicial.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  El Juzgado de Violencia Doméstica presenta por separado las órdenes de alejamiento que son de nacionalidad española y las que son de nacionalidad extranjera. Dado que no ofrece el dato total, se suman ambos datos para obtener el indicador.
-   
-   Documentación relativa al número de mujeres a las cuales se ha concedido órdenes de alejamiento en los Juzgados de Violencia Doméstica: [Violencia Doméstica](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15).
+  Documentació relativa al nombre de dones a les quals s'ha concedit ordres d'allunyament: [Violència Domèstica](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15). 
+  L'ordre d'allunyament és una resolució judicial que, en els casos en què existisquen indicis fundats de la comissió de delictes o faltes de violència domèstica i existisca una situació objectiva de risc per a la víctima, ordena la seua protecció mitjançant l'adopció de mesures cautelars civils i/o penals, a més d'activar les mesures d'assistència i protecció social necessàries, per remissió de l'ordre de protecció als punts de coordinació de les comunitats autònomes.
 DATA_COMP: >-
-  Cociente entre el número de mujeres a las cuales se ha concedido una orden de alejamiento y el total de personas a las que se ha concedido una orden de alejamiento en los Juzgados de Violencia Doméstica.
+  Valor numèric registrat en els butlletins estadístics trimestrals dels Jutjats de Primera Instància i Instrucció de la ciutat.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

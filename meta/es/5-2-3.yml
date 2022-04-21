@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-2-title
 SDG_INDICATOR: >-
-  Proporción de mujeres y niñas de 16 años o más que han sufrido violencia psicológica de control a manos de su actual pareja en los últimos 12 meses
+  Proporció de dones i xiquetes de 16 anys o més que han patit violència física a les mans de la seua parella (actual o pasada) al llarg de la seua vida
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporción de mujeres y niñas de 16 años o más que han sufrido violencia psicológica de control a manos de su actual pareja en los últimos 12 meses.
+  Proporció de dones i xiquetes de 16 o més anys d'edat que declaren haver patit violència física
+  alguna vegada en la vida a les mans de la seua parella (parella actual o parelles passades).
 UNIT_MEASURE: >-
-  Porcentaje
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Explotación estadística macroencuesta de Violencia Contra la Mujer del Ministerio de Igualdad.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Macroenquesta de Violència Contra la Dona 2019 del Ministeri d'Igualtat.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,13 +51,19 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/)
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Documentación metodológica sobre la macroencuesta de Violencia Contra la Mujer del Ministerio de Igualdad: [macroencuesta Violencia Contra la Mujer](https://violenciagenero.igualdad.gob.es/violenciaencifras/macroencuesta2015/macroencuesta2019/home.htm).
+  Documentació metodològica sobre la Macroenquesta de Violència Contra la Dona del Ministeri d'Igualtat: [Macroenquesta Violència Contra la Dona](https://violenciagenero.igualdad.gob.es/violenciaencifras/macroencuesta2015/macroencuesta2019/home.htm).
    
-   La muestra para el municipio de València es significativamente pequeña: 113 entrevistadas.  La muestra válida definitiva con la cual se trabaja es de 111 mujeres entrevistadas para las cuales disponemos de información respecto al sexo de la pareja y esta es un hombre. Obtendremos, por lo tanto, el porcentaje de mujeres que han sufrido violencia psicológica de control a manos de sus parejas o exparejas.
+  La mostra per al municipi de València és significativament xicoteta: 113 entrevistades.
 DATA_COMP: >-
-  Cociente entre el número de mujeres y niñas de 16 o más años que han sufrido violencia psicológica de control a manos de su actual pareja en los últimos 12 meses y el total de mujeres con pareja en el municipio de València.
+  Quocient del nombre de dones i xiquetes de 16 o més anys d'edat que declaren haver patit
+
+  violència física alguna vegada en la vida a les mans de la seua parella (parella actual o parelles
+
+  passades) entre el total de dones enquestades de 16 o més anys d'edat residents a la ciutat de
+
+  València.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
