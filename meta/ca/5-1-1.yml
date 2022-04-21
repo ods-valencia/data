@@ -1,78 +1,34 @@
-SDG_GOAL: >-
-   global_goals.5-title
-SDG_TARGET: >-
-  global_targets.5-1-title
-SDG_INDICATOR: >-
-  Dones discriminades per motius de sexe en els últims 12 mesos
-SDG_SERIES_DESCR: >-
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Dones discriminades per motius de sexe en els últims 12 mesos
+graph_titles: []
+graph_type: bar
+indicator_name: Dones discriminades per motius de sexe en els últims 12 mesos
+indicator_number: '5.1.1'
+national_geographical_coverage: València
+page_content: ''
+permalink: ''
+precision: []
+progress_status: target_achieved
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
-
-CONTACT_ORGANISATION: >-
-
-CONTACT_NAME: >-
-
-ORGANISATION_UNIT: >-
-
-CONTACT_FUNCT: >-
-
-CONTACT_PHONE: >-
-
-CONTACT_MAIL: >-
-
-CONTACT_EMAIL: >-
-
-STAT_CONC_DEF: >- 
-  Percentatge de dones discriminades per motius de sexe en els últims 12 mesos.
-UNIT_MEASURE: >-
-  Percentatge
-CLASS_SYSTEM: >-
-
-SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Cinquena Ona Baròmetre d'Opinió Ciutadana: Convivència i Drets Socials. (2018).
-COLL_METHOD: >-
-
-FREQ_COLL: >-
-
-REL_CAL_POLICY: >-
-
-DATA_SOURCE: >-
-
-COMPILING_ORG: >-
-
-INST_MANDATE: >-
-
-RATIONALE: >-
-
-REC_USE_LIM: >-
-  Documentació metodològica sobre la 5 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
-   
-  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Juny i Juliol de 2018, publicant-se el Baròmetre el mes de setembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Juny/Juliol 2017 - Juny/Juliol 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
-DATA_COMP: >-
-  Quocient del nombre de dones que declaren haver patit discriminació per motius de sexe en els últims dotze mesos abans de l'enquesta entre el total de dones enquestades que responen a la pregunta.
-DATA_VALIDATION: >-
-
-ADJUSTMENT: >-
-
-IMPUTATION: >-
-
-REG_AGG: >-
-
-DOC_METHOD: >-
-
-QUALITY_MGMNT: >-
-
-QUALITY_ASSURE: >-
-
-QUALITY_ASSMNT: >-
-
-COVERAGE: >-
-
-COMPARABILITY: >-
-
-OTHER_DOC: >-
