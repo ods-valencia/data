@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de personas con ingresos por unidad de consumo por debajo del 60% de la mediana autonómica de ingresos por unidad de consumo (escala OCDE modificada).
+  Porcentaje de personas residentes en la ciudad con ingresos por unidad de consumo (escala OCDE modificada) por debajo del 60% de la media de ingresos por unidad de consumo de la Comunidad Valenciana.
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
@@ -59,9 +59,7 @@ REC_USE_LIM: >-
    El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años. Por ejemplo, un hogar formado por dos adultos y dos niños menores de 14 años estaría formada por 2,1 unidades de consumo. Los ingresos por unidad de consumo del hogar se obtienen dividiendo los ingresos totales del hogar entre el número de unidades de consumo que la componen. A continuación se adjudica este valor a cada uno de los miembros que componen el hogar.
    Como la media de los ingresos en la Comunidad Valenciana es inferior a la de España, los porcentajes de pobreza con umbral autonómico son sensiblemente inferiores a los que se tienen utilizando el umbral nacional.
 DATA_COMP: >-
-  Cociente de la población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza el año de referencia respecto a la población residente.
-
-   El ingreso de cada una de las personas que residen en un determinado hogar se calcula como el ingreso del total del hogar a la cual pertenecen entre su número de unidades de consumo. A continuación se obtiene la mediana (percentil 50) de la distribución de ingresos de todas las personas residentes, siendo el 60% de este valor el umbral de pobreza considerado para mesurar la pobreza relativa.
+  Cociente de la población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza respecto a la población residente en la ciudad, expresado en porcentaje. El umbral autonómico de pobreza relativa se obtiene calculando el 60% del valor medio (percentil 50) de la distribución de ingresos por unidad de consumo de las personas encuestadas residentes en la Comunidad Valenciana. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.1-2-title
 SDG_INDICATOR: >-
-  Porcentaje de población que vive en secciones censales vulnerables a nivel socioeconómico
+  Población que vive en secciones censales vulnerables a nivel socioeconómico
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -53,11 +53,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Las secciones definidas como vulnerables (para un tema o en el índice global) son aquellas que la suya puntuació en ese tema o en el indicador global se sitúa por debajo (o igual) al percentil 10% (p0,1) de la distribución formada por todas las puntuaciones finales de las secciones en ese tema o en el índice global.
+  Las secciones definidas como vulnerables (para un tema o en el índice global) son aquellas que la suya puntuacio´ en ese tema o en el indicador global se situ´a por debajo (o igual) al percentil 10% (p0,1) de la distribución formada por todas las puntuaciones finales de las secciones en ese tema o en el índice global.
    
    Documentación metodológica sobre la publicación de Areas Vulnerables de la Oficina de Estadística del Ayuntamiento de València: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf)
    
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Cast.pdf).
 DATA_COMP: >-
   Cociente entre la población que vive en secciones censales vulnerables a nivel socioeconómico y el total de la población empadronada en el municipio de València.
 DATA_VALIDATION: >-

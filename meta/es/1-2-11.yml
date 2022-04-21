@@ -27,9 +27,9 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Número de hojas familiares formadas únicamente por personas de 65 o más años de edad.
+  Número de hojas padronales familiares formadas únicamente por personas de 65 o más años de edad.
 UNIT_MEASURE: >-
-  Número de hogares
+  Hogares
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
@@ -49,10 +49,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Cast.pdf). 
+   
+   El concepto de hogar familiar adoptado corresponde con el conjunto de personas residentes en una misma vivienda familiar que aparecen inscritas en una misma hoja padronal. No es por lo tanto coincidente con el concepto amplio de hogar (persona o conjunto de personas que residen habitualmente en una misma vivienda familiar principal) que se utiliza, por ejemplo, en la Encuesta Continua de Hogares. Tampoco es coincidente con el concepto estricto de hogar (persona o conjunto de personas que ocupan en común una vivienda familiar principal o parte, y consumen y/o comparten alimentos u otros bienes con cargo en un mismo presupuesto) utilizado, por ejemplo, en la Encuesta de Presupuestos Familiares. La información referida a hogares utilizada para este indicador es, por lo tanto, una aproximación a la realidad, y tiene que ser tomada con cierta cautela al ser obtenida de una fuente el objeto de la cual no es tratar esta variable.
+   
+   Aunque este indicador no es un indicador directo de pobreza, se ha incluido en esta meta para reflejar el tamaño de un colectivo poblacional con unas condiciones de ingresos específicas y que requiere de unas curas especiales.
 DATA_COMP: >-
-  Número de hojas familiares formadas únicamente por personas de 65 o más años de edad empadronadas en la ciudad a 1 de enero del año de referencia.
+  Número de hojas padronales familiares formados únicamente por personas de 65 o más años de edad registrados en el Padrón Municipal de Habitantes del Ayuntamiento de València a 1 de enero del año de referencia. Las hojas pueden estar formados por una o más personas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
