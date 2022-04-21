@@ -18,11 +18,11 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Proporción de mujeres y niñas de 16 años o más que han sufrido violencia
-  psicológica de control a manos de su actual pareja en los últimos 12 meses
+  física a manos de su pareja (actual o pasada) a lo largo de su vida
 graph_titles: []
 graph_type: bar
 indicator_name: Proporción de mujeres y niñas de 16 años o más que han sufrido violencia
-  psicológica de control a manos de su actual pareja en los últimos 12 meses
+  física a manos de su pareja (actual o pasada) a lo largo de su vida
 indicator_number: '5.2.3'
 national_geographical_coverage: Valencia
 page_content: ''

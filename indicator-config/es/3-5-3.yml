@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Porcentaje de personas de 15 y más años que consumen bebidas alcohólicas
+graph_title: 'Porcentaje de personas de 15 y más años que consume bebidas alcohólicas
   al menos una vez por semana '
 graph_titles: []
-graph_type: line
-indicator_name: 'Porcentaje de personas de 15 y más años que consumen bebidas alcohólicas
+graph_type: bar
+indicator_name: 'Porcentaje de personas de 15 y más años que consume bebidas alcohólicas
   al menos una vez por semana '
 indicator_number: '3.5.3'
 national_geographical_coverage: Valencia

@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Mujeres discriminadas por motivos de sexo en los últimos 12 meses
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Mujeres discriminadas por motivos de sexo en los últimos 12 meses
 indicator_number: '5.1.1'
 national_geographical_coverage: Valencia

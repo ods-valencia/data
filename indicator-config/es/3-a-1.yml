@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Porcentaje de población de 15 y más años que son fumadores diarios
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Porcentaje de población de 15 y más años que son fumadores diarios
 indicator_number: '3.a.1'
 national_geographical_coverage: Valencia

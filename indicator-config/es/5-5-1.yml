@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de regidoras mujeres
+graph_title: Proporción de mujeres regidoras al Ayuntamiento de València
 graph_titles: []
 graph_type: line
-indicator_name: Porcentaje de regidoras mujeres
+indicator_name: Proporción de mujeres regidoras al Ayuntamiento de València
 indicator_number: '5.5.1'
 national_geographical_coverage: Valencia
 page_content: ''

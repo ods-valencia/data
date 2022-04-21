@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Población de 5 a 14 años con retraso del crecimiento
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Población de 5 a 14 años con retraso del crecimiento
 indicator_number: '2.2.1'
 national_geographical_coverage: Valencia

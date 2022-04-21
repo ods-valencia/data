@@ -17,11 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de personas que han utilizado Internet en los últimos 3 meses
+graph_title: Personas que han utilizado Internet en los últimos 3 meses
 graph_titles: []
 graph_type: line
-indicator_name: Porcentaje de personas que han utilizado Internet en los últimos 3
-  meses
+indicator_name: Personas que han utilizado Internet en los últimos 3 meses
 indicator_number: '5.b.1'
 national_geographical_coverage: Valencia
 page_content: ''
