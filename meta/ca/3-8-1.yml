@@ -53,7 +53,7 @@ REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
   La informació analitzada en aquest indicador recull les necessitats insatisfetes autoinformades corresponents a la pròpia avaluació que la persona fa sobre si necessitava asistencia mèdica (per a ell/ella mateix/a si ha sigut seleccionat/a en l'enquesta d'adults o sobre el seu fill/a si aquest/a ha sigut seleccionat/a en l'enquesta de menors) però no la va tindre o no la va buscar. Està recollida en la pregunta P38 del qüestionari d'adults i P35 del qüestionari de menors de l'Enquesta de Salut de la Comunitat Valenciana 2016. Aquesta informació no està recollida en l'Enquesta de Salut de la Comunitat Valenciana 2010.
 DATA_COMP: >-
-  Quocient del nombre de persones de qualsevol edat que contesten afirmativament a aquesta qüestió respecte al total de persones residents a la ciutat que contesten a la qüestió.
+  Quocient del nombre de persones que contesten afirmativament a aquesta qüestió en l'enquesta respecte al total de persones residents a la ciutat de València que contesten a la qüestió.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporció de persones de 15 i més anys d'edat que en el moment de l'entrevista fumen diàriament.
+  Proporció de persones de 15 o més anys d'edat que en el moment de l'entrevista fumen diàriament.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
@@ -54,7 +54,7 @@ REC_USE_LIM: >-
    
   La informació analitzada en aquest indicador recull la situació respecte a l'hàbit tabàquic de la persona enquestada en el moment de la pregunta. Està recollida en la pregunta P46 del qüestionari d'adults (població de 15 i més anys) de l'Enquesta de Salut de la Comunitat Valenciana 2016 i P35 del qüestionari d'adults (població de 16 i més anys) de l'Enquesta de Salut de la Comunitat Valenciana 2010.
 DATA_COMP: >-
-  Quocient del nombre de persones de 15 o més anys d'edat que responen que en el moment de l'entrevista fumen diàriament respecte al total de persones residents a la ciutat que contesten a la qüestió.
+  Quocient del nombre de persones residents a la ciutat de 15 o més anys d'edat que responen que en el moment de l'entrevista fumen diàriament respecte al total de persones residents a la ciutat que contesten a la qüestió.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

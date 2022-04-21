@@ -27,15 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Es considera que una persona mostra obesitat o sobrepés si el seu índex de massa corporal és major o igual a la mitjana més dues desviacions típiques dels patrons d'IMC infantil de l'Organització Mundial de la Salut (OMS) per al seu sexe i edat.
+  Percentatge de persones de 5 a 14 anys d'edat amb obesitat o sobrepés respecte a la població de 5 a 14 anys d'edat resident a la ciutat de València.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Enquesta de Salut de la Comunitat Valenciana.
+  Explotació estadística Enquesta de Salut de la Comunitat Valenciana (Conselleria de Sanitat Universal i Salut Pública).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,14 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Una modificació d'aquest indicador apareix en el panell de l'INE (proporció de menors de 2 a 4 anys amb obesitat, sobrepés o pes insuficient) o de l'IVE (proporció de menors entre 2 i 17 anys amb obesitat, sobrepés o pes insuficient).
-   
-  L'Índex de Massa Corporal (IMC) es calcula dividint el pes corporal de cada individu (en quilograms) entre el quadrat de l'alçada (en metres). Es considera que una persona mostra obesitat o sobrepés si el seu IMC és major o igual a la mitjana més dues desviacions típiques dels patrons de creixement infantil de l'Organització Mundial de la Salut (OMS) per al seu sexe i edat. Aquests valors de referència poden consultar-se en:
-  (https://www.who.int/tools/growth-reference-data-for-5to19-years/indicators/bmi-for-age).
-   
-  Encara que les taules de referència ofereixen dades segons mesos complits, en el fitxer de microdades de l'Enquesta de Salut de la Comunitat Valenciana únicament disposem d'informació dels anys complits de la persona enquestada. Per això considerarem que una persona enquestada d'edat x té obesitat o sobrepés si el seu IMC és major o igual a la mitjana més dues desviacions típiques que apareixen en les taules de referència de les persones amb 12x+6 mesos complits del mateix sexe. Per exemple, direm que les xiquetes de 5 anys presenten obesitat o sobrepés si el seu IMC és major o igual a 19,009 kg/m². Pel fet que la mostra a la ciutat és reduïda (173 enquestats de 5 a 14 anys en l'Enquesta de Salut de la Comunitat Valenciana de 2016), les estimacions obtingudes han de prendre's amb cautela. El percentatge de persones amb obesitat o sobrepés es calcula respecte al total de persones de 5 a 14 anys en què consta el pes i l'altura.
+  Encara que les taules de referència ofereixen dades segons mesos complits, en el fitxer de microdades de l'Enquesta de Salut de la Comunitat Valenciana únicament disposem d'informació dels anys complits de la persona enquestada. Per això considerarem que una persona enquestada d'edat x té obesitat o sobrepés si el seu IMC és major o igual a la mediana més dues desviacions típiques, dades que apareixen en les taules de referència de les persones amb 12x+6 mesos complits del mateix sexe. Per exemple, direm que les xiquetes de 5 anys presenten obesitat o sobrepés si el seu IMC és major o igual a 19,009 kg/m².  Pel fet que la mostra a la ciutat de València és reduïda (173 persones enquestades de 5 a 14 anys en l'Enquesta de Salut de la Comunitat Valenciana de 2016), les estimacions obtingudes han de prendre's amb cautela. 
+  Una modificació d'aquest  indicador apareix en el Panell ODS de l'INE (proporció de menors de 2 a 4 anys amb obesitat, sobrepés o pes insuficient) o de l'IVE (proporció de menors entre 2 i 17 anys amb obesitat, sobrepés o pes insuficient).
 DATA_COMP: >-
-  Percentatge de persones de 5 a 14 anys d'edat amb obesitat o sobrepés respecte a la població de 5 a 14 anys d'edat.
+  Es considera que una persona mostra obesitat o sobrepés si el seu índex de massa corporal (IMC) és major o igual a la mitjana més dues desviacions típiques dels patrons d'IMC de l'Organització Mundial de la Salut (OMS) per al seu sexe i edat.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

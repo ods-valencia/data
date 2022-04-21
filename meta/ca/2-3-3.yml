@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de superfície agrària utilitzada (SAU) destinada a producció ecològica.
+  Percentatge de superfície agrària utilitzada (SAU) destinada a producció ecològica a la ciutat de València.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
@@ -50,13 +50,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), encara que amb una referència territorial provincial. En tots els casos s'estima la superfície destinada a producció agrícola a partir de l'Enquesta de Superfícies i Rendiments de Cultiu del Ministeri d'Agricultura, Pesca i Alimentació, i la superfície destinada a producció agrícola productiva i sostenible a partir de l'Estadística de la Producció Ecològica del Ministeri d'Agricultura, Pesca i Alimentació. L'àmbit territorial inferior d'aquestes dades és el provincial, per la qual cosa no es disposa de dades per al municipi de València. Per això s'ha decidit utilitzar com a font alternativa l'Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'INE.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/). 
+  En tots els casos s'estima la superfície destinada a producció agrícola a partir de l'Enquesta de Superfícies i Rendiments de Cultiu del Ministeri d'Agricultura, Pesca i Alimentació, i la superfície destinada a producció agrícola productiva i sostenible a partir de l'Estadística de la Producció Ecològica del Ministeri d'Agricultura, Pesca i Alimentació. L'àmbit territorial inferior d'aquestes dades és el provincial, per la qual cosa no es disposa de dades per al municipi de València. Per això s'ha decidit utilitzar com a font alternativa l'Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'INE.
    
   Documentació metodològica sobre l'Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'INE: [Explotació Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf).
    
-  La superfície agrària utilitzada (SAU) és el conjunt de la superfície de terres llaurades i terres per a pastures permanents. Les terres llaurades comprenen els cultius herbacis, els guarets, els horts familiars i les terres dedicades a cultius llenyosos.
-     En aquesta operació únicament s'inclouen les explotacions agrícoles amb almenys 1 hectàrea de superfície agrícola utilitzada o amb una certa importància econòmica.
-  Per a qualificar la producció com a ecològica es requereix la identificació i separació de les parcel·les i productes usats o produïts ecològicament dels que no ho són, i estar registrada davant l'autoritat-organisme de control corresponent en cada comunitat autònoma i sotmetre's als seus controls. En aquesta enquesta s'investiga tant la superfície en la qual s'apliquen mètodes de producció ecològica (superfície qualificada), com la superfície que es troba en període de conversió.
+  La superfície agrària utilitzada (SAU) és el conjunt de la superfície de terres llaurades i terres per a pastures permanents. Les terres llaurades comprenen els cultius herbacis, els guarets, els horts familiars i les terres dedicades a cultius llenyosos.  En aquesta operació únicament s'inclouen les explotacions agrícoles amb almenys 1 hectàrea de superfície agrícola utilitzada o amb una certa importància econòmica.
+  Per a qualificar la producció com a ecològica es requereix la identificació i separació de les parcel·les i productes usats o produïts ecològicament dels que no ho són, estar registrada davant l'autoritat-organisme de control corresponent en cada comunitat autònoma i sotmetre's als seus controls. En aquesta enquesta s'investiga tant la superfície en la qual s'apliquen mètodes de producció ecològica (superfície qualificada), com la superfície que es troba en període de conversió.
 DATA_COMP: >-
   Quocient de la superfície agrària utilitzada destinada a producció ecològica entre la superfície agrària utilitzada total.
 DATA_VALIDATION: >-

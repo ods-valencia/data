@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de dones que han presentat una denúncia per violència de genere per cada 10.000 habitants.
+  Nombre de denúncies per violència de gènere de dones residents a la ciutat l'any de referència respecte al total de residents a la ciutat.
 UNIT_MEASURE: >-
   Tant per 10.000
 CLASS_SYSTEM: >-
@@ -50,14 +50,14 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/)
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
    
   Consulta a la Web del CGPJ (www.poderjudicial.es), a data setembre de l'any següent a l'any de referència de les dades. 
   La població utilitzada en el denominador és la població estimada a un de juliol de l'any de referència de les dades (t), com a mitjana aritmètica entre la població a un de gener d'aqueix any i la població a un de gener de l'any següent (t+1).
    
   Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Quocient de la divisió del nombre de denúncies de violència de gènere entre la població.
+  Quocient del nombre de denúncies per violència de gènere de dones residents a la ciutat l'any de referència respecte al total de residents a la ciutat.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

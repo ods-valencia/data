@@ -49,9 +49,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/)
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
    
-  Documentació relativa als homicidis per violència de gènere registrats pels Jutjats de Violència sobre la Dona: [Violència Dona](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15).
+  Documentació relativa als homicidis per violència de gènere registrats pels Jutjats de Violència sobre la Dona: [Violència Dona](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15). 
+  A la ciutat de València se situen 4 Jutjats de Violència sobre la Dona, que entenen d'assumptes judicials del partit judicial de València, format únicament pel municipi. El nombre total de dones mortes per violència de gènere a la ciutat correspon a la suma de les dones mortes, amb o sense ordre prèvia de protecció, dels quatre jutjats que entenen assumptes de violència de gènere de la ciutat.
 DATA_COMP: >-
   Valor numèric directament proporcionat pels Jutjats de Violència sobre la Dona.
 DATA_VALIDATION: >-
