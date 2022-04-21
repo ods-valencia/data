@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-3-title
 SDG_INDICATOR: >-
-  Incidencia de la hepatitis B por cada 100.000 habitantes
+  Incidència de l'hepatitis B per cada 100.000 habitants
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Casos notificados de hepatitis B de residentes en la ciudad por cada 100.000 residentes.
+  Casos notificats d'hepatitis B de residents a la ciutat per cada 100.000 residents.
 UNIT_MEASURE: >-
-  Tanto por 100.000
+  Tant per 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Red de Vigilancia Microbiológica de la Comunidad Valenciana. Dirección General de Salud Pública a la Oficina de Estadística del Ayuntamiento de València.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Xarxa de Vigilància Microbiològica de la Comunitat Valenciana. Direcció General de Salut Pública a l'Oficina d'Estadística de l'Ajuntament de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,13 +50,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofrece esta información a nivel nacional.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
    
-   El Sistema de Notificación Obligatoria es un sistema de la Consellería de Sanidad Universal y Salud Pública que permite recoger en tiempo real los datos de las Enfermedades de Declaración Obligatoria (EDO), de los brotes, y de las alertas, su análisis y la difusión de la información a los usuarios de manera automatizada, dentro del territorio de la Comunidad Valenciana. La notificación obligatoria se refiere a casos nuevos de cualquier de las enfermedades de declaración obligatoria aparecidos. La notificación se realiza bajo sospecha clínica por cualquier médico, del sector público o privado, que se encuentran o ejerzan su profesión en el ámbito territorial de la Comunidad Valenciana.
+  El Sistema de Notificació Obligatòria és un sistema de la Conselleria de Sanitat Universal i Salut Pública que permet recollir en temps real les dades de les Malalties de Declaració Obligatòria (EDO), dels brots, i de les alertes, la seua anàlisi i la difusió de la informació als usuaris de manera automatitzada, dins del territori de la Comunitat Valenciana. La notificació obligatòria es refereix a casos nous de qualsevol de les malalties de declaració obligatòria apareguts. La notificació es realitza sota sospita clínica per qualsevol metge, del sector públic o privat, que es troben o exercisquen la seua professió en l'àmbit territorial de la Comunitat Valenciana.  La població de la ciutat a meitat de cada any t s'ha obtingut com a semisuma de les poblacions registrades en el Padró Municipal d'Habitants de l'Ajuntament de València a 1 de gener de l'any t i de l'any t+1.
 DATA_COMP: >-
-  Cociente del número de casos notificados de hepatitis B (código B16 de la CIE-10) de residentes en la ciudad durante el año de referencia entre el número de residentes en la ciudad calculado a mitad del año de referencia. 
+  Quocient del nombre de casos notificats d'hepatitis aguda tipus B (codi B16 de la CIE-10) de residents a la ciutat durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

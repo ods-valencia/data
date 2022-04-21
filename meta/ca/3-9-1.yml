@@ -60,7 +60,7 @@ REC_USE_LIM: >-
    
   Per a les taxes específiques per sexe (edat) es consideren les defuncions i residents d'aquest sexe (edat).
 DATA_COMP: >-
-  Quocient del nombre de defuncions de residents a la ciutat a causa de causes relacionades amb enverinaments accidentals (codis X40-X49 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
+  Quocient del nombre de defuncions de residents a la ciutat atribuïdes a intoxicacions involuntàries  (codis X40-X49 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

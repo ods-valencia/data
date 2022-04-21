@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-1-title
 SDG_INDICATOR: >-
-  Mujeres discriminadas por motivos de sexo en los últimos 12 meses
+  Dones discriminades per motius de sexe en els últims 12 mesos
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de mujeres discriminadas por motivos de sexo en los últimos 12 meses.
+  Percentatge de dones discriminades per motius de sexe en els últims 12 mesos.
 UNIT_MEASURE: >-
-  Porcentaje
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Quinta Ola Barómetro de Opinión Ciudadana: Convivencia y Derechos Sociales. (2018).
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Cinquena Ona Baròmetre d'Opinió Ciutadana: Convivència i Drets Socials. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +50,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentación metodológica sobre la 5 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
+  Documentació metodològica sobre la 5 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
    
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Junio y Julio de 2018, publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Junio/Julio 2017 - Junio/Julio 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Juny i Juliol de 2018, publicant-se el Baròmetre el mes de setembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Juny/Juliol 2017 - Juny/Juliol 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
 DATA_COMP: >-
-  Cociente entre el número de mujeres que han sufrido discriminación por motivos de sexo el año de referencia y el total de mujeres en el municipio de València.
+  Quocient del nombre de dones que declaren haver patit discriminació per motius de sexe en els últims dotze mesos abans de l'enquesta entre el total de dones enquestades que responen a la pregunta.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

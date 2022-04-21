@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.4-c-title
 SDG_INDICATOR: >-
-  Presupuesto municipal destinado a Educación para el desarrollo ODS4
+  Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 4
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Presupuesto municipal destinado a Educación para el desarrollo ODS4.
+  Pressupost municipal executat del programa d'Educació per al Desenvolupament i Ciutadania Global relacionat amb l'Objectiu de Desenvolupament Sostenible ODS 4 (Garantir una educació inclusiva, equitativa i de qualitat i promoure oportunitats d'aprenentatge durant tota la vida per a tots).
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Servicio de Cooperación Municipal. Ayuntamiento de València.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Pressupost Municipal de l'Ajuntament de València (Servei de Cooperació al Desenvolupament i Migració).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). 
+  El Programa de Sensibilització i Educació per al Desenvolupament i Ciutadania Global té com a objectiu regular els projectes de sensibilització i d'educació per al desenvolupament dirigit a construir una ciutadania crítica i global en benefici d'una transformació mundial. Aquest programa figura en el Pla Estratègic de Subvencions aprovat per la Junta de Govern Local, té un termini anual i es finança amb fons municipals.
 DATA_COMP: >-
-  
+  El pressupost executat total (en euros) del programa d'Educació per al Desenvolupament i Ciutadania Global de l'Ajuntament de València relacionat amb l’ODS 4 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

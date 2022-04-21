@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-c-title
 SDG_INDICATOR: >-
-  Mujeres muertas por violencia de género
+  Dones mortes per violència de gènere
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Número de mujeres que han sido asesinadas por motivo de violencia de género en el último año.
+  Nombre de dones que han sigut assassinades per motiu de violència de gènere en l'últim any.
 UNIT_MEASURE: >-
-  Mujeres
+  Dones
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +49,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/)
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Documentación relativa a los homicidios por violencia de género registrados por los Juzgados de Violencia sobre la Mujer: [Violencia Mujer](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15).
+  Documentació relativa als homicidis per violència de gènere registrats pels Jutjats de Violència sobre la Dona: [Violència Dona](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15). 
+  A la ciutat de València se situen 4 Jutjats de Violència sobre la Dona, que entenen d'assumptes judicials del partit judicial de València, format únicament pel municipi. El nombre total de dones mortes per violència de gènere a la ciutat correspon a la suma de les dones mortes, amb o sense ordre prèvia de protecció, dels quatre jutjats que entenen assumptes de violència de gènere de la ciutat.
 DATA_COMP: >-
-  Valor numérico directamente proporcionado por los Juzgados de Violencia sobre la Mujer.
+  Valor numèric directament proporcionat pels Jutjats de Violència sobre la Dona.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

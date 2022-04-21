@@ -27,14 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Defuncions de dones atribuïdes a causes relacionades amb l'embaràs, part i puerperi per cada 100.000 naixements.
+  Defuncions de dones per causes relacionades amb l'embaràs, part o puerperi per cada 100.000 naixements.
 UNIT_MEASURE: >-
   Tant per 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0741-Estadística de mortalidad según causa para los distritos municipales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Explotació estadística Registre de Mortalitat de la Direcció General de Salut Pública de la Conselleria de Sanitat Universal i Salut Pública de la Generalitat Valenciana. 
   Explotació estadística Estadística de Naixements del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
@@ -58,7 +57,7 @@ REC_USE_LIM: >-
    
   Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
 DATA_COMP: >-
-  Quocient del nombre de defuncions de dones residents a la ciutat a causa de causes relacionades amb l'embaràs, part i puerperi (codis O00-O99 de la CIE-10) durant l'any de referència entre el nombre de naixements de mares residents a la ciutat durant l'any de referència.
+  Quocient del nombre de defuncions de dones residents a la ciutat de València per causes relacionades amb l'embaràs, part o puerperi (codis O00-O99 de la CIE-10) durant l'any de referència entre el nombre de naixements de mares residents a la ciutat durant l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

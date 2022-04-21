@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-5-title
 SDG_INDICATOR: >-
-  Tasa de personas en tratamiento por consumo de drogas ilegales
+  Persones en tractament per consum de drogues il·legals
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,18 +27,16 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Personas en tratamiento por consumo de drogas ilegales residentes en la ciudad por cada 100.000 habitantes.
+  Persones en tractament per consum de drogues il·legals residents a la ciutat per cada 100.000 habitants.
 UNIT_MEASURE: >-
-  Tanto por 100.000
+  Tant per 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   0211-Características de la población de València. Padrón municipal de València
-   a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
-   
-   Red Pública de Atención a las Adiccions en la Comunidad Valenciana.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0211-Características de la población de València. Padrón municipal de València
+  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  Xarxa Pública d'Atenció  a les   Adiccions en la Comunitat Valenciana.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -54,15 +52,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofrece esta información para ámbitos territoriales superiores. 
-   
-   En la página web de la Dirección General de Asistencia Sanitaria de la Consellería de Sanidad Universal y Salud Pública se ofrece información de adiccions para la Comunidad Valenciana (http://www.san.gva.es/web/dgas/indicadores).
-   
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-   Para las tasas específicas por sexo se consideran las personas en tratamiento y residentes de este sexo.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofereix aquesta informació per a àmbits territorials superiors. 
+  En la pàgina web de la Direcció General d'Assistència Sanitària de la Conselleria de Sanitat Universal i Salut Pública s'ofereix informació d'adiccions per a la Comunitat Valenciana (http://www.san.gva.es/web/dgas/indicadores).
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Cociente del número de personas en tratamiento por consumo de drogas ilegales residentes durante el año de referencia entre el número de residentes en la ciudad calculado a mitad del año de referencia.
+  Quocient del nombre de persones en tractament per consum de drogues il·legals residents durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

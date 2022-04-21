@@ -52,9 +52,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf). 
+  Les oficines de farmàcia són establiments sanitaris privats d'interés públic, subjectes a la planificació sanitària que establisquen les comunitats autònomes, en les quals el farmacèutic titular-propietari d'aquelles, assistit en el seu cas d'ajudants o auxiliars.
 DATA_COMP: >-
-  Quocient del nombre d'oficines de farmàcia obertes al públic i inscrites en el Registre d'Establiments i Serveis Sanitaris d'Atenció Farmacèutiques de la Comunitat Valenciana a 1 de gener de l'any de referència entre el nombre de residents a la ciutat a 1 de gener de l'any de referència.
+  Quocient del nombre d'oficines de farmàcia a 1 de gener de l'any de referència situades a la ciutat entre la població de la ciutat a 1 de gener de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

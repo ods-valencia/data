@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.4-4-title
 SDG_INDICATOR: >-
-  Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad informática en los últimos 12 meses
+  Proporció de persones entre 16 i 74 anys que han utilitzat alguna habilitat informàtica en els últims 12 mesos
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de población adulta (16-74 años) que en los últimos 12 meses ha hecho alguna tarea de carácter informático.
+  Percentatge de població adulta (de 16 a 74 anys d'edat) residents a la ciutat que en els últims dotze mesos ha fet alguna tasca de caràcter informàtic.
 UNIT_MEASURE: >-
-  Porcentaje
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  1103-Encuesta de tecnologías de la información y comunicaciones en los hogares en la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Explotación estadística Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares del Instituto Nacional de Estadística.
+  1103-Encuesta de tecnologías de la información y comunicaciones en los hogares en la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Enquesta sobre Equipament i Ús de Tecnologies d'Informació i Comunicació en les Llars de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,17 +50,17 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
    
-   Documentación metodológica sobre la Encuesta sobre Equipación y Uso de Tecnologías de la Información y Comunicación en los Hogares del INE: [Encuesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf)
+  Documentació metodològica sobre l'Enquesta sobre Equipament i Ús de Tecnologies de la Informació i Comunicació en les Llars de l'INE: [Enquesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).
    
-   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).  A pesar de que la Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares se realiza de manera anual, las preguntas respecto a la competencias en habilidades informáticas no aparecen para el año 2018. Del año 2014 jefe atrás la pregunta se hacía en un contexto diferente.
+  Per a les taxes específiques per sexe (edat) es consideren les persones d'aquest sexe (edat).  Malgrat que l'Enquesta sobre Equipament i Ús de Tecnologies d'Informació i Comunicació en les Llars es realitza de manera anual, les preguntes respecte a la competències en habilitats informàtiques no apareixen per a l'any 2018. De l'any 2014 cap arrere la pregunta es feia en un context diferent.
    
-   En la encuesta se preguntaba por las siguientes habilidades informáticas: Utilizar al menos un conocimiento informático. Transferir ficheros entre el ordenador y otros dispositivos. Instalar y configurar software o aplicaciones. Copiar o mover ficheros o carpetas. Crear presentaciones o documentos que integran texto, mesas o gráficos. Usar hojas de cálculo. Programar en un lenguaje de programación.
+  En l'enquesta es recullen  les següents habilitats informàtiques: descarregar un programari o canviar la seua configuració; transferir fitxers entre l'ordinador i altres dispositius; crear presentacions que integren text, imatges o taules; programar en un llenguatge de programació; copiar o moure fitxers o carpetes i usar funcions bàsiques d'un full de càlcul. 
    
-   Se considera que cualquier persona que respondió afirmativamente a al menos una tarea ha realizado una habilidad informática en los últimos 12 meses.
+  Es considera que una persona ha realitzat una habilitat informàtica en els últims 12 mesos si ha respost afirmativament almenys a una  d'aquestes tasques.
 DATA_COMP: >-
-  Cociente entre las personas entre 16 y 74 años que en los últimos 12 meses han hecho alguna tarea que requiriera de habilidades informáticas y el total de la población entre 16 y 74 años.
+  Quocient entre les persones de 16 a 74 anys que en els últims 12 mesos han fet alguna tasca que requerira d'habilitats informàtiques i el total de la població de 16 a 74 anys d'edat residents a la ciutat.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

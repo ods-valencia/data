@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-7-title
 SDG_INDICATOR: >-
-  Tasa de fecundidad de las adolescentes de 10 a 14 años
+  Taxa de fecunditat de les adolescents de 10 a 14 anys
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,18 +27,16 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nacimientos de madres de 10 a 14 años por cada 1.000 mujeres en ese rango de edad.
+  Naixements de mares de 10 a 14 anys per cada 1.000 dones en aqueix rang d'edat.
 UNIT_MEASURE: >-
-  Tanto por 1.000
+  Tant per 1.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València.
-   
-   0211-Características de la población de València. Padrón municipal de València
-   a 1 de enero de cada año.
-   
-   Explotación estadística Estadística de Nacimientos del Movimiento Natural de la Población del Instituto Nacional de Estadística.
+  0211-Características de la población de València. Padrón municipal de València
+  a 1 de enero de cada año.
+  Explotació estadística Estadística de Naixements del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -54,13 +52,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ods/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
    
-   Documentación metodológica sobre la Estadística de Nacimientos en València: [Estadística Nacimientos](https://www.ine.es/metodologia/t20/t2030301.pdf).
+  Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
    
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/padron/2020/padron2020val.pdf).
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Cociente del número de nacimientos de madre de 10 a 14 años de edad residente en la ciudad durante el año de referencia entre el número de mujeres de 10 a 14 años de edad residentes en la ciudad calculado a mitad del año de referencia.
+  Quocient del nombre de naixements de mare de 10 a 14 anys d'edat resident a la ciutat durant l'any de referència entre el nombre de dones de 10 a 14 anys d'edat residents a la ciutat calculat a meitat de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

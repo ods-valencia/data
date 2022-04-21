@@ -62,7 +62,7 @@ REC_USE_LIM: >-
    
   Existeix un xicotet subregistre pel fet que algunes de les defuncions registrades a la ciutat no van poder ser geocodificades al districte de residència. Es pot consultar la metodologia associada a aquesta operació en: [Mortalitat 2011-2015](https://www.valencia.es/estadistica/CatPub/files/MortalitatCausa_2011_2015.pdf).
 DATA_COMP: >-
-  Quocient del nombre de defuncions de residents a la ciutat atribuïdes a suïcidis i lesions autoinfligides (codis X60-X84 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
+  Quocient del nombre de defuncions de residents a la ciutat atribuïdes a suïcidis i lesions autoinflingides (codis X60-X84 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

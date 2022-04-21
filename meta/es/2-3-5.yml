@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.2-3-title
 SDG_INDICATOR: >-
-  Producción de las explotaciones agrícolas
+  Producció de les explotacions agrícoles
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Producción estándar total, que se obtiene como la suma de los valores obtenidos para cada característica agrícola multiplicando las producciones estándares por unidad por el número de unidades correspondientes. 
+  Producció estàndard total, que s'obté com la suma dels valors obtinguts per a cada característica agrícola multiplicant les produccions estàndard per unitat pel nombre d'unitats corresponents. 
 UNIT_MEASURE: >-
-  Miles de euros
+  Milers d'euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Explotación estadística Encuesta sobre la Estructura de las Explotaciones Agrícolas del Instituto Nacional de Estadística.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística  Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +50,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentación metodológica de la Encuesta sobre la Estructura de las Explotaciones Agrícolas de la INE: [Estructura Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf).
-   
-   Hay que tener en cuenta el reducido tamaño muestral de explotaciones de la ciudad (32 explotaciones), lo cual dará lugar a estimaciones con poca precisión que tendremos que tomar con cautela.
+  Documentació metodològica de l'Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'INE: [Estructura Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf). 
+  Els resultats que s'ofereixen procedeixen de l'explotació estadística del fitxer de microdades de l'Enquesta sobre l'Estructura de les Explotacions Agrícoles, seleccionant les explotacions agrícoles situades a la ciutat. Atés que l'Enquesta sobre l'Estructura de les Explotacions Agrícoles no està dissenyada per a oferir estimacions a nivell municipal, les estimacions oferides tindran un major nivell d’error que l'associat a àmbits territorials més amplis, i hauran de ser tractades amb cautela a causa de la reduïda grandària mostral d'explotacions de la ciutat (32 explotacions).  La metodologia associada a aquesta operació pot consultar-se en https://bit.ly/30miytu. En la documentació metodològica es mostra una taula d'equivalències entre unitats de treball-any, jornades, hores de treball o percentatge de treball realitzat per una persona. 
+  El període de referència és l'any agrícola 2016, és a dir, la campanya agrícola compresa entre l'1 d'octubre de 2015 i el 30 de setembre de 2016.
 DATA_COMP: >-
-  Se entiende por producción estándar el valor de la producción correspondiente a la situación mediana de una determinada región para cada característica agrícola. Se entiende por producción la suma del valor de los productos, que se obtienen multiplicando la producción por unidad por el precio de salida de la explotación sin incluir el IVA, los impuestos sobre los productos y los pagos directos. Las producciones estándares se determinan utilizando datos básicos medianos calculadas a lo largo de un periodo de referencia de cinco años. 
+  S'entén per producció estàndard el valor de la producció corresponent a la situació mitjana d'una determinada regió per a cada característica agrícola. S'entén per producció la suma del valor dels productes, que s'obtenen multiplicant la producció per unitat pel preu d'eixida de l'explotació, sense incloure l'IVA, els impostos sobre els productes i els pagaments directes. Les produccions estàndard es determinen utilitzant dades bàsiques mitjanes calculades al llarg d'un període de referència de cinc anys.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
