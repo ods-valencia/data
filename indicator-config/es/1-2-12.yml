@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de población que vive en secciones censales vulnerables a
-  nivel socioeconómico
+graph_title: Población que vive en secciones censales vulnerables a nivel socioeconómico
 graph_titles: []
-graph_type: line
-indicator_name: Porcentaje de población que vive en secciones censales vulnerables
-  a nivel socioeconómico
+graph_type: bar
+indicator_name: Población que vive en secciones censales vulnerables a nivel socioeconómico
 indicator_number: '1.2.12'
 national_geographical_coverage: Valencia
 page_content: ''

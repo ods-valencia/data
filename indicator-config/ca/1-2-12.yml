@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de població que viu en seccions censals vulnerables a nivell
-  socioeconòmic
+graph_title: Població que viu en seccions censals vulnerables a nivell socioeconòmic
 graph_titles: []
-graph_type: line
-indicator_name: Percentatge de població que viu en seccions censals vulnerables a
-  nivell socioeconòmic
+graph_type: bar
+indicator_name: Població que viu en seccions censals vulnerables a nivell socioeconòmic
 indicator_number: '1.2.12'
 national_geographical_coverage: València
 page_content: ''

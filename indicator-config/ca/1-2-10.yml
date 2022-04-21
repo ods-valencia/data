@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Població de 80 o més anys que viuen solos
+graph_title: Població de 80 o més anys que viuen sols
 graph_titles: []
 graph_type: line
-indicator_name: Població de 80 o més anys que viuen solos
+indicator_name: Població de 80 o més anys que viuen sols
 indicator_number: '1.2.10'
 national_geographical_coverage: València
 page_content: ''
