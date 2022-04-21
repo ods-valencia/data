@@ -11,6 +11,7 @@ Year,Sexe,Value
 2012,,65.5
 2011,,64.93
 2010,,61.28
+2009,,60.32
 2021,Homes,68.06
 2020,Homes,70.61
 2019,Homes,68.22
@@ -23,6 +24,7 @@ Year,Sexe,Value
 2012,Homes,64.88
 2011,Homes,62.83
 2010,Homes,58.6
+2009,Homes,58.24
 2021,Dones,68.56
 2020,Dones,70.61
 2019,Dones,69.25
@@ -35,3 +37,4 @@ Year,Sexe,Value
 2012,Dones,66.17
 2011,Dones,67.16
 2010,Dones,64.14
+2009,Dones,62.48

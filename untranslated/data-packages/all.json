@@ -2032,7 +2032,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Year",
@@ -7635,7 +7635,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Year",

@@ -2221,7 +2221,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           },
           {
@@ -8366,7 +8366,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           },
           {
