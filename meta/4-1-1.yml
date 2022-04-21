@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge d'estudiants avaluats en ESO que han superat l'Educació Secundària Obligatòria.
+  Percentatge de l'alumnat avaluat en l'últim curs de l'Educació Secundària Obligatòria que promociona en haver superat aquesta avaluació.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Explotació estadística Equipament Escolar de la Ciutat de València (Oficina d'Estadística de l'Ajuntament de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-

@@ -1,0 +1,89 @@
+SDG_GOAL: >-
+   global_goals.2-title
+SDG_TARGET: >-
+  global_targets.2-2-title
+SDG_INDICATOR: >-
+  Població de 18 o més anys amb sobrepés o obesitat
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Percentatge de persones de 18 o més anys d'edat amb obesitat o sobrepés respecte a la població de 18 o més anys d'edat resident a la ciutat de València.
+UNIT_MEASURE: >-
+  Percentatge
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Novena Ona Baròmetre d'Opinió Ciutadana: Salut, Alimentació i Esport. (2019).
+  Explotació estadística Enquesta de Salut de la Comunitat Valenciana (Conselleria de Sanitat Universal i Salut Pública).
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS definit en l’European Handbook for SDG Voluntary Local Reviews.
+  Documentació metodològica sobre la 9 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 9](https://www.valencia.es/estadistica/Barometro/Metodologia9.pdf). 
+  El percentatge de persones amb sobrepés o obesitat es calcula respecte al total de persones en les quals consta el pes i l'alçada. Les dades de pes i alçada són informades en l'enquesta per la pròpia persona enquestada.
+  Les dades de 2010 i 2016 provenen de l'explotació estadística de les enquestes de la població de 18 o més anys d'edat residents a la ciutat de València procedents de l'Enquesta de Salut de la Comunitat Valenciana. Cal tindre en compte que la reduïda grandària de la mostra de població de 18 o més anys d'edat de l'Enquesta de Salut a la ciutat (603 per a 2016 i 619 per a 2010) implica que hem de prendre amb cautela les estimacions obtingudes, en estar subjectes a majors errors mostrals. 
+  Les dades de 2019 procedeixen de la novena ona del Baròmetre Municipal d'Opinió Ciutadana de l'Ajuntament de València. La grandària mostral associada a aquesta operació és sensiblement major (2.298 persones de 18 o més anys), per la qual cosa les estimacions seran molt més precises.
+DATA_COMP: >-
+  L'Índex de Massa Corporal (IMC) es calcula dividint el pes corporal de cada individu (en quilograms) entre el quadrat de l'alçada (en metres). L'IMC resultant es classifica en quatre categories:
+
+  > Baix pes si és menor de 18,5 kg/m².
+
+  > Normopeso si és major o igual a 18,5 i menor de 25 kg/m².
+
+  > Sobrepés si és igual o major de 25 kg/m².
+
+  > Obesitat si és igual o major de 30 kg/m².
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

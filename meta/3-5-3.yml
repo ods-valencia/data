@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-5-title
 SDG_INDICATOR: >-
-  Percentatge de persones de 15 i més anys que consumeixen begudes alcohòliques almenys una vegada per setmana 
+  Percentatge de persones de 15 i més anys que consumeix begudes alcohòliques almenys una vegada per setmana 
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporció de persones residents a la ciutat de 15 i més anys d'edat que, durant els 12 mesos previs a la realització de l'enquesta, han consumit begudes alcohòliques de qualsevol tipus almenys una vegada per setmana.
+  Proporció de persones residents a la ciutat de 15 o més anys d'edat que, durant els 12 mesos previs a la realització de l'enquesta, han consumit begudes alcohòliques de qualsevol tipus almenys una vegada per setmana.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-

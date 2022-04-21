@@ -1,9 +1,9 @@
 SDG_GOAL: >-
-   global_goals.4-title
+   global_goals.2-title
 SDG_TARGET: >-
-  global_targets.4-c-title
+  global_targets.2-a-title
 SDG_INDICATOR: >-
-  Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 4
+  Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 2
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Pressupost municipal executat del programa d'Educació per al Desenvolupament i Ciutadania Global relacionat amb l'Objectiu de Desenvolupament Sostenible ODS 4 (Garantir una educació inclusiva, equitativa i de qualitat i promoure oportunitats d'aprenentatge durant tota la vida per a tots).
+  Pressupost municipal executat del programa d'Educació per al Desenvolupament i Ciutadania Global relacionat amb l'Objectiu de Desenvolupament Sostenible ODS 2 (Posar fi a la fam, aconseguir la seguretat alimentària i la millora de la nutrició i promoure l'agricultura sostenible).
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
@@ -53,7 +53,9 @@ REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). 
   El Programa de Sensibilització i Educació per al Desenvolupament i Ciutadania Global té com a objectiu regular els projectes de sensibilització i d'educació per al desenvolupament dirigit a construir una ciutadania crítica i global en benefici d'una transformació mundial. Aquest programa figura en el Pla Estratègic de Subvencions aprovat per la Junta de Govern Local, té un termini anual i es finança amb fons municipals.
 DATA_COMP: >-
-  El pressupost executat total (en euros) del programa d'Educació per al Desenvolupament i Ciutadania Global de l'Ajuntament de València relacionat amb l’ODS 4 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.
+  
+
+  El pressupost executat total (en euros) del programa d'Educació per al Desenvolupament i Ciutadania Global de l'Ajuntament de València relacionat amb l’ODS 2 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -27,14 +27,16 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporció de dones i xiquetes de 16 o més anys d'edat que declaren haver patit violència física alguna vegada en la vida a les mans de qualsevol persona (parella actual, parelles passades o persones amb les quals no s'ha mantingut una relació de parella).
+  Proporció de dones i xiquetes de 16 o més anys d'edat que declaren haver patit violència física
+  alguna vegada en la vida a les mans de qualsevol persona (parella actual, parelles passades o
+  persones amb les quals no s'ha mantingut una relació de parella).
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Macroenquesta de Violència Contra la Dona del Ministeri d'Igualtat.
+  Explotació estadística Macroenquesta de Violència Contra la Dona 2019 del Ministeri d'Igualtat.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,13 +52,19 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/)
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
    
   Documentació metodològica sobre la Macroenquesta de Violència Contra la Dona del Ministeri d'Igualtat: [Macroenquesta Violència Contra la Dona](https://violenciagenero.igualdad.gob.es/violenciaencifras/macroencuesta2015/macroencuesta2019/home.htm).
    
   La mostra per al municipi de València és significativament xicoteta: 113 entrevistades.
 DATA_COMP: >-
-  Quocient del nombre de dones i xiquetes de 16 o més anys d'edat que declaren haver patit violència física alguna vegada en la vida a les mans de qualsevol persona (parella actual, parelles passades o persones amb les quals no s'ha mantingut una relació de parella) entre el total de dones enquestades de 16 o més anys d'edat residents a la ciutat de València.
+  Quocient del nombre de dones i xiquetes de 16 o més anys d'edat que declaren haver patit
+
+  violència física alguna vegada en la vida a les mans de qualsevol persona (parella actual, parelles
+
+  passades o persones amb les quals no s'ha mantingut una relació de parella) entre el total de
+
+  dones enquestades de 16 o més anys d'edat residents a la ciutat de València.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
