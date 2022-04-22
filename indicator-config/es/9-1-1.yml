@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Mercancíes transportadas en el Puerto de Valencia (toneladas)
+graph_title: Mercancías transportadas en el Puerto de València (toneladas)
 graph_titles: []
 graph_type: line
-indicator_name: Mercancíes transportadas en el Puerto de Valencia (toneladas)
+indicator_name: Mercancías transportadas en el Puerto de València (toneladas)
 indicator_number: '9.1.1'
 national_geographical_coverage: Valencia
 page_content: ''

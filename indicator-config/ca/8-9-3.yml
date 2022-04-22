@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Nombre d'apartaments turístics
+graph_title: Nombre de places en apartaments turístics
 graph_titles: []
 graph_type: line
-indicator_name: Nombre d'apartaments turístics
+indicator_name: Nombre de places en apartaments turístics
 indicator_number: '8.9.3'
 national_geographical_coverage: València
 page_content: ''

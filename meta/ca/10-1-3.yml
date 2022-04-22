@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones amb ingressos per unitat de consum per davall de 10000 euros (escala OCDE modificada).
+  Percentatge de persones amb ingressos per unitat de consum per davall de 10.000 euros (escala OCDE modificada).
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0506-Rentas en IRPF a la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0506-Rendes en IRPF a la ciutat de València. Pla Valencià d'Estadística 2019-2022.
    
-  Explotació estadística Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
+  Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valènciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
-  Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
-   
-  Els ingressos que s'utilitzen en el càlcul d'aquest indicador corresponen a l'any anterior al de l'enquesta i són directament informats per l'enquestat. 
+  Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).  Els ingressos que s'utilitzen en el càlcul d'aquest indicador corresponen a l'any anterior al de l'enquesta i són directament informats per l'enquestat. 
   El nombre d'unitats de consum d'una llar es calcula utilitzant l'escala OCDE modificada, que assigna un pes d'1 a la primera persona de 14 o més anys, un pes de 0,5 a la resta de persones de 14 o més anys i un pes de 0,3 a les persones de menys de 14 anys. Per exemple, una llar formada per dos adults i dos xiquets menors de 14 anys estaria formada per 2,1 unitats de consum. Els ingressos per unitat de consum de la llar s'obtenen dividint els ingressos totals de la llar entre el nombre d'unitats de consum que la componen.
 DATA_COMP: >-
   Quocient entre la població amb ingressos per unitat de consum per davall de 10000 euros i el total de la població.

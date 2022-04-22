@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-5-title
 SDG_INDICATOR: >-
-  Taxa de Patents per 100.000 habitants 
+  Taxa de patents per 100.000 habitants 
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,9 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  2103-Censo de actividades econo´micas de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  2103-Cens d'activitats econòmiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
    
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  0211-Característiques de la població de València. Padró municipal de València a 1 de gener de cada any. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
-  En les sol·licituds de propietat industrial, s'han tingut en compte aquelles en les quals el municipi de residència del primer sol·licitant és la ciutat de València. També s'inclouen les presentades o participades per les Universitats públiques.
-   
-  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
+  En les sol·licituds de propietat industrial, s'han tingut en compte aquelles en les quals el municipi de residència del primer sol·licitant és la ciutat de València. També s'inclouen les presentades o participades per les Universitats públiques.  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
    
    
   Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).

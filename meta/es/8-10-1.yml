@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Total de sucursales bancarias del municipio de València.
+  Número de sucursales de bancos comerciales situadas en la ciudad a 1 de enero del año de referencia. 
 UNIT_MEASURE: >-
   Sucursales
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Registro de Oficinas de Entidades Supervisadas. Banco de España.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm)
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). Una sucursal (u oficina) bancaria es un determinado lugar que establece una entidad bancaria y que disfruta de ciertas atribuciones y autonomía respecto a los servicios centrales. Es el principal canal de distribución de sus productos para muchas de las entidades de crédito, a excepción de aquellas que operan sin sucursales.
 DATA_COMP: >-
-  
+  Explotación estadística del Registro de Oficinas de Entidades Supervisadas del Banco de España para aquellas la ubicación territorial de las cuales está en la ciudad de València.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

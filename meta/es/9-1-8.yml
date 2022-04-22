@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Valoración de 0 a 10 respecto a la facilidad para desplazarse con EMT por la ciudad de Valencia
+  Valoración de 0 a 10 respecto a la facilidad para desplazarse con EMT por la ciudad de València.
 UNIT_MEASURE: >-
   Escala 1-10
 CLASS_SYSTEM: >-
@@ -53,7 +53,7 @@ REC_USE_LIM: >-
    
    Documentación metodológica sobre la 1 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 1](https://www.valencia.es/estadistica/Barometro/Metodologia1.pdf).
    
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Febrero y Marzo de 2017. Se entrevistó un total de 2211 personas empadronadas en la ciudad de Valencia.
+   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Febrero y Marzo de 2017. Se entrevistó un total de 2211 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
   Media aritmética de la valoración de la población respecto a la facilidad para desplazarse con EMT.
 DATA_VALIDATION: >-

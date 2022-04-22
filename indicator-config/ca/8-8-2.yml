@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Accidents laborals per cada 1.000 treballadors actius
+graph_title: Accidents laborals amb baixa per cada 1.000 treballadors afiliats
 graph_titles: []
 graph_type: line
-indicator_name: Accidents laborals per cada 1.000 treballadors actius
+indicator_name: Accidents laborals amb baixa per cada 1.000 treballadors afiliats
 indicator_number: '8.8.2'
 national_geographical_coverage: València
 page_content: ''

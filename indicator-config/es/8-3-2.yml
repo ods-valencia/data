@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Población afiliada en régimen autónomo
+graph_title: Trabajadores afiliados en régimen autónomo
 graph_titles: []
 graph_type: line
-indicator_name: Población afiliada en régimen autónomo
+indicator_name: Trabajadores afiliados en régimen autónomo
 indicator_number: '8.3.2'
 national_geographical_coverage: Valencia
 page_content: ''

@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Número de apartamentos turísticos
+graph_title: Número de plazas en apartamentos turísticos
 graph_titles: []
 graph_type: line
-indicator_name: Número de apartamentos turísticos
+indicator_name: Número de plazas en apartamentos turísticos
 indicator_number: '8.9.3'
 national_geographical_coverage: Valencia
 page_content: ''

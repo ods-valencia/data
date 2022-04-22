@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-9-title
 SDG_INDICATOR: >-
-  Nombre de places hoteleres
+  Nombre de places en establiments hotelers
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Total de places hoteleres a la ciutat de València.
+  Nombre total de places en establiments hotelers (hotels, hostals, pensions i albergs urbans) situats a la ciutat de València a 31 de desembre de l'any anterior al de referència.
 UNIT_MEASURE: >-
   Places hoteleres
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.                                                        
+  Registre General d'Empreses, Establiments i Professions Turístiques. Agència Valenciana de Turisme.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +50,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'Enquesta d'Ocupació Hotelera: [EOH](https://www.ine.es/daco/daco42/ocuphotel/meto_eoh.pdf).
+  Documentació metodològica sobre l'Enquesta d'Ocupació Hotelera: [EOH](https://www.ine.es/daco/daco42/ocuphotel/meto_eoh.pdf).                                                                                                          La informació està referida a l'oferta en establiments hotelers situats a la ciutat a 31 de desembre de cada any. La informació associada a l'any t correspon amb la situació a 31 de desembre de l'any t-1.
 DATA_COMP: >-
-  
+  Recull informació dels establiments hotelers procedent de la tabulació estadística dels establiments del Registre General d'Empreses, Establiments i Professions Turístiques situats a la ciutat, que és remés per l'Agència Valenciana de Turisme de Presidència de la Generalitat Valenciana.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

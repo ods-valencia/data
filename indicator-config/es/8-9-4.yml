@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Apartamentos turísticos por cada 1.000 habitantes
+graph_title: Plazas en apartamentos turísticos por cada 1.000 habitantes
 graph_titles: []
 graph_type: line
-indicator_name: Apartamentos turísticos por cada 1.000 habitantes
+indicator_name: Plazas en apartamentos turísticos por cada 1.000 habitantes
 indicator_number: '8.9.4'
 national_geographical_coverage: Valencia
 page_content: ''

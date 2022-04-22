@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-2-title
 SDG_INDICATOR: >-
-  Porcentaje de población ocupada en el Sector Industrial
+  Porcentaje de población ocupada en el sector industrial
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de Valencia. Plan Valenciano de Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
    Explotación estadística Encuesta de Población Activa del Instituto Nacional de Estadística.
 COLL_METHOD: >-
@@ -53,13 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   La población ocupada son las personas de 16 y más años que durante la semana de referencia han estado trabajando durante al menos una hora a cambio de una retribución por cuenta ajena (asalariados) o ejerciendo una actividad por cuenta propia.
-   
-   La Encuesta de Población Activa (EPA) es una encuesta continua de periodicidad trimestral realizada por la INE que tiene como finalidad conocer la actividad económica en cuanto al componente humano. Está orientada para ofrecer datos de las principales categorías poblacionales en relación al mercado de trabajo. La información utilizada para el cálculo de este indicador se refiere en la ciudad de Valencia y se obtiene de una explotación específica de las secciones que forman la muestra en la ciudad. Los resultados tienen que interpretarse con precaución a causa de los errores de muestreo. Los datos están calculados según la metodología 2005 revisadas según la base poblacional 2011.
+   La población ocupada son las personas de 16 y más años que durante la semana de referencia han estado trabajando durante al menos una hora a cambio de una retribución por cuenta ajena (asalariados) o ejerciendo una actividad por cuenta propia.  La Encuesta de Población Activa (EPA) es una encuesta continua de periodicidad trimestral realizada por la INE que tiene como finalidad conocer la actividad económica en cuanto al componente humano. Está orientada para ofrecer datos de las principales categorías poblacionales en relación al mercado de trabajo. La información utilizada para el cálculo de este indicador se refiere en la ciudad de València y se obtiene de una explotación específica de las secciones que forman la muestra en la ciudad. Los resultados tienen que interpretarse con precaución a causa de los errores de muestreo. Los datos están calculados según la metodología 2005 revisadas según la base poblacional 2011.
    
    Documentación metodológica sobre la Encuesta de Población Activa de la INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  Cociente del número de personas que trabaja en industria, entre el total de la población ocupada residente en la ciudad de Valencia, para el año de referencia. Estos valores se han obtenido como medias aritméticas de las estimaciones trimestrales ofrecidas por la Encuesta de Población Activa (EPA).
+  Cociente del número de personas que trabaja en industria, entre el total de la población ocupada residente en la ciudad de València, para el año de referencia. Estos valores se han obtenido como medias aritméticas de las estimaciones trimestrales ofrecidas por la Encuesta de Población Activa (EPA).
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de sustancias solidas eliminadas
+graph_title: Sustancias sólidas eliminadas
 graph_titles: []
 graph_type: line
-indicator_name: Porcentaje de sustancias solidas eliminadas
+indicator_name: Sustancias sólidas eliminadas
 indicator_number: '6.3.2'
 national_geographical_coverage: Valencia
 page_content: ''

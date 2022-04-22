@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-9-title
 SDG_INDICATOR: >-
-  Apartaments turístics per cada 1.000 habitants
+  Places en apartaments turístics per cada 1.000 habitants
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Relació entre els apartaments turístics de la ciutat de València i la població empadronada en aquesta.
+  Places en apartaments turístics situats a la ciutat de València a 31 de desembre de l'any anterior al de referència respecte a la població empadronada a la ciutat a 1 de gener de l'any de referència.
 UNIT_MEASURE: >-
   Tant per 1.000
 CLASS_SYSTEM: >-
@@ -36,6 +36,8 @@ SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
    
   0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+                        
+  Registre General d'Empreses, Establiments i Professions Turístiques. Agència Valenciana de Turisme.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +55,10 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Documentació metodològica sobre l'Enquesta d'Apartaments Turístics: [EOAT](https://www.ine.es/daco/daco42/ocupapar/meto_eoap.pdf).
    
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf). 
+  La informació està referida a l'oferta en apartaments turístics situats a la ciutat a 31 de desembre de cada any. La informació associada a l'any t correspon amb la situació a 31 de desembre de l'any t-1.
 DATA_COMP: >-
-  Quocient entre el nombre d'apartaments turístics oferits a la ciutat de València l'any de referència i la població total de la ciutat.
+  Quocient entre el nombre de places en apartaments turístics situats a la ciutat a 31 de desembre de l'any anterior al de referència respecte a la població empadronada a la ciutat a 1 de gener de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

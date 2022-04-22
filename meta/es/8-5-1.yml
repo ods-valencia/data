@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de población desocupada en el municipio.
+  Porcentaje de población parada en el municipio respecto a la población en situación de actividad.
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
@@ -56,15 +56,13 @@ REC_USE_LIM: >-
    La población parada son las personas de 16 y más años que durante la semana de referencia han estado sin trabajo, disponibles para trabajar y buscando activamente trabajo.
    
    La Encuesta de Población Activa (EPA) es una encuesta continua de periodicidad trimestral realizada por la INE que tiene como finalidad conocer la actividad económica en cuanto al componente humano. Está orientada para ofrecer datos de las principales categorías poblacionales en relación al mercado de trabajo. La información utilizada para el cálculo de este indicador se refiere en la ciudad de València y se obtiene de una explotación específica de las secciones que forman la muestra en la ciudad. Los datos están calculados según la metodología 2005 revisadas según la base poblacional 2011.  
-   Para la elaboracio´ de este indicador, se ha asumido que la tasa de actividad para un grupo de edad y sexo es la misma en todos los distritos, y por tanto el número de activos en un distrito dependerá bajo´ esto de la estructura de la poblacio´ en ese distrito. Esta tesis ha sido corroborada a partir de los datos del censo de 2001, donde observamos que para un grupo de edad y sexo la tasa de actividad se mantiene estable entre los distritos que forman la ciudad.
+   Para la elaboracio´ de este indicador, se ha asumido que la tasa de actividad para un grupo de edad y sexo es la misma en todos los distritos, y por tanto el número de activos en un distrito dependerá bajo´ esto de la estructura de la poblacio´n en ese distrito. Esta tesis ha sido corroborada a partir de los datos del censo de 2001, donde observamos que para un grupo de edad y sexo la tasa de actividad se mantiene estable entre los distritos que forman la ciudad.
    
    Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
    
    Documentación metodológica sobre la Encuesta de Población Activa de la INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  Media aritmética de la tasa de paro de la población parada residente en la ciudad de València para los cuatro trimestres del año de referencia. 
-
-   Para cada trimestre la tasa de paro se ha calculado como el cociente de la población de 16 o más años que se encuentra en situación de desocupación entre la población activa.
+  Media aritmética de la tasa de paro de la población parada residente en la ciudad de València para los cuatro trimestres del año de referencia. Para cada trimestre la tasa de paro se ha calculado como el cociente de la población de 16 o más años que se encuentra en situación de desocupación entre la población activa.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

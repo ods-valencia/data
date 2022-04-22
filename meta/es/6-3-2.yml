@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.6-3-title
 SDG_INDICATOR: >-
-  Porcentaje de sustancias solidas eliminadas
+  Sustancias sólidas eliminadas
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,7 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-

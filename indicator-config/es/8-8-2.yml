@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Accidentes laborales por cada 1.000 trabajadores activos
+graph_title: Accidentes laborales con baja por cada 1.000 trabajadores afiliados
 graph_titles: []
 graph_type: line
-indicator_name: Accidentes laborales por cada 1.000 trabajadores activos
+indicator_name: Accidentes laborales con baja por cada 1.000 trabajadores afiliados
 indicator_number: '8.8.2'
 national_geographical_coverage: Valencia
 page_content: ''

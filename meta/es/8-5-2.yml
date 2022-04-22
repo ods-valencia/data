@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Número de personas desocupadas.
+  Personas residentes en València demandantes de ocupación registradas por el Servicio Valenciano de Ocupación y Formación durante el año de referencia.
 UNIT_MEASURE: >-
   Parados
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Fichero Mensual Parados LABORA.
+   Explotación estadística Servicio Valenciano de Ocupación y Formación. LABORA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -62,7 +62,7 @@ REC_USE_LIM: >-
    
    Documentación metodológica sobre la Encuesta de Población Activa de la INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  Media aritmética de la población parada estimada por la Encuesta de Población Activa (EPA) sobre las personas de 16 o más años residentes en la ciudad de València, para los cuatro trimestres correspondientes al año de referencia.
+  Media anual del número de personas residentes en la ciudad demandantes de ocupación registradas por el Servicio Valenciano de Ocupación y Formación para el año de referencia. La media anual se ha obtenido a partir de los datos mensuales referidos a las personas demandantes de ocupación en alta el último día de cada mes del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

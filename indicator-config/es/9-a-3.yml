@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Presupuesto municipal destinado a Acciones Humanitarias ODS9
+graph_title: Presupuesto municipal destinado a Acción Humanitaria y de Emergencia
+  relacionado con el ODS 9
 graph_titles: []
 graph_type: bar
-indicator_name: Presupuesto municipal destinado a Acciones Humanitarias ODS9
+indicator_name: Presupuesto municipal destinado a Acción Humanitaria y de Emergencia
+  relacionado con el ODS 9
 indicator_number: '9.a.3'
 national_geographical_coverage: Valencia
 page_content: ''

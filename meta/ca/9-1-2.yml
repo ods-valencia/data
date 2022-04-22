@@ -33,7 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadors socials de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+    
+  Font Activitat Portuària de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,7 +52,6 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-  El nombre total de passatgers inclou la suma de les arribades més les eixides del Port de València, per la qual cosa inclou passatgers embarcats, desembarcats o en trànsit.
 DATA_COMP: >-
   Suma de persones viatgeres amb origen o destinació el Port de València, o que es troben en trànsit en creuers turístics atracats en el Port de València durant l'any de referència.
 DATA_VALIDATION: >-

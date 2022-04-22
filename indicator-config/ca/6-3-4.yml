@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de reducció de DQO
+graph_title: Reducció de DQO
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de reducció de DQO
+indicator_name: Reducció de DQO
 indicator_number: '6.3.4'
 national_geographical_coverage: València
 page_content: ''

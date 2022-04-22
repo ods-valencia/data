@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Número de plazas hoteleras
+graph_title: Número de plazas en establecimientos hoteleros
 graph_titles: []
 graph_type: line
-indicator_name: Número de plazas hoteleras
+indicator_name: Número de plazas en establecimientos hoteleros
 indicator_number: '8.9.1'
 national_geographical_coverage: Valencia
 page_content: ''

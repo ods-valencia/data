@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Patentes solicitadas por residentes en Valencia
+graph_title: Patentes solicitadas por residentes en València
 graph_titles: []
 graph_type: line
-indicator_name: Patentes solicitadas por residentes en Valencia
+indicator_name: Patentes solicitadas por residentes en València
 indicator_number: '9.5.1'
 national_geographical_coverage: Valencia
 page_content: ''

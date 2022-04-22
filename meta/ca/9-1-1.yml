@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-1-title
 SDG_INDICATOR: >-
-  Mercancíes transportades en el Port de València (tones)
+  Mercaderies transportades en el Port de València (tones)
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,7 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadors socials de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+    
+  Font Activitat Portuària de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +55,7 @@ REC_USE_LIM: >-
    
   S'inclou el total de sòlids a l'engròs, líquids a l'engròs i mercaderia general. Els sòlids o líquids a l'engròs són els que es transporten sense envasar i la seua mesura de control és el seu pes en tones. No s'inclou les dades referides a avituallament i pesca.
 DATA_COMP: >-
-  Suma entre el total de mercancias carregades en el Port de València l'any de referència i el total de mercancias descarregades en el Port de València l'any de referència.
+  Suma entre el total de mercaderies carregades en el Port de València l'any de referència i el total de mercancias descarregades en el Port de València l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

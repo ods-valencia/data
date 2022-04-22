@@ -18,11 +18,11 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Porcentaje de personas que se han sentido discriminadas por alguna causa
-  en los últimos 12 meses
+  en los útimos 12 meses
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Porcentaje de personas que se han sentido discriminadas por alguna
-  causa en los últimos 12 meses
+  causa en los útimos 12 meses
 indicator_number: '10.3.1'
 national_geographical_coverage: Valencia
 page_content: ''

@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de persones desocupades.
+  Persones residents a València demandants d'ocupació registrades pel Servei Valencià d'Ocupació i Formació durant l'any de referència.
 UNIT_MEASURE: >-
   Aturats
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
    
-  Explotació estadística Fitxer Mensual Desocupats LABORA.
+  Explotació estadística Servei Valencià d'Ocupació i Formació. LABORA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -62,7 +62,7 @@ REC_USE_LIM: >-
    
   Documentació metodològica sobre l'Enquesta de Població Activa de l'INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  Mitjana aritmètica de la població parada estimada per l'Enquesta de Població Activa (EPA) sobre les persones de 16 o més anys residents a la ciutat de València, per als quatre trimestres corresponents a l'any de referència.
+  Mitjana anual del nombre de persones residents a la ciutat demandants d'ocupació registrades pel Servei Valencià d'Ocupació i Formació per a l'any de referència. La mitjana anual s'ha obtingut a partir de les dades mensuals referides a les persones demandants d'ocupació en alta l'últim dia de cada mes de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
