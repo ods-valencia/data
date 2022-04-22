@@ -2918,6 +2918,11 @@
       "schema": {
         "fields": [
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Valor"
@@ -3047,6 +3052,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
           {
             "name": "Value",
             "type": "number",
@@ -3443,6 +3453,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
           {
             "name": "Value",
             "type": "number",
