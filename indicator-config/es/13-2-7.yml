@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Emisions tonelades CO2 en ámbitos del Ayuntamiento por cada 100 habitantes
+graph_title: Emisions tonelades CO2 ámbitos Ayuntamiento por cada 100 habitantes
 graph_titles: []
 graph_type: line
-indicator_name: Emisions tonelades CO2 en ámbitos del Ayuntamiento por cada 100 habitantes
+indicator_name: Emisions tonelades CO2 ámbitos Ayuntamiento por cada 100 habitantes
 indicator_number: '13.2.7'
 national_geographical_coverage: Valencia
 page_content: ''

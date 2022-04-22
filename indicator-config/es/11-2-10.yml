@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Precio del billete sencillo de EMT
+graph_title: Precio del billete sencillo EMT
 graph_titles: []
 graph_type: line
-indicator_name: Precio del billete sencillo de EMT
+indicator_name: Precio del billete sencillo EMT
 indicator_number: '11.2.10'
 national_geographical_coverage: Valencia
 page_content: ''

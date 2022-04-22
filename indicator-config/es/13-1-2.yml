@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Permaneciendo de tesorería para gastos generales
+graph_title: Remanente de tesorería para gastos generales
 graph_titles: []
 graph_type: line
-indicator_name: Permaneciendo de tesorería para gastos generales
+indicator_name: Remanente de tesorería para gastos generales
 indicator_number: '13.1.2'
 national_geographical_coverage: Valencia
 page_content: ''

@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Tiempo medio a la parada de MetroValència más próxima
+graph_title: Tiempo medio a la parada de MetroValencia más próxima
 graph_titles: []
 graph_type: bar
-indicator_name: Tiempo medio a la parada de MetroValència más próxima
+indicator_name: Tiempo medio a la parada de MetroValencia más próxima
 indicator_number: '11.2.1'
 national_geographical_coverage: Valencia
 page_content: ''

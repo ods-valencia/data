@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de superficie municipal con riesgo de inundación
+graph_title: Porcentaje de superficie con riesgo de inundación
 graph_titles: []
-graph_type: line
-indicator_name: Porcentaje de superficie municipal con riesgo de inundación
+graph_type: bar
+indicator_name: Porcentaje de superficie con riesgo de inundación
 indicator_number: '13.1.1'
 national_geographical_coverage: Valencia
 page_content: ''

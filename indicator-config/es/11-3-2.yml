@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Superficie construida por cápita.
+graph_title: Superficie construida por cápita
 graph_titles: []
 graph_type: line
-indicator_name: Superficie construida por cápita.
+indicator_name: Superficie construida por cápita
 indicator_number: '11.3.2'
 national_geographical_coverage: Valencia
 page_content: ''

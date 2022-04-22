@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Usuarios abonados a Valenbisi
+graph_title: Usuarios abonados a ValenBisi
 graph_titles: []
 graph_type: line
-indicator_name: Usuarios abonados a Valenbisi
+indicator_name: Usuarios abonados a ValenBisi
 indicator_number: '11.2.9'
 national_geographical_coverage: Valencia
 page_content: ''

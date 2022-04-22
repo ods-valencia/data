@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Viajes en MetroValència por habitante
+graph_title: Viajes en MetroValencia por habitante
 graph_titles: []
 graph_type: line
-indicator_name: Viajes en MetroValència por habitante
+indicator_name: Viajes en MetroValencia por habitante
 indicator_number: '11.2.5'
 national_geographical_coverage: Valencia
 page_content: ''

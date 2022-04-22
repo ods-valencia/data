@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje precipitación total anual respecto al valor mediano del periodo
-  1961-1990
+graph_title: Porcentaje precipitación total anual respecto a la media del periodo
+  1961-90
 graph_titles: []
 graph_type: line
-indicator_name: Porcentaje precipitación total anual respecto al valor mediano del
-  periodo 1961-1990
+indicator_name: Porcentaje precipitación total anual respecto a la media del periodo
+  1961-90
 indicator_number: '15.3.1'
 national_geographical_coverage: Valencia
 page_content: ''

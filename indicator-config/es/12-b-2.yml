@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Estancia mediana apartamentos turísticos
+graph_title: Estancia media en hoteles y apartamentos turísticos
 graph_titles: []
 graph_type: line
-indicator_name: Estancia mediana apartamentos turísticos
+indicator_name: Estancia media en hoteles y apartamentos turísticos
 indicator_number: '12.b.2'
 national_geographical_coverage: Valencia
 page_content: ''
