@@ -34,8 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
+   Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,7 +54,7 @@ REC_USE_LIM: >-
    
    La información de este indicador incluye de manera conjunta el agua de uso doméstico, industrial y municipal.
    
-   Documentación relativa al consumo de agua: [Agua](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=8).
+   Documentación relativa al consumo de agua: [Agua](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=8).
 DATA_COMP: >-
   Cociente entre el agua facturada a las personas abonadas a lo largo del año de referencia y la población a 1 de julio del año de referencia, dividido a su vez entre el número de días del año de referencia (365, o 366).
 DATA_VALIDATION: >-

@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporción existente entre la población dependiente y la activa, de la cual aquella depende.
+  Proporción existente entre la población dependiente y la activa, de la cual depende aquella.
 UNIT_MEASURE: >-
   Índice
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0506-Rentas en IRPF a la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  0506-Rentas en IRPF en la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística.
+   Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-

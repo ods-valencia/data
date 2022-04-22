@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-3-title
 SDG_INDICATOR: >-
-  Población con contrato laboral temporal
+  Trabajadores afiliados al régimen general con contrato laboral temporal
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de personas con contrato laboral temporal.
+  Porcentaje de afiliaciones al régimen general de la Seguridad Social con contrato laboral temporal respecto al total de afiliaciones a ese régimen.
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Estadística de trabajadores afiliados a la Seguridad Social. Instituto Valenciano de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +51,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf). 
+   
+   La Estadística de trabajadores afiliados a la Seguridad Social tiene como objetivo ofrecer información sobre trabajadores afiliados al sistema de la Seguridad Social en la Comunidad Valenciana, a partir de la explotación estadística de las cuentas de cotización y afiliaciones a la Seguridad Social realizada por el Instituto Valenciano de Estadística. 
+   
+   Los trabajadores afiliados son trabajadores en alta laboral y situaciones asimiladas (incapacidad laboral, suspensión por regulación de ocupación, desocupación parcial,...). Tiene que indicarse que el número de trabajadores afiliados no se corresponde necesariamente con el de trabajadores, sino con el de situaciones que generan obligación de cotizar, por lo cual una misma persona se contabiliza tantas veces como situaciones de cotización tenga, ya sea para tener varias actividades en un mismo régimen o en varios.  El tipo de contrato laboral identifica la modalidad contractual que vincula al trabajador por cuenta de otro y al demandante de ocupación. Las modalidades principales se recogen en el Estatuto de los Trabajadores, y se han clasificado en contratos indefinidos, contratos temporales y otros tipos de contratos. Para los trabajadores por cuenta ajena se considera el domicilio de la cuenta de cotización a la cual están asociados. 
+   
+   La estadística de tipo de contrato únicamente incluye las afiliaciones en el Régimen General de la Seguridad Social, por lo cual no incluye el Sistema Especial Agrario, el Sistema Especial de Empleados del Hogar, el Régimen Especial de Trabajadores Autónomos ni el Régimen Especial del Mar. 
 DATA_COMP: >-
-  Cociente entre el total de personas ocupadas con contrato laboral temporal y el total de personas ocupadas con contrato laboral el último día del mes de diciembre del año de referencia.
+  Cociente entre el número medio anual de afiliaciones al régimen general de la Seguridad Social con contrato de tipo temporal entre el número medio anual de afiliaciones al régimen general de la Seguridad Social en vez de cotización con domicilio en la ciudad de València para el año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

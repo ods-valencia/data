@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Personas desocupadas con bajo nivel de estudios.
+  Media mensual del número de personas de 16 a 34 años de edad demandantes de ocupación en alta el último día de cada mes registradas por el Servicio Valenciano de Ocupación y Formación durante el año de referencia con bajo nivel formativo.
 UNIT_MEASURE: >-
   Parados
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta de Población Activa del Instituto Nacional de Estadística.
+   Explotación estadística Servicio Valenciano de Ocupación y Formación LABORA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,11 +55,11 @@ REC_USE_LIM: >-
    
    Se considera bajo nivel de estudios no haber conseguido la titulación de graduado en ESO o equivalente.
    
-   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).  Para la elaboracio´ de este indicador, se ha asumido que la tasa de actividad para un grupo de edad y sexo es la misma en todos los distritos, y por tanto el número de activos en un distrito dependerá bajo´ esto de la estructura de la poblacio´ en ese distrito. Esta tesis ha sido corroborada a partir de los datos del censo de 2001, donde observamos que para un grupo de edad y sexo la tasa de actividad se mantiene estable entre los distritos que forman la ciudad.
+   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).  Para la elaboracio´ de este indicador, se ha asumido que la tasa de actividad para un grupo de edad y sexo es la misma en todos los distritos, y por tanto el número de activos en un distrito dependerá bajo´ esto de la estructura de la poblacio´ en ese distrito. Esta tesis ha sido corroborada a partir de los datos del censo de 2001, donde observamos que para un grupo de edad y sexo la tasa de actividad se mantiene estable entre los distritos que forman la ciudad. Bajo nivel formativo incluye las personas sin estudios, con estudios primarios incompletos, con estudios primarios completos, o con programas para la formación e inserción laboral de más de 300 horas que no precisan de una titulación académica de educación secundaria para su realización) para los meses del año de referencia.
    
    Documentación metodológica sobre la Encuesta de Población Activa de la INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  
+  Se calcula como la media del número de personas de 16 a 34 años de edad demandantes de ocupación en alta el último día de cada mes registradas por el Servicio Valenciano de Ocupación y Formación con bajo nivel formativo para los meses del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

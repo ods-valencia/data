@@ -33,7 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  1504-Censo de inmuebles de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  1504-Censo de inmuebles de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Explotación estadística Catastro de Bienes e Inmuebles.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -56,7 +58,7 @@ REC_USE_LIM: >-
    
    El año 2017 se produjo un cambio en los criterios de consideración de vivienda.
    
-   Documentación relativa a bienes e inmuebles: [Bienes e Inmuebles](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
+   Documentación relativa al Censo de Bienes e Inmuebles: [Bienes e Inmuebles](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
 DATA_COMP: >-
   Cociente del número de viviendas construidas de 1980 en adelante entre el número total de viviendas en la ciudad de València registrados en el Catastro de Bienes e Inmuebles.
 DATA_VALIDATION: >-

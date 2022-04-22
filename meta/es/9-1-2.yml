@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-1-title
 SDG_INDICATOR: >-
-  Pasajeros que han pasado por el Puerto de Valencia
+  Pasajeros que han pasado por el Puerto de València
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Número de personas viajeras transportadas en el Puerto de Valencia durante el año de referencia.
+  Número de personas viajeras transportadas en el Puerto de València durante el año de referencia.
 UNIT_MEASURE: >-
   Pasajeros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de Valencia. Plan Valenciano de Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Fuente Actividad Portuaria de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,10 +52,8 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-   
-   El número total de pasajeros incluye la suma de las llegadas más las salidas del Puerto de Valencia, por lo cual incluye pasajeros embarcados, desembarcados o en tráfico.
 DATA_COMP: >-
-  Suma de personas viajeras con origen o destino el Puerto de Valencia, o que se encuentran en tráfico en cruceros turísticos atracados en el Puerto de Valencia durante el año de referencia.
+  Suma de personas viajeras con origen o destino el Puerto de València, o que se encuentran en tráfico en cruceros turísticos atracados en el Puerto de València durante el año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

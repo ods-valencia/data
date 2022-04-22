@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Número de personas registradas en el paro con algún tipo de discapacidad.
+  Personas residentes en València con algún tipo de discapacidad demandantes de ocupación registradas por el Servicio Valenciano de Ocupación y Formación durante el año de referencia.
 UNIT_MEASURE: >-
   Parados
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación Estadística Fichero Mensual Parados LABORA.
+   Fichero Mensual Parados. Servicio Valenciano de Ocupación y Formación. LABORA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf). 
+   
+   El paro registrado está constituido por el total de demandas de ocupación en alta registradas por el Servicio Valenciano de Ocupación y Formación existentes el último día de cada mes, excluyendo las que correspondan a situaciones laborales descritas en la Orden Ministerial de 11 de Marzo de 1985 (BOE de 14/3/85) por la cual se establecen criterios estadísticos para la medición del paro registrado.
 DATA_COMP: >-
-  
+  Media anual del número de personas con algún tipo de discapacidad residentes en la ciudad demandantes de ocupación registradas por el Servicio Valenciano de Ocupación y Formación para el año de referencia. La media anual se ha obtenido a partir de los datos mensuales referidos a las personas demandantes de ocupación en alta el último día de cada mes del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
