@@ -5545,6 +5545,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            }
+          },
+          {
             "name": "Gender",
             "type": "string",
             "constraints": {
@@ -8112,6 +8124,29 @@
       "schema": {
         "fields": [
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 a 49",
+                "<30",
+                ">=50"
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Men",
+                "Women"
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           },
@@ -8423,7 +8458,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Year",
