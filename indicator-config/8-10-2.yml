@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Sucursals bancàries per cada 1.000 habitants > 15 anys
+graph_title: Sucursals bancàries per cada 1.000 habitants de 16 o més anys
 graph_titles: []
 graph_type: line
-indicator_name: Sucursals bancàries per cada 1.000 habitants > 15 anys
+indicator_name: Sucursals bancàries per cada 1.000 habitants de 16 o més anys
 indicator_number: '8.10.2'
 national_geographical_coverage: València
 page_content: ''

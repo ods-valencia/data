@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Pressupost municipal destinat a Accions Humanitàries ODS8
+graph_title: Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat
+  amb l'ODS 8
 graph_titles: []
 graph_type: bar
-indicator_name: Pressupost municipal destinat a Accions Humanitàries ODS8
+indicator_name: Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat
+  amb l'ODS 8
 indicator_number: '8.a.3'
 national_geographical_coverage: València
 page_content: ''

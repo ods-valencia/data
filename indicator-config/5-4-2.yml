@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Temps que dedica la població a l'atenció i cura de persones convivents
   dependents o amb discapacitat
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Temps que dedica la població a l'atenció i cura de persones convivents
   dependents o amb discapacitat
 indicator_number: '5.4.2'

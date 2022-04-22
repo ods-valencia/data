@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de reducció de DBO5
+graph_title: Reducció de DBO5
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de reducció de DBO5
+indicator_name: Reducció de DBO5
 indicator_number: '6.3.3'
 national_geographical_coverage: València
 page_content: ''

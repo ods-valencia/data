@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Població amb contracte laboral temporal
+graph_title: Treballadors afiliats al règim general amb contracte laboral temporal
 graph_titles: []
 graph_type: line
-indicator_name: Població amb contracte laboral temporal
+indicator_name: Treballadors afiliats al règim general amb contracte laboral temporal
 indicator_number: '8.3.1'
 national_geographical_coverage: València
 page_content: ''
