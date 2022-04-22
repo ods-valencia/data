@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de superfície municipal amb el risc d'inundació excepcional
+graph_title: Percentatge de superfície amb el risc d'inundació excepcional
 graph_titles: []
 graph_type: bar
-indicator_name: Percentatge de superfície municipal amb el risc d'inundació excepcional
+indicator_name: Percentatge de superfície amb el risc d'inundació excepcional
 indicator_number: '15.3.9'
 national_geographical_coverage: València
 page_content: ''
