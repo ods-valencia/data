@@ -1,0 +1,76 @@
+SDG_GOAL: >-
+   global_goals.17-title
+SDG_TARGET: >-
+  global_targets.17-1-title
+SDG_INDICATOR: >-
+  Pressupost municipal destinat a ODS4
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'Objectiu de Desenvolupament Sostenible (ODS) número 4.
+UNIT_MEASURE: >-
+  Euros
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Servei de Cooperació al Desenvolupament i Migració. Pressupost Municipal.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  L'indicador inclou les subvencions associades al Programa de Cooperació Internacional per al Desenvolupament, al programa d'Educació per al Desenvolupament i la Ciutadania Global, al programa d'Accions Humanitàries i d'Emergències, així com tots aquells convenis del Servei de Cooperació al Desenvolupament i Migració les actuacions dels quals estiguen relacionades amb els objectius de desenvolupament sostenible.
+DATA_COMP: >-
+  El pressupost executat total (en euros) d'Ajuda Oficial al Desenvolupament de l'Ajuntament de València relacionat amb l’ODS 4 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

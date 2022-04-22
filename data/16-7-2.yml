@@ -1,0 +1,75 @@
+SDG_GOAL: >-
+   global_goals.16-title
+SDG_TARGET: >-
+  global_targets.16-7-title
+SDG_INDICATOR: >-
+  Participació ciutadana en processos de Pressupostos Participatius Municipals
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Proporció de persones de 16 o més anys d'edat residents a la ciutat que ha participat en alguna de les fases (proposta, suport i/o votació de projectes d'inversió) del procés de Pressupostos Participatius Municipals.
+UNIT_MEASURE: >-
+  Tant per 1.000
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Servei de Descentralització i Participació Ciutadana de l'Ajuntament de València.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Els Pressupostos Participatius Municipals són processos estructurats i cíclics on els ciutadans es converteixen en actors centrals en la presa de decisions sobre l'assignació de fons públics. Per a la ciutat de València aquests processos consten de diferents fases: una primera fase de presentació de propostes, una segona fase de suport ciutadà a les propostes presentades, una tercera fase d'estudi de viabilitat jurídica, tècnica i/o pressupostària per part dels serveis tècnics de l'Ajuntament, i una quarta fase de votació de propostes viables i amb suficients suports.  Per a la primera edició (que va tindre lloc entre el 16/11/2015 i el 04/03/2016 i no incloïa fase de suports) la població utilitzada de referència és la registrada en el Padró Municipal d'Habitants a 1/1/2016. Per a la segona edició (que va tindre lloc entre el 20/10/2016 i el 03/03/2017) la població utilitzada de referència és la registrada en el Padró Municipal d'Habitants a 1/1/2017. Per a la tercera edició (que va tindre lloc entre el 18/10/2017 i el 15/12/2017) la població utilitzada de referència és la registrada en el Padró Municipal d'Habitants a 1/1/2018. Per a la quarta edició (que va tindre lloc entre el 07/06/2018 i el 30/09/2018) la població utilitzada de referència és la registrada en el Padró Municipal d'Habitants a 1/1/2019. Per a la cinquena edició (que va tindre lloc entre el 16/10/2019 i el 08/01/2020) la població utilitzada de referència és la registrada en el Padró Municipal d'Habitants a 1/1/2020. Per a la sisena edició (que va tindre lloc entre el 06/11/2020 i el 07/03/2021) la població utilitzada de referència és la registrada en el Padró Municipal d'Habitants a 1/1/2021.
+DATA_COMP: >-
+  Quocient del nombre de persones que ha participat en alguna de les fases del procés de Pressupostos Participatius Municipals entre la població a 1 de gener de l'any de referència del procés.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
