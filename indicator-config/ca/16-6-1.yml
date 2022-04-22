@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Superàvit municipal per habitant '
+graph_title: Superàvit municipal per habitant
 graph_titles: []
 graph_type: line
-indicator_name: 'Superàvit municipal per habitant '
+indicator_name: Superàvit municipal per habitant
 indicator_number: '16.6.1'
 national_geographical_coverage: València
 page_content: ''

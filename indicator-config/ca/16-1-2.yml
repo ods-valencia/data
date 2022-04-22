@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Valoració de la població adulta del grau de seguretat del seu barri de
   residència
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Valoració de la població adulta del grau de seguretat del seu barri
   de residència
 indicator_number: '16.1.2'

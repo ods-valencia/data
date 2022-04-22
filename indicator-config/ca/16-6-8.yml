@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Valoració de la gestió municipal
+graph_title: Valoració de la població adulta de la gestió municipal
 graph_titles: []
 graph_type: line
-indicator_name: Valoració de la gestió municipal
+indicator_name: Valoració de la població adulta de la gestió municipal
 indicator_number: '16.6.8'
 national_geographical_coverage: València
 page_content: ''

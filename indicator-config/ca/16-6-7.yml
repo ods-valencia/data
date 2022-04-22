@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Índex de transparència economicofinancera
 graph_titles: []
-graph_type: bar
+graph_type: line
 indicator_name: Índex de transparència economicofinancera
 indicator_number: '16.6.7'
 national_geographical_coverage: València
