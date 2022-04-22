@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-7-title
 SDG_INDICATOR: >-
-  Presupuesto para participación ciudadana per cápita
+  Gasto en participación ciudadana por habitante
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -49,7 +49,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Los gastos presupuestarios son los que proceden de la liquidación del gasto de los capítulos vinculados a cuentas de los grupos 6 y 7 del Plan General de Contabilidad Pública adaptado a la Administración local (PGCPAL). Respecto a los gastos no presupuestarios se han prorrateado siguiendo la distribución entre grupos de programas de los gastos presupuestarios, conforme al indicado en la regulación de la nota 19 de la memoria recogida en la ICAL, que establece que, en ausencia de mejor criterio, se distribuirán “en la proporción que, sobre el gasto total que constituya a su vez gasto presupuestario, supongo cada uno de los grupos de programas”. La población utilizada en el denominador del indicador es la población oficinal publicada por la INE del municipio a 1 de enero de cada año.
+  Los gastos presupuestarios son las que proceden de la liquidación del gasto de los capítulos vinculados a cuentas de los grupos 6 y 7 del Plan General de Contabilidad Pública adaptado a la Administración local (PGCPAL). Respecto a los gastos no presupuestarios se han prorrateado siguiendo la distribución entre grupos de programas de los gastos presupuestarios, conforme al indicado en la regulación de la nota 19 de la memoria recogida en la ICAL, que establece que, en ausencia de mejor criterio, se distribuirán “en la proporción que, sobre el gasto total que constituya a su vez gasto presupuestario, supongo cada uno de los grupos de programas”. La población utilizada en el denominador del indicador es la población oficinal publicada por la INE del municipio a 1 de enero de cada año.
+   
+   
+   Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
   Cociente de los gastos (presupuestarios o no presupuestarios) asociados a la actividad de participación ciudadana según el modelo de actividades estructurado definido en la Instrucción de Contabilidad para la Administración Local (ICAL) entre la población a 1 de enero de este ejercicio.
 DATA_VALIDATION: >-
