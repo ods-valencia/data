@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Patentes presentadas por la Universitat Politècnica de Valencia (UPV)
+graph_title: Patentes solicitadas por la Universitat Politècnica de València (UPV)
 graph_titles: []
 graph_type: line
-indicator_name: Patentes presentadas por la Universitat Politècnica de Valencia (UPV)
+indicator_name: Patentes solicitadas por la Universitat Politècnica de València (UPV)
 indicator_number: '9.5.3'
 national_geographical_coverage: Valencia
 page_content: ''

@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Puntos de alumbrado público
+graph_title: Puntos de alumbramiento público
 graph_titles: []
 graph_type: line
-indicator_name: Puntos de alumbrado público
+indicator_name: Puntos de alumbramiento público
 indicator_number: '7.1.5'
 national_geographical_coverage: Valencia
 page_content: ''

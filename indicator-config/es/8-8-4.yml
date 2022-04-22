@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Enfermedades profesionales por cada 10.000 trabajadores activos
+graph_title: Enfermedades profesionales por cada 10.000 trabajadores afiliados
 graph_titles: []
 graph_type: line
-indicator_name: Enfermedades profesionales por cada 10.000 trabajadores activos
+indicator_name: Enfermedades profesionales por cada 10.000 trabajadores afiliados
 indicator_number: '8.8.4'
 national_geographical_coverage: Valencia
 page_content: ''
