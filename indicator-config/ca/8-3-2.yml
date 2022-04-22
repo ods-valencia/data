@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Població afiliada en règim autònom
+graph_title: Treballadors afiliats en règim autònom
 graph_titles: []
 graph_type: line
-indicator_name: Població afiliada en règim autònom
+indicator_name: Treballadors afiliats en règim autònom
 indicator_number: '8.3.2'
 national_geographical_coverage: València
 page_content: ''

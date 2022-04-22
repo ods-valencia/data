@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de substàncies solgudes eliminades
+graph_title: Substàncies sòlides eliminades
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de substàncies solgudes eliminades
+indicator_name: Substàncies sòlides eliminades
 indicator_number: '6.3.2'
 national_geographical_coverage: València
 page_content: ''
