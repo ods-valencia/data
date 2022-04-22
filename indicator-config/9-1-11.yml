@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Població amb una parada de MetroValencia a menys de 10 min
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Població amb una parada de MetroValencia a menys de 10 min
 indicator_number: '9.1.11'
 national_geographical_coverage: València

@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de població ocupada en el Sector Industrial
+graph_title: Percentatge de població ocupada en el sector industrial
 graph_titles: []
 graph_type: line
-indicator_name: Percentatge de població ocupada en el Sector Industrial
+indicator_name: Percentatge de població ocupada en el sector industrial
 indicator_number: '9.2.2'
 national_geographical_coverage: València
 page_content: ''

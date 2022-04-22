@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Valoració de la facilitat per a desplaçar-se amb MetroValencia
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Valoració de la facilitat per a desplaçar-se amb MetroValencia
 indicator_number: '9.1.7'
 national_geographical_coverage: València
