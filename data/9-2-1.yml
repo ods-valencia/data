@@ -1,0 +1,80 @@
+SDG_GOAL: >-
+   global_goals.9-title
+SDG_TARGET: >-
+  global_targets.9-2-title
+SDG_INDICATOR: >-
+  Porcentaje de empresas en el sector industrial
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Porcentaje de empresas industriales registradas en el DIRCE.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  2103-Censo de actividades económicas de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. También forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
+   
+   El DIRCE es un registro que incluye las empresas activas en 1 de enero de cada año. La empresa corresponde a una unidad organizativa de producción de bienes y servicios, que disfruta de cierta autonomía de decisión, principalmente en la hora de emplear los recursos corrientes de que dispone, y que ejerce una o más actividades en uno o varios lugares. Las empresas se contabilizan en el municipio donde se sitúa su sede. 
+   El DIRCE cubre todas las actividades económicas excepto la producción agraria y pesquera, los servicios administrativos de la Administración Central, Autónoma y Local (incluida Seguridad Social), las actividades de las comunidades de propietarios y el servicio doméstico.  La actividad económica principal de la empresa es aquella que genera mayor valor añadido. La actividad industrial corresponde a las secciones B, C, D y E del CNAE-09, que incluye la industria extractiva y manufacturera; suministro de energía eléctrica, gas, vapor y aire acondicionado; suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación.
+   
+   Documentación metodológica sobre el Censo de Actividades Económicas de la ciudad de València: [Actividades Económicas](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
+DATA_COMP: >-
+  Cociente del número de empresas la actividad principal de las cuales es la industria entre el número de empresas registradas en el Directorio Central de Empresas de la INE a 1 de enero del año de referencia. 
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
