@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Preu del bitllet senzill d'EMT
+graph_title: Preu del bitllet senzill EMT
 graph_titles: []
 graph_type: line
-indicator_name: Preu del bitllet senzill d'EMT
+indicator_name: Preu del bitllet senzill EMT
 indicator_number: '11.2.10'
 national_geographical_coverage: València
 page_content: ''

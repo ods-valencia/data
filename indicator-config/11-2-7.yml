@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Parades de MetroValència per cada 100.000 habitants
+graph_title: Parades de MetroValencia per cada 100.000 habitants
 graph_titles: []
 graph_type: line
-indicator_name: Parades de MetroValència per cada 100.000 habitants
+indicator_name: Parades de MetroValencia per cada 100.000 habitants
 indicator_number: '11.2.7'
 national_geographical_coverage: València
 page_content: ''

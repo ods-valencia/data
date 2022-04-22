@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Població que considera el canvi climàtic com un dels tres temes mediambientals
   de la ciutat que més el preocupa
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Població que considera el canvi climàtic com un dels tres temes mediambientals
   de la ciutat que més el preocupa
 indicator_number: '12.8.1'

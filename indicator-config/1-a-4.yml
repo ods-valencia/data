@@ -17,12 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-a-4-title
+graph_title: Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb
+  l'ODS 1
 graph_titles: []
 graph_type: bar
-indicator_name: global_indicators.1-a-4-title
+indicator_name: Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat
+  amb l'ODS 1
 indicator_number: '1.a.4'
-national_geographical_coverage: Valencia
+national_geographical_coverage: València
 page_content: ''
 permalink: ''
 precision: []

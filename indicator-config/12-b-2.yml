@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Estada mitjana apartaments turístics
+graph_title: Estada mitjana en hotels i apartaments turístics
 graph_titles: []
 graph_type: line
-indicator_name: Estada mitjana apartaments turístics
+indicator_name: Estada mitjana en hotels i apartaments turístics
 indicator_number: '12.b.2'
 national_geographical_coverage: València
 page_content: ''

@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Places hoteleres per cada 1.000 habitants
+graph_title: Places en establiments hotelers per cada 1.000 habitants
 graph_titles: []
 graph_type: line
-indicator_name: Places hoteleres per cada 1.000 habitants
+indicator_name: Places en establiments hotelers per cada 1.000 habitants
 indicator_number: '8.9.2'
 national_geographical_coverage: València
 page_content: ''

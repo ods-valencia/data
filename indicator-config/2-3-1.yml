@@ -1,84 +1,34 @@
-SDG_GOAL: >-
-   global_goals.2-title
-SDG_TARGET: >-
-  global_targets.2-3-title
-SDG_INDICATOR: >-
-  Porcentaje de superficie destinada a tierras cultivadas
-SDG_SERIES_DESCR: >-
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Superfície destinada a terres cultivades
+graph_titles: []
+graph_type: line
+indicator_name: Superfície destinada a terres cultivades
+indicator_number: '2.3.1'
+national_geographical_coverage: València
+page_content: ''
+permalink: ''
+precision: []
+progress_status: target_achieved
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
-
-CONTACT_ORGANISATION: >-
-
-CONTACT_NAME: >-
-
-ORGANISATION_UNIT: >-
-
-CONTACT_FUNCT: >-
-
-CONTACT_PHONE: >-
-
-CONTACT_MAIL: >-
-
-CONTACT_EMAIL: >-
-
-STAT_CONC_DEF: >- 
-  Porcentaje de la superficie destinada a tierras cultivadas respecto a la superficie total del municipio.
-UNIT_MEASURE: >-
-  Porcentaje
-CLASS_SYSTEM: >-
-
-SOURCE_TYPE: >-
-  
-   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Consell Agrario Municipal del Ayuntamiento de València.
-COLL_METHOD: >-
-
-FREQ_COLL: >-
-
-REL_CAL_POLICY: >-
-
-DATA_SOURCE: >-
-
-COMPILING_ORG: >-
-
-INST_MANDATE: >-
-
-RATIONALE: >-
-
-REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
-   
-   Esta información forma parte de la Estadística de Superficies de Cultivos y Aprovechamientos por Términos Municipales que realiza el Ministerio de Agricultura, Alimentación y Medio Ambiente en colaboración con los Servicios Estadísticos de las Comunidades Autónomas. 
-   
-   Documentación metodológica: [Ministerio Agricultura](https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/notas%20%20Metodol%C3%B3gicas%20Superficies%20y%20producciones%20anuales%20de%20cultivos_tcm30-122273.pdf).
-DATA_COMP: >-
-  Cociente de la superficie destinada a tierras cultivadas entre la superficie total del municipio para el año de referencia.
-
-   Las tierras cultivadas incluyen las tierras con cultivos herbáceos, leñosos o en barbecho, ya sean de secano o de regadío. No incluyen el terreno forestal, los pastos y pastoreos, las superficies no agrícolas, la superficie de ríos y lagos o el terreno improductivo.
-DATA_VALIDATION: >-
-
-ADJUSTMENT: >-
-
-IMPUTATION: >-
-
-REG_AGG: >-
-
-DOC_METHOD: >-
-
-QUALITY_MGMNT: >-
-
-QUALITY_ASSURE: >-
-
-QUALITY_ASSMNT: >-
-
-COVERAGE: >-
-
-COMPARABILITY: >-
-
-OTHER_DOC: >-

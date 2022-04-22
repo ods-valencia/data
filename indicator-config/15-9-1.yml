@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Pressupost municipal destinat a protecció i millora del medi ambient '
+graph_title: Despesa en protecció i millora del medi ambient per habitant
 graph_titles: []
 graph_type: line
-indicator_name: 'Pressupost municipal destinat a protecció i millora del medi ambient '
+indicator_name: Despesa en protecció i millora del medi ambient per habitant
 indicator_number: '15.9.1'
 national_geographical_coverage: València
 page_content: ''

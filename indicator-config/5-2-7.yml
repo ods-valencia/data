@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proporció de dones i xiquetes de 16 anys o més que han patit en els 12
-  mesos anteriors violència sexual fora de l'àmbit de la parella
+graph_title: Proporció de dones i xiquetes de 16 anys o més que han patit violència
+  econòmica a les mans de la seua parella (actual o pasada) al llarg de la seua vida
 graph_titles: []
 graph_type: bar
-indicator_name: Proporció de dones i xiquetes de 16 anys o més que han patit en els
-  12 mesos anteriors violència sexual fora de l'àmbit de la parella
+indicator_name: Proporció de dones i xiquetes de 16 anys o més que han patit violència
+  econòmica a les mans de la seua parella (actual o pasada) al llarg de la seua vida
 indicator_number: '5.2.7'
 national_geographical_coverage: València
 page_content: ''

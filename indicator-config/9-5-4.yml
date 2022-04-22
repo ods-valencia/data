@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Taxa de Patents per 100.000 habitants '
+graph_title: 'Taxa de patents per 100.000 habitants '
 graph_titles: []
 graph_type: line
-indicator_name: 'Taxa de Patents per 100.000 habitants '
+indicator_name: 'Taxa de patents per 100.000 habitants '
 indicator_number: '9.5.4'
 national_geographical_coverage: València
 page_content: ''
