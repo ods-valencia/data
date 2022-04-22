@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Presupuesto para participación ciudadana per cápita
+graph_title: Gasto en participación ciudadana por habitante
 graph_titles: []
 graph_type: line
-indicator_name: Presupuesto para participación ciudadana per cápita
+indicator_name: Gasto en participación ciudadana por habitante
 indicator_number: '16.7.5'
 national_geographical_coverage: Valencia
 page_content: ''

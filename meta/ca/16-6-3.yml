@@ -53,8 +53,7 @@ REC_USE_LIM: >-
    
   La informació s'extrau del Compte General de l'Ajuntament de València, no de la d'entitats dependents (organismes autònoms, societats mercantils, entitats públiques empresarials o fundacions adscrites) o entitats en les quals participa. Un valor elevat d'aquest indicador reflecteix una major autonomia de l'entitat respecte de les fonts de finançament excloses del càlcul de l'indicador, mentre que un valor reduït reflecteix una major dependència sobre aquestes. L'import de les transferències s'obté dels imports dels subconceptes 420.00, 420.10, 420.20, 420.90, 450.00 i 450.01 del pressupost d'ingressos.
    
-  Documentació metodològica sobre Indicadors del Compte General de les Entitats Locals:
-  (https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/indicadores_de_la_cuenta_general_de_las_entidades_locales_instrucciones_2015v2.pdf).
+  Documentació metodològica sobre Indicadors del Compte General de les Entitats Locals: [Rendició de Comptes](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
   El numerador correspon amb els drets reconeguts nets inclosos en els capítols 1, 2, 3, 5, 6 i 8 més les transferències rebudes i reflectits en la liquidació del pressupost d'ingressos. El denominador inclou el total de drets reconeguts nets (incloent també els derivats de subvencions i passius financers).
 DATA_VALIDATION: >-

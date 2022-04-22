@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-6-title
 SDG_INDICATOR: >-
-  Valoració de la gestió municipal
+  Valoració de la població adulta de la gestió municipal
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,6 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Baròmetre d'Opinió Ciutadana de la ciutat de València.
 COLL_METHOD: >-
 
@@ -49,8 +50,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre el Baròmetre d'Opinió Ciutadana de la ciutat de València:
-   https://www.valencia.es/cas/estadistica/barometro-municipal 
+  Documentació metodològica sobre el Baròmetre d'Opinió Ciutadana de la ciutat de València: [Baròmetre](https://www.valencia.es/cas/estadistica/barometro-municipal). 
    
   A tots els enquestats se'ls demana que valoren la gestió de l'Ajuntament de València, en una escala del 0 al 10, on 0 és molt dolenta i 10 és molt bona. A partir de les respostes obtingudes en els enquestats que valoren la gestió, i tenint en compte els factors d'elevació associats als individus enquestats, s'estima la valoració mitjana de les persones de 18 o més anys d'edat respecte a la gestió de l'Ajuntament de València.
 DATA_COMP: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-a-title
 SDG_INDICATOR: >-
-  Presupuesto municipal destinado a Ayuda a Paises en Desarrollo
+  Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 16
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Estimación de las transferencias municipales de Ayuda Oficial al Desarrollo para los ODS 16.
+  Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el Objetivo de Desarrollo Sostenible ODS 16 (Promover sociedades pacíficas e inclusivas).
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Servicio de Cooperación Municipal. Ayuntamiento de Estadística.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Presupuesto Municipal del Ayuntamiento de València (Servicio de Cooperación al Desarrollo y Migración).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte  del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/). También forma parte  del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htmes/index.htm).
    
-   El indicador incluye el presupuesto destinado a Cooperación, Educación para el desarrollo y Acciones Humanitarias.
+   La Ayuda Oficial al Desarrollo incluye las subvenciones asociadas en el Programa de Cooperación Internacional para el Desarrollo, al programa de Educación para el Desarrollo y la Ciudadanía Global, en el programa de Acciones Humanitarias y de Emergencias, así como todos aquellos convenios del Servicio de Cooperación al Desarrollo y Migración las actuaciones de los cuales estén relacionadas con los objetivos de desarrollo sostenible.
 DATA_COMP: >-
-  Suma de las transferencias municipales a través de convenios con entidades no gubernamentales, mediante ejecución directa o mediante convocatorias de Ayuda al Desarrollo convocadas por el Ayuntamiento. Cada una de las acciones puede afectar más de un ODS. Para los convenios que afectan más de un ODS se ha repartido la cantidad total de manera proporcional entre los ODS a los cuales implica.
+  
+
+   El presupuesto ejecutado total (en euros) de Ayuda Oficial al Desarrollo del Ayuntamiento de València relacionado con el ODS 16 durante el ejercicio de referencia se obtiene como suma de los importes subvencionados asociados a este ODS de las diferentes actuaciones subvencionadas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

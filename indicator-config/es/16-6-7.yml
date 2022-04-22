@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Índice de transparencia económico-financiera
 graph_titles: []
-graph_type: bar
+graph_type: line
 indicator_name: Índice de transparencia económico-financiera
 indicator_number: '16.6.7'
 national_geographical_coverage: Valencia

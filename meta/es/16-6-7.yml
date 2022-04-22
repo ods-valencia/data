@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nivel de transparencia económico-financiera del Ayuntamiento de València mesurado a través del índice de transparencia de los ayuntamientos (ITA) elaborado por Transparency International España. El ITA constituye una herramienta para mesurar el nivel de transparencia de los ayuntamientos españoles ante los ciudadanos y la sociedad.
+  Nivel de transparencia económico-financiera del Ayuntamiento de València mesurado a través del índice de transparencia de los ayuntamientos (ITA) elaborado por Transparency International España. El ITA constituye una herramienta para medir el nivel de transparencia de los ayuntamientos españoles ante los ciudadanos y la sociedad.
 UNIT_MEASURE: >-
   Escala 1-100
 CLASS_SYSTEM: >-
@@ -49,7 +49,8 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentación metodológica sobre el Índice de Transparencia de los Ayuntamientos de España (https://transparencia.org.es/wp-content/uploads/2017/02/metodologia_ita-2017.pdf).
+  Documentación metodológica sobre el Índice de Transparencia de los Ayuntamientos de España: [Índice Transparencia](https://transparencia.org.es/wp-content/uploads/2017/02/metodologia_ita-2017.pdf).
+   
    En la página web de Transparency International España se pueden consultar los cambios metodológicos que se han llevado a cabo a lo largo del tiempo.
 DATA_COMP: >-
   Para su cálculo se utilizan los valores de veintiún indicadores relacionados con la transparencia económico-financiera. Cada uno de estos indicadores recibe una valoración de 0 (no se cumple), 0,5 (se cumple parcialmente) o 1 (se cumple). El valor del índice de transparencia económico-financiera se obtiene sumando las valoraciones de los 21 indicadores y transformando el resultado en una escala 0-100 (esto es, multiplicando la suma de valoraciones por 100 y dividiendo por el número de indicadores).

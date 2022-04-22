@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Percentatge de participació en les eleccions municipals '
+graph_title: Participació eleccions municipals
 graph_titles: []
 graph_type: line
-indicator_name: 'Percentatge de participació en les eleccions municipals '
+indicator_name: Participació eleccions municipals
 indicator_number: '16.7.3'
 national_geographical_coverage: València
 page_content: ''
