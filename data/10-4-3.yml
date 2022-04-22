@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.10-title
+SDG_TARGET: >-
+  global_targets.10-4-title
+SDG_INDICATOR: >-
+  Porcentaje de rentas procedentes de prestaciones por incapacidad o dependencia
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Porcentaje del total de las rentas generado por prestaciones por incapacidad o dependencia.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  0506-Rentas en IRPF en la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística.
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+   
+   Documentación metodológica sobre el Atlas de Distribución de Renta de los Hogares del INE: [Atlas Renta](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
+DATA_COMP: >-
+  Cociente entre las rentas generedas por prestaciones por incapacidad o dependencia y el total de renta generada el año de referencia.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
