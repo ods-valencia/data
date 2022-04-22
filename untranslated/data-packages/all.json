@@ -22,7 +22,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS12"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 12"
     },
     {
       "path": "11-2-10/data.csv",
@@ -44,7 +44,7 @@
           }
         ]
       },
-      "title": "Preu del bitllet senzill d'EMT"
+      "title": "Preu del bitllet senzill EMT"
     },
     {
       "path": "3-9-1/data.csv",
@@ -111,7 +111,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS9"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 9"
     },
     {
       "path": "3-2-2/data.csv",
@@ -166,7 +166,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS10"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 10"
     },
     {
       "path": "5-a-2/data.csv",
@@ -188,7 +188,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS5"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 5"
     },
     {
       "path": "5-a-4/data.csv",
@@ -210,7 +210,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 5"
     },
     {
       "path": "8-a-3/data.csv",
@@ -232,7 +232,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS8"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 8"
     },
     {
       "path": "13-2-2/data.csv",
@@ -276,7 +276,7 @@
           }
         ]
       },
-      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència econòmica a mans de la seua actual parella en els últims 12 mesos"
+      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència psicològica de control a les mans de la seua parella (actual o pasada) al llarg de la seua vida"
     },
     {
       "path": "10-2-11/data.csv",
@@ -331,7 +331,7 @@
           }
         ]
       },
-      "title": " Pressupost municipal  destinat a  Cooperació ODS15"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 15"
     },
     {
       "path": "8-8-1/data.csv",
@@ -443,7 +443,7 @@
           }
         ]
       },
-      "title": "Taxa de mortalitat atribuïda al VIH"
+      "title": "Taxa de mortalitat atribuïda al VIH/SIDA"
     },
     {
       "path": "16-6-1/data.csv",
@@ -465,7 +465,7 @@
           }
         ]
       },
-      "title": "Superàvit municipal per habitant "
+      "title": "Superàvit municipal per habitant"
     },
     {
       "path": "8-6-1/data.csv",
@@ -579,7 +579,7 @@
           }
         ]
       },
-      "title": "Percentatge de substàncies solgudes eliminades"
+      "title": "Substàncies sòlides eliminades"
     },
     {
       "path": "1-2-4/data.csv",
@@ -622,7 +622,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-4-title"
+      "title": "Població amb manca material severa"
     },
     {
       "path": "5-2-4/data.csv",
@@ -644,7 +644,7 @@
           }
         ]
       },
-      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència psicològica emocional a mans de la seua actual parella en els últims 12 mesos"
+      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència sexual a les mans de la seua parella (actual o pasada) al llarg de la seua vida"
     },
     {
       "path": "10-2-10/data.csv",
@@ -711,7 +711,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS13"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 13"
     },
     {
       "path": "16-6-3/data.csv",
@@ -777,7 +777,7 @@
           }
         ]
       },
-      "title": "Pressupost per a participació ciutadana per càpita"
+      "title": "Despesa en participació ciutadana per habitant"
     },
     {
       "path": "11-6-5/data.csv",
@@ -888,7 +888,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 8"
+      "title": "Pressupost municipal destinat a ODS8"
     },
     {
       "path": "10-4-2/data.csv",
@@ -936,7 +936,7 @@
           }
         ]
       },
-      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit en els 12 mesos anteriors violència sexual fora de l'àmbit de la parella"
+      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència econòmica a les mans de la seua parella (actual o pasada) al llarg de la seua vida"
     },
     {
       "path": "9-5-3/data.csv",
@@ -958,7 +958,7 @@
           }
         ]
       },
-      "title": "Patents presentades per la Universitat Politècnica de València (UPV)"
+      "title": "Patents sol·licitades per la Universitat Politècnica de València (UPV)"
     },
     {
       "path": "15-3-9/data.csv",
@@ -980,7 +980,7 @@
           }
         ]
       },
-      "title": "Percentatge de superfície municipal amb el risc d'inundació excepcional"
+      "title": "Percentatge de superfície amb el risc d'inundació excepcional"
     },
     {
       "path": "6-a-1/data.csv",
@@ -1002,7 +1002,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS6"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 6"
     },
     {
       "path": "16-a-1/data.csv",
@@ -1024,7 +1024,7 @@
           }
         ]
       },
-      "title": " Pressupost municipal  destinat a  Cooperació ODS16"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 16"
     },
     {
       "path": "10-2-6/data.csv",
@@ -1072,7 +1072,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS3"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 3"
     },
     {
       "path": "17-1-17/data.csv",
@@ -1094,7 +1094,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 17"
+      "title": "Pressupost municipal destinat a ODS17"
     },
     {
       "path": "6-6-1/data.csv",
@@ -1182,7 +1182,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 13"
+      "title": "Pressupost municipal destinat a ODS13"
     },
     {
       "path": "9-c-4/data.csv",
@@ -1252,7 +1252,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS3"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 3"
     },
     {
       "path": "5-4-1/data.csv",
@@ -1319,7 +1319,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 4"
     },
     {
       "path": "15-3-1/data.csv",
@@ -1341,7 +1341,7 @@
           }
         ]
       },
-      "title": "Percentatge precipitació total anual respecte al valor mitjà del període 1961-1990"
+      "title": "Percentatge precipitació total anual respecte a la mitjana del període 1961-90"
     },
     {
       "path": "12-a-1/data.csv",
@@ -1363,7 +1363,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS12"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 12"
     },
     {
       "path": "6-1-2/data.csv",
@@ -1531,7 +1531,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS4"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 4"
     },
     {
       "path": "6-3-3/data.csv",
@@ -1553,7 +1553,7 @@
           }
         ]
       },
-      "title": "Percentatge de reducció de DBO5"
+      "title": "Reducció de DBO5"
     },
     {
       "path": "5-c-9/data.csv",
@@ -1597,7 +1597,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS10"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 10"
     },
     {
       "path": "16-a-4/data.csv",
@@ -1619,7 +1619,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 16"
     },
     {
       "path": "15-b-3/data.csv",
@@ -1641,7 +1641,7 @@
           }
         ]
       },
-      "title": " Pressupost municipal  destinat a  Acció  Humanitàries ODS15"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 15"
     },
     {
       "path": "10-1-3/data.csv",
@@ -1723,7 +1723,7 @@
           }
         ]
       },
-      "title": "2-2-1"
+      "title": "Població de 5 a 14 anys amb retard del creixement"
     },
     {
       "path": "10-2-4/data.csv",
@@ -1816,7 +1816,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS7"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 7"
     },
     {
       "path": "13-2-6/data.csv",
@@ -1838,7 +1838,7 @@
           }
         ]
       },
-      "title": "Emisions tonelades CO2 en residus per cada 100 habitants"
+      "title": "Emisions tonelades CO2 procedents de residus per cada 100 habitants"
     },
     {
       "path": "7-1-5/data.csv",
@@ -1864,7 +1864,7 @@
           }
         ]
       },
-      "title": "Punts d'enllumenat públic"
+      "title": "Punts d'enllumenament públic"
     },
     {
       "path": "3-c-2/data.csv",
@@ -1886,7 +1886,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS3"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 3"
     },
     {
       "path": "17-1-9/data.csv",
@@ -1908,7 +1908,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 9"
+      "title": "Pressupost municipal destinat a ODS9"
     },
     {
       "path": "6-3-4/data.csv",
@@ -1930,7 +1930,7 @@
           }
         ]
       },
-      "title": "Percentatge de reducció de DQO"
+      "title": "Reducció de DQO"
     },
     {
       "path": "8-8-2/data.csv",
@@ -1952,7 +1952,7 @@
           }
         ]
       },
-      "title": "Accidents laborals per cada 1.000 treballadors actius"
+      "title": "Accidents laborals amb baixa per cada 1.000 treballadors afiliats"
     },
     {
       "path": "17-1-2/data.csv",
@@ -1974,7 +1974,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 2"
+      "title": "Pressupost municipal destinat a ODS2"
     },
     {
       "path": "4-c-1/data.csv",
@@ -1996,7 +1996,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS4"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l'ODS 4"
     },
     {
       "path": "17-1-5/data.csv",
@@ -2018,7 +2018,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 5"
+      "title": "Pressupost municipal destinat a ODS5"
     },
     {
       "path": "2-a-3/data.csv",
@@ -2040,7 +2040,7 @@
           }
         ]
       },
-      "title": "2-a-3"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 2"
     },
     {
       "path": "16-1-7/data.csv",
@@ -2084,7 +2084,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 15"
     },
     {
       "path": "11-6-2/data.csv",
@@ -2180,7 +2180,7 @@
           }
         ]
       },
-      "title": "Mercancíes transportades en el Port de València (tones)"
+      "title": "Mercaderies transportades en el Port de València (tones)"
     },
     {
       "path": "10-2-3/data.csv",
@@ -2255,7 +2255,7 @@
           }
         ]
       },
-      "title": "Percentatge de superfície municipal amb el risc d'inundació"
+      "title": "Percentatge de superfície amb risc d'inundació"
     },
     {
       "path": "9-c-3/data.csv",
@@ -2299,7 +2299,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS5"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 5"
     },
     {
       "path": "7-b-3/data.csv",
@@ -2321,7 +2321,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS7"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 7"
     },
     {
       "path": "4-3-2/data.csv",
@@ -2387,7 +2387,7 @@
           }
         ]
       },
-      "title": "Estada mitjana apartaments turístics"
+      "title": "Estada mitjana en hotels i apartaments turístics"
     },
     {
       "path": "2-2-2/data.csv",
@@ -2420,7 +2420,7 @@
           }
         ]
       },
-      "title": "2-2-2"
+      "title": "Població de 5 a 14 anys amb pes insuficient"
     },
     {
       "path": "3-3-4/data.csv",
@@ -2513,7 +2513,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-11-title"
+      "title": "Llars familiars formades exclusivament per persones de 65 o més anys"
     },
     {
       "path": "16-1-3/data.csv",
@@ -2584,7 +2584,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 3"
     },
     {
       "path": "12-5-6/data.csv",
@@ -2632,7 +2632,7 @@
           }
         ]
       },
-      "title": "Població amb una parada de MetroValència a menys de 10 min"
+      "title": "Població amb una parada de MetroValencia a menys de 10 min"
     },
     {
       "path": "5-c-2/data.csv",
@@ -2739,7 +2739,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-10-title"
+      "title": "Població de 80 o més anys que viuen sols"
     },
     {
       "path": "3-4-6/data.csv",
@@ -2824,7 +2824,7 @@
           }
         ]
       },
-      "title": "Superfície construïda per cápita."
+      "title": "Superfície construïda per cápita"
     },
     {
       "path": "3-4-2/data.csv",
@@ -2917,7 +2917,7 @@
           }
         ]
       },
-      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència sexual a mans de la seua actual parella en els últims 12 mesos"
+      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència sexual al llarg de la seua vida"
     },
     {
       "path": "3-4-5/data.csv",
@@ -2984,7 +2984,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 7"
     },
     {
       "path": "11-1-5/data.csv",
@@ -3032,7 +3032,7 @@
           }
         ]
       },
-      "title": "Percentatge de dones professores en la UPV"
+      "title": "Dones professores en la UPV"
     },
     {
       "path": "2-3-4/data.csv",
@@ -3054,7 +3054,7 @@
           }
         ]
       },
-      "title": "2-3-4"
+      "title": "Unitats de treball-any en explotacions agrícoles"
     },
     {
       "path": "9-c-1/data.csv",
@@ -3098,7 +3098,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 14"
+      "title": "Pressupost municipal destinat a ODS14"
     },
     {
       "path": "11-c-1/data.csv",
@@ -3120,7 +3120,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS11"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 11"
     },
     {
       "path": "3-1-2/data.csv",
@@ -3190,7 +3190,7 @@
           }
         ]
       },
-      "title": "Percentatge precipitació total anual respecte al valor mitjà del període 1991-2010"
+      "title": "Percentatge precipitació total anual respecte a la mitjana del període 1981-2010"
     },
     {
       "path": "16-6-5/data.csv",
@@ -3234,7 +3234,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS12"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 12"
     },
     {
       "path": "8-5-2/data.csv",
@@ -3377,7 +3377,7 @@
           }
         ]
       },
-      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència psicològica de control a mans de la seua actual parella en els últims 12 mesos"
+      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència física a les mans de la seua parella (actual o pasada) al llarg de la seua vida"
     },
     {
       "path": "3-5-3/data.csv",
@@ -3410,7 +3410,7 @@
           }
         ]
       },
-      "title": "Percentatge de persones de 15 i més anys que consumeixen begudes alcohòliques almenys una vegada per setmana "
+      "title": "Percentatge de persones de 15 i més anys que consumeix begudes alcohòliques almenys una vegada per setmana "
     },
     {
       "path": "10-3-1/data.csv",
@@ -3459,7 +3459,7 @@
           }
         ]
       },
-      "title": "Percentatge de persones que s'han sentit discriminades per alguna causa en els últims 12 mesos"
+      "title": "Percentatge de persones que s'han sentit discriminades per alguna causa en els útimos 12 mesos"
     },
     {
       "path": "11-2-11/data.csv",
@@ -3507,7 +3507,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 6"
     },
     {
       "path": "3-4-3/data.csv",
@@ -3645,7 +3645,7 @@
           }
         ]
       },
-      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit en els 12 mesos anteriors violència sexual fora de l'àmbit de la parella"
+      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència física i/o sexual a les mans de la seua actual parella en els últims 12 mesos"
     },
     {
       "path": "15-3-6/data.csv",
@@ -3667,7 +3667,7 @@
           }
         ]
       },
-      "title": "Població que resideix en zones amb el risc d'inundació"
+      "title": "Població que resideix en zones amb el risc d'inundació (nivells 1-6)"
     },
     {
       "path": "5-c-5/data.csv",
@@ -3689,7 +3689,7 @@
           }
         ]
       },
-      "title": "Percentatge de dones víctimes de denúncies en els Jutjats de Violència Domèstica"
+      "title": "Proporció de dones víctimes de Violència Domèstica"
     },
     {
       "path": "3-7-2/data.csv",
@@ -3954,7 +3954,7 @@
           }
         ]
       },
-      "title": "Temps mitjà a la parada de MetroValència més pròxima"
+      "title": "Temps mitjà a la parada de MetroValencia més pròxima"
     },
     {
       "path": "8-5-4/data.csv",
@@ -4021,7 +4021,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 12"
+      "title": "Pressupost municipal destinat a ODS12"
     },
     {
       "path": "7-1-2/data.csv",
@@ -4065,7 +4065,7 @@
           }
         ]
       },
-      "title": "Percentatge de quilòmetres d'infraestructures lineals en zones amb el risc d'inundació"
+      "title": "Percentatge d'infraestructures lineals amb el risc d'inundació"
     },
     {
       "path": "16-a-3/data.csv",
@@ -4087,7 +4087,7 @@
           }
         ]
       },
-      "title": " Pressupost municipal  destinat a  Acció  Humanitàries ODS16"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 16"
     },
     {
       "path": "5-c-6/data.csv",
@@ -4109,7 +4109,7 @@
           }
         ]
       },
-      "title": "Percentatge d'ordres d'allunyament concedides a dones pels Jutjats de Violència Domèstica"
+      "title": "Proporció d'ordres d' allunyament concedides a dones"
     },
     {
       "path": "2-a-4/data.csv",
@@ -4131,7 +4131,7 @@
           }
         ]
       },
-      "title": "2-a-4"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 2"
     },
     {
       "path": "1-a-1/data.csv",
@@ -4153,7 +4153,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-1-title"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l'ODS 1"
     },
     {
       "path": "2-3-2/data.csv",
@@ -4175,7 +4175,7 @@
           }
         ]
       },
-      "title": "2-3-2"
+      "title": "Població ocupada en l'agricultura"
     },
     {
       "path": "13-2-8/data.csv",
@@ -4197,7 +4197,7 @@
           }
         ]
       },
-      "title": "Energia (MWh) procedent de fonts renovables per cada 100 habitants"
+      "title": "Energia procedent de fonts renovables (MWh) per cada 100 habitants"
     },
     {
       "path": "2-a-2/data.csv",
@@ -4219,7 +4219,7 @@
           }
         ]
       },
-      "title": "2-a-2"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 2"
     },
     {
       "path": "5-c-8/data.csv",
@@ -4290,7 +4290,7 @@
           }
         ]
       },
-      "title": "Valoració de la gestió municipal"
+      "title": "Valoració de la població adulta de la gestió municipal"
     },
     {
       "path": "1-2-6/data.csv",
@@ -4316,7 +4316,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-6-title"
+      "title": "Índex de Gini d'ingressos recollits en fonts tributàries"
     },
     {
       "path": "8-9-4/data.csv",
@@ -4338,7 +4338,7 @@
           }
         ]
       },
-      "title": "Apartaments turístics per cada 1.000 habitants"
+      "title": "Places en apartaments turístics per cada 1.000 habitants"
     },
     {
       "path": "3-3-6/data.csv",
@@ -4524,7 +4524,7 @@
           }
         ]
       },
-      "title": "Llits instal·lats en hospitals públics per cada 10.000 habitants"
+      "title": "Llits hospitalaris en centres públics per cada 10.000 habitants"
     },
     {
       "path": "15-9-1/data.csv",
@@ -4546,7 +4546,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a protecció i millora del medi ambient "
+      "title": "Despesa en protecció i millora del medi ambient per habitant"
     },
     {
       "path": "9-c-2/data.csv",
@@ -4594,7 +4594,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-12-title"
+      "title": "Població que viu en seccions censals vulnerables a nivell socioeconòmic"
     },
     {
       "path": "8-9-3/data.csv",
@@ -4620,7 +4620,7 @@
           }
         ]
       },
-      "title": "Nombre d'apartaments turístics"
+      "title": "Nombre de places en apartaments turístics"
     },
     {
       "path": "11-2-5/data.csv",
@@ -4642,7 +4642,7 @@
           }
         ]
       },
-      "title": "Viatges en MetroValència per habitant"
+      "title": "Viatges en MetroValencia per habitant"
     },
     {
       "path": "9-1-12/data.csv",
@@ -4716,7 +4716,7 @@
           }
         ]
       },
-      "title": "Places hoteleres per cada 1.000 habitants"
+      "title": "Places en establiments hotelers per cada 1.000 habitants"
     },
     {
       "path": "13-2-9/data.csv",
@@ -4738,7 +4738,7 @@
           }
         ]
       },
-      "title": "Compra d'energia verd certificada (MW) per cada 100 habitants"
+      "title": "Compra de energia verd certificada (MW) per cada 100 habitants"
     },
     {
       "path": "1-a-2/data.csv",
@@ -4760,7 +4760,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-2-title"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 1"
     },
     {
       "path": "2-1-1/data.csv",
@@ -4782,7 +4782,7 @@
           }
         ]
       },
-      "title": "2-1-1"
+      "title": "Despesa anual de les persones destinada a alimentació"
     },
     {
       "path": "9-1-4/data.csv",
@@ -4826,7 +4826,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 16"
+      "title": "Pressupost municipal destinat a ODS16"
     },
     {
       "path": "11-2-7/data.csv",
@@ -4848,7 +4848,7 @@
           }
         ]
       },
-      "title": "Parades de MetroValència per cada 100.000 habitants"
+      "title": "Parades de MetroValencia per cada 100.000 habitants"
     },
     {
       "path": "4-1-2/data.csv",
@@ -4951,7 +4951,7 @@
           }
         ]
       },
-      "title": "2-2-3"
+      "title": "Població de 5 a 14 anys amb obesitat o sobrepés"
     },
     {
       "path": "15-b-2/data.csv",
@@ -4973,7 +4973,7 @@
           }
         ]
       },
-      "title": " Pressupost municipal  destinat a  Educació  per al  desenvolupament ODS15"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 15"
     },
     {
       "path": "6-1-1/data.csv",
@@ -5021,7 +5021,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 11"
     },
     {
       "path": "4-6-1/data.csv",
@@ -5118,7 +5118,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 10"
     },
     {
       "path": "4-c-2/data.csv",
@@ -5140,7 +5140,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS4"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 4"
     },
     {
       "path": "16-1-6/data.csv",
@@ -5210,7 +5210,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 15"
+      "title": "Pressupost municipal destinat a ODS15"
     },
     {
       "path": "6-a-2/data.csv",
@@ -5232,7 +5232,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS6"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 6"
     },
     {
       "path": "4-b-1/data.csv",
@@ -5276,7 +5276,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 11"
+      "title": "Pressupost municipal destinat a ODS11"
     },
     {
       "path": "10-1-4/data.csv",
@@ -5324,7 +5324,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS10"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 10"
     },
     {
       "path": "4-2-1/data.csv",
@@ -5390,7 +5390,7 @@
           }
         ]
       },
-      "title": "Població afiliada en règim autònom"
+      "title": "Treballadors afiliats en règim autònom"
     },
     {
       "path": "7-b-1/data.csv",
@@ -5412,7 +5412,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS7"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 7"
     },
     {
       "path": "9-1-3/data.csv",
@@ -5434,7 +5434,7 @@
           }
         ]
       },
-      "title": "Mercancíes transportades en l'Aeroport de València (tones)"
+      "title": "Mercaderies transportades en l'Aeroport de València (tones)"
     },
     {
       "path": "9-a-4/data.csv",
@@ -5456,7 +5456,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 9"
     },
     {
       "path": "16-6-2/data.csv",
@@ -5500,7 +5500,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS9"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 9"
     },
     {
       "path": "11-b-1/data.csv",
@@ -5544,7 +5544,7 @@
           }
         ]
       },
-      "title": " Pressupost municipal  destinat a  Educació  per al  desenvolupament ODS16"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 16"
     },
     {
       "path": "8-5-6/data.csv",
@@ -5664,7 +5664,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 12"
     },
     {
       "path": "8-5-1/data.csv",
@@ -5736,7 +5736,7 @@
           }
         ]
       },
-      "title": "Sucursals bancàries per cada 1.000 habitants > 15 anys"
+      "title": "Sucursals bancàries per cada 1.000 habitants de 16 o més anys"
     },
     {
       "path": "3-5-2/data.csv",
@@ -5769,7 +5769,7 @@
           }
         ]
       },
-      "title": "Taxa de persones en tractament per consum d'alcohol"
+      "title": "Persones en tractament per consum d'alcohol"
     },
     {
       "path": "9-1-5/data.csv",
@@ -5840,7 +5840,7 @@
           }
         ]
       },
-      "title": "2-3-5"
+      "title": "Producció de les explotacions agrícoles"
     },
     {
       "path": "8-5-5/data.csv",
@@ -5915,7 +5915,7 @@
           }
         ]
       },
-      "title": "Percentatge de superfície municipal amb el risc d'inundació"
+      "title": "Percentatge de superfície amb el risc d'inundació"
     },
     {
       "path": "3-3-7/data.csv",
@@ -5960,7 +5960,7 @@
           }
         ]
       },
-      "title": "Taxa de mortalitat atribuïda a l'hepatitis vírica"
+      "title": "Taxa de mortalitat atribuïda a la hepatitis vírica"
     },
     {
       "path": "11-2-9/data.csv",
@@ -5982,7 +5982,7 @@
           }
         ]
       },
-      "title": "Usuaris abonats a Valenbisi"
+      "title": "Usuaris abonats a ValenBisi"
     },
     {
       "path": "3-8-4/data.csv",
@@ -6075,7 +6075,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS13"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 13"
     },
     {
       "path": "16-7-1/data.csv",
@@ -6119,7 +6119,7 @@
           }
         ]
       },
-      "title": "Diferencia temperatura mitjana anual respecte al valor mitjà del període 1991-2010"
+      "title": "Diferencia temperatura respecte a la mitjana del període 1981-2010"
     },
     {
       "path": "15-3-2/data.csv",
@@ -6141,7 +6141,7 @@
           }
         ]
       },
-      "title": "Diferencia temperatura mitjana anual respecte al valor mitjà del període 1961-1990"
+      "title": "Diferencia temperatura respecte a la mitjana del període 1961-90"
     },
     {
       "path": "16-6-4/data.csv",
@@ -6222,7 +6222,7 @@
           }
         ]
       },
-      "title": "Percentatge de participació en les eleccions municipals "
+      "title": "Participació eleccions municipals"
     },
     {
       "path": "11-c-3/data.csv",
@@ -6244,7 +6244,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS11"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 11"
     },
     {
       "path": "11-1-2/data.csv",
@@ -6318,7 +6318,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS9"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 9"
     },
     {
       "path": "9-1-6/data.csv",
@@ -6389,7 +6389,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS8"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 8"
     },
     {
       "path": "1-2-2/data.csv",
@@ -6438,7 +6438,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-2-title"
+      "title": "Població en risc de pobresa relativa considerant el llindar nacional de pobresa segons ingressos recollits en fonts tributàries"
     },
     {
       "path": "1-2-1/data.csv",
@@ -6481,7 +6481,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-1-title"
+      "title": "Població en risc de pobresa relativa considerant el llindar autonòmic de pobresa"
     },
     {
       "path": "13-b-1/data.csv",
@@ -6503,7 +6503,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Cooperació ODS13"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 13"
     },
     {
       "path": "9-5-4/data.csv",
@@ -6525,7 +6525,7 @@
           }
         ]
       },
-      "title": "Taxa de Patents per 100.000 habitants "
+      "title": "Taxa de patents per 100.000 habitants "
     },
     {
       "path": "5-2-1/data.csv",
@@ -6645,7 +6645,7 @@
           }
         ]
       },
-      "title": "Percentatge de població adulta que considera que els polítics/as es preocupen per la gent"
+      "title": "Població adulta que considera que els polítics/as es preocupen per la gent"
     },
     {
       "path": "11-2-8/data.csv",
@@ -6719,7 +6719,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 1"
+      "title": "Pressupost municipal destinat a ODS1"
     },
     {
       "path": "2-3-3/data.csv",
@@ -6741,7 +6741,7 @@
           }
         ]
       },
-      "title": "2-3-3"
+      "title": "Proporció d'agricultura ecològica"
     },
     {
       "path": "11-6-6/data.csv",
@@ -6796,7 +6796,7 @@
           }
         ]
       },
-      "title": "Percentatge de persones que han comprat per Internet en els últims 3 mesos"
+      "title": "Persones que han comprat per Internet en els últims 3 mesos"
     },
     {
       "path": "11-6-7/data.csv",
@@ -6884,7 +6884,7 @@
           }
         ]
       },
-      "title": "2-3-1"
+      "title": "Superfície destinada a terres cultivades"
     },
     {
       "path": "6-3-1/data.csv",
@@ -6987,7 +6987,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-9-title"
+      "title": "Població de 65 o més anys que viuen sols"
     },
     {
       "path": "1-2-3/data.csv",
@@ -7030,7 +7030,7 @@
           }
         ]
       },
-      "title": "valencia-goals.1-2-3-title"
+      "title": "Població en risc de pobresa i/o exclusió social considerant el llindar autonòmic de pobresa: indicador AROPE"
     },
     {
       "path": "3-5-1/data.csv",
@@ -7063,7 +7063,7 @@
           }
         ]
       },
-      "title": "Taxa de persones en tractament per consum de drogues il·legals"
+      "title": "Persones en tractament per consum de drogues il·legals"
     },
     {
       "path": "13-2-7/data.csv",
@@ -7085,7 +7085,7 @@
           }
         ]
       },
-      "title": "Emisions tonelades CO2 en àmbits de l'Ajuntament per cada 100 habitants"
+      "title": "Emisions tonelades CO2 àmbits Ajuntament per cada 100 habitants"
     },
     {
       "path": "1-a-3/data.csv",
@@ -7107,7 +7107,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-3-title"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 1"
     },
     {
       "path": "5-b-1/data.csv",
@@ -7140,7 +7140,7 @@
           }
         ]
       },
-      "title": "Percentatge de persones que han utilitzat Internet en els últims 3 mesos"
+      "title": "Persones que han utilitzat Internet en els últims 3 mesos"
     },
     {
       "path": "16-7-2/data.csv",
@@ -7282,7 +7282,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 7"
+      "title": "Pressupost municipal destinat a ODS7"
     },
     {
       "path": "12-5-8/data.csv",
@@ -7493,7 +7493,7 @@
           }
         ]
       },
-      "title": "Temps que dedica la població a la realització de les tasques domèstiques i de la llar"
+      "title": "Temps que dedica la població a les realització de les tasques domèstiques i de la llar"
     },
     {
       "path": "9-2-2/data.csv",
@@ -7515,7 +7515,7 @@
           }
         ]
       },
-      "title": "Percentatge de població ocupada en el Sector Industrial"
+      "title": "Percentatge de població ocupada en el sector industrial"
     },
     {
       "path": "11-6-4/data.csv",
@@ -7586,7 +7586,7 @@
           }
         ]
       },
-      "title": "2-2-4"
+      "title": "Població de 18 o més anys amb sobrepés o obesitat"
     },
     {
       "path": "11-3-1/data.csv",
@@ -7667,7 +7667,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS5"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 5"
     },
     {
       "path": "16-1-2/data.csv",
@@ -7764,7 +7764,7 @@
           }
         ]
       },
-      "title": "Nombre de places hoteleres"
+      "title": "Nombre de places en establiments hotelers"
     },
     {
       "path": "13-3-1/data.csv",
@@ -7835,7 +7835,7 @@
           }
         ]
       },
-      "title": "Percentatge de regidores dones"
+      "title": "Proporció de dones regidores a l'Ajuntament de València"
     },
     {
       "path": "15-3-8/data.csv",
@@ -7857,7 +7857,7 @@
           }
         ]
       },
-      "title": "Percentatge de superfície municipal amb el risc d'inundació ocasional"
+      "title": "Percentatge de superfície amb el risc d'inundació ocasional"
     },
     {
       "path": "11-c-2/data.csv",
@@ -7879,7 +7879,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS11"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 11"
     },
     {
       "path": "11-2-13/data.csv",
@@ -7927,7 +7927,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 6"
+      "title": "Pressupost municipal destinat a ODS6"
     },
     {
       "path": "8-a-2/data.csv",
@@ -7949,7 +7949,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Educació per al desenvolupament ODS8"
+      "title": "Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania Global relacionat amb l'ODS 8"
     },
     {
       "path": "3-3-8/data.csv",
@@ -8020,7 +8020,7 @@
           }
         ]
       },
-      "title": "Renda mitjana de la població"
+      "title": "Renta mitjana de la població"
     },
     {
       "path": "3-2-3/data.csv",
@@ -8101,7 +8101,7 @@
           }
         ]
       },
-      "title": "Percentatge d'empreses en el Sector Industrial"
+      "title": "Percentatge d'empreses en el sector industrial"
     },
     {
       "path": "15-3-7/data.csv",
@@ -8123,7 +8123,7 @@
           }
         ]
       },
-      "title": "Percentatge de superfície municipal amb el risc d'inundació freqüent"
+      "title": "Percentatge de superfície amb el risc d'inundació freqüent"
     },
     {
       "path": "8-8-4/data.csv",
@@ -8168,7 +8168,7 @@
           }
         ]
       },
-      "title": "Malalties professionals per cada 10.000 treballadors actius"
+      "title": "Malalties professionals per cada 10.000 treballadors afiliats"
     },
     {
       "path": "8-3-1/data.csv",
@@ -8201,7 +8201,7 @@
           }
         ]
       },
-      "title": "Població amb contracte laboral temporal"
+      "title": "Treballadors afiliats al règim general amb contracte laboral temporal"
     },
     {
       "path": "16-1-5/data.csv",
@@ -8359,7 +8359,7 @@
           }
         ]
       },
-      "title": "Percentatge de superfície municipal amb el risc d'inundació de baix calat"
+      "title": "Percentatge de superfície amb el risc d'inundació de baix calat"
     },
     {
       "path": "11-1-4/data.csv",
@@ -8456,7 +8456,7 @@
           }
         ]
       },
-      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit en els 12 mesos anteriors violència sexual fora de l'àmbit de la parella"
+      "title": "Proporció de dones i xiquetes de 16 anys o més que han patit violència psicològica emocional a les mans de la seua parella (actual o pasada) al llarg de la seua vida"
     },
     {
       "path": "6-a-3/data.csv",
@@ -8478,7 +8478,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Accions Humanitàries ODS6"
+      "title": "Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 6"
     },
     {
       "path": "5-1-1/data.csv",
@@ -8549,7 +8549,7 @@
           }
         ]
       },
-      "title": "Esperança de vida en nàixer"
+      "title": "Esperança de vida"
     },
     {
       "path": "8-a-4/data.csv",
@@ -8571,7 +8571,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 8"
     },
     {
       "path": "17-1-3/data.csv",
@@ -8593,7 +8593,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 3"
+      "title": "Pressupost municipal destinat a ODS3"
     },
     {
       "path": "2-a-1/data.csv",
@@ -8615,7 +8615,7 @@
           }
         ]
       },
-      "title": "2-a-1"
+      "title": "Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 2"
     },
     {
       "path": "15-3-10/data.csv",
@@ -8637,7 +8637,7 @@
           }
         ]
       },
-      "title": "Percentatge de superfície municipal amb el risc d'inundació d'alt calat"
+      "title": "Percentatge de superfície amb el risc d'inundació d'alt calat"
     },
     {
       "path": "1-a-4/data.csv",
@@ -8659,7 +8659,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-4-title"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 1"
     },
     {
       "path": "4-5-1/data.csv",
@@ -8703,7 +8703,7 @@
           }
         ]
       },
-      "title": "Percentatge de dones professores en la UV"
+      "title": "Dones professores en la UV"
     },
     {
       "path": "16-6-6/data.csv",
@@ -8747,7 +8747,7 @@
           }
         ]
       },
-      "title": "Ordres d'allunyament concedides a dones pels Jutjats de Violència Domèstica"
+      "title": "Ordres d'allunyament concedides a dones"
     },
     {
       "path": "7-1-1/data.csv",
@@ -8885,7 +8885,7 @@
           }
         ]
       },
-      "title": "Dones víctimes de denúncies en els Jutjats de Violència Domèstica"
+      "title": "Dones víctimes de Violència Domèstica"
     },
     {
       "path": "9-c-6/data.csv",
@@ -9081,7 +9081,7 @@
           }
         ]
       },
-      "title": "Percentatge de dones en llocs municipals de direcció superior"
+      "title": "Dones en llocs municipals de direcció superior"
     },
     {
       "path": "17-1-4/data.csv",
@@ -9103,7 +9103,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 4"
+      "title": "Pressupost municipal destinat a ODS4"
     },
     {
       "path": "13-b-4/data.csv",
@@ -9125,7 +9125,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament"
+      "title": "Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'ODS 13"
     },
     {
       "path": "5-c-1/data.csv",
@@ -9217,7 +9217,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-8-title"
+      "title": "Llars familiars monoparentals"
     },
     {
       "path": "4-6-2/data.csv",
@@ -9288,7 +9288,7 @@
           }
         ]
       },
-      "title": "Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 10"
+      "title": "Pressupost municipal destinat a ODS10"
     },
     {
       "path": "12-b-1/data.csv",
@@ -9336,7 +9336,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-5-title"
+      "title": "Ràtio P80/P20 en desigualtat d'ingressos recollits en fonts tributàries"
     },
     {
       "path": "1-2-7/data.csv",
@@ -9385,7 +9385,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-7-title"
+      "title": "Població en nivells de pobresa alta considerant el llindar nacional de pobresa segons ingressos recollits en fonts tributàries"
     }
   ]
 }
