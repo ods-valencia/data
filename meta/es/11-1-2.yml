@@ -55,9 +55,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Las secciones definidas como vulnerables (para un tema o en el índice global) son aquellas que la suya puntuacio´ en ese tema o en el indicador global se situ´a por debajo (o igual) al percentil 10% (p0,1) de la distribución formada por todas las puntuaciones finales de las secciones en ese tema o en el índice global.
-   
-   Documentación metodológica sobre la publicación de Areas Vulnerables de la Oficina de Estadística del Ayuntamiento de València: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf)
+   Las secciones definidas como vulnerables (para un tema o en el índice global) son aquellas que su puntuacio´ en ese tema o en el indicador global se situ´a por debajo (o igual) al percentil 10% (p0,1) de la distribución formada por todas las puntuaciones finales de las secciones en ese tema o en el índice global.  Documentación metodológica sobre la publicación de Areas Vulnerables de la Oficina de Estadística del Ayuntamiento de València: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
    
    Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-

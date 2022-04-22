@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.15-3-title
 SDG_INDICATOR: >-
-  Porcentaje de superficie municipal con riesgo de inundación ocasional
+  Porcentaje de superficie con riesgo de inundación ocasional
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de superficie clasificada con riesgo de inundación ocasional según el Plan de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA)
+  Porcentaje de superficie clasificada con riesgo de inundación ocasional según el Plan de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA).
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Pla de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA) de 2015
+  Plan de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA) de 2015.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +49,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Se consideran zonas de riesgo de inundación frecuente aquellas en las cuales la probabilidad que en un año cualquier se sufra, al menos, una inundación está entre 0’04 y 0’01 (equivaliendo a un periodo de retorno entre 25 y 100 años). 
+  Se consideran zonas de riesgo de inundación frecuente aquellas en las cuales la probabilidad que en un año cualquiera se sufra, al menos, una inundación está entre 0’04 y 0’01 equivalente a un periodo de retorno entre 25 y 100 años). 
    
-   Documentación metodológica sobre el PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb)
+   Documentación metodológica sobre el PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb).
 DATA_COMP: >-
-  Superficie clasificada como de riesgo de inundación ocasional (periodo de retorno entre 25 y 100 años) entre la superficie total del municipio
+  Superficie clasificada como de riesgo de inundación ocasional (periodo de retorno entre 25 y 100 años) entre la superficie total del municipio.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

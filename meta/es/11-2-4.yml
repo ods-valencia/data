@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de población con una parada de EMT a menos de 10 mínuts.
+  Porcentaje de población con una parada de EMT a menos de 10 minutos.
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-

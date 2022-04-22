@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Emisions de CO2 por cada 100 habitantes en el año de referencia. 
+  Emisiones de CO2 en toneladas por cada 100 habitantes el año de referencia.
 UNIT_MEASURE: >-
   Tonelades por 100 habitantes
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Pla de Acción para el Clima y la Energía Sostenible de la ciudad de València.
+   Plan de Acción para el Clima y la Energía Sostenible de la ciudad de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,7 +55,7 @@ REC_USE_LIM: >-
    
    Documentación metodológica sobre el Plan de Acción para el Clima y la Energía Sostenible de la ciudad de València: [PACES](https://www.valencia.es/documents/20142/424002/190415_AYTO_VALENCIA_PACES__Actualizado_.pdf/1cefe22e-7b64-1db9-7f4a-7006aa12bf75).
 DATA_COMP: >-
-  Cociente entre el total de emisions de CO2 en el año de referencia en el sector residencial y el total de la población a 1 de julio del año de referencia. 
+  Cociente entre el total de emisiones de CO2 en el año de referencia en el sector residencial y el total de la población a 1 de julio del año de referencia. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

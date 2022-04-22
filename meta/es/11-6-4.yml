@@ -51,7 +51,6 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   
    Los datos utilizados provienen del fichero de mediciones en las estaciones de la red de vigilancia y control de la contaminación atmosférica de: Viveros (39° 28' 46'' N, 0° 22' 10'' O), Avda. Francia (39° 27' 27'' N, 0° 20' 34'' O), Pista de Silla (39° 27' 29'' N, 0° 22' 36'' O), Universidad Politècnica (39° 28' 47'' N, 0° 20' 15'' O) (desde 04/04/2008), Bulevar Sur (39° 27' 1'' N, 0° 23' 47'' O) (desde 24/05/2010), Linares (39° 28' 8'' N, 0° 23' 31'' O) (hasta 24/05/2010), Nuevo Centro (39° 28' 52'' N, 0° 23' 16'' O) (hasta 06/08/2009) y Aragón (39° 28' 37'' N, 0° 21' 17'' O) (hasta 04/04/2008).  El valor medio de PM10 considerado para cada día es el mayor que se haya registrado entre los de todas las estaciones disponibles en la ciudad. El Real Decreto 102/2011 (Directiva 2008/50/CE) establece un valor límite horario de 50 microgramos por metro cúbico, que además solo puede superarse en un máximo de 35 veces durante el año. Para los datos anteriores a 2005 los límites superiores son más amplios, con un incremento anual de 5 microgramos por metro cúbico hasta llegar a 65 para los datos anteriores a 2003. 
 DATA_COMP: >-
   

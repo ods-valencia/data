@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.13-b-title
 SDG_INDICATOR: >-
-  Presupuesto municipal destinado a Acciones Humanitarias ODS13
+  Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 13
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Presupuesto municipal destinado a Acciones Humanitarias ODS13.
+  Presupuesto municipal ejecutado del programa de Acción Humanitaria y de Emergencia relacionado con el Objetivo de Desarrollo Sostenible ODS 13 (Adoptar medidas urgentes para combatir el cambio climático y los efectos de este).
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Servicio de Cooperación Municipal. Ayuntamiento de València.
+   Presupuesto Municipal del Ayuntamiento de València (Servicio de Cooperación al Desarrollo y Migración).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). 
+   
+   El Programa de Acción Humanitaria y de Emergencia tiene como objetivo subvencionar la actividad de entidades que desarrollan programas de ayudas humanitarias de emergencia social en caso de catástrofe. Este programa figura en el Plan Estratégico de Subvenciones aprobado por la Junta de Gobierno Local, tiene un plazo anual y se financia con fondos municipales.
 DATA_COMP: >-
   
+
+   El presupuesto ejecutado total (en euros) del programa de Acción Humanitaria y de Emergencia del Ayuntamiento de València relacionado con el ODS 13 durante el ejercicio de referencia se obtiene como suma de los importes subvencionados asociados a este ODS de las diferentes actuaciones subvencionadas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

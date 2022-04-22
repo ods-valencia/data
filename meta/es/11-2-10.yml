@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-2-title
 SDG_INDICATOR: >-
-  Precio del billete sencillo de EMT
+  Precio del billete sencillo EMT
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -51,7 +51,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
-   Documentación relativa a EMT: [EMT](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=3).
+   Documentación relativa a EMT: [EMT](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=3). 
+   
+   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre junio y julio de 2018, publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo junio/julio de 2017 - junio/julio de 2018. Se entrevistó un total de 2.301 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

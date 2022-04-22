@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.15-3-title
 SDG_INDICATOR: >-
-  Porcentaje de superficie municipal con riesgo de inundación
+  Porcentaje de superficie con riesgo de inundación
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de superficie clasificada como inundable (niveles de peligrosidad de 1 a 6 más nivel geomorfológico) según el Plan de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA)
+  Porcentaje de superficie clasificada como inundable (niveles de peligrosidad de 1 a 6 más nivel geomorfológico) según el Plan de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA).
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Pla de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA) de 2015
+  Plan de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA) de 2015.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,15 +51,15 @@ RATIONALE: >-
 REC_USE_LIM: >-
   A efectos de esta Normativa se establecen seis niveles de peligrosidad de inundación de origen hidrológico-hidráulico y un nivel geomorfológico, que, de mayor a menor, son: 
    Peligrosidad de nivel 1 (frecuencia alta y calado alto). Cuando la probabilidad que en un año cualquier se sufra, al menos, una inundación es superior a 0’04 (equivaliendo a un periodo de retorno inferior a 25 años), con un calado máximo generalizado conseguido por el agua superior a ochenta centímetros (80 cm). 
-   Peligrosidad de nivel 2 (frecuencia mediana y calado alto). Cuando la probabilidad que en un año cualquier se sufra, al menos, una inundación se encuentra entre 0’04 y 0’01 (equivaliendo a un periodo de retorno entre 25 y 100 años), con un calado máximo generalizado conseguido por el agua superior a ochenta centímetros (80 cm). 
+   Peligrosidad de nivel 2 (frecuencia media y calado alto). Cuando la probabilidad que en un año cualquier se sufra, al menos, una inundación se encuentra entre 0’04 y 0’01 (equivaliendo a un periodo de retorno entre 25 y 100 años), con un calado máximo generalizado conseguido por el agua superior a ochenta centímetros (80 cm). 
    Peligrosidad de nivel 3 (frecuencia alta y calado bajo). Cuando la probabilidad que en un año cualquier se sufra, al menos, una inundación es superior a 0’04 (equivaliendo a un periodo de retorno inferior a 25 años), con un calado máximo generalizado conseguido por el agua inferior a ochenta centímetros (80 cm) y superior a quince centímetros (15 cm). 
    Peligrosidad de nivel 4 (frecuencia mediana y calado bajo). Cuando la probabilidad que en un año cualquier se sufra, al menos, una inundación se encuentra entre 0’04 y 0’01 (equivaliendo a un periodo de retorno entre 25 y 100 años), con un calado máximo generalizado conseguido por el agua inferior a ochenta centímetros (80 cm) y superior a quince centímetros (15 cm). 
    Peligrosidad de nivel 5 (frecuencia baja y calado alto). Cuando la probabilidad que en un año cualquier se sufra, al menos, una inundación se encuentra entre 0’01 y 0’002 (equivaliendo a un periodo de retorno entre 100 y 500 años), con un calado máximo generalizado conseguido por el agua superior a ochenta centímetros (80 cm).  Peligrosidad de nivel 6 (frecuencia baja y calado bajo). Cuando la probabilidad que en un año cualquier se sufra, al menos, una inundación se encuentra entre 0’01 y 0’002 (equivaliendo a un periodo de retorno entre 100 y 500 años), con un calado máximo generalizado conseguido por el agua inferior a ochenta centímetros (80 cm) y superior a quince centímetros (15 cm).
    Peligrosidad geomorfológica. En este nivel de peligrosidad de inundación se han identificado diferentes procesos geomorfológicos, que, por sus características, actúan como un indicador de la presencia de inundaciones históricas, no necesariamente catalogadas, teniéndose que identificar la probabilidad de reactivación de los fenómenos geomorfológicos y, en su caso, los efectos susceptibles de generarse.
    
-   Documentación metodológica sobre el PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb)
+   Documentación metodológica sobre el PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb).
 DATA_COMP: >-
-  Cociente de la superficie municipal clasificada como inundable entre la superficie total
+  Cociente de la superficie municipal clasificada como inundable entre la superficie total.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

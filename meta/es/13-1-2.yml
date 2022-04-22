@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.13-1-title
 SDG_INDICATOR: >-
-  Permaneciendo de tesorería para gastos generales
+  Remanente de tesorería para gastos generales
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
-   El remanente de tesorería se obtiene como suma de los fondos líquidos más los derechos pendientes de cobro, deduciendo las obligaciones pendientes de pago y agregando las partidas pendientes de aplicación. Los saldos de dudoso cobro corresponden a aquellos derechos reconocidos que figuran contabilizados y que, previsiblemente, no darán lugar a su cobro. Las desviaciones de financiación afectada representan la diferencia que ha existido en el ejercicio entre los derechos reconocidos por ingresos que están vinculados (afectados) a un determinado proyecto de gasto y las obligaciones reconocidas de este, el ritmo de ejecución de las cuales no ha resultado homogéneo (por ejemplo, una obra financiada con una subvención, que se ha ido ejecutando a lo largo del año, pero todavía no se ha recibido la financiación de la misma).
+   El remanente de tesorería se obtiene como suma de los fondos líquidos más los derechos pendientes de cobro, deduciendo las obligaciones pendientes de pago y agregando las partidas pendientes de aplicación. Los saldos de dudoso cobro corresponden a aquellos derechos reconocidos que figuran contabilizados y que, previsiblemente, no darán lugar a su cobro. Las desviaciones de financiación afectada representan la diferencia que ha existido en el ejercicio entre los derechos reconocidos por ingresos que están vinculados (afectados) a un determinado proyecto de gasto y las obligaciones reconocidas de este, el ritmo de ejecución de las cuales no ha resultado homogéneo (por ejemplo, una obra financiada con una subvención, que se ha ido ejecutando a lo largo del año, pero de la cual todavía no se ha recibido la financiación).
    
    Cuando el remanente de tesorería presenta valores negativos, nos indica que la entidad local tendrá que obtener mayores recursos futuros para atender el exceso de gastos, es decir, la entidad es incapaz de afrontar sus deudas al finalizar el ejercicio. Esta insolvencia a corto plazo surge porque a lo largo del ejercicio ha habido más gastos que ingresos, sin que los recursos líquidos sean suficientes.
 DATA_COMP: >-

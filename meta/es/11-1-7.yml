@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Tasa de sobrecarga precio de la vivienda.
+  Diferencia entre la variación anual del precio de la vivienda libre y la variación anual del IPC general.
 UNIT_MEASURE: >-
   Tasa
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   IPC (Instituto Nacional de Estadística).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
