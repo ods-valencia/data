@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de población adulta que considera que los políticos/as se
-  preocupan por la gente
+graph_title: Población adulta que considera que los políticos/as se preocupan por
+  la gente
 graph_titles: []
-graph_type: line
-indicator_name: Porcentaje de población adulta que considera que los políticos/as
-  se preocupan por la gente
+graph_type: bar
+indicator_name: Población adulta que considera que los políticos/as se preocupan por
+  la gente
 indicator_number: '16.7.4'
 national_geographical_coverage: Valencia
 page_content: ''

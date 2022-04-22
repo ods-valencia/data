@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Valoración de la población adulta del nivel de altruismo de la mayoría
   de la gente
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Valoración de la población adulta del nivel de altruismo de la mayoría
   de la gente
 indicator_number: '16.1.3'
