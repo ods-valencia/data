@@ -1,0 +1,79 @@
+SDG_GOAL: >-
+   global_goals.16-title
+SDG_TARGET: >-
+  global_targets.16-1-title
+SDG_INDICATOR: >-
+  Valoració de la població adulta del nivell d'altruisme de la majoria de la gent
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  Valoració mitjana de la població de 18 o més anys d'edat del nivell d'altruisme de la majoria de la gent.
+UNIT_MEASURE: >-
+  Escala 1-10
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Sisena Ona Baròmetre d'Opinió Ciutadana: Convivència i Turisme. (2018).
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+  Documentació metodològica sobre la 6 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 6](https://www.valencia.es/estadistica/barometro/metodologia6.pdf).
+   
+  A tots els enquestats se'ls demana que valoren la seguretat del seu barri de residència, en una escala del 0 al 10, on 0 és molt insegur i 10 és molt segur. A partir de les respostes obtingudes en els enquestats que valoren el grau de seguretat, i tenint en compte els factors d'elevació associats als individus enquestats, s'estima la valoració mitjana de les persones de 18 o més anys d'edat respecte al grau de seguretat del seu barri de residència.
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Setembre i Octubre de 2018, publicant-se el Baròmetre el mes de desembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Setembre/Octubre 2017 - Setembre/Octubre 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
+DATA_COMP: >-
+  Mitjana aritmètica de les valoracions de la població de 18 i més anys sobre el nivell d'altruisme de la gent en una escala 0-10, on 0 significa que la majoria de la gent només mira per si mateixa i 10 que la majoria de la gent procura ajudar als altres.
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
