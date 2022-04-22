@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-c-title
 SDG_INDICATOR: >-
-  Taxa d'activitat
+  Tasa de actividad
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,17 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de població econòmicament activa en el municipi de València.
+  Porcentaje de población económicamente activa en el municipio de València.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Enquesta de Població Activa de l'Institut Nacional d'Estadística.
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta de Población Activa del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,14 +53,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  Per a les taxes específiques per sexe (edat) es consideren les persones d'aquest sexe (edat).
+   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).
    
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-  Documentació metodològica sobre l'Enquesta de Població Activa de l'INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   
+   Documentación metodológica sobre la Encuesta de Población Activa del INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  Quocient del nombre estimat de persones econòmicament actives (ocupades o parades) entre el total de persones de 16 o més anys d'edat residents a la ciutat. 
+  Cociente del número estimado de personas económicamente activas (ocupadas o paradas) entre el total de personas de 16 o más años de edad residentes en la ciudad. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.4-1-title
 SDG_INDICATOR: >-
-  Taxa de promoció en l'educació secundària postobligatòria
+  Tasa de promoción en la educación secundaria postobligatoria
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de l'alumnat avaluat en l'últim curs de Batxillerat o Cicles Formatius de Grau Mitjà que promociona en haver superat aquesta avaluació.
+  Porcentaje del alumnado evaluado en el último curso de Bachillerato o Ciclos Formativos de Grado Medio que promociona al haber superado esta evaluación.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Explotació estadística Equipament Escolar de la Ciutat de València (Oficina d'Estadística de l'Ajuntament de València).
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Explotación estadística Equipación Escolar de la Ciudad de València (Oficina de Estadística del Ayuntamiento de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,16 +51,17 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-  L'educació secundària postobligatòria inclou l'educació de batxillerat i els cicles formatius de grau mitjà.
-  L'educació de batxillerat té com a finalitat la formació general de l'alumnat, així com la seua orientació i preparació per a aconseguir una maduresa intel·lectual i humana que els permeta integrar-se en la vida activa o continuar estudis superiors, tant universitaris com de formació professional específica de grau superior. Als estudis del batxillerat pot accedir l'alumnat que estiga en possessió del títol de Graduat en Educació Secundària Obligatòria.
-  Els cicles formatius de grau mitjà (CFGM) són estudis professionals més pròxims a la realitat del mercat de treball i que condueixen al títol de Tècnic Mitjà.
+   La educación secundaria postobligatoria incluye la educación de bachillerato y los ciclos formativos de Grado Medio.
+   La educación de bachillerato tiene como finalidad la formación Eneroal del alumnado, así como su orientación y preparación para conseguir una madurez intelectual y humana que los permita integrarse en la vida activa o continuar estudios superiores, tanto universitarios como de formación profesional específica de grado superior. En los estudios de bachillerato puede acceder el alumnado que esté en posesión del título de Graduado en Educación Secundaria Obligatoria.
+   Los ciclos formativos de Grado Medio (CFGM) son estudios profesionales más próximos a la realidad del mercado de trabajo y que conducen en el título de Técnico Mediano.
    
-  Aquest indicador expressa el percentatge d'alumnes que promocionen respecte al total d'alumnes que és avaluat en segon curs de batxiller o segon curs de CFGM. La promoció d'aquests cursos està regulada per la legislació educativa aplicable en cada curs acadèmic.  Per a l'any t, aquesta informació prové dels resultats d'avaluació del curs t-1/t obtinguda de l'explotació estadística de les dades a tancament de curs dels centres que imparteixen segon de Batxiller i/o segon de CFGM situats a la ciutat de València. Aquesta informació no inclou els centres amb sistemes educatius estrangers. 
-  Per a les taxes específiques per sexe es consideren les persones d'aquest sexe.
+   Este indicador expresa el porcentaje de alumnos que promocionan respecto al total de alumnos que es evaluado en segundo curso de bachiller o segundo curso de CFGM. La promoción de estos cursos está regulada por la legislación educativa aplicable en cada curso académico.  Para el año t, esta información proviene de los resultados de evaluación del curso t-1/t obtenida de la explotación estadística de los datos a cierre de curso de los centros que imparten segundo de Bachiller y/o segundo de CFGM situados en la ciudad de València. Esta información no incluye los centros con sistemas educativos extranjeros. 
+   
+   Para las tasas específicas por sexo se consideran las personas de este sexo.
 DATA_COMP: >-
-  Quocient de l'alumnat que promociona en segon de batxillerat o segon de CFGM entre l'alumnat total avaluat.
+  Cociente del alumnado que promociona en segundo de bachillerato o segundo de CFGM entre el alumnado total evaluado.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

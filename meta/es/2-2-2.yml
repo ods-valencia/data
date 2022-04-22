@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.2-2-title
 SDG_INDICATOR: >-
-  Població de 5 a 14 anys amb pes insuficient
+  Población de 5 a 14 años con peso insuficiente
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones de 5 a 14 anys d'edat amb pes insuficient respecte a la població de 5 a 14 anys d'edat resident a la ciutat de València.
+  Porcentaje de personas de 5 a 14 años de edad con peso insuficiente respecto a la población de 5 a 14 años de edad residente en la ciudad de València.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Enquesta de Salut de la Comunitat Valenciana (Conselleria de Sanitat Universal i Salut Pública).
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta de Salud de la Comunidad Valenciana (Conselleria de Sanidad Universal y Salud Pública).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,10 +51,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Encara que les taules de referència ofereixen dades segons mesos complits, en el fitxer de microdades de l'Enquesta de Salut de la Comunitat Valenciana únicament disposem d'informació dels anys complits de la persona enquestada. Per això considerarem que una persona enquestada d'edat x té pes insuficient si el seu IMC és menor o igual a la mediana menys dues desviacions típiques, dades que apareixen en les taules de referència de les persones amb 12x+6 mesos complits del mateix sexe. Per exemple, direm que les xiquetes de 5 anys presenten pes insuficient si el seu IMC és menor o igual a 12,718 kg/m2.  Pel fet que la mostra a la ciutat de València és reduïda (173 persones enquestades de 5 a 14 anys en l'Enquesta de Salut de la Comunitat Valenciana de 2016), les estimacions obtingudes han de prendre's amb cautela. 
-  Una modificació d'aquest indicador apareix en el Panell ODS de l'INE (proporció de menors de 2 a 4 anys amb obesitat, sobrepés o pes insuficient) o de l'IVE (proporció de menors entre 2 i 17 anys amb obesitat, sobrepés o pes insuficient).
+  Aunque las tablas de referencia ofrecen datos según meses cumplidos, en el fichero de microdatos de la Encuesta de Salud de la Comunidad Valenciana únicamente disponemos de información de los años cumplidos de la persona encuestada. Por eso consideraremos que una persona encuestada de edad x tiene peso insuficiente si su IMC es menor o igual a la mediana menos dos desviaciones típicas, datos que aparecen en las tablas de referencia de las personas con 12x+6 meses cumplidos del mismo sexo. Por ejemplo, diremos que las niñas de 5 años presentan peso insuficiente si su IMC es menor o igual a 12,718 kg/m².  Por el hecho que la muestra en la ciudad de València es reducida (173 personas encuestadas de 5 a 14 años en la Encuesta de Salud de la Comunidad Valenciana de 2016), las estimaciones obtenidas tienen que tomarse con cautela. 
+   Una modificación de este indicador aparece en el Panel ODS del INE (proporción de menores de 2 a 4 años con obesidad, sobrepeso o peso insuficiente) o del IVE (proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente).
 DATA_COMP: >-
-  Es considera que una persona mostra pes insuficient si el seu índex de massa corporal (IMC) és menor o igual a la mitjana menys dues desviacions típiques dels patrons d'IMC de l'Organització Mundial de la Salut (OMS) per al seu sexe i edat. 
+  Se considera que una persona muestra peso insuficiente si su índice de masa corporal (IMC) es menor o igual a la media menos dos desviaciones típicas de los patrones de IMC de la Organización Mundial de la Salud (OMS) para su sexo y edad. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

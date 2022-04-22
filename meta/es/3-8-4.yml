@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-8-title
 SDG_INDICATOR: >-
-  Consultes d'odontologia per cada 10.000 habitants
+  Consultas de odontología por cada 10.000 habitantes
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,16 +27,18 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de clíniques dentals situades a la ciutat per cada 10.000 habitants.
+  Número de clínicas dentales situadas en la ciudad por cada 10.000 habitantes.
 UNIT_MEASURE: >-
-  Tant per 10.000
+  Tanto por 10.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística del Registre Autonòmic de Centres, Serveis i Establiments Sanitaris.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0211-Características de la población de València. Padrón municipal de València
+   a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística del Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,17 +54,17 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Accés al Registre Autonòmic de Centres, Serveis i Establiments Sanitaris: [Establiments Sanitaris](http://www.san.gva.es/web/registros/centros-sanitarios).
+  Acceso al Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios: [Establecimientos Sanitarios](http://www.san.gva.es/web/registros/centros-sanitarios).
    
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
    
-  S'han inclòs tots els centres sanitaris que apareixen amb Tipus de centre Clíniques dentals. Per tant, no inclou altres centres classificats amb altres tipus en els quals es desenvolupen activitats d'odontologia / estomatologia, com poden ser Hospitals, Centres Polivalents o Serveis sanitaris integrats en una organització no sanitària.  
+   Se han incluido todos los centros sanitarios que aparecen con Tipos de centro Clínicas dentales. Por lo tanto, no incluye otros centros clasificados con otros tipos en los cuales se desarrollan actividades de odontología / estomatología, como pueden ser Hospitales, Centros Polivalentes o Servicios sanitarios integrados en una organización no sanitaria.  
    
    
    
    
 DATA_COMP: >-
-  Quocient del nombre de clíniques dentals a 1 de gener de l'any de referència situades a la ciutat entre la població de la ciutat a 1 de gener de l'any de referència.
+  Cociente del número de clínicas dentales a 1 de enero del año de referencia situadas en la ciudad entre la población de la ciudad a 1 de enero del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

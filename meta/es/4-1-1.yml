@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.4-1-title
 SDG_INDICATOR: >-
-  Taxa de promoció en ESO
+  Tasa de promoción en ESO
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de l'alumnat avaluat en l'últim curs de l'Educació Secundària Obligatòria que promociona en haver superat aquesta avaluació.
+  Porcentaje del alumnado evaluado en el último curso de la Educación Secundaria Obligatoria que promociona al haber superado esta evaluación.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Explotació estadística Equipament Escolar de la Ciutat de València (Oficina d'Estadística de l'Ajuntament de València).
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Explotación estadística Equipación Escolar de la Ciudad de València (Oficina de Estadística del Ayuntamiento de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,14 +51,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-  L'educació secundària obligatòria (ESO) té una duració de quatre cursos acadèmics, que se segueixen ordinàriament entre els 12 i els 16 anys d'edat. S'estableix un model comú per als tres primers cursos i se li dona en el quart curs un caràcter orientador. En concloure aquesta etapa, l'alumnat pot seguir els seus estudis de Batxillerat o Cicles Formatius o pot accedir al món laboral.
+   La educación secundaria obligatoria (ESO) tiene una duración de cuatro cursos académicos, que se siguen ordinariamente entre los 12 y los 16 años de edad. Se establece un modelo común para los tres primeros cursos y se le da en el cuarto curso un carácter orientador. Al concluir esta etapa, el alumnado puede seguir sus estudios de Bachillerato o Ciclos Formativos o puede acceder en al mundo laboral.
    
-  Aquest indicador expressa el percentatge d'alumnes que promocionen respecte al total d'alumnes que són avaluats en el quart curs de l'ESO. La promoció d'aquest curs està regulada per la legislació educativa aplicable en cada curs acadèmic.  Per a l'any t, aquesta informació prové dels resultats d'avaluació del curs t-1/t obtinguda de l'explotació estadística de les dades a tancament de curs dels centres que imparteixen quart d'ESO situats a la ciutat de València. Aquesta informació no inclou els centres amb sistemes educatius estrangers. 
-  Per a les taxes específiques per sexe es consideren les persones d'aquest sexe.
+   Este indicador expresa el porcentaje de alumnos que promocionan respecto al total de alumnos que son evaluados en el cuarto curso de la ESO. La promoción de este curso está regulada por la legislación educativa aplicable en cada curso académico.  Para el año t, esta información proviene de los resultados de evaluación del curso t-1/t obtenida de la explotación estadística de los datos a cierre de curso de los centros que imparten cuarto de ESO situados en la ciudad de València. Esta información no incluye los centros con sistemas educativos extranjeros. 
+   
+   Para las tasas específicas por sexo se consideran las personas de este sexo.
 DATA_COMP: >-
-  Quocient de l'alumnat que promociona en quart d'ESO entre l'alumnat total avaluat.
+  Cociente del alumnado que promociona en cuarto de ESO entre el alumnado total evaluado.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
