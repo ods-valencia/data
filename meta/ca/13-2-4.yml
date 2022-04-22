@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Emisions de CO2 per cada 100 habitants en l'any de referència. 
+  Emissions de CO2 per cada 100 habitants en l'any de referència. 
 UNIT_MEASURE: >-
   Tonelades per 100 habitants
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
   Pla d'Acció per al Clima i l' Energia Sostenible de la ciutat de València.
 COLL_METHOD: >-
 

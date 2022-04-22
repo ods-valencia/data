@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.12-b-title
 SDG_INDICATOR: >-
-  Estada mitjana apartaments turístics
+  Estada mitjana en hotels i apartaments turístics
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Estada mitjana en apartaments turístics.
+  És una aproximació al nombre de dies que, de mitjana, els viatgers romanen en els hotels i apartaments.
 UNIT_MEASURE: >-
   Dies
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  EOAT (Institut Nacional d'Estadística).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,8 +51,6 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
-   
-  És una aproximació al nombre de dies que, de mitjana, els viatgers romanen als apartaments.
 DATA_COMP: >-
   Quocient entre les pernoctacions (nits que un viatger s'allotja en un establiment) i el nombre de viatgers.
 DATA_VALIDATION: >-

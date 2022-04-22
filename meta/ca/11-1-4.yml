@@ -33,11 +33,11 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
    
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  0211-Característiques de la població de València. Padró municipal de València a 1 de gener de cada any. Pla Valencià d'Estadística 2019-2022.
    
-  Elaboració pròpia Oficina d'Estadística Ajuntament de València.
+  Elaboració pròpia  Àrees Vulnerables  Oficina d'Estadística Ajuntament de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,7 +55,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Les seccions definides com a vulnerables (per a un tema o en l'índex global) són aquelles que la seua puntuacio´ en aqueix tema o en l'indicador global es situ´a per davall (o igual) al percentil 10% (p0,1) de la distribució formada per totes les puntuacions finals de les seccions en aqueix tema o en l'índex global.
    
-  Documentació metodològica sobre la publicació de Areas Vulnerables de l'Oficina d'Estadística de l'Ajuntament de València: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf)
+  Documentació metodològica sobre la publicació de Areas Vulnerables de l'Oficina d'Estadística de l'Ajuntament de València: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
    
   Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-

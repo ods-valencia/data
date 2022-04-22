@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge que considera el canvi climàtic com un dels tres temes mediambientals de la ciutat que més el preocupa.
+  Percentatge que considera el canvi climàtic com un dels tres temes mediambientals de la ciutat que més li preocupa.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Tercera ona del Baròmetre Municipal d'Opinió Ciutadana de la ciutat de València. Temàtica d'espais verds, medi ambient i neteja de la ciutat.
+  Tercera Ona Baròmetre d'Opinió Ciutadana: Espais Verds, Medi Ambient i Neteja de la Ciutat. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ REC_USE_LIM: >-
    
   Documentació metodològica sobre la 3 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 3](https://www.valencia.es/estadistica/Barometro/Metodologia3.pdf).
    
-  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Desembre de 2017 i Febrer de 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.  L'entrevistat havia de triar tres temes entre els següents assumptes mediambientals: producció de residus, consum excessiu d'energia, contaminació de la mar, platges i l'Albufera, mala qualitat de l'aire, perduda de terreny de cultiu d'horta, contaminació acústica, falta d'espais verds, desaparició d'espècies autòctones i aparició d'espècies invasores, mala qualitat de l'aigua de consum i la contaminació d'aigües subterraneas, plagues, canvi climàtic, incendis forestals.
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre desembre de 2017 i febrer de 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.  La persona entrevistada  havia de triar tres temes entre els següents assumptes mediambientals: producció de residus, consum excessiu d'energia, contaminació de la mar, platges i l'Albufera, mala qualitat de l'aire, perduda de terreny de cultiu d'horta, contaminació acústica, falta d'espais verds, desaparició d'espècies autòctones i aparició d'espècies invasores, mala qualitat de l'aigua de consum i la contaminació d'aigües subterrànies, plagues, canvi climàtic, incendis forestals.
 DATA_COMP: >-
-  Quocient entre la població que considerar el canvi climàtic com un dels tres temes mediambientals de la ciutat que més el preocupa i el total de la població enquestada.
+  Quocient entre la població que considerar el canvi climàtic com un dels tres temes mediambientals de la ciutat que més li preocupa i el total de la població enquestada.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

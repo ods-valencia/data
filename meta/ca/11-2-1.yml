@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-2-title
 SDG_INDICATOR: >-
-  Temps mitjà a la parada de MetroValència més pròxima
+  Temps mitjà a la parada de MetroValencia més pròxima
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
    
   Elaboració pròpia Oficina d'Estadística Ajuntament de València.
 COLL_METHOD: >-

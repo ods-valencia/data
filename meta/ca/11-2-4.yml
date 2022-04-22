@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de població amb una parada d'EMT a menys de 10 mínuts.
+  Percentatge de població amb una parada d'EMT a menys de 10 minuts.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
    
   Elaboració pròpia Oficina d'Estadística Ajuntament de València.
 COLL_METHOD: >-

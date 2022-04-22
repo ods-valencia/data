@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.15-3-title
 SDG_INDICATOR: >-
-  Percentatge de superfície municipal amb el risc d'inundació de baix calat
+  Percentatge de superfície amb el risc d'inundació de baix calat
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de superfície classificada amb el risc d'inundació de baix calat segons el Pla d'Acció Territorial sobre Prevenció del risc d'Inundació a la Comunitat Valenciana (PATRICOVA)
+  Percentatge de superfície classificada amb el risc d'inundació de baix calat segons el Pla d'Acció Territorial sobre Prevenció del risc d'Inundació a la Comunitat Valenciana (PATRICOVA).
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Pla d'Acció Territorial sobre Prevenció del risc d'Inundació a la Comunitat Valenciana (PATRICOVA) de 2015
+  Pla d'Acció Territorial sobre Prevenció del risc d'Inundació a la Comunitat Valenciana (PATRICOVA) de 2015.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Es consideren zones de risc d'inundació de baix calat aquelles en les quals el calat màxim generalitzat aconseguit per l'aigua siga superior a 15 cm i inferior a 80 cm.
    
-  Documentació metodològica sobre el  PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb)
+  Documentació metodològica sobre el  PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb).
 DATA_COMP: >-
-  Superfície classificada com de risc d'inundació de baix calat (calat màxim generalitzat aconseguit per l'aigua superior a 15 cm i inferior a 80 cm) entre la superfície total del municipi
+  Superfície classificada com de risc d'inundació de baix calat (calat màxim generalitzat aconseguit per l'aigua superior a 15 cm i inferior a 80 cm) entre la superfície total del municipi.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

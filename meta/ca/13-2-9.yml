@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.13-2-title
 SDG_INDICATOR: >-
-  Compra d'energia verd certificada (MW) per cada 100 habitants
+  Compra de energia verd certificada (MW) per cada 100 habitants
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Energia verd certificada per cada 100 habitants
+  Energia verda certificada per cada 100 habitants.
 UNIT_MEASURE: >-
   MW per 100 habitants
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
   Pla d'Acció per al Clima i l' Energia Sostenible de la ciutat de València.
 COLL_METHOD: >-
 
