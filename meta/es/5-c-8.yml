@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-c-title
 SDG_INDICATOR: >-
-  Denúncies de violència de gènere per 10.000 habitants
+  Denuncias de violencia de género por 10.000 habitantes
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de denúncies per violència de gènere de dones residents a la ciutat l'any de referència respecte al total de residents a la ciutat.
+  Número de denuncias por violencia de género de mujeres residentes en la ciudad el año de referencia respecto al total de residentes en la ciudad.
 UNIT_MEASURE: >-
-  Tant per 10.000
+  Tanto por 10.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,14 +51,14 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-  Consulta a la Web del CGPJ (www.poderjudicial.es), a data setembre de l'any següent a l'any de referència de les dades. 
-  La població utilitzada en el denominador és la població estimada a un de juliol de l'any de referència de les dades (t), com a mitjana aritmètica entre la població a un de gener d'aqueix any i la població a un de gener de l'any següent (t+1).
+   Consulta en la Web del CGPJ (www.poderjudicial.es), a fecha septiembre del año siguiente al año de referencia de los datos. 
+   La población utilizada en el denominador es la población estimada a uno de julio del año de referencia de los datos (t), como media aritmética entre la población a uno de enero de ese año y la población a uno de enero del año siguiente (t+1).
    
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Quocient del nombre de denúncies per violència de gènere de dones residents a la ciutat l'any de referència respecte al total de residents a la ciutat.
+  Cociente del número de denuncias por violencia de género de mujeres residentes en la ciudad el año de referencia respecto al total de residentes en la ciudad.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

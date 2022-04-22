@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-5-title
 SDG_INDICATOR: >-
-  Proporció de dones regidores a l'Ajuntament de València
+  Proporción de mujeres regidoras al Ayuntamiento de València
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de dones regidores a l'Ajuntament de València respecte al total de regidors.
+  Porcentaje de mujeres regidoras al Ayuntamiento de València respecto al total de regidores.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Explotació estadística Base de Dades d'Alcaldes i Regidors. Ministeri de Política Territorial.
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Explotación estadística Base de datos de Alcaldes y Regidores. Ministerio de Política Territorial.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,13 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  Documentació relativa al personal municipal de l'Ajuntament de València: [Personal Municipal](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=11).
+   Documentación relativa al personal municipal del Ayuntamiento de València: [Personal Municipal](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=11).
    
-  La informació de l'any 2019 correspon a la legislatura 2019-2023. La informació de l'any 2015 correspon a la legislatura 2015-2019. La informació de l'any 2011 correspon a la legislatura 2011-2015.  El Ple de l'Ajuntament és l'òrgan de màxima representació política de la ciutadania en el govern municipal. Assumeix de manera directa la representació dels ciutadans i ciutadanes i, en el seu nom, decideix sobre les qüestions més importants i transcendents per a la ciutat i controla i fiscalitza l'actuació dels altres òrgans de govern. Està format per l'alcalde o alcaldessa i per 32 regidors i regidores.
+   La información del año 2019 corresponde a la legislatura 2019-2023. La información del año 2015 corresponde a la legislatura 2015-2019. La información del año 2011 corresponde a la legislatura 2011-2015.  El Pleno del Ayuntamiento es el órgano de máxima representación política de la ciudadanía en el gobierno municipal. Asume de manera directa la representación de los ciudadanos y ciudadanas y, en su nombre, decide sobre las cuestiones más importantes y trascendentes para la ciudad y controla y fiscaliza la actuación de los otros órganos de gobierno. Está formado por el alcalde o alcaldesa y por 32 regidores y regidoras.
 DATA_COMP: >-
-  Quocient del nombre de dones regidores entre el total de regidors (33) que formen part del Ple de l'Ajuntament de València constituït després de les eleccions municipals que se celebren cada quatre anys.
+  Cociente del número de mujeres regidoras entre el total de regidores (33) que forman parte del Pleno del Ayuntamiento de València constituido después de las elecciones municipales que se celebran cada cuatro años.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

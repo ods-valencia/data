@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-c-title
 SDG_INDICATOR: >-
-  Dones assistides per Espai Dones i Igualtat del Servei d'Igualtat i Polítiques inclusives
+  Mujeres asistidas por Espacio Mujeres e Igualdad del Servicio de Igualdad y Políticas inclusivas
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de dones que han sigut assistides per Espai Dones i Igualtat del Servei d'Igualtat i Polítiques inclusives en l'últim any.
+  Número de mujeres que han sido asistidas por Espacio Mujeres e Igualdad del Servicio de Igualdad y Políticas inclusivas en el último año.
 UNIT_MEASURE: >-
-  Dones
+  Mujeres
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Espai Dones i Igualtat. Servei d'Igualtat i Polítiques inclusive.
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Espacio Mujeres e Igualdad. Servicio de Igualdad y Políticas inclusive.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,11 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  En les dades relatives a l'any 2017 o anterior, l'Espai Dones i Igualtat del Servei d'Igualtat i Polítiques inclusives no existia com a tal. No obstant això la mateixa informació era proporcionada pel Centre d'Informació i Orientació a la Dona (CMIO) dels Serveis socials municipals.
+  En los datos relativos en 2017 o anterior, el Espacio Mujeres e Igualdad del Servicio de Igualdad y Políticas inclusivas no existía como tal. Sin embargo la misma información era proporcionada por el Centro de Información y Orientación a la Mujer (CMIO) de los Servicios sociales municipales.
    
-  Documentació relativa al nombre de dones ateses en l'Espai Dones i Igualtat: [Espai Dones i Igualtat](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=16).  L’Espai Dones i Igualtat és un espai gratuït municipal d'informació, orientació i assessorament amb perspectiva de gènere que informa de recursos socials, jurídics, sanitaris i activitats en matèria d'igualtat i de violència de gènere. Conté espais per a poder fer atencions individualitzades i, a més, en les instal·lacions també es duen a terme cursos, tallers i xarrades de conscienciació i prevenció.
+   Documentación relativa al número de mujeres atendidas en el Espacio Mujeres e Igualdad: [Espacio Mujeres e Igualdad](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=16).  El Espacio Mujeres e Igualdad es un espacio gratuito municipal de información, orientación y asesoramiento con perspectiva de género que informa de recursos sociales, jurídicos, sanitarios y actividades en materia de igualdad y de violencia de género. Contiene espacios para poder hacer atenciones individualizadas y, además, en las instalaciones también se llevan a cabo cursos, talleres y charlas de concienciación y prevención.
 DATA_COMP: >-
-  Valor numèric directament proporcionat per Espai Dones i Igualtat del Servei d'Igualtat i Polítiques inclusives.
+  Valor numérico directamente proporcionado por Espacio Mujeres e Igualdad del Servicio de Igualdad y Políticas inclusivas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

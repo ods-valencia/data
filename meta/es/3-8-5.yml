@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-8-title
 SDG_INDICATOR: >-
-  Farmàcies per cada 10.000 habitants
+  Farmacias por cada 10.000 habitantes
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,16 +27,18 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre d'oficines de farmàcies situades a la ciutat per cada 10.000 habitants.
+  Número de oficinas de farmacias situadas en la ciudad por cada 10.000 habitantes.
 UNIT_MEASURE: >-
-  Tant per 10.000
+  Tanto por 10.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Registre d'Establiments i Serveis Sanitaris d'Atenció Farmacèutica de la Comunitat Valenciana.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0211-Características de la población de València. Padrón municipal de València
+   a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Registro de Establecimientos y Servicios Sanitarios de Atención Farmacéutica de la Comunidad Valenciana.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,10 +54,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf). 
-  Les oficines de farmàcia són establiments sanitaris privats d'interés públic, subjectes a la planificació sanitària que establisquen les comunitats autònomes, en les quals el farmacèutic titular-propietari d'aquelles, assistit en el seu cas d'ajudants o auxiliars.
+  Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf). 
+   
+   Las oficinas de farmacia son establecimientos sanitarios privados de interés público, sujetas en la planificación sanitaria que establezcan las comunidades autónomas, en las cuales el farmacéutico titular-propietario de aquellas, asistido en su caso de ayudantes o auxiliares
 DATA_COMP: >-
-  Quocient del nombre d'oficines de farmàcia a 1 de gener de l'any de referència situades a la ciutat entre la població de la ciutat a 1 de gener de l'any de referència.
+  Cociente del número de oficinas de farmacia a 1 de enero del año de referencia situadas en la ciudad entre la población de la ciudad a 1 de enero del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-3-title
 SDG_INDICATOR: >-
-  Taxa de mortalitat atribuïda a la tuberculosi
+  Tasa de mortalidad atribuida a la tuberculosis
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,16 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Defuncions atribuïdes a la tuberculosi per cada 100.000 habitants.
+  Defunciones atribuidas a la tuberculosis por cada 100.000 habitantes.
 UNIT_MEASURE: >-
-  Tant per 100.000
+  Tanto por 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0211-Características de la población de València. Padrón municipal de València
+   a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,15 +52,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-  Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
+   Documentación metodológica sobre la Estadística de Mortalidad según Causa en València: [Estadística Mortalidad](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
    
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
    
-  Per a les taxes específiques per sexe es consideren les defuncions i residents d'aquest sexe.
+   Para las tasas específicas por sexo se consideran las defunciones y residentes de este sexo.
 DATA_COMP: >-
-  Quocient del nombre de defuncions de residents a la ciutat a causa de causes atribuïdes a la tuberculosi o els seus efectes tardans (codis A15-A19, B90 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
+  Cociente del número de defunciones de residentes en la ciudad a causa de causas atribuidas a la tuberculosis o sus efectos tardíos (códigos A15-A19, B90 de la CIE-10) durante el año de referencia entre el número de residentes en la ciudad calculado a mitad del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

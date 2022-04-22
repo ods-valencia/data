@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-b-title
 SDG_INDICATOR: >-
-  Persones que han comprat per Internet en els últims 3 mesos
+  Personas que han comprado por Internet en los últimos 3 meses
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporció de persones que en els últims 3 mesos ha realitzat compres a través d'Internet.
+  Proporción de personas que en los últimos 3 meses ha realizado compras a través de Internet.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  1103-Encuesta de tecnologías de la información y comunicaciones en los hogares, en la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Enquesta sobre Equipament i Ús de Tecnologies d'Informació i Comunicació en les Llars de l'Institut Nacional d'Estadística.
+  1103-Encuesta de tecnologías de la información y comunicaciones en los hogares, en la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,13 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-  Per a les taxes específiques per sexe (edat) es consideren les persones d'aquest sexe (edat). L'enquesta recull els resultats per a persones entre 16 i 74 anys.
+   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad). La encuesta recoge los resultados para personas entre 16 y 74 años.
    
-  Documentació metodològica sobre l'Enquesta sobre Equipament i Ús de Tecnologies de la Informació i Comunicació en les Llars de l'INE: [Enquesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).  L'objectiu general de l'enquesta és obtindre dades del desenvolupament i evolució del que s'ha denominat la Societat de la Informació. Per a això es recull informació de l'equipament de les llars en tecnologies d'informació i la comunicació (connexió a internet, telefonia fixa i mòbil, equipament informàtic) i de l'ús i els nous hàbits de la població espanyola respecte a Internet: activitats realitzades, utilització del comerç electrònic, capacitats i coneixements informàtics, mesures adoptades sobre protecció, seguretat i privacitat, relacions amb l'administració electrònica i el teletreball.
+   Documentación metodológica sobre la Encuesta sobre Equipación y Uso de Tecnologías de la Información y Comunicación en los Hogares del INE: [Encuesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).  El objetivo general de la encuesta es obtener datos del desarrollo y evolución del que se ha denominado la Sociedad de la Información. Para lo cual se recoge información de la equipación de los hogares en tecnologías de información y la comunicación (conexión a internet, telefonía fija y móvil, equipación informática) y del uso y los nuevos hábitos de la población española respecto a Internet: actividades realizadas, utilización del comercio electrónico, capacidades y conocimientos informáticos, medidas adoptadas sobre protección, seguridad y privacidad, relaciones con la administración electrónica y el teletrabajo.
 DATA_COMP: >-
-  Quocient entre el nombre de persones de 16 a 74 anys d'edat que ha comprat per Internet en els últims tres mesos entre el total de persones enquestades de 16 a 74 anys d'edat residents a la ciutat.
+  Cociente entre el número de personas de 16 a 74 años de edad que ha comprado por Internet en los últimos tres meses entre el total de personas encuestadas de 16 a 74 años de edad residentes en la ciudad.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

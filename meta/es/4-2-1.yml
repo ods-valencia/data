@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.4-2-title
 SDG_INDICATOR: >-
-  Taxa d'escolarització en edat infantil
+  Tasa de escolarización en edad infantil
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de població de 0 a 5 anys d'edat matriculada en educació infantil respecte al total de menors de 6 anys empadronats a la ciutat.
+  Porcentaje de población de 0 a 5 años de edad matriculada en educación infantil respecto al total de menores de 6 años empadronados en la ciudad.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Explotació estadística Equipament Escolar de la Ciutat de València (Oficina d'Estadística de l'Ajuntament de València).
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Explotación estadística Equipación Escolar de la Ciudad de València (Oficina de Estadística del Ayuntamiento de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,12 +51,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  L'educació infantil (o educació preescolar) constitueix l'etapa educativa amb identitat pròpia que atén xiquetes i xiquets des del naixement fins als sis anys d'edat. Té caràcter voluntari i la seua finalitat és la de contribuir al desenvolupament físic, afectiu, social i intel·lectual dels xiquets. S'estructura en dos cicles educatius de tres cursos acadèmics cadascun: primer cicle (alumnat de 0 a 2 anys d'edat a 1 de gener de l'any t per al curs t-1/t), segon cicle (alumnat de 3 a 5 anys d'edat a 1 de gener de l'any t per al curs t-1/t). L'indicador referit a l'any t es calcula amb la informació de matrícula a l'inici del curs t-1/t respecte a la població resident a 1 de gener de l'any t.  La informació de l'alumnat prové del fitxer de matrícula provisional a inici de curs en educació infantil en centres escolars amb direcció a la ciutat de València. No inclou l'alumnat d'educació específica, ja siga en centres específics com en centres ordinaris.
-  La informació de la població resident a la ciutat de València amb 0 a 5 anys d'edat s'obté del Padró Municipal d'Habitants de l'Ajuntament de València. 
+   La educación infantil (o educación preescolar) constituye la etapa educativa con identidad propia que atiende niñas y niños desde el nacimiento hasta los seis años de edad. Tiene carácter voluntario y su finalidad es la de contribuir al desarrollo físico, afectivo, social e intelectual de los niños. Se estructura en dos ciclos educativos de tres cursos académicos cada uno: primer ciclo (alumnado de 0 a 2 años de edad a 1 de enero del año t para el curso t-1/t), segundo ciclo (alumnado de 3 a 5 años de edad a 1 de enero del año t para el curso t-1/t). El indicador referido en el año t se calcula con la información de matrícula al inicio del curso t-1/t respecto a la población residente a 1 de enero del año t.  La información del alumnado proviene del fichero de matrícula provisional a inicio de curso en educación infantil en centros escolares con dirección en la ciudad de València. No incluye el alumnado de educación específica, ya sea en centros específicos como en centros ordinarios.
+   La información de la población residente en la ciudad de València con 0 a 5 años de edad se obtiene del Padrón Municipal de Habitantes del Ayuntamiento de València. 
 DATA_COMP: >-
-  Quocient del nombre de xiquets i xiquetes de 0 a 5 anys d'edat matriculats en educació infantil en centres educatius situats a la ciutat respecte al nombre de xiquets i xiquetes de 0 a 5 anys residents a la ciutat.
+  Cociente del número de niños y niñas de 0 a 5 años de edad matriculados en educación infantil en centros educativos situados en la ciudad respecto al número de niños y niñas de 0 a 5 años residentes en la ciudad.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.4-b-title
 SDG_INDICATOR: >-
-  Assistència oficial destinada a xec escolar
+  Asistencia oficial destinada a cheque escolar
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Pressupost municipal executat assignat al programa de Xec Escolar del Servei d'Educació de l'Ajuntament de València.
+  Presupuesto municipal ejecutado asignado en el programa de Cheque Escolar del Servicio de Educación del Ayuntamiento de València.
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Xec escolar (Servei d'Educació  de l'Ajuntament de València).
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+   Cheque escolar (Servicio de Educación del Ayuntamiento de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,10 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació relativa al xec escolar: [Xec Escolar](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=16).
-  El Xec Escolar és un sistema d'ajudes econòmiques a l'escolarització infantil de 0 a 5 anys, destinades a compensar desigualtats, sufragant les despeses d'ensenyament d'aquells menors empadronats en el municipi de València, i es concedeixen en funció de la renda familiar, atenent també les particularitats pròpies de les unitats familiars que les sol·liciten. Es tracta de contribuir a l'escolarització primerenca com a inici d'una escolarització obligatòria satisfactòria dels nostres xiquets i xiquetes, però no solament: també permeten als pares i mares amb menys recursos, l'accés a l'ocupació i/o a la formació contínua, en una etapa de la vida en què les cures als xicotets i xicotetes els farien impossible sense aquestes ajudes, que es convoquen durant les primeres setmanes de cada any per al curs acadèmic següent.
+  Documentación relativa al cheque escolar: [Cheque Escolar](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=16).
+   
+   El Cheque Escolar es un sistema de ayudas económicas a la escolarización infantil de 0 a 5 años, destinadas a compensar desigualdades, sufragando los gastos de enseñanza de aquellos menores empadronados en el municipio de València, y se conceden en función de la renta familiar, atendiendo también las particularidades propias de las unidades familiares que las solicitan. Se trata de contribuir a la escolarización temprana como inicio de una escolarización obligatoria satisfactoria de nuestros niños y niñas, pero no solo: también permiten a los padres y madres con menos recursos, el acceso a la ocupación y/o a la formación continua, en una etapa de la vida en que las curas a los pequeños y pequeñas los harían imposible sin estas ayudas, que se convocan durante las primeras semanas de cada año para el curso académico siguiente.
 DATA_COMP: >-
-  Quantitat total assignada (en euros) al programa de Xec escolar, que és finançat exclusivament per l'Ajuntament de València. L'import assignat a l'any t correspon al curs escolar t-1/t.
+  Cantidad total asignada (en euros) en el programa de Cheque escolar, que es financiado exclusivamente por el Ayuntamiento de València. El importe asignado al año t corresponde al curso escolar t-1/t.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

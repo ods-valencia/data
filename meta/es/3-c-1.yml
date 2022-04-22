@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-c-title
 SDG_INDICATOR: >-
-  Pressupost municipal destinat a Cooperació Internacional per al Desenvolupament relacionat amb l’ODS 3
+  Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 3
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Pressupost municipal executat del programa de Cooperació Internacional per al Desenvolupament relacionat amb l'Objectiu de Desenvolupament Sostenible ODS 3  (Garantir una vida sana i promoure el benestar de tots a totes les edats).
+  Presupuesto municipal ejecutado del programa de Cooperación Internacional para el Desarrollo relacionado con el Objetivo de Desarrollo Sostenible ODS 3 (Garantizar una vida sana y promover el bienestar de todos en todas las edades).
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Pressupost Municipal de l'Ajuntament de València (Servei de Cooperació al Desenvolupament i Migració).
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Presupuesto Municipal del Ayuntamiento de València (Servicio de Cooperación al Desarrollo y Migración).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,12 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). 
-  El Programa de Cooperació Internacional per al Desenvolupament té com a objectiu la concessió de subvencions dirigides a Organitzacions No Governamentals de Desenvolupament per a finançar actuacions en matèria de Cooperació al desenvolupament, per a contribuir a un major enfortiment entre el municipi de València i els països empobrits econòmicament. Aquest programa figura en el Pla Estratègic de Subvencions aprovat per la Junta de Govern Local, té un termini anual i es finança amb fons municipals.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). 
+   
+   El Programa de Cooperación Internacional para el Desarrollo tiene como objetivo la concesión de subvenciones dirigidas a Organizaciones No Gubernamentales de Desarrollo para financiar actuaciones en materia de Cooperación al desarrollo, para contribuir a un mayor fortalecimiento entre el municipio de València y los países empobrecidos económicamente. Este programa figura en el Plan Estratégico de Subvenciones aprobado por la Junta de Gobierno Local, tiene un plazo anual y se financia con fondos municipales.
 DATA_COMP: >-
   
 
-  El pressupost executat total (en euros) del programa de Cooperació Internacional per al Desenvolupament de l'Ajuntament de València relacionat amb l’ODS 3 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.
+   El presupuesto ejecutado total (en euros) del programa de Cooperación Internacional para el Desarrollo del Ayuntamiento de València relacionado con el ODS3 durante el ejercicio de referencia se obtiene como suma de los importes subvencionados asociados a este ODS de las diferentes actuaciones subvencionadas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

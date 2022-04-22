@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.3-4-title
 SDG_INDICATOR: >-
-  Taxa de mortalitat atribuïda a la diabetis
+  Tasa de mortalidad atribuida a la diabetes
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,16 +27,18 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Defuncions atribuïdes a la diabetis per cada 100.000 habitants.
+  Defunciones atribuidas a la diabetes por cada 100.000 habitantes.
 UNIT_MEASURE: >-
-  Tant per 100.000
+  Tanto por 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
-  0741-Estadística de mortalidad según causa para los distritos municipales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   0211-Características de la población de València. Padrón municipal de València
+   a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
+   
+   0741-Estadística de mortalidad según causa para los distritos municipales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,17 +54,17 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-  Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
+   Documentación metodológica sobre la Estadística de Mortalidad según Causa en València: [Estadística Mortalidad](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
    
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
    
-  Per a les taxes específiques per sexe (per edat) es consideren les defuncions i residents d'aquest sexe (edat). En la categorització de l'edat s'ha considerat la delimitació de mortalitat prematura de l'OMS.  Per al càlcul de les taxes per districte s'han generat agregats de defuncions associades a aquesta causa per a períodes de 5 anys, assignant el valor obtingut a l'últim any que defineix el període d'agregació. Les taxes oferides s'obtenen com el quocient del nombre de defuncions associades a la causa durant un període de cinc anys (per exemple, 2011-15) entre la suma de la població a 1 de gener dels anys inclosos (de 2011 a 2015) (població subjecta a risc). 
+   Para las tasas específicas por sexo (por edad) se consideran las defunciones y residentes de este sexo (edad). En la categorización de la edad se ha considerado la delimitación de mortalidad prematura de la OMS.  Para el cálculo de las tasas por distrito se han generado agregados de defunciones asociadas a esta causa para periodos de 5 años, asignando el valor obtenido al último año que define el periodo de agregación. Las tasas ofrecidas se obtienen como el cociente del número de defunciones asociadas a la causa durante un periodo de cinco años (por ejemplo, 2011-15) entre la suma de la población a 1 de enero de los años incluidos (de 2011 a 2015) (población sujeta a riesgo). 
    
-  Existeix un xicotet subregistre pel fet que algunes de les defuncions registrades a la ciutat no van poder ser geocodificades al districte de residència. Es pot consultar la metodologia associada a aquesta operació en: [Mortalitat 2011-2015](https://www.valencia.es/estadistica/CatPub/files/MortalitatCausa_2011_2015.pdf).
+   Existe un pequeño subregistro por el hecho que algunas de las defunciones registradas en la ciudad no pudieron ser geocodificadas al distrito de residencia. Se puede consultar la metodología asociada a esta operación en: [Mortalidad 2011-2015](https://www.valencia.es/estadistica/CatPub/files/MortalitatCausa_2011_2015.pdf).
 DATA_COMP: >-
-  Quocient del nombre de defuncions de residents a la ciutat a causa de causes relacionades amb la diabetis mellitus (codis E10-E14 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
+  Cociente del número de defunciones de residentes en la ciudad a causa de causas relacionadas con la diabetes mellitus (códigos E10-E14 de la CIE-10) durante el año de referencia entre el número de residentes en la ciudad calculado a mitad del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.5-5-title
 SDG_INDICATOR: >-
-  Dones professores en la UPV
+  Mujeres profesoras en la UPV
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de dones que exerceixen funcions docents en centres pertanyents a la UPV situats a la ciutat.
+  Porcentaje de mujeres que ejercen funciones docentes en centros pertenecientes a la UPV situados en la ciudad.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Registre de Personal Docent Universitari UPV.
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+   Explotación estadística Registro de Personal Docente Universitario UPV.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,12 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Per a l'any X la informació correspon al personal docent en la UPV en el curs X-1/X.
+  Para el año X la información corresponde al personal docente en la UPV en el curso X-1/X.
    
-  Documentació relativa al personal docent en la UPV: [UPV](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=9). 
-  S'inclou el professorat emèrit, professorat amb càtedra universitària, professorat amb càtedra d'escola universitària, professorat titular d'universitat, professorat titular d'escola universitària, professorat contractat doctor, professorat ajudant doctor, professorat associat i un altre professorat (professorat col·laborador, ajudant o visitant). No inclou el professorat que imparteix docència a l'Escola Politècnica Superior d'Alcoi ni a l'Escola Politècnica Superior de Gandia.
+   Documentación relativa al personal docente en la UPV: [UPV](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=9). 
+   
+   Se incluye el profesorado emérito, profesorado con cátedra universitaria, profesorado con cátedra de escuela universitaria, profesorado titular de universidad, profesorado titular de escuela universitaria, profesorado contratado doctor, profesorado ayudando doctor, profesorado asociado y otro profesorado (profesorado colaborador, ayudante o visitante). No incluye el profesorado que imparte docencia en la Escuela Politècnica Superior de Alcoy ni en la Escuela Politècnica Superior de Gandia.
 DATA_COMP: >-
-  Quocient entre el nombre de dones docents en la UPV i el total de docents en la UPV. 
+  Cociente entre el número de mujeres docentes en la UPV y el total de docentes en la UPV. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
