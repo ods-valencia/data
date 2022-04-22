@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-2-title
 SDG_INDICATOR: >-
-  Viatges en MetroValència per habitant
+  Viatges en MetroValencia per habitant
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,9 +33,11 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadors socials de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
    
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9906-Anuari estadístic de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+   
+  Font Ferrocarrils de la Generalitat Valenciana (FGV).
 COLL_METHOD: >-
 
 FREQ_COLL: >-

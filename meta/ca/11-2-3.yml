@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-2-title
 SDG_INDICATOR: >-
-  Població amb una parada de MetroValència a menys de 10 min
+  Població amb una parada de MetroValencia a menys de 10 min
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de població amb una parada de MetroValència a menys de 10 mínuts.
+  Percentatge de població amb una parada de MetroValència a menys de 10 minuts.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
    
   Elaboració pròpia Oficina d'Estadística Ajuntament de València.
 COLL_METHOD: >-

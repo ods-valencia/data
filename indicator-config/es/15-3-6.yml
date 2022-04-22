@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Población que reside en zonas con riesgo de inundación
+graph_title: Población que reside en zonas con riesgo de inundación (niveles 1-6)
 graph_titles: []
 graph_type: bar
-indicator_name: Población que reside en zonas con riesgo de inundación
+indicator_name: Población que reside en zonas con riesgo de inundación (niveles 1-6)
 indicator_number: '15.3.6'
 national_geographical_coverage: Valencia
 page_content: ''

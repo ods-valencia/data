@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Presupuesto municipal destinado a Cooperación ODS12
+graph_title: Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo
+  relacionado con el ODS 12
 graph_titles: []
 graph_type: bar
-indicator_name: Presupuesto municipal destinado a Cooperación ODS12
+indicator_name: Presupuesto municipal destinado a Cooperación Internacional para el
+  Desarrollo relacionado con el ODS 12
 indicator_number: '12.a.1'
 national_geographical_coverage: Valencia
 page_content: ''

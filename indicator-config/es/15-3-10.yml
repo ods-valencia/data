@@ -17,11 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de superficie municipal con riesgo de inundación de alto calado
+graph_title: Porcentaje de superficie con riesgo de inundación de alto calado
 graph_titles: []
 graph_type: bar
-indicator_name: Porcentaje de superficie municipal con riesgo de inundación de alto
-  calado
+indicator_name: Porcentaje de superficie con riesgo de inundación de alto calado
 indicator_number: '15.3.10'
 national_geographical_coverage: Valencia
 page_content: ''

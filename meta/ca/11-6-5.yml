@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadors socials de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,7 +50,6 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews. També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
-   
    
   Les dades utilitzades provenen del fitxer de mesuraments en les estacions de la xarxa de vigilància i control de la contaminació atmosfèrica de: Vivers (39° 28' 46'' N, 0° 22' 10'' O), Av. França (39° 27' 27'' N, 0° 20' 34'' O), Pista de Silla (39° 27' 29'' N, 0° 22' 36'' O), Universitat Politècnica (39° 28' 47'' N, 0° 20' 15'' O) (des de 04/04/2008), Bulevard Sud (39° 27' 1'' N, 0° 23' 47'' O) (des de 24/05/2010), Linares (39° 28' 8'' N, 0° 23' 31'' O) (fins a 24/05/2010), Nou Centre (39° 28' 52'' N, 0° 23' 16'' O) (fins a 06/08/2009) i Aragó (39° 28' 37'' N, 0° 21' 17'' O) (fins a 04/04/2008).
 DATA_COMP: >-

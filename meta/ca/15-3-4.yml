@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.15-3-title
 SDG_INDICATOR: >-
-  Diferencia temperatura mitjana anual respecte al valor mitjà del període 1991-2010
+  Diferencia temperatura respecte a la mitjana del període 1981-2010
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Diferència entre la temperatura mitjana anual registrada i el valor mitjà del període 1991-2010 en l'estació meteorològica de Vivers
+  Diferència entre la temperatura mitjana anual registrada i el valor mitjà del període 1981-2010 en l'estació meteorològica de Vivers.
 UNIT_MEASURE: >-
   Graus centígrads
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Agència Estatal de Meteorologia
+  Agència Estatal de Meteorologia.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,7 +52,7 @@ REC_USE_LIM: >-
   Temperatura llegida en un termòmetre exposat a l'aire i protegit de la radiació solar. Les dades s'han obtingut de l'estació manual situada als Jardins Municipals de Vivers de la ciutat de València (39° 28' 50'' N, 00° 21' 59'' O).
   L'Organització Meteorològica Mundial (OMM) estableix com a període normal de referència per a les dades climatològiques del decenni de 2010 el corresponent al període 1981-2010. Aquesta comparació permet canvis en les variables climatològiques a curt termini.
 DATA_COMP: >-
-  Temperatura mitjana anual de l'any menys la mitjana de les temperatures mitjanes anuals registrades al llarg del període 1991-2010 en l'estació meteorològica de Vivers. La temperatura mitjana anual es calcula com a mitjana aritmètica de les temperatures mitjanes mensuals observades durant l'any de referència
+  Temperatura mitjana anual de l'any menys la mitjana de les temperatures mitjanes anuals registrades al llarg del període 1981-2010 en l'estació meteorològica de Vivers. La temperatura mitjana anual es calcula com a mitjana aritmètica de les temperatures mitjanes mensuals observades durant l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

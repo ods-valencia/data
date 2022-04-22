@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.13-3-title
 SDG_INDICATOR: >-
-  Población que considera que lo afecta el calentamiento global
+  Población que considera que le afecta el calentamiento global
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje que considera que lo afecta el calentamiento global hoy en día.
+  Porcentaje que considera que le afecta el calentamiento global hoy en día.
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Tercera ola del Barómetro Municipal de Opinión Ciudadana de la ciudad de València. Temática de espacios verdes, medio ambiente y limpieza de la ciudad.
+  Tercera Ola Barómetro de Opinión Ciudadana: Espacios Verdes, Medio Ambiente y Limpieza de la Ciudad. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ REC_USE_LIM: >-
    
    Documentación metodológica sobre la 3 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 3](https://www.valencia.es/estadistica/Barometro/Metodologia3.pdf).
    
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Diciembre de 2017 y Febrero de 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
+   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre diciembre de 2017 y febrero de 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
-  Cociente entre la población que considera que lo afecta el calentamiento global y el total de la población encuestada.
+  Cociente entre la población que considera que le afecta el calentamiento global y el total de la población encuestada.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

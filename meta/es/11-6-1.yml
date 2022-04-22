@@ -49,7 +49,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valènciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ods/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valènciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
    Documentación relativa al Tratado de Residuos: [Residuos](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=12).
 DATA_COMP: >-

@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Tasa de sobrecarga precio de la vivienda
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Tasa de sobrecarga precio de la vivienda
 indicator_number: '11.1.7'
 national_geographical_coverage: Valencia

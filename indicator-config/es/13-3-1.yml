@@ -18,11 +18,11 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Población que considera el cambio climático como uno de los tres temas
-  medioambientales de la ciudad que más lo preocupa
+  medioambientales de la ciudad que más le preocupa
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Población que considera el cambio climático como uno de los tres temas
-  medioambientales de la ciudad que más lo preocupa
+  medioambientales de la ciudad que más le preocupa
 indicator_number: '13.3.1'
 national_geographical_coverage: Valencia
 page_content: ''

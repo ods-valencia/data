@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.15-3-title
 SDG_INDICATOR: >-
-  Percentatge precipitació total anual respecte al valor mitjà del període 1991-2010
+  Percentatge precipitació total anual respecte a la mitjana del període 1981-2010
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge que representa la precipitació total anual registrada respecte al valor total anual mitjà registrat al llarg del període 1991-2010 en l'estació meteorològica de Vivers
+  Percentatge que representa la precipitació total anual registrada respecte al valor total anual mitjà registrat al llarg del període 1981-2010 en l'estació meteorològica de Vivers.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Agència Estatal de Meteorologia
+  Agència Estatal de Meteorologia.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ REC_USE_LIM: >-
   L'Organització Meteorològica Mundial (OMM) estableix com a període normal de referència per a les dades climatològiques del decenni de 2010 el corresponent al període 1981-2010. Aquesta comparació permet canvis en les variables climatològiques a curt termini.
   Un percentatge major de 100 indicarà que en aqueix any s'ha registrat una precipitació total major que l'observada en el període de referència, mentre que un valor menor de 100 indicarà el contrari. Per exemple, si per a un any aquest índex pren un valor igual al 75%, voldrà dir que aqueix any la precipitació total ha sigut un 75% de la mitjana del període de comparació.
 DATA_COMP: >-
-  Quocient de la precipitació total anual registrada respecte al valor total anual mitjà registrat al llarg del període 1991-2010 en l'estació meteorològica de Vivers 
+  Quocient de la precipitació total anual registrada respecte al valor total anual mitjà registrat al llarg del període 1981-2010 en l'estació meteorològica de Vivers. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

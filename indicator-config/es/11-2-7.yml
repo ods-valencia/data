@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Paradas de MetroValència por cada 100.000 habitantes
+graph_title: Paradas de MetroValencia por cada 100.000 habitantes
 graph_titles: []
 graph_type: line
-indicator_name: Paradas de MetroValència por cada 100.000 habitantes
+indicator_name: Paradas de MetroValencia por cada 100.000 habitantes
 indicator_number: '11.2.7'
 national_geographical_coverage: Valencia
 page_content: ''

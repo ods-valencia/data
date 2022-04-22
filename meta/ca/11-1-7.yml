@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Taxa de sobrecàrrega preu de l'habitatge.
+  Diferència entre la variació anual del preu de l'habitatge lliure i la variació anual de l'IPC general.
 UNIT_MEASURE: >-
   Taxa
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+   
+  IPC (Institut Nacional d'Estadística).
 COLL_METHOD: >-
 
 FREQ_COLL: >-

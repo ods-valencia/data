@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Diferencia temperatura mediana anual respecto al valor mediano del periodo
-  1991-2010
+graph_title: Diferencia temperatura respecto a la media del periodo 1981-2010
 graph_titles: []
 graph_type: line
-indicator_name: Diferencia temperatura mediana anual respecto al valor mediano del
-  periodo 1991-2010
+indicator_name: Diferencia temperatura respecto a la media del periodo 1981-2010
 indicator_number: '15.3.4'
 national_geographical_coverage: Valencia
 page_content: ''

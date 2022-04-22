@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Energía (MWh) procedente de fuentes renovables por cada 100 habitantes
+graph_title: Energía procedente de fuentes renovables (MWh) por cada 100 habitantes
 graph_titles: []
 graph_type: line
-indicator_name: Energía (MWh) procedente de fuentes renovables por cada 100 habitantes
+indicator_name: Energía procedente de fuentes renovables (MWh) por cada 100 habitantes
 indicator_number: '13.2.8'
 national_geographical_coverage: Valencia
 page_content: ''

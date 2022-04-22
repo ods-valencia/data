@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Mitjana dels nivells mitjans anuals durant l'any de referència en les diferents estacions de mostreig de la ciutat.
+  Mitjana dels nivells mitjans anuals de partícules en suspensió amb un diàmetre menor de 2,5 micròmetres durant l'any de referència en les diferents estacions de mostreig de la ciutat.
 UNIT_MEASURE: >-
   Micrograms per metre cúbic
 CLASS_SYSTEM: >-

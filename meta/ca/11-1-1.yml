@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-1-title
 SDG_INDICATOR: >-
-  Renda mitjana de la població
+  Renta mitjana de la població
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Renda neta mitjana per persona
+  Renda neta mitjana per persona.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0506-Rentas en IRPF a la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0506-Rendes en IRPF a la ciutat de València. Pla Valencià d'Estadística 2019-2022.
    
-  Explotació estadística Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
+  Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-

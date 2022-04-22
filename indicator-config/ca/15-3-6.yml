@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Població que resideix en zones amb el risc d'inundació
+graph_title: Població que resideix en zones amb el risc d'inundació (nivells 1-6)
 graph_titles: []
 graph_type: bar
-indicator_name: Població que resideix en zones amb el risc d'inundació
+indicator_name: Població que resideix en zones amb el risc d'inundació (nivells 1-6)
 indicator_number: '15.3.6'
 national_geographical_coverage: València
 page_content: ''

@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Porcentaje de kilómetros de infraestructuras lineales en zonas con riesgo
-  de inundación
+graph_title: Porcentaje de infraestructuras lineales con riesgo de inundación
 graph_titles: []
 graph_type: bar
-indicator_name: Porcentaje de kilómetros de infraestructuras lineales en zonas con
-  riesgo de inundación
+indicator_name: Porcentaje de infraestructuras lineales con riesgo de inundación
 indicator_number: '15.3.12'
 national_geographical_coverage: Valencia
 page_content: ''

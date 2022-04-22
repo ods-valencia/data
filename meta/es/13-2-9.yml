@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Energía verde certificada por cada 100 habitantes
+  Energía verde certificada por cada 100 habitantes.
 UNIT_MEASURE: >-
   MW por 100 habitantes
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Pla de Acción para el Clima y la Energía Sostenible de la ciudad de València.
+   Plan de Acción para el Clima y la Energía Sostenible de la ciudad de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
