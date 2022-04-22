@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Esperança de vida en nàixer
+graph_title: Esperança de vida
 graph_titles: []
 graph_type: line
-indicator_name: Esperança de vida en nàixer
+indicator_name: Esperança de vida
 indicator_number: '3.4.7'
 national_geographical_coverage: València
 page_content: ''

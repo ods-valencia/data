@@ -1,81 +1,34 @@
-SDG_GOAL: >-
-   global_goals.2-title
-SDG_TARGET: >-
-  global_targets.2-3-title
-SDG_INDICATOR: >-
-  Porcentaje de población ocupada en la agricultura
-SDG_SERIES_DESCR: >-
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Població ocupada en l'agricultura
+graph_titles: []
+graph_type: line
+indicator_name: Població ocupada en l'agricultura
+indicator_number: '2.3.2'
+national_geographical_coverage: València
+page_content: ''
+permalink: ''
+precision: []
+progress_status: target_achieved
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
-
-CONTACT_ORGANISATION: >-
-
-CONTACT_NAME: >-
-
-ORGANISATION_UNIT: >-
-
-CONTACT_FUNCT: >-
-
-CONTACT_PHONE: >-
-
-CONTACT_MAIL: >-
-
-CONTACT_EMAIL: >-
-
-STAT_CONC_DEF: >- 
-  Porcentaje de población ocupada en el sector primario (agricultura, ganadería, silvicultura y pesca) respecto a la población ocupada de la ciudad.
-UNIT_MEASURE: >-
-  Porcentaje
-CLASS_SYSTEM: >-
-
-SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Explotación estadística Encuesta de Población Activa (EPA) de la Generalitat Valenciana.
-COLL_METHOD: >-
-
-FREQ_COLL: >-
-
-REL_CAL_POLICY: >-
-
-DATA_SOURCE: >-
-
-COMPILING_ORG: >-
-
-INST_MANDATE: >-
-
-RATIONALE: >-
-
-REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
-   
-   Documentación metodológica sobre la Encuesta de Población Activa: [Encuesta Población Activa](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
-   
-   Dado que la EPA no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel de error que el asociado a ámbitos territoriales más amplios y tendrán que ser tratadas con cautela. La rama de actividad asociada a la población ocupada se clasifica según la Clasificación Nacional de Actividades Económicas de 2009 (CNAE-2009).
-DATA_COMP: >-
-  Media de los porcentajes trimestrales de población ocupada en el sector primario respecto al total de población ocupada para el año de referencia.
-DATA_VALIDATION: >-
-
-ADJUSTMENT: >-
-
-IMPUTATION: >-
-
-REG_AGG: >-
-
-DOC_METHOD: >-
-
-QUALITY_MGMNT: >-
-
-QUALITY_ASSURE: >-
-
-QUALITY_ASSMNT: >-
-
-COVERAGE: >-
-
-COMPARABILITY: >-
-
-OTHER_DOC: >-

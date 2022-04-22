@@ -17,12 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-2-2-title
+graph_title: Població en risc de pobresa relativa considerant el llindar nacional
+  de pobresa segons ingressos recollits en fonts tributàries
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.1-2-2-title
+indicator_name: Població en risc de pobresa relativa considerant el llindar nacional
+  de pobresa segons ingressos recollits en fonts tributàries
 indicator_number: '1.2.2'
-national_geographical_coverage: Valencia
+national_geographical_coverage: València
 page_content: ''
 permalink: ''
 precision: []

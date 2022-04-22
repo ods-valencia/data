@@ -17,12 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: valencia-goals.1-2-3-title
+graph_title: 'Població en risc de pobresa i/o exclusió social considerant el llindar
+  autonòmic de pobresa: indicador AROPE'
 graph_titles: []
 graph_type: line
-indicator_name: valencia-goals.1-2-3-title
+indicator_name: 'Població en risc de pobresa i/o exclusió social considerant el llindar
+  autonòmic de pobresa: indicador AROPE'
 indicator_number: '1.2.3'
-national_geographical_coverage: Valencia
+national_geographical_coverage: València
 page_content: ''
 permalink: ''
 precision: []

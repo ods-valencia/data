@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-2-11-title
+graph_title: Llars familiars formades exclusivament per persones de 65 o més anys
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.1-2-11-title
+indicator_name: Llars familiars formades exclusivament per persones de 65 o més anys
 indicator_number: '1.2.11'
-national_geographical_coverage: Valencia
+national_geographical_coverage: València
 page_content: ''
 permalink: ''
 precision: []

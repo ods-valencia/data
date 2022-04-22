@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Taxa de mortalitat atribuïda al VIH
+graph_title: Taxa de mortalitat atribuïda al VIH/SIDA
 graph_titles: []
 graph_type: line
-indicator_name: Taxa de mortalitat atribuïda al VIH
+indicator_name: Taxa de mortalitat atribuïda al VIH/SIDA
 indicator_number: '3.3.5'
 national_geographical_coverage: València
 page_content: ''

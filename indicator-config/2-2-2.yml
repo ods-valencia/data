@@ -1,82 +1,34 @@
-SDG_GOAL: >-
-   global_goals.2-title
-SDG_TARGET: >-
-  global_targets.2-2-title
-SDG_INDICATOR: >-
-  Población de 5 a 14 años con peso insuficiente
-SDG_SERIES_DESCR: >-
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Població de 5 a 14 anys amb pes insuficient
+graph_titles: []
+graph_type: bar
+indicator_name: Població de 5 a 14 anys amb pes insuficient
+indicator_number: '2.2.2'
+national_geographical_coverage: València
+page_content: ''
+permalink: ''
+precision: []
+progress_status: target_achieved
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 
-META_LAST_UPDATE: >-
-
-SDG_RELATED_INDICATORS: >-
-
-SDG_CUSTODIAN_AGENCIES: >-
-
-CONTACT_ORGANISATION: >-
-
-CONTACT_NAME: >-
-
-ORGANISATION_UNIT: >-
-
-CONTACT_FUNCT: >-
-
-CONTACT_PHONE: >-
-
-CONTACT_MAIL: >-
-
-CONTACT_EMAIL: >-
-
-STAT_CONC_DEF: >- 
-  Se considera que una persona muestra un peso insuficiente si su índice de masa corporal (IMC) es menor o igual a la media menos dos desviaciones típicas de los patrones de IMC infantil de la Organización Mundial de la Salud (OMS) para su sexo y edad.
-UNIT_MEASURE: >-
-  Porcentaje
-CLASS_SYSTEM: >-
-
-SOURCE_TYPE: >-
-  
-   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-   Explotación estadística Encuesta de Salud de la Comunidad Valenciana.
-COLL_METHOD: >-
-
-FREQ_COLL: >-
-
-REL_CAL_POLICY: >-
-
-DATA_SOURCE: >-
-
-COMPILING_ORG: >-
-
-INST_MANDATE: >-
-
-RATIONALE: >-
-
-REC_USE_LIM: >-
-  Una modificación de este indicador aparece en el panel del INE (proporción de menores de 2 a 4 años con obesidad, sobrepeso o peso insuficiente) o del IVE (proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente).
-   
-   El Índice de Massa Corporal (IMC) se calcula dividiendo el peso corporal de cada individuo (en kilogramos) entre el cuadrado de la altura (en metros). Se considera que una persona muestra peso insuficiente si su IMC es menor o igual a la media menos dos desviaciones típicas de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS) para su sexo y edad. Estos valores de referencia pueden consultarse en: (https://www.who.int/tools/growth-reference-data-for-5to19-years/indicators/bmi-for-age).
-   
-   Aunque las tablas de referencia ofrecen datos según meses cumplidos, en el fichero de microdatos de la Encuesta de Salud de la Comunidad Valenciana únicamente disponemos de información de los años cumplidos de la persona encuestada. Por eso consideraremos que una persona encuestada de edad x tiene peso insuficiente si su IMC es menor o igual a la media menos dos desviaciones típicas que aparecen en las tablas de referencia de las personas con 12x+6 meses cumplidos del mismo sexo. Por ejemplo, diremos que las niñas de 5 años presentan peso insuficiente si su IMC es menor o igual a 12,718 kg/m². Por el hecho que la muestra en la ciudad es reducida (173 encuestados de 5 a 14 años en la Encuesta de Salud de la Comunidad Valenciana de 2016), las estimaciones obtenidas tienen que tomarse con cautela. El porcentaje de personas con peso insuficiente se calcula respecto al total de personas de 5 a 14 años en que consta el peso y la altura.
-DATA_COMP: >-
-  Porcentaje de personas de 5 a 14 años de edad con peso insuficiente respecto a la población de 5 a 14 años de edad.
-DATA_VALIDATION: >-
-
-ADJUSTMENT: >-
-
-IMPUTATION: >-
-
-REG_AGG: >-
-
-DOC_METHOD: >-
-
-QUALITY_MGMNT: >-
-
-QUALITY_ASSURE: >-
-
-QUALITY_ASSMNT: >-
-
-COVERAGE: >-
-
-COMPARABILITY: >-
-
-OTHER_DOC: >-

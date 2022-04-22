@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Pressupost municipal destinat a Educació per al desenvolupament ODS4
+graph_title: Pressupost municipal destinat a Educació per al Desenvolupament i Ciutadania
+  Global relacionat amb l'ODS 4
 graph_titles: []
 graph_type: bar
-indicator_name: Pressupost municipal destinat a Educació per al desenvolupament ODS4
+indicator_name: Pressupost municipal destinat a Educació per al Desenvolupament i
+  Ciutadania Global relacionat amb l'ODS 4
 indicator_number: '4.c.2'
 national_geographical_coverage: València
 page_content: ''
