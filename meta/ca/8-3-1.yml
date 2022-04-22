@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-3-title
 SDG_INDICATOR: >-
-  Població amb contracte laboral temporal
+  Treballadors afiliats al règim general amb contracte laboral temporal
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones amb contracte laboral temporal.
+  Percentatge d'afiliacions al règim general de la Seguretat Social amb contracte laboral temporal respecte al total d'afiliacions a aqueix règim.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+   
+  Explotació estadística Estadística de treballadors  afiliats a la Seguretat Social. Institut Valencià d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +51,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf). 
+  L'Estadística de treballadors afiliats a la Seguretat Social té com a objectiu oferir informació sobre treballadors afiliats al sistema de la Seguretat Social a la Comunitat Valenciana, a partir de l'explotació estadística dels comptes de cotització i afiliacions a la Seguretat Social realitzada per l'Institut Valencià d'Estadística. 
+  Els treballadors afiliats són treballadors en alta laboral i situacions assimilades (incapacitat laboral, suspensió per regulació d'ocupació, desocupació parcial,...). Ha d'indicar-se que el nombre de treballadors afiliats no es correspon necessàriament amb el de treballadors, sinó amb el de situacions que generen obligació de cotitzar, per la qual cosa una mateixa persona es comptabilitza tantes vegades com situacions de cotització tinga, ja siga per tindre diverses activitats en un mateix règim o en varis.  El tipus de contracte laboral identifica la modalitat contractual que vincula al treballador per compte d'altre i al demandant d’ocupació. Les modalitats principals es recullen en l'Estatut  dels  Treballadors, i s'han classificat en contractes indefinits, contractes temporals i altres tipus de contractes. Per als treballadors per compte d'altri es considera el domicili del compte de cotització a la qual estan associats. 
+  L'estadística de tipus de contracte únicament inclou les afiliacions al Règim General de la Seguretat Social, per la qual cosa no inclou el Sistema Especial Agrari, el Sistema Especial d'Empleats  de la Llar, el Règim  Especial de Treballadors Autònoms ni el Règim Especial de la Mar. 
 DATA_COMP: >-
-  Quocient entre el total de persones ocupades amb contracte laboral temporal i el total de persones ocupades amb contracte laboral l'últim dia del mes de desembre de l'any de referència.
+  Quocient entre el número mig anual d'afiliacions al règim general de la Seguretat Social amb contracte de tipus temporal entre el número mig anual d'afiliacions al règim general de la Seguretat Social en comptes de cotització amb domicili a la ciutat de València per a l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

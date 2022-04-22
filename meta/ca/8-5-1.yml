@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de població desocupada en el municipi.
+  Percentatge de població parada en el municipi respecte a la població en situació d'activitat.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
@@ -62,9 +62,7 @@ REC_USE_LIM: >-
    
   Documentació metodològica sobre l'Enquesta de Població Activa de l'INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  Mitjana aritmètica de la taxa d'atur de la població parada resident a la ciutat de València per als quatre trimestres de l'any de referència. 
-
-  Per a cada trimestre la taxa d'atur s'ha calculat com el quocient de la població de 16 o més anys que es troba en situació de desocupació entre la població activa.
+  Mitjana aritmètica de la taxa d'atur de la població parada resident a la ciutat de València per als quatre trimestres de l'any de referència. Per a cada trimestre la taxa d'atur s'ha calculat com el quocient de la població de 16 o més anys que es troba en situació de desocupació entre la població activa.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

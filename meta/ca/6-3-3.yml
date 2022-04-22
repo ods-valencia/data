@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.6-3-title
 SDG_INDICATOR: >-
-  Percentatge de reducció de DBO5
+  Reducció de DBO5
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -34,6 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Cicle Integral de l'Aigua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-

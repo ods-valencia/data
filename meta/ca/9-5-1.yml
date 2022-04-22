@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de patents sol·licitades per persones empadronades en el municipi de València.
+  Patents sol·licitades per residents a València.
 UNIT_MEASURE: >-
   Patents
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  2103-Censo de actividades econo´micas de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  2103-Cens d'Activitats Econòmiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,7 +52,6 @@ REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
    
   En les sol·licituds de propietat industrial, s'han tingut en compte aquelles en les quals el municipi de residència del primer sol·licitant és la ciutat de València.
-   
    
   Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
 DATA_COMP: >-

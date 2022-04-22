@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-5-title
 SDG_INDICATOR: >-
-  Patents presentades per la Universitat Politècnica de València (UPV)
+  Patents sol·licitades per la Universitat Politècnica de València (UPV)
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  2103-Censo de actividades econo´micas de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  2103-Cens d'Activitats Econòmiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-

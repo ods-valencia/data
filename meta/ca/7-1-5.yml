@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.7-1-title
 SDG_INDICATOR: >-
-  Punts d'enllumenat públic
+  Punts d'enllumenament públic
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Total de punts d'enllumenat públic en el municipi.
+  Total de punts d'enllumenament públic en el municipi.
 UNIT_MEASURE: >-
-  Punts d'enllumenat
+  Punts d'enllumenament
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Font Servei d'Enllumenat i Eficiència Energètica.
 COLL_METHOD: >-
 
 FREQ_COLL: >-

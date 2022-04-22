@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.6-3-title
 SDG_INDICATOR: >-
-  Percentatge de reducció de DQO
+  Reducció de DQO
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Cicle Integral de l'Aigua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,7 +52,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
    
-  Tractament terciari és el procés utilitzat per a eliminar els productes químics com el fòsfor i nitrogen. Aquest tractament de depuració té per objecte higienitzar i adequar la aigua per al seu consum urbà i per a les aplicacions industrials que requerisquen de la màxima puresa de l'aigua. També es coneix com a reducció del DQO, nomenclatura que representa la quantitat d'oxigen necessari per a oxidar la matèria orgànica per mitjà de dicromat en una solució àcida i convertir-la en CO2 i aigua.
+  Tractament terciari és el procés utilitzat per a eliminar els productes químics com el fòsfor i nitrogen. Aquest tractament de depuració té per objecte higienitzar i adequar l'aigua per al seu consum urbà i per a les aplicacions industrials que requerisquen de la màxima puresa de l'aigua. També es coneix com a reducció del DQO, nomenclatura que representa la quantitat d'oxigen necessari per a oxidar la matèria orgànica per mitjà de dicromat en una solució àcida i convertir-la en CO2 i aigua.
 DATA_COMP: >-
   Quocient de la divisió del volum d'aigües residuals que són objecte de tractament terciari entre el volum total d'aigües residuals produïdes a la ciutat l'any de referència.
 DATA_VALIDATION: >-

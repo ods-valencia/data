@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-10-title
 SDG_INDICATOR: >-
-  Sucursals bancàries per cada 1.000 habitants > 15 anys
+  Sucursals bancàries per cada 1.000 habitants de 16 o més anys
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Relació entre les sucursals bancàries del municipi de València i la població empadronada major de 15 anys en aquest.
+  Relació entre el nombre de sucursals de bancs comercials del municipi de València i la població empadronada de 16 o més anys d'edat.
 UNIT_MEASURE: >-
   Tant per 1.000
 CLASS_SYSTEM: >-
@@ -35,7 +35,8 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
    
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022. 
+  Explotació estadística Registre d'Oficines d'Entitats Supervisades. Banc d'Espanya.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,7 +56,7 @@ REC_USE_LIM: >-
    
   Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Quocient entre el nombre de sucursals bancàries en el municipi de València l'any de referència i la població total major de 15 anys del municipi.
+  Quocient entre el nombre de sucursals bancàries en el municipi de València a 1 de gener de l'any de referència i la població total de 16 o més anys d'edat empadronada a la ciutat a 1 de gener de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

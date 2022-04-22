@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-3-title
 SDG_INDICATOR: >-
-  Població afiliada en règim autònom
+  Treballadors afiliats en règim autònom
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones afiliades al régímen autònom.
+  Percentatge d'afiliacions  al règim autònom respecte al total d'afiliacions registrades.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Explotació estadística Estadística de treballadors  afiliats a la Seguretat Social (Institut Valencià d'Estadística).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,7 +56,7 @@ REC_USE_LIM: >-
    
   Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
 DATA_COMP: >-
-  Quocient del nombre de treballadors afiliats al règim d'autònoms entre el total de treballadors afiliats a la Seguretat Social l'últim dia del mes de desembre de l'any de referència.
+  Quocient entre el número mig anual d'afiliacions al règim autònom de la Seguretat Social entre el número mig anual d'afiliacions a la Seguretat Social amb domicili a la ciutat de València per a l'any de referència. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
