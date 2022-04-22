@@ -49,7 +49,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'Índex de Transparència dels Ajuntaments d'Espanya (https://transparencia.org.es/wp-content/uploads/2017/02/metodologia_ita-2017.pdf).
+  Documentació metodològica sobre l'Índex de Transparència dels Ajuntaments d'Espanya: [Índex Transparència](https://transparencia.org.es/wp-content/uploads/2017/02/metodologia_ita-2017.pdf).
   En la pàgina web de Transparency International Espanya es poden consultar els canvis metodològics que s'han dut a terme al llarg del temps.
 DATA_COMP: >-
   Per al seu càlcul s'utilitzen els valors de huitanta indicadors agrupats en sis àrees de transparència: a) Transparència activa i informació sobre la corporació municipal; b) Pàgina web, relacions amb els ciutadans i la societat, i participació ciutadana; c) Transparència economicofinancera; d) Transparència en les contractacions, convenis, subvencions i costos dels serveis; e) Transparència en matèries d'urbanisme, obres públiques i medi ambient; f) Dret d'accés a la informació. Cadascun d'aquests indicadors rep una valoració de 0 (no es compleix), 0,5 (es compleix parcialment) o 1 (es compleix). El valor de l'índex de transparència global s'obté sumant les valoracions dels 80 indicadors i transformant el resultat a una escala 0-100 (això és, multiplicant la suma de valoracions per 100 i dividint pel nombre d'indicadors).

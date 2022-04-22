@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-a-title
 SDG_INDICATOR: >-
-   Pressupost municipal  destinat a  Acció  Humanitàries ODS16
+  Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat amb l'ODS 16
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-   Pressupost municipal  destinat a  Acció  Humanitàries ODS16.
+  Pressupost municipal executat del programa d'Acció Humanitària i d'Emergència relacionat amb l'Objectiu de Desenvolupament Sostenible ODS 16 (Promoure societats pacífiques i inclusives).
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Servei de  Cooperació Municipal.  Ajuntament d'Estadística.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Pressupost Municipal de l'Ajuntament de València (Servei de Cooperació al Desenvolupament i Migració).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +50,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma  part del  Panell  ODS de l' Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/).  També forma  part del  Panell  ODS del  grup  IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htmes/index.htm). 
+  El Programa d'Acció Humanitària i d'Emergència té com a objectiu subvencionar l'activitat d'entitats que desenvolupen programes d'ajudes humanitàries d'emergència social en cas de catàstrofe. Aquest programa figura en el Pla Estratègic de Subvencions aprovat per la Junta de Govern Local, té un termini anual i es finança amb fons municipals.
 DATA_COMP: >-
   
+
+  El pressupost executat total (en euros) del programa d'Acció Humanitària i d'Emergència de l'Ajuntament de València relacionat amb l’ODS 16 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

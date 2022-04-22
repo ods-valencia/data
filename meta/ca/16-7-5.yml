@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-7-title
 SDG_INDICATOR: >-
-  Pressupost per a participació ciutadana per càpita
+  Despesa en participació ciutadana per habitant
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -49,7 +49,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Les despeses pressupostàries són els que procedeixen de la liquidació de la despesa dels capítols vinculats a comptes dels grups 6 i 7 del Pla General de Comptabilitat Pública adaptat a l'Administració local (PGCPAL). Respecte a les despeses no pressupostàries s'han prorratejat seguint la distribució entre grups de programes de les despeses pressupostàries, conforme a l'indicat en la regulació de la nota 19 de la memòria recollida en la ICAL, que estableix que, en absència de millor criteri, es distribuiran “en la proporció que, sobre la despesa total que constituïsca al seu torn despesa pressupostària, supose cadascun dels grups de programes”. La població utilitzada en el denominador de l'indicador és la població oficinal publicada per l'INE del municipi a 1 de gener de cada any.
+  Les despeses pressupostàries són les que procedeixen de la liquidació de la despesa dels capítols vinculats a comptes dels grups 6 i 7 del Pla General de Comptabilitat Pública adaptat a l'Administració local (PGCPAL). Respecte a les despeses no pressupostàries s'han prorratejat seguint la distribució entre grups de programes de les despeses pressupostàries, conforme a l'indicat en la regulació de la nota 19 de la memòria recollida en la ICAL, que estableix que, en absència de millor criteri, es distribuiran “en la proporció que, sobre la despesa total que constituïsca al seu torn despesa pressupostària, supose cadascun dels grups de programes”. La població utilitzada en el denominador de l'indicador és la població oficinal publicada per l'INE del municipi a 1 de gener de cada any.
+   
+  Documentació metodològica sobre Indicadors del Compte General de les Entitats Locals: [Rendició de Comptes](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
   Quocient de les despeses (pressupostaris o no pressupostaris) associats a l'activitat de participació ciutadana segons el model d'activitats estructurat definit en la Instrucció de Comptabilitat per a l'Administració Local (ICAL) entre la població a 1 de gener d'aquest exercici.
 DATA_VALIDATION: >-

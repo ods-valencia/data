@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.17-1-title
 SDG_INDICATOR: >-
-  Pressupost municipal destinat a Ajuda a Paises en Desenvolupament ODS 5
+  Pressupost municipal destinat a ODS5
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Estimació de les transferències municipals d'Ajuda Oficial al Desenvolupament per als ODS 5.
+  Pressupost municipal d'Ajuda Oficial al Desenvolupament relacionat amb l'Objectiu de Desenvolupament Sostenible (ODS) número 5.
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Servei de Cooperació Municipal. Ajuntament d'Estadística.
+  Servei de Cooperació al Desenvolupament i Migració. Pressupost Municipal.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,10 +49,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
-  L'indicador inclou el pressupost destinat a Cooperació, Educació per al desenvolupament i Accions Humanitàries.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  L'indicador inclou les subvencions associades al Programa de Cooperació Internacional per al Desenvolupament, al programa d'Educació per al Desenvolupament i la Ciutadania Global, al programa d'Accions Humanitàries i d'Emergències, així com tots aquells convenis del Servei de Cooperació al Desenvolupament i Migració les actuacions dels quals estiguen relacionades amb els objectius de desenvolupament sostenible.
 DATA_COMP: >-
-  Suma de les transferències municipals a través de convenis amb entitats no governamentals, mitjançant execució directa o mitjançant convocatòries d'Ajuda al Desenvolupament convocades per l'Ajuntament. Cadascuna de les accions pot afectar més d'un ODS. Per als convenis que afecten més d'un ODS s'ha repartit la quantitat total de manera proporcional entre els ODS als quals implica.
+  El pressupost executat total (en euros) d'Ajuda Oficial al Desenvolupament de l'Ajuntament de València relacionat amb l’ODS 5 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

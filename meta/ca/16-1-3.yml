@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Baròmetre d'Opinió Ciutadana de la ciutat de València.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Sisena Ona Baròmetre d'Opinió Ciutadana: Convivència i Turisme. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,10 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre la sisena ona del Baròmetre d'Opinió Ciutadana de la ciutat de València:
-  https://www.valencia.es/estadistica/Barometro/Metodologia6.pdf
+  Documentació metodològica sobre la 6 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 6](https://www.valencia.es/estadistica/barometro/metodologia6.pdf).
    
-  A tots els enquestats se'ls demana que valoren el nivell d'altruisme de la gent, en una escala del 0 al 10, on 0 significa que la majoria de la gent només mira per si mateixa i 10 que la majoria de la gent procura ajudar als altres. A partir de les respostes obtingudes en els enquestats que valoren aquesta qüestió, i tenint en compte els factors d'elevació associats als individus enquestats, s'estima la valoració mitjana de les persones de 18 o més anys d'edat respecte al grau d'altruisme de la gent.
+  A tots els enquestats se'ls demana que valoren la seguretat del seu barri de residència, en una escala del 0 al 10, on 0 és molt insegur i 10 és molt segur. A partir de les respostes obtingudes en els enquestats que valoren el grau de seguretat, i tenint en compte els factors d'elevació associats als individus enquestats, s'estima la valoració mitjana de les persones de 18 o més anys d'edat respecte al grau de seguretat del seu barri de residència.
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Setembre i Octubre de 2018, publicant-se el Baròmetre el mes de desembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Setembre/Octubre 2017 - Setembre/Octubre 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
 DATA_COMP: >-
   Mitjana aritmètica de les valoracions de la població de 18 i més anys sobre el nivell d'altruisme de la gent en una escala 0-10, on 0 significa que la majoria de la gent només mira per si mateixa i 10 que la majoria de la gent procura ajudar als altres.
 DATA_VALIDATION: >-

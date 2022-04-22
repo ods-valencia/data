@@ -49,11 +49,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/), que ofereix informació per a àmbits territorials superiors. També forma part del Panell ODS de la Comissió Europea definit en European Handbook for SDG Voluntary Local Reviews, del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del panell d'indicadors locals de Idencity.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofereix informació per a àmbits territorials superiors. També forma part del Panell ODS de la Comissió Europea definit en European Handbook for SDG Voluntary Local Reviews, del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS del grup IDENCITY. 
    
   Documentació metodològica sobre el Balanç Trimestral de Criminalitat: [Balanç Criminalitat](https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:b36b25ac-491b-49a6-be33-9cdcb168f0c9/01_Metodolog%C3%ADA_Balances_criminalitat.pdf).
    
-  Documentació metodològica sobre l'Explotació estadística del Padró Municipal d'Habitants de València: [Explotació Estadística Padró](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Documentació metodològica sobre l'Explotació estadística del Padró Municipal d'Habitants de València: [Explotació Estadística Padró](https://www.valencia.es/estadistica/Padron/2020/Padron2020Cast.pdf).
    
   En aquest indicador no s'inclouen els homicidis dolosos i assassinats en grau de temptativa. La població a meitat de l'any t s'ha calculat com a semisuma de les poblacions a 1 de gener de l'any t i de l'any t+1. Les dades de l'últim any són provisionals, estan pendents de consolidar.
 DATA_COMP: >-

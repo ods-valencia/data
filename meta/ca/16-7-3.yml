@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-7-title
 SDG_INDICATOR: >-
-  Percentatge de participació en les eleccions municipals 
+  Participació eleccions municipals
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -49,7 +49,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Comissió Europea definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
    
   El cens electoral conté la inscripció dels qui reuneixen els requisits per a ser elector i no es troben privats, definitiva o temporalment, del dret de sufragi. Per a les eleccions municipals està compost pel cens electoral d'espanyols residents a Espanya (CER), el cens dels electors residents-absents que viuen a l'estranger (CERA) i el cens electoral d'estrangers residents a Espanya (CERE) que poden votar en les eleccions municipals. Les eleccions municipals de 2019 van celebrar el 26/5/2019; les de 2015 es van celebrar el 24/5/2015; les de 2011 es van celebrar el 22/5/2011.
 DATA_COMP: >-
