@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de quilòmetres d'infraestructures lineals en zones amb el
-  risc d'inundació
+graph_title: Percentatge d'infraestructures lineals amb el risc d'inundació
 graph_titles: []
 graph_type: bar
-indicator_name: Percentatge de quilòmetres d'infraestructures lineals en zones amb
-  el risc d'inundació
+indicator_name: Percentatge d'infraestructures lineals amb el risc d'inundació
 indicator_number: '15.3.12'
 national_geographical_coverage: València
 page_content: ''

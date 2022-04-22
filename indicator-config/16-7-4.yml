@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentatge de població adulta que considera que els polítics/as es preocupen
-  per la gent
+graph_title: Població adulta que considera que els polítics/as es preocupen per la
+  gent
 graph_titles: []
-graph_type: line
-indicator_name: Percentatge de població adulta que considera que els polítics/as es
-  preocupen per la gent
+graph_type: bar
+indicator_name: Població adulta que considera que els polítics/as es preocupen per
+  la gent
 indicator_number: '16.7.4'
 national_geographical_coverage: València
 page_content: ''

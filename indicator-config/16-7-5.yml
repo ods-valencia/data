@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Pressupost per a participació ciutadana per càpita
+graph_title: Despesa en participació ciutadana per habitant
 graph_titles: []
 graph_type: line
-indicator_name: Pressupost per a participació ciutadana per càpita
+indicator_name: Despesa en participació ciutadana per habitant
 indicator_number: '16.7.5'
 national_geographical_coverage: València
 page_content: ''

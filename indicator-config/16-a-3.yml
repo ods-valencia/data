@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: ' Pressupost municipal  destinat a  Acció  Humanitàries ODS16'
+graph_title: Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat
+  amb l'ODS 16
 graph_titles: []
 graph_type: bar
-indicator_name: ' Pressupost municipal  destinat a  Acció  Humanitàries ODS16'
+indicator_name: Pressupost municipal destinat a Acció Humanitària i d'Emergència relacionat
+  amb l'ODS 16
 indicator_number: '16.a.3'
 national_geographical_coverage: València
 page_content: ''

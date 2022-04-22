@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Població que considera que l'afecta el calfament global
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Població que considera que l'afecta el calfament global
 indicator_number: '13.3.2'
 national_geographical_coverage: València

@@ -17,12 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Diferencia temperatura mitjana anual respecte al valor mitjà del període
-  1991-2010
+graph_title: Diferencia temperatura respecte a la mitjana del període 1981-2010
 graph_titles: []
 graph_type: line
-indicator_name: Diferencia temperatura mitjana anual respecte al valor mitjà del període
-  1991-2010
+indicator_name: Diferencia temperatura respecte a la mitjana del període 1981-2010
 indicator_number: '15.3.4'
 national_geographical_coverage: València
 page_content: ''
