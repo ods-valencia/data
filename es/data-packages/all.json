@@ -5375,7 +5375,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "string",
+            "type": "number",
             "title": "GeoCode"
           },
           {
@@ -8818,7 +8818,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "string",
+            "type": "number",
             "title": "GeoCode"
           },
           {

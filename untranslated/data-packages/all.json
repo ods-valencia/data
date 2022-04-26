@@ -4906,7 +4906,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",
@@ -8045,7 +8045,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",

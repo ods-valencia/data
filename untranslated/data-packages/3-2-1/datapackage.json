@@ -23,7 +23,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",
