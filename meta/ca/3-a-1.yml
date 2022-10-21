@@ -50,8 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  
    
+  
   La informació analitzada en aquest indicador recull la situació respecte a l'hàbit tabàquic de la persona enquestada en el moment de la pregunta. Està recollida en la pregunta P46 del qüestionari d'adults (població de 15 i més anys) de l'Enquesta de Salut de la Comunitat Valenciana 2016 i P35 del qüestionari d'adults (població de 16 i més anys) de l'Enquesta de Salut de la Comunitat Valenciana 2010.
 DATA_COMP: >-
   Quocient del nombre de persones residents a la ciutat de 15 o més anys d'edat que responen que en el moment de l'entrevista fumen diàriament respecte al total de persones residents a la ciutat que contesten a la qüestió.

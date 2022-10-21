@@ -51,10 +51,8 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-  El Sistema de Notificació Obligatòria és un sistema de la Conselleria de Sanitat Universal i Salut Pública que permet recollir en temps real les dades de les Malalties de Declaració Obligatòria (EDO), dels brots, i de les alertes, la seua anàlisi i la difusió de la informació als usuaris de manera automatitzada, dins del territori de la Comunitat Valenciana. La notificació obligatòria es refereix a casos nous de qualsevol de les malalties de declaració obligatòria apareguts. La notificació es realitza sota sospita clínica per qualsevol metge, del sector públic o privat, que es troben o exercisquen la seua professió en l'àmbit territorial de la Comunitat Valenciana.  La població de la ciutat a meitat de cada any t s'ha obtingut com a semisuma de les poblacions registrades en el Padró Municipal d'Habitants de l'Ajuntament de València a 1 de gener de l'any t i de l'any t+1.
+  
+  El Sistema de Notificació Obligatòria és un sistema de la Conselleria de Sanitat Universal i Salut Pública que permet recollir en temps real les dades de les Malalties de Declaració Obligatòria (EDO), dels brots, i de les alertes, la seua anàlisi i la difusió de la informació als usuaris de manera automatitzada, dins del territori de la Comunitat Valenciana. La notificació obligatòria es refereix a casos nous de qualsevol de les malalties de declaració obligatòria aparegudes. La notificació es realitza sota sospita clínica per qualsevol metge, del sector públic o privat, que es troben o exercisquen la seua professió en l'àmbit territorial de la Comunitat Valenciana.  La població de la ciutat a meitat de cada any t s'ha obtingut com a semisuma de les poblacions registrades en el Padró Municipal d'Habitants de l'Ajuntament de València a 1 de gener de l'any t i de l'any t+1.
 DATA_COMP: >-
   Quocient del nombre de casos notificats d'infecció pel Virus de la Immunodeficiència Humana (VIH) / Síndrome d'ImmunoDeficiència Adquirida (SIDA) (codi B20, Z21 de la CIE-10) de residents a la ciutat durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència. 
 DATA_VALIDATION: >-

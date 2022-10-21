@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Red de Vigilancia Microbiológica de la Comunidad Valenciana. Dirección General de Salud Pública a la Oficina de Estadística del Ayuntamiento de València.
+  Red de Vigilancia Microbiológica de la Comunidad Valenciana. Dirección General de Salud Pública a la Oficina de Estadística del Ayuntamiento de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,10 +52,7 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-   
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-   El Sistema de Notificación Obligatoria es un sistema de la Conselleria de Sanidad Universal y Salud Pública que permite recoger en tiempo real los datos de las Enfermedades de Declaración Obligatoria (EDO), de los brotes, y de las alertas, su análisis y la difusión de la información a los usuarios de manera automatizada, dentro del territorio de la Comunidad Valenciana. La notificación obligatoria se refiere a casos nuevos de cualquier de las enfermedades de declaración obligatoria aparecidos. La notificación se realiza bajo sospecha clínica por cualquier médico, del sector público o privado, que se encuentran o ejerzan su profesión en el ámbito territorial de la Comunidad Valenciana.  La población de la ciudad a mitad de cada año t se ha obtenido como semisuma de las poblaciones registradas en el Padrón Municipal de Habitantes del Ayuntamiento de València a 1 de enero del año t y del año t+1.
+  El Sistema de Notificación Obligatoria es un sistema de la Conselleria de Sanidad Universal y Salud Pública que permite recoger en tiempo real los datos de las Enfermedades de Declaración Obligatoria (EDO), de los brotes, y de las alertas, su análisis y la difusión de la información a los usuarios de manera automatizada, dentro del territorio de la Comunidad Valenciana. La notificación obligatoria se refiere a casos nuevos de cualquiera de las enfermedades de declaración obligatoria aparecidas. La notificación se realiza bajo sospecha clínica por cualquier médico, del sector público o privado, que se encuentren o ejerzan su profesión en el ámbito territorial de la Comunidad Valenciana.  La población de la ciudad a mitad de cada año t se ha obtenido como semisuma de las poblaciones registradas en el Padrón Municipal de Habitantes del Ayuntamiento de València a 1 de enero del año t y del año t+1.
 DATA_COMP: >-
   Cociente del número de casos notificados de paludismo (malaria) (código B50-B54 de la CIE-10) de residentes en la ciudad durante el año de referencia entre el número de residentes en la ciudad calculado a mitad del año de referencia. 
 DATA_VALIDATION: >-

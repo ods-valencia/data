@@ -52,12 +52,18 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
    
+  
   Documentació metodològica sobre Taules de mortalitat i Esperança de Vida dels residents a València: [Mortalitat i Esperanza](https://www.valencia.es/estadistica/CatPub/files/Mortalidad/Estad%C3%ADstiquesMortalitat2016_2019.pdf).
+  
   L'esperança de vida en nàixer assignada a l'any t fa referència al patró de mortalitat associat al període de quatre anys comprés entre l'1 de gener de l'any t-3 i el 31 de desembre de l'any t.
+  
    
+  
   Per al càlcul de l'esperança de vida de la ciutat s'han utilitzat taules de mortalitat d'edats simples per a cada sexe. Per al càlcul de l'esperança de vida en els districtes s'han utilitzat taules de mortalitat abreujades en intervals d'edat de 5 anys, excepte el de menors d'1 any i el d'1 a 4 anys, aplicant la metodologia proposada per Chiang per al càlcul d'estimacions en poblacions xicotetes.
-  L'ús de les defuncions registrades en el Padró pot tindre un lleuger efecte d'amplificació de les esperances de vida estimades, ja que el registre de defuncions del Padró Municipal presenta un subregistre respecte de les dades del Moviment Natural de la Població d'aproximadament el 7% (període 2010-20).
+  
+  L'ús de les defuncions registrades en el Padró pot tindre un lleuger efecte d'amplificació de les esperances de vida estimades, ja que el registre de defuncions del Padró Municipal presenta un subregistre respecte de les dades del Moviment Natural de la Població d'aproximadament el 7% (període 2010-21).
 DATA_COMP: >-
   S'obté a partir de l'ús de taules de mortalitat per edat i sexe (completes per a la ciutat i abreujades per als districtes), a partir de les quals s'estimen les taxes específiques de mortalitat i s'apliquen a una cohort fictícia de nascuts per a analitzar l'efecte de la mortalitat.
 DATA_VALIDATION: >-

@@ -34,8 +34,6 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año.
   Explotació estadística Estadística de Naixements del Moviment Natural de la Població de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
@@ -52,13 +50,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  
    
+  
   Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Quocient del nombre de naixements de mare de 10 a 14 anys d'edat resident a la ciutat durant l'any de referència entre el nombre de dones de 10 a 14 anys d'edat residents a la ciutat calculat a meitat de l'any de referència.
+  Quocient del nombre de naixements de mare de 10 a 14 anys d'edat residents a la ciutat durant l'any de referència entre el nombre de dones de 10 a 14 anys d'edat residents a la ciutat calculat a meitat de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
