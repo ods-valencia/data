@@ -51,10 +51,14 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. 
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors. 
+  
    
+  
   Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
+  
    
+  
   Documentació metodològica sobre l'Estadística de Naixements a València: [Estadística Naixements](https://www.ine.es/metodologia/t20/t2030301.pdf).
 DATA_COMP: >-
   Quocient del nombre de defuncions de dones residents a la ciutat de València per causes relacionades amb l'embaràs, part o puerperi (codis O00-O99 de la CIE-10) durant l'any de referència entre el nombre de naixements de mares residents a la ciutat durant l'any de referència.

@@ -34,8 +34,6 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
   Explotació estadística Registre d'Establiments i Serveis Sanitaris d'Atenció Farmacèutica de la Comunitat Valenciana.
 COLL_METHOD: >-
 
@@ -52,8 +50,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf). 
-  Les oficines de farmàcia són establiments sanitaris privats d'interés públic, subjectes a la planificació sanitària que establisquen les comunitats autònomes, en les quals el farmacèutic titular-propietari d'aquelles, assistit en el seu cas d'ajudants o auxiliars.
+  Les oficines de farmàcia són establiments sanitaris privats d'interés públic, subjectes a la planificació sanitària que establisquen les comunitats autònomes.
 DATA_COMP: >-
   Quocient del nombre d'oficines de farmàcia a 1 de gener de l'any de referència situades a la ciutat entre la població de la ciutat a 1 de gener de l'any de referència.
 DATA_VALIDATION: >-

@@ -34,8 +34,6 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
   Explotació estadística Catàleg Nacional d'Hospitals del Ministeri de Sanitat.
 COLL_METHOD: >-
 
@@ -52,8 +50,6 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
   Hospitals en departaments de salut que donen servei a població de la ciutat: Departament de Salut de València-Clínic-Malva-rosa (Hospital Clínic Universitari i Hospital de la Malva-rosa), Departament de Salut de València-Arnau de Vilanova-Llíria (Hospital Doctor Moliner, Hospital Arnau de Vilanova i Hospital de Llíria), Departament de Salut de València-La Fe (Hospital General Universitari la Fe), Departament de Salut de València-Hospital General (Hospital General), Departament de Salut València-Doctor Peset (Hospital Doctor Peset i Hospital Pare Jofré).  Per a cada departament s'ha estimat el nombre de llits instal·lats assignats a població de la ciutat com la suma de llits instal·lats als hospitals del departament multiplicat per la proporció de població resident en el departament que resideix en el municipi de València. El nombre de llits instal·lats que donen servei a la ciutat s'ha obtingut com a suma dels llits assignats per a cada departament.
 DATA_COMP: >-
   Quocient del nombre de llits instal·lats a 31 de desembre de l'any anterior al de referència en hospitals del sistema públic de salut dels departaments sanitaris que donen servei a la ciutat que li corresponen proporcionalment segons la població de la ciutat assignada entre la població de la ciutat a 1 de gener de l'any de referència.

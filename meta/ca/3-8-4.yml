@@ -34,8 +34,6 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
   Explotació estadística del Registre Autonòmic de Centres, Serveis i Establiments Sanitaris.
 COLL_METHOD: >-
 
@@ -53,13 +51,15 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Accés al Registre Autonòmic de Centres, Serveis i Establiments Sanitaris: [Establiments Sanitaris](http://www.san.gva.es/web/registros/centros-sanitarios).
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
+  
   S'han inclòs tots els centres sanitaris que apareixen amb Tipus de centre Clíniques dentals. Per tant, no inclou altres centres classificats amb altres tipus en els quals es desenvolupen activitats d'odontologia / estomatologia, com poden ser Hospitals, Centres Polivalents o Serveis sanitaris integrats en una organització no sanitària.  
+  
    
+  
    
+  
    
+  
    
 DATA_COMP: >-
   Quocient del nombre de clíniques dentals a 1 de gener de l'any de referència situades a la ciutat entre la població de la ciutat a 1 de gener de l'any de referència.

@@ -34,8 +34,6 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València
-  a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,12 +49,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  
    
+  
   Documentació metodològica sobre l'Estadística de Mortalitat segons Causa a València: [Estadística Mortalitat](https://www.valencia.es/estadistica/CatPub/files/Metodologia_MortalidadSegunCausa.pdf).
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
+  
   Per a les taxes específiques per sexe (per edat) es consideren les defuncions i residents d'aquest sexe (edat). En la categorització de l'edat s'ha considerat la delimitació de mortalitat prematura de l'OMS.
 DATA_COMP: >-
   Quocient del nombre de defuncions de residents a la ciutat a causa de causes relacionades amb tumors del sistema respiratori (codis C30-C39, C45.0.2 de la CIE-10) durant l'any de referència entre el nombre de residents a la ciutat calculat a meitat de l'any de referència.
