@@ -35,9 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Estadística de partos del Movimiento Natural de la Población del Instituto Nacional de Estadística.
-   
-   Explotación estadística Estadística de Defunciones del Movimiento Natural de la Población del Instituto Nacional de Estadística.
+  Explotación estadística Estadística de Defunciones del Movimiento Natural de la Población del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,11 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Documentación metodológica sobre la Estadística de Defunciones en València: [Estadística Defunciones](https://www.ine.es/metodologia/t20/t2030301.pdf).
+  Documentación metodológica sobre la Estadística de Defunciones en València: [Estadística Defunciones](https://www.ine.es/metodologia/t20/t2030301.pdf).
    
-   Documentación metodológica sobre la Estadística de Nacimientos en València: [Estadística Nacimientos](https://www.ine.es/metodologia/t20/t2030301.pdf).
-   
-   Para las tasas específicas por sexo se consideran las defunciones y nacimientos de este sexo.  La información por distrito proviene de la explotación estadística del fichero de altas y bajas en el Padrón Municipal de Habitantes de la ciudad de València durante el año de referencia. Los nacimientos corresponden a altas por nacimiento registradas en el Padrón Municipal durante el año de referencia. Las defunciones corresponden a bajas por defunción registradas en el Padrón Municipal durante el año de referencia. El registro de nacimientos y defunciones del Padrón Municipal presenta un subregistro respecto de los datos del Movimiento Natural de la Población de aproximadamente el 4% en el caso de los nacimientos y del 7% para las defunciones. Para el caso de las defunciones de menores de 1 años, el subregistro se eleva al 20%. Estas estimaciones se han obtenido para el periodo 2010-20.
+  Para las tasas específicas por sexo se consideran las defunciones y nacimientos de este sexo.  La información por distrito proviene de la explotación estadística del fichero de altas y bajas en el Padrón Municipal de Habitantes de la ciudad de València durante el año de referencia. Los nacimientos corresponden a altas por nacimiento registradas en el Padrón Municipal durante el año de referencia. Las defunciones corresponden a bajas por defunción registradas en el Padrón Municipal durante el año de referencia. El registro de nacimientos y defunciones del Padrón Municipal presenta un subregistro respecto de los datos del Movimiento Natural de la Población de aproximadamente el 4% en el caso de los nacimientos y del 7% para las defunciones. Para el caso de las defunciones de menores de 1 año, el subregistro se eleva al 20%. Estas estimaciones se han obtenido para el periodo 2010-21.
 DATA_COMP: >-
   Cociente del número de defunciones de menores de 1 año residentes en la ciudad durante el año de referencia entre el número de nacimientos de madres residentes en la ciudad durante el año de referencia.
 DATA_VALIDATION: >-

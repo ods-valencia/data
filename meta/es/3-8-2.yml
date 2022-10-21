@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporción del gasto anual total de las personas residentes en la ciudad que es destinado a gastos sanitarias.
+  Proporción del gasto anual total de las personas residentes en la ciudad que es destinado a gastos sanitarios.
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta de Presupuestos Familiares (EPF) del Instituto Nacional de Estadística.
+  Explotación estadística Encuesta de Presupuestos Familiares (EPF) del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Documentación metodológica sobre la Encuesta de Presupuestos Familiares del INE: [Encuesta Presupuestos Familiares](https://www.ine.es/metodologia/t25/t2530p458.pdf).
    
-   Dado que la EPF no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel de error que el asociado a ámbitos territoriales más amplios y tendrán que ser tratadas con cautela. En cualquier caso, las estimaciones facilitadas por el INE para la ciudad únicamente se ofrecen para los 12 grandes grupos de gasto (en vez de los 95 códigos de gasto para la comunidad o los 268 códigos de gasto para el total nacional), sin desglosar por ninguna variable de clasificación, lo cual reduce el impacto del anteriormente expuesto.  Desde el 2016 se utiliza la nueva clasificación europea de consumo, denominada ECOICOP (European Classification of Individual Consumption by Purpose), que presenta algunos cambios en los criterios respecto a los conceptos que se incluyen en cada parcela de gasto respecto a la clasificación anterior (COICOP/HBS). La ECOICOP está estructurada en los siguientes doce grandes grupos: 1. Alimentos y bebidas no alcohólicas; 2. Bebidas alcohólicas y tabaco; 3. Vestido y calzado; 4. Vivienda, agua, electricidad, gas y otros combustibles; 5. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar; 6. Sanidad; 7. Transporte; 8. Comunicaciones; 9. Ocio y cultura; 10. Enseñanza; 11. Restaurantes y hoteles; 12. Otros bienes y servicios.
+  Dado que la EPF no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel de error que el asociado a ámbitos territoriales más amplios y tendrán que ser tratadas con cautela. En cualquier caso, las estimaciones facilitadas por el INE para la ciudad únicamente se ofrecen para los 12 grandes grupos de gasto (en vez de los 95 códigos de gasto para la comunidad o los 268 códigos de gasto para el total nacional), sin desglosar por ninguna variable de clasificación, lo cual reduce el impacto de lo anteriormente expuesto.  Desde el 2016 se utiliza la nueva clasificación europea de consumo, denominada ECOICOP (European Classification of Individual Consumption by Purpose), que presenta algunos cambios en los criterios respecto a los conceptos que se incluyen en cada parcela de gasto respecto a la clasificación anterior (COICOP/HBS). La ECOICOP está estructurada en los siguientes doce grandes grupos: 1. Alimentos y bebidas no alcohólicas; 2. Bebidas alcohólicas y tabaco; 3. Vestido y calzado; 4. Vivienda, agua, electricidad, gas y otros combustibles; 5. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar; 6. Sanidad; 7. Transporte; 8. Comunicaciones; 9. Ocio y cultura; 10. Enseñanza; 11. Restaurantes y hoteles; 12. Otros bienes y servicios.
 DATA_COMP: >-
   Cociente del gasto anual de las personas residentes en hogares privados, viviendas familiares principales de la ciudad destinada a gastos sanitarios entre el gasto anual total durante el año de referencia. 
 DATA_VALIDATION: >-

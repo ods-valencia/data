@@ -35,10 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   0211-Características de la población de València. Padrón municipal de València
-   a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
-   
-   Explotación estadística del Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.
+  Explotación estadística del Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -56,9 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Acceso al Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios: [Establecimientos Sanitarios](http://www.san.gva.es/web/registros/centros-sanitarios).
    
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-   Se han incluido todos los centros sanitarios que aparecen con Tipos de centro Clínicas dentales. Por lo tanto, no incluye otros centros clasificados con otros tipos en los cuales se desarrollan actividades de odontología / estomatología, como pueden ser Hospitales, Centros Polivalentes o Servicios sanitarios integrados en una organización no sanitaria.  
+  Se han incluido todos los centros sanitarios que aparecen con Tipos de centro Clínicas dentales. Por lo tanto, no incluye otros centros clasificados con otros tipos en los cuales se desarrollan actividades de odontología / estomatología, como pueden ser Hospitales, Centros Polivalentes o Servicios sanitarios integrados en una organización no sanitaria.  
    
    
    

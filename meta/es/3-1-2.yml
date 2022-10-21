@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Estadística de partos del Movimiento Natural de la Población del Instituto Nacional de Estadística.
+  Explotación estadística Estadística de Partos del Movimiento Natural de la Población del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-   Documentación metodológica sobre la Estadística de Nacimientos en València: [Estadística Nacimientos](https://www.ine.es/metodologia/t20/t2030301.pdf).  La definición de parto utilizada en esta estadística coincide con el concepto medicobiològic, es decir, expulsión o extracción del claustro materno del producto de la concepción viable (incluyendo tanto los nacimientos como las muertes fetales tardías); por lo tanto, queda excluido el aborto o expulsión del feto no viable. Se considera muerte fetal tardía la defunción, antes de su completa expulsión o extracción del cuerpo de la madre, de un producto de la concepción viable. Este carácter de viabilidad es el que sirve para diferenciar las muertes fetales tardías de los abortos. El criterio utilizado para definir la viabilidad, a efectos de esta estadística, es el peso del feto muerto, considerando como muerte fetal tardía los fetos muertos con un peso igual o superior a los 500 gramos.
+  Documentación metodológica sobre la Estadística de Partos en València: [Estadística Partos](https://www.ine.es/metodologia/t20/t2030301.pdf).  La definición de parto utilizada en esta estadística coincide con el concepto medicobiològico, es decir, expulsión o extracción del claustro materno del producto de la concepción viable (incluyendo tanto los nacimientos como las muertes fetales tardías); por lo tanto, queda excluido el aborto o expulsión del feto no viable. Se considera muerte fetal tardía la defunción, antes de su completa expulsión o extracción del cuerpo de la madre, de un producto de la concepción viable. Este carácter de viabilidad es el que sirve para diferenciar las muertes fetales tardías de los abortos. El criterio utilizado para definir la viabilidad, a efectos de esta estadística, es el peso del feto muerto, considerando como muerte fetal tardía los fetos muertos con un peso igual o superior a los 500 gramos.
 DATA_COMP: >-
   Cociente del número de partos atendidos por personal sanitario especializado de mujeres residentes en la ciudad durante el año de referencia entre el número de partos de madres residentes en la ciudad en ese mismo año.
 DATA_VALIDATION: >-

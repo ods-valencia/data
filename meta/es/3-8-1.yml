@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta de Salud de la Comunidad Valenciana.
+  Explotación estadística Encuesta de Salud de la Comunidad Valenciana.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-   La información analizada en este indicador recoge las necesidades insatisfechas autoinformadas correspondientes a la propia evaluación que la persona hace sobre si necesitaba asistencia médica (para él/ella mismo/a si ha sido seleccionado/a en la encuesta de adultos o sobre su hijo/a si este/a ha sido seleccionado/a en la encuesta de menores) pero no la tuvo o no la buscó. Está recogida en la pregunta P38 del cuestionario de adultos y P35 del cuestionario de menores de la Encuesta de Salud de la Comunidad Valenciana 2016. Esta información no está recogida en la Encuesta de Salud de la Comunidad Valenciana 2010.
+  La información analizada en este indicador recoge las necesidades insatisfechas autoinformadas correspondientes a la propia evaluación que la persona hace sobre si necesitaba asistencia médica (para él/ella mismo/a si ha sido seleccionado/a en la encuesta de adultos o sobre su hijo/a si este/a ha sido seleccionado/a en la encuesta de menores) pero no la tuvo o no la buscó. Está recogida en la pregunta P38 del cuestionario de adultos y P35 del cuestionario de menores de la Encuesta de Salud de la Comunidad Valenciana 2016. Esta información no está recogida en la Encuesta de Salud de la Comunidad Valenciana 2010.
 DATA_COMP: >-
   Cociente del número de personas que contestan afirmativamente a esta cuestión en la encuesta respecto al total de personas residentes en la ciudad de València que contestan a la cuestión.
 DATA_VALIDATION: >-
