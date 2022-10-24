@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Presupuesto Municipal del Ayuntamiento de València (Servicio de Cooperación al Desarrollo y Migración).
+  Presupuesto Municipal del Ayuntamiento de València (Servicio de Cooperación al Desarrollo y Migración).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,11 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htmes/index.htm). 
    
-   El Programa de Sensibilización y Educación para el Desarrollo y Ciudadanía Global tiene como objetivo regular los proyectos de sensibilización y de educación para el desarrollo dirigido a construir una ciudadanía crítica y global en beneficio de una transformación mundial. Este programa figura en el Plan Estratégico de Subvenciones aprobado por la Junta de Gobierno Local, tiene un plazo anual y se financia con fondos municipales.
+  El Programa de Sensibilización y Educación para el Desarrollo y Ciudadanía Global tiene como objetivo regular los proyectos de sensibilización y de educación para el desarrollo dirigido a construir una ciudadanía crítica y global en beneficio de una transformación mundial. Este programa figura en el Plan Estratégico de Subvenciones aprobado por la Junta de Gobierno Local, tiene un plazo anual y se financia con fondos municipales.
 DATA_COMP: >-
   
 
-   El presupuesto ejecutado total (en euros) del programa de Educación para el Desarrollo y Ciudadanía Global del Ayuntamiento de València relacionado con el ODS 16 durante el ejercicio de referencia se obtiene como suma de los importes subvencionados asociados a este ODS de las diferentes actuaciones subvencionadas.
+  El presupuesto ejecutado total (en euros) del programa de Educación para el Desarrollo y Ciudadanía Global del Ayuntamiento de València relacionado con el ODS 16 durante el ejercicio de referencia se obtiene como suma de los importes subvencionados asociados a este ODS de las diferentes actuaciones subvencionadas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

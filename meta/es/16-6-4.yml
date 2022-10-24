@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendición de Cuentas (www.rendiciondecuentas.es) que muestra la información sobre la gestión económica y financiera de las Entidades locales deducida de las Cuentas Generales rendidas por las propias entidades.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +52,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. 
    
-   Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
+  Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
-  Cociente del importe total de las obligaciones reconocidas limpias en la liquidación del presupuesto de gastos del Ayuntamiento de València de un determinado ejercicio entre la población oficial del municipio a 1 de enero de ese mismo año.
+  Cociente del importe total de las obligaciones reconocidas netas en la liquidación del presupuesto de gastos del Ayuntamiento de València de un determinado ejercicio entre la población oficial del municipio a 1 de enero de ese mismo año.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

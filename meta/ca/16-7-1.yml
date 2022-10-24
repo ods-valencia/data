@@ -33,6 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Servei de Descentralització i Participació Ciutadana de l'Ajuntament de València.
 COLL_METHOD: >-
 
@@ -50,7 +51,9 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
    
+  
   Els Pressupostos Participatius Municipals són processos estructurats i cíclics on els ciutadans es converteixen en actors centrals en la presa de decisions sobre l'assignació de fons públics. Per a la ciutat de València aquests processos consten de diferents fases: una primera fase de presentació de propostes, una segona fase de suport ciutadà a les propostes presentades, una tercera fase d'estudi de viabilitat jurídica, tècnica i/o pressupostària per part dels serveis tècnics de l'Ajuntament, i una quarta fase de votació de propostes viables i amb suficients suports.
 DATA_COMP: >-
   Quocient del pressupost total assignat a processos de Pressupostos Participatius respecte al pressupost municipal ordinari de despeses destinat als capítols 6 (inversions reals) i 7 (transferències de capital) de l'Ajuntament de València.

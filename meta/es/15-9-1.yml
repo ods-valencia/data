@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendición de Cuentas (www.rendiciondecuentas.es) que muestra la información sobre la gestión económica y financiera de las Entidades locales deducida de las Cuentas Generales rendidas por las propias entidades.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +50,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  El grupo de programas 172 incluye los programas 1721 (Protección contra la contaminación acústica, lumínica, atmosférica), 1722 (Calidad ambiental, energías renovables, cambio climático), 1723 (Playas), 1724 (Protección Medio Ambiente - Devesa Albufera). Los gastos presupuestarios son los que proceden de la liquidación del gasto de los capítulos vinculados a cuentas de los grupos 6 y 7 del Plan General de Contabilidad Pública adaptado a la Administración local ( PGCPAL). Respecto a los gastos no presupuestarios se han prorrateado siguiendo la distribución entre grupos de programas de los gastos presupuestarios, conforme al indicado en la regulación de la nota 19 de la memoria recogida en la ICAL, que establece que, en ausencia de mejor criterio, se distribuirán “en la proporción que, sobre el gasto total que constituya a su vez gasto presupuestario, supongo cada uno de los grupos de programas”. La población utilizada en el denominador del indicador es la población oficinal publicada por la INE del municipio a 1 de enero de cada año.
+  El grupo de programas 172 incluye los programas 1721 (Protección contra la contaminación acústica, lumínica, atmosférica), 1722 (Calidad ambiental, energías renovables, cambio climático), 1723 (Playas), 1724 (Protección Medio Ambiente - Devesa Albufera). Los gastos presupuestarios son los que proceden de la liquidación del gasto de los capítulos vinculados a cuentas de los grupos 6 y 7 del Plan General de Contabilidad Pública adaptado a la Administración local (PGCPAL). Respecto a los gastos no presupuestarios se han prorrateado siguiendo la distribución entre grupos de programas de los gastos presupuestarios, conforme a lo indicado en la regulación de la nota 19 de la memoria recogida en la ICAL, que establece que, en ausencia de mejor criterio, se distribuirán “en la proporción que, sobre el gasto total que constituya a su vez gasto presupuestario, supone cada uno de los grupos de programas”. La población utilizada en el denominador del indicador es la población oficial publicada por el INE del municipio a 1 de enero de cada año.
 DATA_COMP: >-
-  Cociente de los gastos (presupuestarios o no presupuestarios) asociados a la actividad de protección y mejora del medio ambiente según el modelo de actividades estructurado definido en la Instrucción de Contabilidad para la Administración Local ( ICAL) entre la población a 1 de enero de este ejercicio.
+  Cociente de los gastos (presupuestarios o no presupuestarios) asociados a la actividad de protección y mejora del medio ambiente según el modelo de actividades estructurado definido en la Instrucción de Contabilidad para la Administración Local (ICAL) entre la población a 1 de enero de este ejercicio.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

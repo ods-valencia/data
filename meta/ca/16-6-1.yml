@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendició de Comptes (www.rendiciondecuentas.es) que mostra la informació sobre la gestió econòmica i financera de les Entitats locals deduïda dels Comptes Generals rendits per les pròpies entitats.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Portal de Rendició de Comptes (www.rendiciondecuentas.es)
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,9 +51,13 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   La informació s'extrau del Compte General de l'Ajuntament de València, no de la d'entitats dependents (organismes autònoms, societats mercantils, entitats públiques empresarials o fundacions adscrites) o entitats en les quals participa. El signe d'aquest indicador mostra si l'exercici ha donat superàvit (valor positiu) o dèficit (valor negatiu).
+  
    
-  El resultat pressupostari s'obté sumant el resultat pressupostari (drets reconeguts nets menys obligacions reconegudes netes) de les operacions financeres (actius financers i passius financers) i no financeres (operacions corrents i operacions de capital). El resultat pressupostari ajustat s'obté sumant al resultat pressupostari els crèdits gastats finançats amb romanent de tresoreria per a despeses generals, sumant les desviacions de finançament negatives de l'exercici i restant les desviacions de finançament positives de l'exercici. La població utilitzada en el denominador de l'indicador és la població oficinal publicada per l'INE del municipi a 1 de gener de cada any.
+  
+  El resultat pressupostari s'obté sumant el resultat pressupostari (drets reconeguts nets menys obligacions reconegudes netes) de les operacions financeres (actius financers i passius financers) i no financeres (operacions corrents i operacions de capital). El resultat pressupostari ajustat s'obté sumant al resultat pressupostari els crèdits gastats finançats amb romanent de tresoreria per a despeses generals, sumant les desviacions de finançament negatives de l'exercici i restant les desviacions de finançament positives de l'exercici. La població utilitzada en el denominador de l'indicador és la població oficial publicada per l'INE del municipi a 1 de gener de cada any.
+  
    
+  
   Documentació metodològica sobre Indicadors del Compte General de les Entitats Locals: [Rendició de Comptes](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
   Quocient del resultat pressupostari ajustat de l'exercici reflectit en la liquidació del pressupost d'un determinat exercici entre la població del municipi a 1 de gener d'aquest exercici.

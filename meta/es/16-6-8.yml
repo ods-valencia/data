@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Barómetro de Opinión Ciudadana de la ciudad de València.
+  Barómetro de Opinión Ciudadana de la ciudad de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Documentación metodológica sobre el Barómetro de Opinión Ciudadana de la ciudad de València: [Barómetro](https://www.valencia.es/cas/estadistica/barometro-municipal). 
    
-   A todos los encuestados se los pide que valoren la gestión del Ayuntamiento de València, en una escala del 0 al 10, donde 0 es muy mala y 10 es muy buena. A partir de las respuestas obtenidas en los encuestados que valoran la gestión, y teniendo en cuenta los factores de elevación asociados a los individuos encuestados, se estima la valoración mediana de las personas de 18 o más años de edad respecto a la gestión del Ayuntamiento de València.
+  A todos los encuestados se les pide que valoren la gestión del Ayuntamiento de València, en una escala del 0 al 10, donde 0 es muy mala y 10 es muy buena. A partir de las respuestas obtenidas en los encuestados que valoran la gestión, y teniendo en cuenta los factores de elevación asociados a los individuos encuestados, se estima la valoración media de las personas de 18 o más años de edad respecto a la gestión del Ayuntamiento de València.
 DATA_COMP: >-
   Media aritmética de las valoraciones de la población de 18 y más años sobre la gestión del Ayuntamiento de València en una escala 0-10, donde 0 es muy mala y 10 es muy buena. Si en un año se ha recogido esta información para diferentes referencias temporales, se muestra la media aritmética de las medias de las valoraciones recogidas.
 DATA_VALIDATION: >-

@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge que considera que li afecta el calfament global hui dia.
+  Percentatge que considera que l'afecta el calfament global hui dia.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
@@ -49,13 +49,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
-   
   Documentació metodològica sobre la 3 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 3](https://www.valencia.es/estadistica/Barometro/Metodologia3.pdf).
+  
    
+  
   Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre desembre de 2017 i febrer de 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
 DATA_COMP: >-
-  Quocient entre la població que considera que li afecta el calfament global i el total de la població enquestada.
+  Quocient entre la població que considera que l'afecta el calfament global i el total de la població enquestada.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

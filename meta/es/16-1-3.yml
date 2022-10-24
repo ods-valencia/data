@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Valoración mediana de la población de 18 o más años de edad del nivel de altruismo de la mayoría de la gente.
+  Valoración media de la población de 18 o más años de edad del nivel de altruismo de la mayoría de la gente.
 UNIT_MEASURE: >-
   Escala 1-10
 CLASS_SYSTEM: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Sexta Ola Barómetro de Opinión Ciudadana: Convivencia y Turismo. (2018).
+  Sexta Ola Barómetro de Opinión Ciudadana: Convivencia y Turismo. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,10 +52,7 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Documentación metodológica sobre la 6 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 6](https://www.valencia.es/estadistica/Barometro/Metodologia6.pdf).
-   
-   A todos los encuestados se los pide que valoren la seguridad de su barrio de residencia, en una escala del 0 al 10, donde 0 es muy inseguro y 10 es muy seguro. A partir de las respuestas obtenidas en los encuestados que valoran el grado de seguridad, y teniendo en cuenta los factores de elevación asociados a los individuos encuestados, se estima la valoración mediana de las personas de 18 o más años de edad respecto al grado de seguridad de su barrio de residencia.
-   
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Septiembre y Octubre de 2018, publicándose el Barómetro el mes de diciembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Septiembre/Octubre 2017 - Septiembre/Octubre 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Septiembre y Octubre de 2018, publicándose el Barómetro el mes de diciembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Septiembre/Octubre 2017 - Septiembre/Octubre 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
   Media aritmética de las valoraciones de la población de 18 y más años sobre el nivel de altruismo de la gente en una escala 0-10, donde 0 significa que la mayoría de la gente solo mira por sí misma y 10 que la mayoría de la gente procura ayudar a los otros.
 DATA_VALIDATION: >-

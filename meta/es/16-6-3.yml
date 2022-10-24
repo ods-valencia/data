@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendición de Cuentas (www.rendiciondecuentas.es) que muestra la información sobre la gestión económica y financiera de las Entidades locales deducida de las Cuentas Generales rendidas por las propias entidades.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +52,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. Un valor elevado de este indicador refleja una mayor autonomía de la entidad respecto de las fuentes de financiación excluidas del cálculo del indicador, mientras que un valor reducido refleja una mayor dependencia sobre estas. El importe de las transferencias se obtiene de los importes de los subconceptos 420.00, 420.10, 420.20, 420.90, 450.00 y 450.01 del presupuesto de ingresos.
+  La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. Un valor elevado de este indicador refleja una mayor autonomía de la entidad respecto de las fuentes de financiación excluidas del cálculo del indicador, mientras que un valor reducido refleja una mayor dependencia sobre estas. El importe de las transferencias se obtiene de los importes de los subconceptos 420.00, 420.10, 420.20, 420.90, 450.00 y 450.01 del presupuesto de ingresos.
    
-   Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
+  Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
-  El numerador corresponde con los derechos reconocidos limpios incluidos en los capítulos 1, 2, 3, 5, 6 y 8 más las transferencias recibidas y reflejados en la liquidación del presupuesto de ingresos. El denominador incluye el total de derechos reconocidos limpios (incluyendo también los derivados de subvenciones y pasivos financieros).
+  El numerador corresponde con los derechos reconocidos netos incluidos en los capítulos 1, 2, 3, 5, 6 y 8 más las transferencias recibidas y reflejados en la liquidación del presupuesto de ingresos. El denominador incluye el total de derechos reconocidos netos (incluyendo también los derivados de subvenciones y pasivos financieros).
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

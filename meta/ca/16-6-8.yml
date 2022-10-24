@@ -50,8 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre el Baròmetre d'Opinió Ciutadana de la ciutat de València: [Baròmetre](https://www.valencia.es/cas/estadistica/barometro-municipal). 
+  Documentació metodològica sobre el Baròmetre d'Opinió Ciutadana de la ciutat de València: [Baròmetre](https://www.valencia.es/val/estadistica/barometre-municipal). 
+  
    
+  
   A tots els enquestats se'ls demana que valoren la gestió de l'Ajuntament de València, en una escala del 0 al 10, on 0 és molt dolenta i 10 és molt bona. A partir de les respostes obtingudes en els enquestats que valoren la gestió, i tenint en compte els factors d'elevació associats als individus enquestats, s'estima la valoració mitjana de les persones de 18 o més anys d'edat respecte a la gestió de l'Ajuntament de València.
 DATA_COMP: >-
   Mitjana aritmètica de les valoracions de la població de 18 i més anys sobre la gestió de l'Ajuntament de València en una escala 0-10, on 0 és molt dolenta i 10 és molt bona. Si en un any s'ha recollit aquesta informació per a diferents referències temporals, es mostra la mitjana aritmètica de les mitjanes de les valoracions recollides.

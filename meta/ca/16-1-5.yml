@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Infraccions penals tipificades com a delictes contra la llibertat i indemnitat sexual (incloses en el Títol VIII del Llibre II del Codi Penal) a la ciutat conegudes per les diferents Forces i Cossos de Seguretat (Guàrdia Civil, Cos Nacional de Policia, Policia Autonòmica o Policia Local de València), ja siga per mitjà de denúncia interposada o per actuació policial realitzada motu proprio (labor preventiva o d'investigació).
+  Infraccions penals tipificades com a delictes contra la llibertat i indemnitat sexual (incloses en el Títol VIII del Llibre II del Codi Penal) a la ciutat conegudes per les diferents Forces i Cossos de Seguretat (Guàrdia Civil, Cos Nacional de Policia, Policia Autonòmica o Policia Local de València), ja siga per mitjà de denúncia interposada o per actuació policial realitzada.
 UNIT_MEASURE: >-
   Tant per 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Balanç Trimestral de Criminalitat del SEC (Sistema Estadístic de Criminalitat) del Ministeri de l'Interior.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Explotació estadística Balanç Trimestral de Criminalitat del SEC (Sistema Estadístic de Criminalitat) del Ministeri de l'Interior.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,13 +50,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY. 
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofereix informació per a àmbits territorials superiors. També forma part del Panell ODS de la Comissió Europea definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/)
+  
    
-  Documentació metodològica sobre el Balanç Trimestral de Criminalitat: (https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:b36b25ac-491b-49a6-be33-9cdcb168f0c9/01_Metodolog%C3%ADA_Balances_criminalitat.pdf).
+  
+  Documentació metodològica sobre el Balanç Trimestral de Criminalitat: [Balanç Criminalitat](https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:b36b25ac-491b-49a6-be33-9cdcb168f0c9/01_Metodolog%C3%ADA_Balances_criminalitat.pdf).
+  
    
-  Documentació metodològica sobre l'Explotació estadística del Padró Municipal d'Habitants de València: [Explotació Estadística Padró](https://www.valencia.es/estadistica/Padron/2020/Padron2020Cast.pdf).
-   
-  Les dades de l'últim any són provisionals pendents de consolidar. La població de referència utilitzada per al càlcul l'indicador és la calculada a meitat d'any a partir de la semisuma de les poblacions registrades en el Padró Municipal de l'Ajuntament de València a 1 de gener de l'any de referència i de l'any següent.
+  
+  La població a meitat de l'any t s'ha calculat com a semisuma de les poblacions a 1 de gener de l'any t i de l'any t+1. Les dades de l'últim any són provisionals, estan pendents de consolidar.
 DATA_COMP: >-
   Quocient del nombre de delictes contra la llibertat i indemnitat sexual durant l'any de referència entre la població calculada a meitat de l'any.
 DATA_VALIDATION: >-

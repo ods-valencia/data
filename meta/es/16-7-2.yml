@@ -33,6 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
   Servicio de Descentralización y Participación Ciudadana del Ayuntamiento de València.
 COLL_METHOD: >-
 
@@ -49,7 +50,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Los Presupuestos Participativos Municipales son procesos estructurados y cíclicos donde los ciudadanos se convierten en actores centrales en la toma de decisiones sobre la asignación de fondos públicos. Para la ciudad de València estos procesos constan de diferentes fases: una primera fase de presentación de propuestas, una segunda fase de apoyo ciudadano a las propuestas presentadas, una tercera fase de estudio de viabilidad jurídica, técnica y/o presupuestaria por parte de los servicios técnicos del Ayuntamiento, y una cuarta fase de votación de propuestas viables y con suficientes apoyos.  Para la primera edición (que tuvo lugar entre el 16/11/2015 y el 04/03/2016 y no incluía fase de apoyos) la población utilizada de referencia es la registrada en el Padrón Municipal de Habitantes a 1/1/2016. Para la segunda edición (que tuvo lugar entre el 20/10/2016 y el 03/03/2017) la población utilizada de referencia es la registrada en el Padrón Municipal de Habitantes a 1/1/2017. Para la tercera edición (que tuvo lugar entre el 18/10/2017 y el 15/12/2017) la población utilizada de referencia es la registrada en el Padrón Municipal de Habitantes a 1/1/2018. Para la cuarta edición (que tuvo lugar entre el 07/06/2018 y el 30/09/2018) la población utilizada de referencia es la registrada en el Padrón Municipal de Habitantes a 1/1/2019. Para la quinta edición (que tuvo lugar entre el 16/10/2019 y el 08/01/2020) la población utilizada de referencia es la registrada en el Padrón Municipal de Habitantes a 1/1/2020. Para la sexta edición (que tuvo lugar entre el 06/11/2020 y el 07/03/2021) la población utilizada de referencia es la registrada en el Padrón Municipal de Habitantes a 1/1/2021.
+  Los Presupuestos Participativos Municipales son procesos estructurados y cíclicos donde los ciudadanos se convierten en actores centrales en la toma de decisiones sobre la asignación de fondos públicos. Para la ciudad de València estos procesos constan de diferentes fases: una primera fase de presentación de propuestas, una segunda fase de apoyo ciudadano a las propuestas presentadas, una tercera fase de estudio de viabilidad jurídica, técnica y/o presupuestaria por parte de los servicios técnicos del Ayuntamiento, y una cuarta fase de votación de propuestas viables y con suficientes apoyos.
 DATA_COMP: >-
   Cociente del número de personas que ha participado en alguna de las fases del proceso de Presupuestos Participativos Municipales entre la población a 1 de enero del año de referencia del proceso.
 DATA_VALIDATION: >-

@@ -33,7 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Plan de Acción Territorial sobre Prevención del riesgo de Inundación en la Comunidad Valenciana (PATRICOVA) de 2015.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+  Plan de Acción Territorial sobre Prevención del Riesgo de Inundación en la Comunidad Valenciana (PATRICOVA) de 2015.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Se consideran zonas de riesgo de inundación frecuente aquellas en las cuales la probabilidad que en un año cualquiera se sufra, al menos, una inundación está entre 0’01 y 0’002 (equivalente a un periodo de retorno entre 100 y 500 años). 
    
-   Documentación metodológica sobre el PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb).
+  Documentación metodológica sobre el PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb).
 DATA_COMP: >-
   Superficie clasificada como de riesgo de inundación excepcional (periodo de retorno entre 100 y 500 años) entre la superficie total del municipio.
 DATA_VALIDATION: >-

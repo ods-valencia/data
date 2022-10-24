@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Pla d'Acció Territorial sobre Prevenció del Risc d'Inundació a la Comunitat Valenciana (PATRICOVA) de 2015.
 COLL_METHOD: >-
 
@@ -50,15 +50,24 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
   A l'efecte d'aquesta normativa s'estableixen sis nivells de perillositat d'inundació d'origen hidrològic-hidràulic i un nivell geomorfològic, que, de major a menor, són: 
+  
   Perillositat de nivell 1 (freqüència alta i calat alt). Quan la probabilitat que en un any qualsevol es patisca, almenys, una inundació és superior a 0’04 (equivalent a un període de retorn inferior a 25 anys), amb un calat màxim generalitzat aconseguit per l'aigua superior a huitanta centímetres (80 cm). 
+  
   Perillositat de nivell 2 (freqüència mitjana i calat alt). Quan la probabilitat que en un any qualsevol es patisca, almenys, una inundació es troba entre 0’04 i 0’01 (equivalent a un període de retorn entre 25 i 100 anys), amb un calat màxim generalitzat aconseguit per l'aigua superior a huitanta centímetres (80 cm).
+  
    
+  
   Perillositat de nivell 3 (freqüència alta i calat baix). Quan la probabilitat que en un any qualsevol es patisca, almenys, una inundació és superior a 0’04 (equivalent a un període de retorn inferior a 25 anys), amb un calat màxim generalitzat aconseguit per l'aigua inferior a huitanta centímetres (80 cm) i superior a quinze centímetres (15 cm).  Perillositat de nivell 4 (freqüència mitjana i calat baix). Quan la probabilitat que en un any qualsevol es patisca, almenys, una inundació es troba entre 0’04 i 0’01 (equivalent a un període de retorn entre 25 i 100 anys), amb un calat màxim generalitzat aconseguit per l'aigua inferior a huitanta centímetres (80 cm) i superior a quinze centímetres (15 cm).
+  
   Perillositat de nivell 5 (freqüència baixa i calat alt). Quan la probabilitat que en un any qualsevol es patisca, almenys, una inundació es troba entre 0’01 i 0’002 (equivalent a un període de retorn entre 100 i 500 anys), amb un calat màxim generalitzat aconseguit per l'aigua superior a huitanta centímetres (80 cm). 
+  
   Perillositat de nivell 6 (freqüència baixa i calat baix). Quan la probabilitat que en un any qualsevol es patisca, almenys, una inundació es troba entre 0’01 i 0’002 (equivalent a un període de retorn entre 100 i 500 anys), amb un calat màxim generalitzat aconseguit per l'aigua inferior a huitanta centímetres (80 cm) i superior a quinze centímetres (15 cm).
+  
   Perillositat geomorfològica. En aquest nivell de perillositat d'inundació s'han identificat diferents processos geomorfològics, que, per les seues característiques, actuen com un indicador de la presència d'inundacions històriques, no necessàriament catalogades, havent-se d'identificar la probabilitat de reactivació dels fenòmens geomorfològics i, en el seu cas, els efectes susceptibles de generar-se
+  
   Documentació metodològica sobre el PATRICOVA: [PATRICOVA](https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/9938fc0e-3ba8-4829-8524-5d3afa3542eb).
 DATA_COMP: >-
   Quocient de la superfície municipal classificada com a inundable entre la superfície total.

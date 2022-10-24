@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  El remanente de tesorería se obtiene como suma de los fondos líquidos más los derechos pendientes de cobro, deduciendo las obligaciones pendientes de pago y agregando las partidas pendientes de aplicación. Los saldos de dudoso cobro corresponden a aquellos derechos reconocidos que figuran contabilizados y que, previsiblemente, no darán lugar a su cobro. Las desviaciones de financiación afectada representan la diferencia que ha existido en el ejercicio entre los derechos reconocidos por ingresos que están vinculados (afectados) a un determinado proyecto de gasto y las obligaciones reconocidas de este, el ritmo de ejecución de las cuales no ha resultado homogéneo (por ejemplo, una obra financiada con una subvención, que se ha ido ejecutando a lo largo del año, pero de la cual todavía no se ha recibido la financiación).
    
-   El remanente de tesorería se obtiene como suma de los fondos líquidos más los derechos pendientes de cobro, deduciendo las obligaciones pendientes de pago y agregando las partidas pendientes de aplicación. Los saldos de dudoso cobro corresponden a aquellos derechos reconocidos que figuran contabilizados y que, previsiblemente, no darán lugar a su cobro. Las desviaciones de financiación afectada representan la diferencia que ha existido en el ejercicio entre los derechos reconocidos por ingresos que están vinculados (afectados) a un determinado proyecto de gasto y las obligaciones reconocidas de este, el ritmo de ejecución de las cuales no ha resultado homogéneo (por ejemplo, una obra financiada con una subvención, que se ha ido ejecutando a lo largo del año, pero de la cual todavía no se ha recibido la financiación).
-   
-   Cuando el remanente de tesorería presenta valores negativos, nos indica que la entidad local tendrá que obtener mayores recursos futuros para atender el exceso de gastos, es decir, la entidad es incapaz de afrontar sus deudas al finalizar el ejercicio. Esta insolvencia a corto plazo surge porque a lo largo del ejercicio ha habido más gastos que ingresos, sin que los recursos líquidos sean suficientes.
+  Cuando el remanente de tesorería presenta valores negativos, nos indica que la entidad local tendrá que obtener mayores recursos futuros para atender el exceso de gastos, es decir, la entidad es incapaz de afrontar sus deudas al finalizar el ejercicio. Esta insolvencia a corto plazo surge porque a lo largo del ejercicio ha habido más gastos que ingresos, sin que los recursos líquidos sean suficientes.
 DATA_COMP: >-
   Es el resultado de deducir al remanente de tesorería los saldos de dudoso cobro y el exceso de financiación afectada (suma de las desviaciones con financiaciones afectadas, positivas y acumuladas a fin de ejercicio). 
 DATA_VALIDATION: >-

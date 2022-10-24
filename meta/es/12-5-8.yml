@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Consellería de Agricultura.
+  Servicio Gestión Sostenible Residuos Urbanos
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/), del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews y del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Los residuos sólidos urbanos de la ciudad de València, junto con los del resto de municipios del área metropolitana, son enviados a la planta de tratamiento de Los Hornillos. De la actividad de la planta se obtiene un porcentaje total de residuos sólidos urbanos que son reciclados. Este porcentaje se aplica al total de residuos que provienen de València para estimar cuántas toneladas se reciclan de los residuos originados en la ciudad. El porcentaje de residuos totales que son reciclados se obtiene de la división de la suma de los residuos depositados en contenedores especiales de vidrio, cartón y papel o plástico (que suponemos se recicla íntegramente) más la estimación anterior dividido por el total de residuos (sólidos urbanos y los de contenedores específicos). No se incluyen los datos de los residuos depositados en el Ecoparque de Vara de Quart.
+  Los residuos sólidos urbanos de la ciudad de València, junto con los del resto de municipios del área metropolitana, son enviados a la planta de tratamiento de Los Hornillos. De la actividad de la planta se obtiene un porcentaje total de residuos sólidos urbanos que son reciclados. Este porcentaje se aplica al total de residuos que provienen de València para estimar cuántas toneladas se reciclan de los residuos originados en la ciudad. El porcentaje de residuos totales que son reciclados se obtiene de la división de la suma de los residuos depositados en contenedores especiales de vidrio, cartón y papel o plástico (que suponemos se recicla íntegramente) más la estimación anterior dividido por el total de residuos (sólidos urbanos y los de contenedores específicos). No se incluyen los datos de los residuos depositados en el Ecoparque de Vara de Quart.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-
