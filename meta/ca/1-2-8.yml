@@ -50,8 +50,11 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf). 
+  
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2022/Padron2022Val.pdf). 
+  
   El concepte de llar familiar adoptada correspon amb el conjunt de persones residents en un mateix habitatge familiar que apareixen inscrites en un mateix full padronal. No és per tant coincident amb el concepte ampli de llar (persona o conjunt de persones que resideixen habitualment en un mateix habitatge familiar principal) que s'utilitza, per exemple, en l'Enquesta Contínua de Llars. Tampoc és coincident amb el concepte estricte de llar (persona o conjunt de persones que ocupen en comú un habitatge familiar principal o part, i consumeixen i/o comparteixen aliments o altres béns amb càrrec a un mateix pressupost) utilitzat, per exemple, en l'Enquesta de Pressupostos Familiars. La informació referida a llars utilitzada per a aquest indicador és, per tant, una aproximació a la realitat, i ha de ser presa amb una certa cautela en ser obtinguda d'una font l'objecte de la qual no és tractar aquesta variable.  El terme monoparental utilitzat en l'indicador no fa referència a una relació patern filial entre els membres de la llar (ja que les relacions de parentiu no s'inclouen en la informació recollida en el registre padronal), sinó que fa referència a una relació de convivència respecte als menors empadronats. 
+  
   Encara que aquest indicador no és un indicador directe de pobresa, s'ha inclòs en aquesta meta en existir una important relació amb la presència de pobresa relativa, ja que les famílies monoparentals estan especialment exposades a aquesta situació pel fet que, en molts casos, compten amb els ingressos d'un sol progenitor.
 DATA_COMP: >-
   Nombre de fulls padronals familiars formats per una única persona adulta (de 18 o més anys d'edat) i almenys un menor de 18 anys registrats en el Padró Municipal d'Habitants de l'Ajuntament de València a 1 de gener de l'any de referència. 

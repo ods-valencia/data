@@ -50,13 +50,20 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  
    
+  
   Documentació metodològica sobre la 7 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 7](https://www.valencia.es/estadistica/Barometro/Metodologia7.pdf).
+  
   Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Desembre de 2018 i Gener de 2019 publicant-se el Baròmetre el mes de febrer. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Desembre2017/Gener2018 - Desembre2018/Gener2019. Es va entrevistar un total de 1737 persones de 18 a 64 anys empadronades a la ciutat de València.  El disseny del baròmetre, previ a la pregunta sobre aquest indicador, preguntava si l'entrevistat es trobava estudiant actualment. Això comportava que aquest poguera considerar que la realització d'un curs, taller o activitat era independent, contestant que no.
+  
    
+  
   D'aquesta manera, s'ha ponderat com que SÍ QUE estan realitzant activitats formatives a tots aquells entrevistats que van afirmar trobar-se estudiant en el moment de l'entrevista.
+  
    
+  
   Valors pròxims a 1 assenyalen paritat entre homes i dones en tal indicador. Valors pròxims a zero indiquen un major percentatge d'homes. Valors molt allunyats d'1 indiquen un major percentatge de dones.
 DATA_COMP: >-
   Quocient del nombre de dones residents a la ciutat d'entre  18 i 64 anys d'edat que declaren haver realitzat activitats educatives en els últims 12 mesos respecte al nombre d'homes residents a la ciutat d'aqueix mateix rang d'edat que declara haver realitzat activitats educatives en aqueix període temporal.

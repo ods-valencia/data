@@ -50,13 +50,20 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
    
+  
   Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
+  
    
+  
   Les dades de renda percebuda que s'utilitzen en el càlcul d'aquest indicador corresponen a l'any de referència i s'obtenen a partir de l'enllaç d'informació de l'INE amb dades tributàries, fonamentalment de la AEAT i de les Hisendes Forals. La població utilitzada per als càlculs està referida a 1 de gener de l'any següent al de referència. 
+  
   El nombre d'unitats de consum d'una llar es calcula utilitzant l'escala OCDE modificada, que assigna un pes d'1 a la primera persona de 14 o més anys, un pes de 0,5 a la resta de persones de 14 o més anys i un pes de 0,3 a les persones de menys de 14 anys. Per exemple, una llar formada per dos adults i dos xiquets menors de 14 anys estaria formada per 2,1 unitats de consum.  Els ingressos per unitat de consum de la llar s'obtenen dividint els ingressos totals de la llar entre el nombre d'unitats de consum que la componen. A continuació s'adjudica aquest valor a cadascun dels membres que componen la llar.
+  
   Els conceptes tributaris inclosos en la renda neta de la llar es descriuen en el document metodològic de l'operació estadística.
+  
   La informació de l'Atles de Distribució de Renda de les Llars de l'INE està disponible per a altres característiques demogràfiques i àmbits territorials menors (barris i seccions).
 DATA_COMP: >-
   Quocient de la població en risc de pobresa relativa considerant el llindar nacional de pobresa associada a ingressos recollits en fonts tributàries respecte a la població resident.

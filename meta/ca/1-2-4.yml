@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones residents a la ciutat amb privació material severa (la llar en la qual viu manca d'almenys quatre conceptes d'una llista de nou) 
+  Percentatge de persones residents a la ciutat amb privació material severa (la llar en la qual viuen manca d'almenys quatre conceptes d'una llista de nou) 
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
@@ -50,17 +50,28 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  
    
+  
   Documentació metodològica sobre Indicadors de Pobresa i Condicions de Vida a nivell subregional: [Pobresa i Condicions de Vida](https://pegv.gva.es/auto/produccion/web/ECV/Metodologia/Metodologia_val.htm).  Una persona pateix privació material severa si la llar en la qual viu manca almenys de quatre conceptes dels nou següents: 
+  
   1) No pot permetre's anar de vacances almenys una setmana a l'any. 
+  
   2) No pot permetre's un menjar de carn, pollastre o peix almenys cada dos dies. 
+  
   3) No pot permetre's mantindre l'habitatge amb una temperatura adequada. 
+  
   4) No té capacitat per a afrontar despeses imprevistes (de 650 euros). 
+  
   5) Ha tingut retards en el pagament de despeses relacionades amb l'habitatge principal (hipoteca o lloguer, rebuts de gas, comunitat…) en els últims 12 mesos. 
+  
   6) No pot permetre's disposar d'un automòbil. 
+  
   7) No pot permetre's disposar de telèfon. 
+  
   8) No pot permetre's disposar d'un televisor. 
+  
   9) No pot permetre's disposar d'una llavadora. 
 DATA_COMP: >-
   Quocient de la població amb privació material severa respecte a la població resident a la ciutat, expressat en percentatge. 
