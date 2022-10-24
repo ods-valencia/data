@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Precio medio m² vivienda en alquiler
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Precio medio m² vivienda en alquiler
 indicator_number: '11.1.6'
 national_geographical_coverage: Valencia
