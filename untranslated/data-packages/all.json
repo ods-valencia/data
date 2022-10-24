@@ -302,11 +302,11 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },

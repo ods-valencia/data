@@ -330,12 +330,12 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Valor"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Año"
           }
         ]
