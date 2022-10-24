@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Se consideran zonas de riesgo de inundación frecuente aquellas en las cuales la probabilidad que en un año cualquiera se sufra, al menos, una inundación es superior a 0’04 (o lo que es equivalente, con un periodo de retorno inferior a 25 años). 
    
-  Documentación metodológica sobre el PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Memòria/ 9938fc0e- 3ba8-4829-8524- 5d3afa3542eb).
+  Documentación metodológica sobre el PATRICOVA: (https://politicaterritorial.gva.es/documents/20551069/162377494/01+Mem%C3%B2ria/9938fc0e-3ba8-4829-8524-5d3afa3542eb).
 DATA_COMP: >-
   Superficie clasificada como de riesgo de inundación frecuente (periodo de retorno inferior a 25 años) entre la superficie total del municipio.
 DATA_VALIDATION: >-

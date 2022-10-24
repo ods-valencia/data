@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valènciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-  Documentación metodológica sobre el Atlas de Distribución de Renta de los Hogares del INE: [Atlas Renta](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
+  Documentación metodológica sobre el Atlas de Distribución de Renta de los Hogares del INE: [Atlas Renta](https://www.ine.es/metodologia/metodologia_adrh.pdf).
 DATA_COMP: >-
   Cociente entre las rentas generedas por prestaciones por incapacidad o dependencia y el total de renta generada el año de referencia.
 DATA_VALIDATION: >-
