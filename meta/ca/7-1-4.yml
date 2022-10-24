@@ -51,10 +51,15 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
   En el cas de la propietat horitzontal, es defineix habitatge com l'agregat de totes les unitats constructives amb destinació habitatge que pertanyen a un mateix càrrec fiscal, eliminant aquells agregats la superfície dels quals siga menor de 24 o major de 700 metres quadrats. En el cas de la propietat vertical, es defineix habitatge com l'agregat de les unitats constructives d'un càrrec fiscal que comparteixen la mateixa planta i porta, eliminant aquells agregats la superfície dels quals siga menor de 24 metres quadrats.
+  
   Les dades provenen de la tabulació del fitxer del Cadastre de Béns i Immobles de naturalesa urbana de la ciutat de València a 1 de gener de l'any de referència.
+  
   L'any 2017 es va produir un canvi en els criteris de consideració d'habitatge.
+  
    
+  
   Documentació relativa  al Cens de Béns i Immobles: [Béns i Immobles](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
 DATA_COMP: >-
   Quocient del nombre d'habitatges construïts de 1980 en avant entre el nombre total d'habitatges a la ciutat de València registrats en el Cadastre de Béns i Immobles.

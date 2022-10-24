@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  1103-Enquesta de tecnologies de la informació i comunicacions en les llars, en la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  1103-Encuesta de tecnologías de la información i comunicaciones en los hogares, en la ciudad de Valencia. Pla Valencià d'Estadística 2019-2022.
   Explotació estadística Enquesta sobre Equipament i Ús de Tecnologies d'Informació i Comunicació en les Llars de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
@@ -50,13 +50,17 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  
    
+  
   Indicador de l'equipament de tecnologies de la informació i la comunicació, com en aquest cas algun tipus de telèfon, en els habitatges familiars principals de la ciutat habitats per persones majors de 15 anys.
+  
    
+  
   Documentació metodològica sobre l'Enquesta sobre Equipament i Ús de Tecnologies de la Informació i Comunicació en les Llars de l'INE: [Enquesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).
 DATA_COMP: >-
-  Quocient entre el nombre d'habitatges que disposen de telèfon i nombre total d'habitatges.
+  Quocient entre el nombre d'habitatges que disposen de telèfon i el nombre total d'habitatges.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

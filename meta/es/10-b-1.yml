@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Presupuesto Municipal del Ayuntamiento de València (Servicio de Cooperación al Desarrollo y Migración).
+  Presupuesto Municipal del Ayuntamiento de València (Servicio de Cooperación al Desarrollo y Migración).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,11 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). 
    
-   El Programa de Cooperación Internacional para el Desarrollo tiene como objetivo la concesión de subvenciones dirigidas a Organizaciones No Gubernamentales de Desarrollo para financiar actuaciones en materia de Cooperación al desarrollo, para contribuir a un mayor fortalecimiento entre el municipio de València y los países empobrecidos económicamente. Este programa figura en el Plan Estratégico de Subvenciones aprobado por la Junta de Gobierno Local, tiene un plazo anual y se financia con fondos municipales.
+  El Programa de Cooperación Internacional para el Desarrollo tiene como objetivo la concesión de subvenciones dirigidas a Organizaciones No Gubernamentales de Desarrollo para financiar actuaciones en materia de Cooperación al desarrollo, para contribuir a un mayor fortalecimiento entre el municipio de València y los países empobrecidos económicamente. Este programa figura en el Plan Estratégico de Subvenciones aprobado por la Junta de Gobierno Local, tiene un plazo anual y se financia con fondos municipales.
 DATA_COMP: >-
   
 
-   El presupuesto ejecutado total (en euros) del programa de Cooperación Internacional para el Desarrollo del Ayuntamiento de València relacionado con el ODS 10 durante el ejercicio de referencia se obtiene como suma de los importes subvencionados asociados a este ODS de las diferentes actuaciones subvencionadas.
+  El presupuesto ejecutado total (en euros) del programa de Cooperación Internacional para el Desarrollo del Ayuntamiento de València relacionado con el ODS 10 durante el ejercicio de referencia se obtiene como suma de los importes subvencionados asociados a este ODS de las diferentes actuaciones subvencionadas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

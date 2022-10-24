@@ -33,9 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0211-Característiques de la població de València. Padró municipal de València a 1 de gener de cada any. Pla Valencià d'Estadística 2019-2022.
-   
-  Portal de la Direcció General del Cadastre.
+  1504-Censo de inmuebles de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Explotació estadística Cadastre de Béns i Immobles.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,13 +50,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews. 
-   
   No es consideren en cap cas els quilòmetres quadrats de superfície de parcel·les sense edificar.
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-  Documentació metodològica sobre el Portal de la Direcció General del Cadastre: [Direcció General del Cadastre](http://www.catastro.minhap.gob.es/esp/estadistica_1.asp).
+  
+  Documentació relativa  al Cens de Béns i Immobles: [Béns i Immobles](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
 DATA_COMP: >-
   Quocient entre el total de quilòmetres quadrats de superfície urbana de parcel·les edificades construïdes l'any de referència i la població empadronada en el municipi de València en aquest any.
 DATA_VALIDATION: >-

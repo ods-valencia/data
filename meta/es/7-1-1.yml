@@ -33,9 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Iberdrola.
+  Iberdrola.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Energía eléctrica total es la suma de la energía facturada para uso doméstico, comercial, industrial y no clasificado.  NA
+  Energía eléctrica total es la suma de la energía facturada para uso doméstico, comercial, industrial y no clasificado.  NA
 DATA_COMP: >-
   Cociente entre la energía eléctrica facturada a las personas abonadas a lo largo del año y la población a 1 de julio del año de referencia, dividido a su vez entre el número de días del año de referencia (365, o 366).
 DATA_VALIDATION: >-

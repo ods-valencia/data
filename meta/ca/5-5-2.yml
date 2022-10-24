@@ -50,8 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  
    
+  
   Documentació relativa al personal municipal de l'Ajuntament de València: [Personal Municipal](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=11).  Aquesta informació procedeix de la tabulació estadística del fitxer de personal municipal de l'Ajuntament de València a 1 de juliol de cada any. Inclou el personal funcionari de carrera, el personal funcionari d'ocupació, el personal funcionari interí, el personal funcionari en pràctiques i el personal laboral. Els llocs de direcció superior inclouen el personal que realitza funcions d'assessoria dels grups municipals, assessoria o direcció del gabinet d'alcaldia, secretaria dels grups municipals, funcionaris amb habilitació de caràcter nacional (secretaria, intervenció, tresoreria), presidència i vocals del Jurat Tributari, titularitat de l'òrgan de suport a la Junta de Govern Local, direccions generals, responsable de l'Advocacia de la Ciutat, titularitat de la Comissaria Principal Cap de la Policia Local i Inspector Cap de Bombers, Prevenció i Intervenció en Emergències.
 DATA_COMP: >-
   Quocient del nombre de dones en llocs de direcció superior entre el nombre total de llocs de direcció superior a l'Ajuntament de València a 1 de juliol de l'any de referència.

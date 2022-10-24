@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Fuente Fotocasa / Idealista.
+  Explotación Estadística Portal Inmobiliario Idealista
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +51,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
-   
-   Hasta el año 2017, la información procede exclusivamente del portal inmobiliario Fotocasa. A partir del año 2018 se ofrece una media ponderada entre los precios de alquiler en los portales inmobiliarios de Fotocasa e Idealista.
-   
-   Documentación metodológica relativa a viviendas en alquiler: [Alquiler](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
+  Documentación metodológica relativa a viviendas en alquiler: [Alquiler](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=4).
 DATA_COMP: >-
   Media aritmética del cociente entre el precio y los metros cuadrados de las viviendas en alquiler.
 DATA_VALIDATION: >-

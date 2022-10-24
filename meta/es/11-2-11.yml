@@ -34,6 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Policía Local. Ayuntamiento de Valencia
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +50,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
-   
-   Documentación relativa a Accidentes de Circulación: [Accidentes Circulación](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=3).
+  Documentación relativa a Accidentes de Circulación: [Accidentes Circulación](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=3).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

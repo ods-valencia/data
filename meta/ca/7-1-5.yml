@@ -34,7 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Font Servei d'Enllumenat i Eficiència Energètica.
+  Servei d'Enllumenat i Eficiència Energètica.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,7 +51,9 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   La informació recull punts d'enllumenat públic viaris i en jardins, passos inferiors o monuments. Es presenten de manera conjunta punts d'enllumenat de vapor de sodi, vapor de mercuri, llums led o halògens metàl·lics.
+  
    
+  
   Documentació relativa als punts d'enllumenat públic: [Enllumenat Públic](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=8).
 DATA_COMP: >-
   

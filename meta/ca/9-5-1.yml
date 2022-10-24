@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  2103-Cens d'Activitats Econòmiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  2103-Censo de Actividades Economicas de la ciudad de Valencia. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +49,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
    
+  
   En les sol·licituds de propietat industrial, s'han tingut en compte aquelles en les quals el municipi de residència del primer sol·licitant és la ciutat de València.
+  
    
-  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
+  
+  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2022.pdf).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

@@ -27,8 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporción de mujeres y niñas de 16 o más años de edad que declaran haber sufrido violencia
-   económica alguna vez en la vida a manos de su pareja (pareja actual o parejas pasadas).
+  Proporción de mujeres y niñas de 16 o más años de edad que declaran haber sufrido violencia económica alguna vez en la vida a manos de su pareja (pareja actual o parejas pasadas).
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
@@ -36,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística macroencuesta de Violencia Contra la Mujer 2019 del Ministerio de Igualdad.
+  Explotación estadística macroencuesta de Violencia Contra la Mujer 2019 del Ministerio de Igualdad.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -54,13 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Documentación metodológica sobre la macroencuesta de Violencia Contra la Mujer del Ministerio de Igualdad: [macroencuesta Violencia Contra la Mujer](https://violenciagenero.igualdad.gob.es/violenciaencifras/macroencuesta2015/macroencuesta2019/home.htm).
+  Documentación metodológica sobre la Macroencuesta de Violencia Contra la Mujer del Ministerio de Igualdad: [Macroencuesta Violencia Contra la Mujer](https://violenciagenero.igualdad.gob.es/violenciaencifras/macroencuesta2015/macroencuesta2019/home.htm).
    
-   La muestra para el municipio de València es significativamente pequeña: 113 entrevistadas.
+  La muestra para el municipio de València es significativamente pequeña: 113 entrevistadas.
 DATA_COMP: >-
-  Cociente del número de mujeres y niñas de 16 o más años de edad que declaran haber sufrido violencia económica alguna vez en la vida a manos de su pareja (pareja actual o parejas
-
-   pasadas) entre el total de mujeres encuestadas de 16 o más años de edad residentes en la ciudad de València.
+  Cociente del número de mujeres y niñas de 16 o más años de edad que declaran haber sufrido violencia económica alguna vez en la vida a manos de su pareja (pareja actual o parejas pasadas) entre el total de mujeres encuestadas de 16 o más años de edad residentes en la ciudad de València.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

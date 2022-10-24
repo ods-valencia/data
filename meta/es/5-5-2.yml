@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Explotación estadística Registro de Personal Municipal. Ayuntamiento de València.
+  Explotación estadística Registro de Personal Municipal. Ayuntamiento de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-   Documentación relativa al personal municipal del Ayuntamiento de València: [Personal Municipal](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=11).  Esta información procede de la tabulación estadística del fichero de personal municipal del Ayuntamiento de València a 1 de julio de cada año. Incluye el personal funcionario de carrera, el personal funcionario de ocupación, el personal funcionario interino, el personal funcionario en prácticas y el personal laboral. Los lugares de dirección superior incluyen el personal que realiza funciones de asesoría de los grupos municipales, asesoría o dirección del gabinete de alcaldía, secretaría de los grupos municipales, funcionarios con habilitación de carácter nacional (secretaría, intervención, tesorería), presidencia y vocales del Jurado Tributario, titularidad del órgano de apoyo a la Junta de Gobierno Local, direcciones generales, responsable de la Abogacía de la Ciudad, titularidad de la Comisaría Principal Jefe de la Policía Local e Inspector Jefe de Bomberos, Prevención e Intervención en Emergencias.
+  Documentación relativa al personal municipal del Ayuntamiento de València: [Personal Municipal](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=11).  Esta información procede de la tabulación estadística del fichero de personal municipal del Ayuntamiento de València a 1 de julio de cada año. Incluye el personal funcionario de carrera, el personal funcionario de ocupación, el personal funcionario interino, el personal funcionario en prácticas y el personal laboral. Los lugares de dirección superior incluyen el personal que realiza funciones de asesoría de los grupos municipales, asesoría o dirección del gabinete de alcaldía, secretaría de los grupos municipales, funcionarios con habilitación de carácter nacional (secretaría, intervención, tesorería), presidencia y vocales del Jurado Tributario, titularidad del órgano de apoyo a la Junta de Gobierno Local, direcciones generales, responsable de la Abogacía de la Ciudad, titularidad de la Comisaría Principal Jefe de la Policía Local e Inspector Jefe de Bomberos, Prevención e Intervención en Emergencias.
 DATA_COMP: >-
-  Cociente del número de mujeres en lugares de dirección superior entre el número total de lugares de dirección superior al Ayuntamiento de València a 1 de julio del año de referencia.
+  Cociente del número de mujeres en lugares de dirección superior entre el número total de lugares de dirección superior en el  Ayuntamiento de València a 1 de julio del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

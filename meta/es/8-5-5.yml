@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Personas residentes en València demandantes de uso de larga duración registradas por el Servicio Valenciano de Ocupación y Formación durante el año de referencia.
+  Personas residentes en València demandantes de larga duración registradas por el Servicio Valenciano de Ocupación y Formación durante el año de referencia.
 UNIT_MEASURE: >-
   Parados
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Servicio Valenciano de Ocupación y Formación LABORA.
+  Explotación estadística Servicio Valenciano de Ocupación y Formación LABORA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,14 +53,13 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Se considera como parados de larga duración los demandantes de ocupación que hace más de 12 meses que dejaron su último trabajo. 
+  Se considera como parados de larga duración los demandantes de ocupación que hace más de 12 meses que dejaron su último trabajo. 
    
-   El paro registrado está constituido por las demandas de ocupación pendientes el último día del mes, de acuerdo con el contenido de la Orden Ministerial de 11 de Marzo de 1985 (BOE de 14/3/85) por la cual se establecen criterios estadísticos para la medición del paro registrado.  
-   Para la elaboracio´ de este indicador, se ha asumido que la tasa de actividad para un grupo de edad y sexo es la misma en todos los distritos, y por tanto el número de activos en un distrito dependerá bajo´ esto de la estructura de la poblacio´ en ese distrito. Esta tesis ha sido corroborada a partir de los datos del censo de 2001, donde observamos que para un grupo de edad y sexo la tasa de actividad se mantiene estable entre los distritos que forman la ciudad.
+  El paro registrado está constituido por las demandas de ocupación pendientes el último día del mes, de acuerdo con el contenido de la Orden Ministerial de 11 de Marzo de 1985 (BOE de 14/3/85) por la cual se establecen criterios estadísticos para la medición del paro registrado.  
    
-   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf).
 DATA_COMP: >-
-  Media anual del número de personas demandantes de uso de larga duración registradas por el Servicio Valenciano de Ocupación y Formación residentes en la ciudad para el año de referencia. 
+  Media anual del número de personas demandantes de larga duración registradas por el Servicio Valenciano de Ocupación y Formación residentes en la ciudad para el año de referencia. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

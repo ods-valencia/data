@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0506-Rendes en IRPF a la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  0506-Rentas en IRPF en la ciudad de València. Pla Valencià d'Estadística 2019-2022.
    
   Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
@@ -52,9 +52,12 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/). També forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews. 
+  
    
+  
   Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).  Els ingressos que s'utilitzen en el càlcul d'aquest indicador corresponen a l'any anterior al de l'enquesta i són directament informats per l'enquestat. 
-  El nombre d'unitats de consum d'una llar es calcula utilitzant l'escala OCDE modificada, que assigna un pes d'1 a la primera persona de 14 o més anys, un pes de 0,5 a la resta de persones de 14 o més anys i un pes de 0,3 a les persones de menys de 14 anys. Per exemple, una llar formada per dos adults i dos xiquets menors de 14 anys estaria formada per 2,1 unitats de consum. Els ingressos per unitat de consum de la llar s'obtenen dividint els ingressos totals de la llar entre el nombre d'unitats de consum que la componen. 
+  
+  El nombre d'unitats de consum d'una llar es calcula utilitzant l'escala OCDE modificada, que assigna un pes d'1 a la primera persona de 14 o més anys, un pes de 0,5 a la resta de persones de 14 o més anys i un pes de 0,3 a les persones de menys de 14 anys. Per exemple, una llar formada per dos adults i dos xiquets menors de 14 anys estaria formada per 2,1 unitats de consum. Els ingressos per unitat de consum de la llar s'obtenen dividint els ingressos totals de la llar entre el nombre d'unitats de consum que la componen.
 DATA_COMP: >-
   La corba de Lorenz representa gràficament el percentatge de renda que acumula un determinat percentatge de població. En l'eix horitzontal de la corba de Lorenz es representa la proporció acumulada de població, ordenada de menor a major renda, mentre que l'eix vertical recull el percentatge acumulat de renda. La línia diagonal que divideix el gràfic en dues parts iguals, es denomina recta d'equidistribució i representa el cas d'una distribució igualitària. L'índex de Gini representa l'àrea de concentració (superfície compresa entre la recta d'equidistribució i la pròpia corba de Lorenz), en relació a l'àrea que queda per davall de la recta d'equidistribució. 
 DATA_VALIDATION: >-

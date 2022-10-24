@@ -33,9 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadors socials de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
-   
-  9906-Anuari estadístic de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  0211-Características de la población de Valencia. Padrón municipal de Valencia a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,12 +49,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
-   
   Representa el nombre mitjà d'habitants per quilòmetre quadrat de la superfície potencialment habitable de la ciutat. 
+  
   La dada de població prové de l'explotació estadística del fitxer del Padró Municipal d'Habitants de l'Ajuntament de València. La dada de superfície prové del càlcul de l'àrea definida pels límits municipals registrada en el SIGESPA, exceptuant la superfície del port i del llac de l'Albufera.
+  
    
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2022/Padron2022Val.pdf).
 DATA_COMP: >-
   Quocient entre la població resident a 1 de gener de l'any de referència i la superfície de la ciutat de València, excepte la superfície del port i del llac de l'Albufera.
 DATA_VALIDATION: >-

@@ -35,9 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
-   
-   Elaboración propia Áreas Vulnerables Oficina de Estadística Ayuntamiento de València.
+  Elaboración propia Oficina de Estadística Ayuntamiento de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,11 +51,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Las secciones definidas como vulnerables (para un tema o en el índice global) son aquellas que su puntuación en ese tema o en el indicador global se situ´a por debajo (o igual) al percentil 10% (p0,1) de la distribución formada por todas las puntuaciones finales de las secciones en ese tema o en el índice global.
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Documentación metodológica sobre la publicación de Areas Vulnerables de la Oficina de Estadística del Ayuntamiento de València: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
-   
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Las secciones definidas como vulnerables (para un tema o en el índice global) son aquellas que su puntuacio´ en ese tema o en el indicador global se situ´a por debajo (o igual) al percentil 10% (p0,1) de la distribución formada por todas las puntuaciones finales de las secciones en ese tema o en el índice global.
+  Documentación metodológica sobre la publicación de Areas Vulnerables de la Oficina de Estadística del Ayuntamiento de València: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
 DATA_COMP: >-
   Cociente entre la población que vive en secciones censales vulnerables a nivel demográfico y el total de la población empadronada en el municipio de València.
 DATA_VALIDATION: >-

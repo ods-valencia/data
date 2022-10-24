@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Explotación estadística Base de datos de Alcaldes y Regidores. Ministerio de Política Territorial.
+  Explotación estadística Base de datos de Alcaldes y Regidores. Ministerio de Política Territorial.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Documentación relativa al personal municipal del Ayuntamiento de València: [Personal Municipal](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=11).
+  Documentación relativa al personal municipal del Ayuntamiento de València: [Personal Municipal](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=11).
    
-   La información del año 2019 corresponde a la legislatura 2019-2023. La información del año 2015 corresponde a la legislatura 2015-2019. La información del año 2011 corresponde a la legislatura 2011-2015.  El Pleno del Ayuntamiento es el órgano de máxima representación política de la ciudadanía en el gobierno municipal. Asume de manera directa la representación de los ciudadanos y ciudadanas y, en su nombre, decide sobre las cuestiones más importantes y trascendentes para la ciudad y controla y fiscaliza la actuación de los otros órganos de gobierno. Está formado por el alcalde o alcaldesa y por 32 regidores y regidoras.
+  La información del año 2019 corresponde a la legislatura 2019-2023. La información del año 2015 corresponde a la legislatura 2015-2019. La información del año 2011 corresponde a la legislatura 2011-2015.  El Pleno del Ayuntamiento es el órgano de máxima representación política de la ciudadanía en el gobierno municipal. Asume de manera directa la representación de los ciudadanos y ciudadanas y, en su nombre, decide sobre las cuestiones más importantes y trascendentes para la ciudad y controla y fiscaliza la actuación de los otros órganos de gobierno. Está formado por el alcalde o alcaldesa y por 32 regidores y regidoras.
 DATA_COMP: >-
   Cociente del número de mujeres regidoras entre el total de regidores (33) que forman parte del Pleno del Ayuntamiento de València constituido después de las elecciones municipales que se celebran cada cuatro años.
 DATA_VALIDATION: >-

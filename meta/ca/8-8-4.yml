@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Relació entre el nombre de malalties adquirides a conseqüència del treball en centres de treball a la ciutat de València i la població afiliada a la Seguretat Mitjà social  a la ciutat de València l'any de referència.
+  Relació entre el nombre de malalties adquirides a conseqüència del treball en centres de treball a la ciutat de València i la població afiliada a la Seguretat Social a la ciutat de València l'any de referència.
 UNIT_MEASURE: >-
   Tant per 10.000
 CLASS_SYSTEM: >-
@@ -50,7 +50,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Es coneix com a malaltia professional aquella que, a més de tindre el seu origen laboral, està inclosa en una llista oficial publicada pel Ministeri de Treball donant, per tant, dret al cobrament de les indemnitzacions oportunes. La informació prové del Ministeri de Treball i Seguretat Social fins a 2006, i de la Conselleria d'Educació, Formació i Ocupació des de 2009.  L'article 157 de la Llei General de la Seguretat Social defineix la malaltia professional com aquella contreta a conseqüència del treball executat per compte d'altri o pròpia en les activitats que s'especifiquen en el quadre que s'aprove per les disposicions d'aplicació i desenvolupament d'aquesta llei, i que siga provocada per l'acció dels elements o substàncies que en aquest quadre s'indiquen per a cada malaltia professional. S'especifica a més el procediment que ha d'observar-se per a la inclusió en aquest quadre de noves malalties professionals que s'estime hagen de ser incorporades a aquest.
+  L'article 157 de la Llei General de la Seguretat Social defineix la malaltia professional com aquella contreta a conseqüència del treball executat per compte d'altri o pròpia en les activitats que s'especifiquen en el quadre que s'aprove per les disposicions d'aplicació i desenvolupament d'aquesta llei, i que siga provocada per l'acció dels elements o substàncies que en aquest quadre s'indiquen per a cada malaltia professional. S'especifica a més el procediment que ha d'observar-se per a la inclusió en aquest quadre de noves malalties professionals que s'estime hagen de ser incorporades a aquest.
 DATA_COMP: >-
   Quocient del nombre de malalties laborals declarades durant l'any de referència entre el nombre mitjà d'afiliacions de treballadors a la Seguretat Social corresponents a l'últim dia del mes dels dotze mesos de l'any de referència.
 DATA_VALIDATION: >-

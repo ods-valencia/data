@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Explotación estadística Estadística Judicial. Consell General del Poder Judicial.
+  Explotación estadística Estadística Judicial. Consell General del Poder Judicial.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,10 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Documentación relativa al número de mujeres víctimas de Violencia Doméstica: [Violencia Doméstica](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=15).
+  Documentación relativa al número de mujeres víctimas de Violencia Doméstica: [Violencia Doméstica](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=15).
    
-   La violencia doméstica o intrafamiliar es la que se produce entre miembros del núcleo familiar con previa convivencia. Son víctimas quienes han sufrido directa o indirectamente las consecuencias psicológicas, físicas, económicas y sociales de un hecho delictivo. 
-   En la ciudad de València se sitúan 21 Juzgados de Primera Instancia e Instrucción, que entienden de asuntos judiciales del partido judicial de València, formado únicamente por el municipio.
+  La violencia doméstica o intrafamiliar es la que se produce entre miembros del núcleo familiar con previa convivencia. Son víctimas quienes han sufrido directa o indirectamente las consecuencias psicológicas, físicas, económicas y sociales de un hecho delictivo.
+   
+  En la ciudad de València se sitúan 21 Juzgados de Primera Instancia e Instrucción, que entienden de asuntos judiciales del partido judicial de València, formado únicamente por el municipio.
 DATA_COMP: >-
   Valor numérico registrado en los boletines estadísticos trimestrales de los Juzgados de Primera Instancia e Instrucción de la ciudad.
 DATA_VALIDATION: >-

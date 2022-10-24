@@ -51,10 +51,12 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
    
+  
   L'estadística d'accidentalitat laboral ofereix dades del nombre d'accidentats i del nombre de dies de duració de les baixes a conseqüència de l'accident. La informació inclosa en aquest apartat procedeix d'una explotació específica realitzada pel Ministeri a partir de la informació recollida en els comunicats d'accidents de treball ocorreguts a treballadors d'empreses situades a la ciutat de València. S'inclouen tant els accidents ocorreguts durant la jornada de treball, com els esdevinguts durant el temps de desplaçament utilitzat per a anar o tornar del treball (''in itinere'').  Els accidents de treball coberts per aquesta estadística són els que han patit els treballadors afiliats a la Seguretat Social amb la contingència d'accidents de treball específicament coberta. No s'inclouen accidents de treball patits per funcionaris mutualistes coberts per MUFACE, ISFAS i MUGEJU, ni als afiliats a la Seguretat Social sense la cobertura específica de la contingència d'accidents de treball. Tampoc s'inclouen els accidents de treball relacionats amb ocupacions militars.
 DATA_COMP: >-
-  Accidents de treball que han causat la baixa del treballador accidentat notificats mitjançant el corresponent comunicat d'accident de treball, que conté informació relativa a característiques personals i professionals del treballador accidentat, dades del centre de treball i de l'empresa a la qual pertany el treballador accidentat així com les dades relatives al centre de treball en el qual ha ocorregut l'accident quan aquest centre és diferent d'aquell al qual està afiliat el treballador (empreses usuàries de ETT, contractes, etc.), així mateix recull les circumstàncies en què va ocórrer l'accident. 
+  Accidents de treball que han causat la baixa del treballador accidentat notificats mitjançant el corresponent comunicat d'accident de treball, que conté informació relativa a característiques personals i professionals del treballador accidentat, dades del centre de treball i de l'empresa a la qual pertany el treballador accidentat així com les dades relatives al centre de treball en el qual ha ocorregut l'accident quan aquest centre és diferent d'aquell al qual està afiliat el treballador (empreses usuàries de ETT, contractes, etc.). Així mateix recull les circumstàncies en què va ocórrer l'accident. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

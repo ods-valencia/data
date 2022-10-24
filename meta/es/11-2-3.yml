@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Elaboración propia Oficina de Estadística Ayuntamiento de València.
+  Elaboración propia Oficina de Estadística Ayuntamiento de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,13 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  La información respecto a la distancia a paradas de MetroValencia en metros procede de la publicación de Areas Vulnerables de la Oficina de Estadística del Ayuntamiento de València. Para realizar la conversión de metros a minutos se considera el indicador estándar que apunta que una persona recorre en 1 hora 4.5 kilómetros (75 metros en un minuto).
    
-   La información respecto a la distancia a paradas de MetroValencia en metros procede de la publicación de Areas Vulnerables de la Oficina de Estadística del Ayuntamiento de València. Para realizar la conversión de metros a minutos se considera el indicador estándar que apunta que una persona recorre en 1 hora 4.5 kilómetros (75 metros en un minuto).
+  El fichero de paradas de metros georreferenciadas es de elaboración propia.
    
-   El fichero de paradas de metros georreferenciadas es de elaboración propia.
-   
-   Documentación metodológica sobre la Publicación de Areas Vulnerables: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
+  Documentación metodológica sobre la Publicación de Areas Vulnerables: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
 DATA_COMP: >-
   Cociente entre la población con una parada de MetroValència a menos de 10 minutos y el total de la población.
 DATA_VALIDATION: >-

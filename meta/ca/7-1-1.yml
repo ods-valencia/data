@@ -51,6 +51,7 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
   Energia elèctrica total és la suma de l'energia facturada per a ús domèstic, comercial, industrial i no classificat.
 DATA_COMP: >-
   Quocient entre l'energia elèctrica facturada a les persones abonades al llarg de l'any i la població a 1 de juliol de l'any de referència, dividit al seu torn entre el nombre de dies de l'any de referència (365, o 366).

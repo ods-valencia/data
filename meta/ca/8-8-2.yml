@@ -34,7 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Ministeri de Treball i Economia Social.
+  Explotació Estadística Ministeri de Treball i Economia Social.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,8 +51,10 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
    
-  L'estadística d'accidentalitat laboral ofereix dades del nombre d'accidentats i del nombre de dies de duració de les baixes a conseqüència de l'accident. La informació inclosa en aquest apartat procedeix d'una explotació específica realitzada pel Ministeri a partir de la informació recollida en els comunicats d'accidents de treball ocorreguts a treballadors d'empreses situades a la ciutat de València. S'inclouen tant els accidents ocorreguts durant la jornada de treball, com els esdevinguts durant el temps de desplaçament utilitzat per a anar o tornar del treball (''in itinere'').  Els accidents de treball són els que han patit els treballadors afiliats a la Seguretat Social amb la contingència d'accidents de treball específicament coberta. No s'inclouen accidents de treball patits per funcionaris mutualistes coberts per MUFACE, ISFAS i MUGEJU, ni als afiliats a la Seguretat Social sense la cobertura específica de la contingència d'accidents de treball. Tampoc s'inclouen els accidents de treball relacionats amb ocupacions militars.
+  
+  L'estadística d'accidentalitat laboral ofereix dades del nombre d'accidentats i del nombre de dies de duració de les baixes a conseqüència de l'accident. La informació inclosa en aquest apartat procedeix d'una explotació específica realitzada pel Ministeri a partir de la informació recollida en els comunicats d'accidents de treball ocorreguts a treballadors d'empreses situades a la ciutat de València. S'inclouen tant els accidents ocorreguts durant la jornada de treball, com els esdevinguts durant el temps de desplaçament utilitzat per a anar o tornar del treball (''in itinere'').  Els accidents de treball coberts per aquesta estadística són els que han patit els treballadors afiliats a la Seguretat Social amb la contingència d'accidents de treball específicament coberta. No s'inclouen accidents de treball patits per funcionaris mutualistes coberts per MUFACE, ISFAS i MUGEJU, ni als afiliats a la Seguretat Social sense la cobertura específica de la contingència d'accidents de treball. Tampoc s'inclouen els accidents de treball relacionats amb ocupacions militars.
 DATA_COMP: >-
   Quocient del nombre d'accidents laborals amb baixa total durant l'any de referència entre el nombre mitjà d'afiliacions de treballadors a la Seguretat Social corresponents a l'últim dia del mes dels dotze mesos de l'any de referència.
 DATA_VALIDATION: >-

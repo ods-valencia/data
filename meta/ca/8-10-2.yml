@@ -33,9 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-   
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022. 
+  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
   Explotació estadística Registre d'Oficines d'Entitats Supervisades. Banc d'Espanya.
 COLL_METHOD: >-
 
@@ -52,9 +50,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).                                                                                                                                                 Una sucursal (o oficina) bancària és un determinat lloc que estableix una entitat bancària i que  gaudeix d'unes certes atribucions i autonomia respecte als serveis centrals. És el principal canal de distribució dels seus productes per a moltes de les entitats de crèdit, a excepció d'aquelles que operen sense sucursals.
 DATA_COMP: >-
   Quocient entre el nombre de sucursals bancàries en el municipi de València a 1 de gener de l'any de referència i la població total de 16 o més anys d'edat empadronada a la ciutat a 1 de gener de l'any de referència.
 DATA_VALIDATION: >-

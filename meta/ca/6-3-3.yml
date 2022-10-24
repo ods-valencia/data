@@ -51,7 +51,9 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
    
+  
   Tractament secundari és el procés utilitzat per a reduir la quantitat de matèria orgànica present en les aigües residuals que ja han rebut el tractament primari. Aquest tractament també es coneix com a reducció del DBO5. La nomenclatura DBO5 fa referència a la quantitat d'oxigen emprada pels microorganismes presents per a descompondre la matèria orgànica de les aigües durant un període de 5 dies a 20 °C.
 DATA_COMP: >-
   Quocient de la divisió del volum d'aigües residuals que són objecte de tractament secundari entre el volum total d'aigües residuals produïdes a la ciutat l'any de referència.

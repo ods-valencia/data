@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Explotación estadística Estadística Judicial. Consell General del Poder Judicial.
+  Explotación estadística Estadística Judicial. Consell General del Poder Judicial.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentación relativa al número de mujeres a las cuales se ha concedido órdenes de alejamiento: [Violencia Doméstica](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=15). 
+  Documentación relativa al número de mujeres a las cuales se ha concedido órdenes de alejamiento: [Órdenes Alejamiento](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=15). 
    
-   La orden de alejamiento es una resolución judicial que, en los casos en que existan indicios fundados de la comisión de delitos o faltas de violencia doméstica y exista una situación objetiva de riesgo para la víctima, ordena su protección mediante la adopción de medidas cautelares civiles y/o penales, además de activar las medidas de asistencia y protección social necesarias, por remisión de la orden de protección a los puntos de coordinación de las comunidades autónomas.
+  La orden de alejamiento es una resolución judicial que, en los casos en que existan indicios fundados de la comisión de delitos o faltas de violencia doméstica y exista una situación objetiva de riesgo para la víctima, ordena su protección mediante la adopción de medidas cautelares civiles y/o penales, además de activar las medidas de asistencia y protección social necesarias, por remisión de la orden de protección a los puntos de coordinación de las comunidades autónomas.
 DATA_COMP: >-
   Valor numérico registrado en los boletines estadísticos trimestrales de los Juzgados de Primera Instancia e Instrucción de la ciudad.
 DATA_VALIDATION: >-

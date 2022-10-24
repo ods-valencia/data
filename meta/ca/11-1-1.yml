@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-1-title
 SDG_INDICATOR: >-
-  Renta mitjana de la població
+  Renda mitjana de la població
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0506-Rendes en IRPF a la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  0506-Rentas en IRPF en la ciudad de Valencia. Pla Valencià d'Estadística 2019-2022.
    
   Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
@@ -51,9 +51,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
-   
-  Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
+  Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/metodologia/metodologia_adrh.pdf).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

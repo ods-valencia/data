@@ -49,10 +49,14 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  
    
+  
   Documentació metodològica sobre la 5 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
+  
    
+  
   Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Juny i Juliol de 2018 publicant-se el Baròmetre el mes de setembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Juny/Juliol 2017 - Juny/Juliol 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
 DATA_COMP: >-
   Quocient entre el nombre de persones que han patit discriminació per motius de discapacitat l'any de referència i el total de persones en el municipi de València.

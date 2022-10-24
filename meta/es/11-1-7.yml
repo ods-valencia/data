@@ -33,9 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  1504-Censo de inmuebles de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   IPC (Instituto Nacional de Estadística).
+  Explotación estadística Catastro de Bienes e Inmuebles.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,8 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   El precio de la vivienda libre se calcula anualmente como la media de los precios de los cuatro trimestres. El IPC general se calcula anualmente como la media de los índices mensuales.
+  El precio de la vivienda libre se calcula anualmente como la media de los precios de los cuatro trimestres. El IPC general se calcula anualmente como la media de los índices mensuales.
+  Documentación relativa al Censo de Bienes e Inmuebles: [Bienes e Inmuebles](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=4).
 DATA_COMP: >-
   Diferencia entre la variación anual del precio de la vivienda libre y la variación anual del IPC general.
 DATA_VALIDATION: >-

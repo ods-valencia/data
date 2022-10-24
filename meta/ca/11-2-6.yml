@@ -33,10 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadors socials de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
-   
-  9906-Anuari estadístic de la ciutat de València. Pla Valencià d'Estadística 2019-2022. 
-  Font Empresa Municipal de Transports de València (EMT).
+  Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Empresa Municipal de Transports de València (EMT).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,8 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/) i del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
    
+  
   Només es comptabilitzen les dades facilitades per l'EMT. La població calculada a meitat de l'any de referència s'obté com a semisuma de les poblacions corresponents a 1 de gener de l'any de referència i 1 de gener de l'any següent.
 DATA_COMP: >-
   Quocient del nombre de viatges realitzats amb autobús (bitllets cancel·lats) durant l'any dividit per la població a 1 de juliol de l'any de referència. 

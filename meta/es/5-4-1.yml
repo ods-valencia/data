@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Quinta Ola Barómetro de Opinión Ciudadana: Convivencia y Derechos Sociales. (2018).
+  Quinta Ola Barómetro de Opinión Ciudadana: Convivencia y Derechos Sociales. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,11 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-   Documentación metodológica sobre la 5 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
+  Documentación metodológica sobre la 5 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
    
-   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).
+  Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).
    
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Junio y Julio de 2018 publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Junio/Julio 2017 - Junio/Julio 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.  En las entrevistas realizadas una parte importante de la muestra contestaba que atendía y cuidaba de su hijo las 24 horas del día (1440 minutos). El exceso que produce esta respuesta, se corrige considerando para el cálculo del indicador toda la población. Es decir, consideramos también las personas que no tienen hijos, que en este caso dedican 0 minutos a la atención y cura de estos.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Junio y Julio de 2018 publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Junio/Julio 2017 - Junio/Julio 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.  En las entrevistas realizadas una parte importante de la muestra contestaba que atendía y cuidaba de su hijo las 24 horas del día (1440 minutos). El exceso que produce esta respuesta, se corrige considerando para el cálculo del indicador toda la población. Es decir, consideramos también las personas que no tienen hijos, que en este caso dedican 0 minutos a la atención y cura de estos.
 DATA_COMP: >-
   Cociente del tiempo total dedicado a la cura y atención de los hijos declarado entre el total de personas encuestadas que responden a la pregunta.
 DATA_VALIDATION: >-
