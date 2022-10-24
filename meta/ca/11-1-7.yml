@@ -33,9 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
-   
-  IPC (Institut Nacional d'Estadística).
+  1504-Censo de inmuebles de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Explotació estadística Cadastre de Béns i Immobles.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,8 +51,12 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
    
+  
   El preu de l'habitatge lliure es calcula anualment com la mitjana dels preus dels quatre trimestres. L'IPC general es calcula anualment com la mitjana dels índexs mensuals.
+  
+  Documentació relativa  al Cens de Béns i Immobles: [Béns i Immobles](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=4).
 DATA_COMP: >-
   Diferència entre la variació anual del preu de l'habitatge lliure i la variació anual de l'IPC general.
 DATA_VALIDATION: >-

@@ -33,9 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadors socials de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
     
-  Font AENA.
+  AENA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,6 +52,7 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  
   Els passatgers en trànsit (que arriben a l'aeroport i continuen el seu viatge en un vol amb el mateix número de vol que en el qual van arribar) es consideren com a arribades a l'aeroport. El nombre total de passatgers inclou per tant la suma de les arribades més les eixides de l'Aeroport de València, per la qual cosa inclou passatgers embarcats, desembarcats o en trànsit. L'Aeroport de València (Codi IATA: VLC, codi OACI: LEVC) està situat a huit quilòmetres a l'oest de la capital.
 DATA_COMP: >-
   

@@ -33,9 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  2103-Cens d'activitats econòmiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
-   
-  0211-Característiques de la població de València. Padró municipal de València a 1 de gener de cada any. Pla Valencià d'Estadística 2019-2022.
+  2103-Censo de Actividades Economicas de la ciudad de Valencia. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,12 +49,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
    
-  En les sol·licituds de propietat industrial, s'han tingut en compte aquelles en les quals el municipi de residència del primer sol·licitant és la ciutat de València. També s'inclouen les presentades o participades per les Universitats públiques.  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
-   
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  
+  En les sol·licituds de propietat industrial, s'han tingut en compte aquelles en les quals el municipi de residència del primer sol·licitant és la ciutat de València. També s'inclouen les presentades o participades per les Universitats públiques.  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2022.pdf).
 DATA_COMP: >-
   Quocient entre el nombre de sol·licituds de patents i marques registrades en l'Oficina Espanyola de Patents i Marques, i el nombre d'habitants a 1 de juliol de l'any de referència.
 DATA_VALIDATION: >-

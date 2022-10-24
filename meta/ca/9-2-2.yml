@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadors socials de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de Valencia. Pla Valencià d'Estadística 2019-2022.
    
   Explotació estadística Enquesta de Població Activa de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
@@ -51,10 +51,14 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors. També forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
    
+  
   La població ocupada són les persones de 16 i més anys que durant la setmana de referència han estat treballant durant almenys una hora a canvi d'una retribució per compte d'altri (assalariats) o exercint una activitat per compte propi.  L'Enquesta de Població Activa (EPA) és una enquesta contínua de periodicitat trimestral realitzada per l'INE que té com a finalitat conéixer l'activitat econòmica quant al component humà. Està orientada per a oferir dades de les principals categories poblacionals en relació al mercat de treball. La informació utilitzada per al càlcul d'aquest indicador es refereix a la ciutat de València i s'obté d'una explotació específica de les seccions que formen la mostra a la ciutat. Els resultats han d'interpretar-se amb precaució a causa dels errors de mostreig. Les dades estan calculades segons la metodologia 2005 revisades segons la base poblacional 2011.
+  
    
+  
   Documentació metodològica sobre l'Enquesta de Població Activa de l'INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
   Quocient del nombre de persones que treballa en indústria, entre el total de la població ocupada resident a la ciutat de València, per a l'any de referència. Aquests valors s'han obtingut com a mitjanes aritmètiques de les estimacions trimestrals oferides per l'Enquesta de Població Activa (EPA).

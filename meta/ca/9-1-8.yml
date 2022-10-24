@@ -33,6 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Primera Ona Baròmetre d'Opinió Ciutadana: Mobilitat. (2017).
 COLL_METHOD: >-
 
@@ -50,9 +51,13 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  
    
+  
   Documentació metodològica sobre la 1 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 1](https://www.valencia.es/estadistica/Barometro/Metodologia1.pdf).
+  
    
+  
   Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Febrer i Març de 2017. Es va entrevistar un total de 2211 persones empadronades a la ciutat de València.
 DATA_COMP: >-
   Mitjana aritmètica de la valoració de la població respecte a la facilitat per a desplaçar-se amb EMT.

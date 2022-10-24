@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0506-Rendes en IRPF a la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  0506-Rentas en IRPF en la ciudad de València. Pla Valencià d'Estadística 2019-2022.
    
   Atles de Distribució de Renda de les Llars de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
@@ -52,9 +52,13 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
    
+  
   Documentació metodològica sobre l'Atles de Distribució de Renda de les Llars de l'INE: [Atles Renda](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
+  
    
+  
   Els conceptes tributaris inclosos en la renda neta de la llar es descriuen en el document metodològic de l'operació estadística.
 DATA_COMP: >-
   Quocient entre la renda que controla el 20% més pobre i la renda total.

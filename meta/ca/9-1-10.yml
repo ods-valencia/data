@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Dades estadístiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
    
   Elaboració pròpia Oficina d'Estadística Ajuntament de València.
 COLL_METHOD: >-
@@ -51,12 +51,14 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
-   
   La informació respecte a la distància a parades d'EMT en metres procedeix de la publicació de Areas Vulnerables de l'Oficina d'Estadística de l'Ajuntament de València. Per a realitzar la conversió de metres a minuts es considera l'indicador estàndard que apunta que una persona recorre en 1 hora 4.5 quilòmetres (75 metres en un minut).
+  
    
+  
   El fitxer de parades d'EMT georreferenciadas procedeix de Dades Obertes (https://www.valencia.es/dadesobertes/va/).
+  
    
+  
   Documentació metodològica sobre la Publicació de Areas Vulnerables: [Areas Vulnerables](https://www.valencia.es/estadistica/CatPub/files/ArVul2019-Metodologia.pdf).
 DATA_COMP: >-
   Mitjana aritmètica del temps que la població empra a arribar a la seua parada d'EMT més pròxima.

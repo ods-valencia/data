@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.9-5-title
 SDG_INDICATOR: >-
-  Patents presentades per la Universitat de València (UV)
+  Patents sol·licitades per la Universitat de València (UV)
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -33,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  2103-Cens d'Activitats Econòmiques de la ciutat de València. Pla Valencià d'Estadística 2019-2022.
+  2103-Censo de Actividades Economicas de la ciudad de Valencia. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,7 +49,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2021.pdf).
+  Documentació metodològica sobre el Cens d'Activitats Econòmiques de la ciutat de València: [Activitats Econòmiques](https://www.valencia.es/estadistica/CatPub/files/CensoActEconomicas/Boletin_IAE_2022.pdf).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-
