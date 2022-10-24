@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Registro General de Empresas, Establecimientos y Profesiones Turísticas. Agencia Valenciana de Turismo.
+  Registro General de Empresas, Establecimientos y Profesiones Turísticas. Agencia Valenciana de Turismo.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentación metodológica sobre la Encuesta de Apartamentos Turísticos: [EOAT](https://www.ine.es/daco/daco42/ocupapar/meto_eoap.pdf). 
-   
-   La información está referida a la oferta de apartamentos turísticos situados en la ciudad a 31 de diciembre de cada año. La información asociada al año t corresponde con la situación a 31 de diciembre del año t-1.
+  La información está referida a la oferta de apartamentos turísticos situados en la ciudad a 31 de diciembre de cada año. La información asociada al año t corresponde con la situación a 31 de diciembre del año t-1.
 DATA_COMP: >-
   Recoge información de los apartamentos turísticos procedente de la tabulación estadística de los establecimientos del Registro General de Empresas, Establecimientos y Profesiones Turísticas situados en la ciudad, que es remitido por la Agencia Valenciana de Turismo de Presidencia de la Generalitat Valenciana.
 DATA_VALIDATION: >-

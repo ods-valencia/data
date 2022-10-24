@@ -33,9 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Ciclo Integral del agua.
+  Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,7 +51,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Para el cálculo de este indicador se han sumado los caudales diarios de las depuradoras que depuran aguas residuales procedentes de la ciudad de València. Se han incluido las depuradoras que dan servicio de manera exclusiva en la ciudad (el Palmar, el Saler, Massarojos, Perellonet, Casal d'Esplai  y Pinedo 1) y las que también dan servicio en otras localidades de l'Horta (Pinedo 2, Conca Carraixet, Quart - Benàger). En las depuradoras de Pinedo 2 y Conca Carraixet el caudal diario correspondiendo a la población de València se ha estimado utilizando la proporción de población de la ciudad de València respecto a la población a la cual da servicio cada depuradora.
+  Para el cálculo de este indicador se han sumado los caudales diarios de las depuradoras que depuran aguas residuales procedentes de la ciudad de València. Se han incluido las depuradoras que dan servicio de manera exclusiva en la ciudad (el Palmar, el Saler, Massarojos, Perellonet, Casal d'Esplai  y Pinedo 1) y las que también dan servicio en otras localidades de l'Horta (Pinedo 2, Conca Carraixet, Quart - Benàger). En las depuradoras de Pinedo 2 y Conca Carraixet el caudal diario correspondiente a la población de València se ha estimado utilizando la proporción de población de la ciudad de València respecto a la población a la cual da servicio cada depuradora.
 DATA_COMP: >-
   Suma de los caudales diarios de las depuradoras que tratan aguas residuales procedentes de la ciudad de València durante el año de referencia.
 DATA_VALIDATION: >-

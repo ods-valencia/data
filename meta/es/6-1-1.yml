@@ -33,8 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   Ciclo Integral del agua.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+  Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,9 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/). También forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   La información de este indicador incluye de manera conjunta el agua de uso doméstico, industrial y municipal.
+  La información de este indicador incluye de manera conjunta el agua de uso doméstico, industrial y municipal.
    
-   Documentación relativa al consumo de agua: [Agua](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=8).
+  Documentación relativa al consumo de agua: [Agua](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=8).
 DATA_COMP: >-
   Cociente entre el agua facturada a las personas abonadas a lo largo del año de referencia y la población a 1 de julio del año de referencia, dividido a su vez entre el número de días del año de referencia (365, o 366).
 DATA_VALIDATION: >-

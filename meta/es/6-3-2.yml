@@ -33,9 +33,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Ciclo Integral del agua.
+  Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Tratamiento primario es el proceso utilizado para eliminar las sustancias sólidas de las aguas residuales.
+  Tratamiento primario es el proceso utilizado para eliminar las sustancias sólidas de las aguas residuales.
 DATA_COMP: >-
   Cociente de la división del volumen de aguas residuales que son objeto de tratamiento primario entre el volumen total de aguas residuales producidas en la ciudad el año de referencia.
 DATA_VALIDATION: >-

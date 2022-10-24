@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Quinta Ola Barómetro de Opinión Ciudadana: Convivencia y Derechos Sociales. (2018).
+  Quinta Ola Barómetro de Opinión Ciudadana: Convivencia y Derechos Sociales. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Documentación metodológica sobre la 5 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
    
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Junio y Julio de 2018, publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Junio/Julio 2017 - Junio/Julio 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Junio y Julio de 2018, publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Junio/Julio 2017 - Junio/Julio 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
   Cociente del número de mujeres que declaran haber sufrido discriminación por motivos de sexo en los últimos doce meses antes de la encuesta entre el total de mujeres encuestadas que responden a la pregunta.
 DATA_VALIDATION: >-

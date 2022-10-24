@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Personas residentes en València demandantes de ocupación registradas por el Servicio Valenciano de Ocupación y Formación durante el año de referencia.
+  Personas residentes en València demandantes de ocupación.
 UNIT_MEASURE: >-
   Parados
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Servicio Valenciano de Ocupación y Formación. LABORA.
+  Explotación estadística Encuesta de Población Activa del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,16 +53,16 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores. También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   La población parada son las personas de 16 y más años que durante la semana de referencia han estado sin trabajo, disponibles para trabajar y buscando activamente trabajo.
+  La población parada son las personas de 16 y más años que durante la semana de referencia han estado sin trabajo, disponibles para trabajar y buscando activamente trabajo.
    
-   La Encuesta de Población Activa (EPA) es una encuesta continua de periodicidad trimestral realizada por la INE que tiene como finalidad conocer la actividad económica en cuanto al componente humano. Está orientada para ofrecer datos de las principales categorías poblacionales en relación al mercado de trabajo. La información utilizada para el cálculo de este indicador se refiere en la ciudad de València y se obtiene de una explotación específica de las secciones que forman la muestra en la ciudad. Los datos están calculados según la metodología 2005 revisadas según la base poblacional 2011.  
-   Para la elaboracio´ de este indicador, se ha asumido que la tasa de actividad para un grupo de edad y sexo es la misma en todos los distritos, y por tanto el número de activos en un distrito dependerá bajo´ esto de la estructura de la poblacio´ en ese distrito. Esta tesis ha sido corroborada a partir de los datos del censo de 2001, donde observamos que para un grupo de edad y sexo la tasa de actividad se mantiene estable entre los distritos que forman la ciudad.
+  La Encuesta de Población Activa (EPA) es una encuesta continua de periodicidad trimestral realizada por el INE que tiene como finalidad conocer la actividad económica en cuanto al componente humano. Está orientada para ofrecer datos de las principales categorías poblacionales en relación al mercado de trabajo. La información utilizada para el cálculo de este indicador se refiere a la ciudad de València y se obtiene de una explotación específica de las secciones que forman la muestra en la ciudad. Los datos están calculados según la metodología 2005 revisados según la base poblacional 2011.  
+  Para la elaboracio´n de este indicador, se ha asumido que la tasa de actividad para un grupo de edad y sexo es la misma en todos los distritos, y por tanto el número de activos en un distrito dependerá bajo esto de la estructura de la poblacio´n en ese distrito. Esta tesis ha sido corroborada a partir de los datos del censo de 2001, donde observamos que para un grupo de edad y sexo la tasa de actividad se mantiene estable entre los distritos que forman la ciudad.
    
-   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf).
    
-   Documentación metodológica sobre la Encuesta de Población Activa de la INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
+  Documentación metodológica sobre la Encuesta de Población Activa de la INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
-  Media anual del número de personas residentes en la ciudad demandantes de ocupación registradas por el Servicio Valenciano de Ocupación y Formación para el año de referencia. La media anual se ha obtenido a partir de los datos mensuales referidos a las personas demandantes de ocupación en alta el último día de cada mes del año de referencia.
+  Media anual del número de personas residentes en la ciudad demandantes de ocupación para el año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

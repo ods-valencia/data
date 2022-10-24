@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Relación entre el número de enfermedades adquiridas a consecuencia del trabajo en centros de trabajo en la ciudad de València y la población afiliada a la Seguridad Social media en la ciudad de València el año de referencia.
+  Relación entre el número de enfermedades adquiridas a consecuencia del trabajo en centros de trabajo en la ciudad de València y la población afiliada a la Seguridad Social en la ciudad de València el año de referencia.
 UNIT_MEASURE: >-
   Tanto por 10.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo.
+  Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Se conoce como enfermedad profesional aquella que, además de tener su origen laboral, está incluida en una lista oficial publicada por el Ministerio de Trabajo dando, por lo tanto, derecho al cobro de las indemnizaciones oportunas. La información proviene del Ministerio de Trabajo y Seguridad Social hasta 2006, y de la Consellería de Educación, Formación y Ocupación desde 2009.  El artículo 157 de la Ley General de la Seguridad Social define la enfermedad profesional como aquella contraída a consecuencia del trabajo ejecutado por cuenta ajena o propia en las actividades que se especifican en el cuadro que se apruebe por las disposiciones de aplicación y desarrollo de esta ley, y que sea provocada por la acción de los elementos o sustancias que en este cuadro se indican para cada enfermedad profesional. Se especifica además el procedimiento que tiene que observarse para la inclusión en este cuadro de nuevas enfermedades profesionales que se estime tengan que ser incorporadas a este.
+  El artículo 157 de la Ley General de la Seguridad Social define la enfermedad profesional como aquella contraída a consecuencia del trabajo ejecutado por cuenta ajena o propia en las actividades que se especifican en el cuadro que se apruebe por las disposiciones de aplicación y desarrollo de esta ley, y que sea provocada por la acción de los elementos o sustancias que en este cuadro se indican para cada enfermedad profesional. Se especifica además el procedimiento que tiene que observarse para la inclusión en este cuadro de nuevas enfermedades profesionales que se estime tengan que ser incorporadas a este.
 DATA_COMP: >-
-  Cociente del número de enfermedades laborales declaradas durante el año de referencia entre el número mediano de afiliaciones de trabajadores a la Seguridad Social correspondientes al último día del mes de los doce meses del año de referencia.
+  Cociente del número de enfermedades laborales declaradas durante el año de referencia entre el número medio de afiliaciones de trabajadores a la Seguridad Social correspondientes al último día del mes de los doce meses del año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

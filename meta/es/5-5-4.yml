@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Registro de Personal Docente Universitario UV.
+  Explotación estadística Registro de Personal Docente Universitario UV.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Para el año X la información corresponde al personal docente en la UV en el curso X-1/X.
    
-   Documentación relativa al personal docente en la UV: [UV](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=9). 
+  Documentación relativa al personal docente en la UV: [UV](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=9). 
    
-   Se incluye el profesorado emérito, profesorado con cátedra universitaria, profesorado con cátedra de escuela universitaria, profesorado titular de universidad, profesorado titular de escuela universitaria, profesorado contratado doctor, profesorado ayudando doctor, profesorado asociado y otro profesorado (profesorado colaborador, ayudando o visitando). No incluye el profesorado que imparte docencia en el centro universitario de Ontinyent ni en los centros adscritos en la Universitat de València.
+  Se incluye el profesorado emérito, profesorado con cátedra universitaria, profesorado con cátedra de escuela universitaria, profesorado titular de universidad, profesorado titular de escuela universitaria, profesorado contratado doctor, profesorado ayudando doctor, profesorado asociado y otro profesorado (profesorado colaborador, ayudando o visitando). No incluye el profesorado que imparte docencia en el centro universitario de Ontinyent ni en los centros adscritos en la Universitat de València.
 DATA_COMP: >-
   Cociente entre el número de mujeres docentes en la UV y el total de docentes en la UV. 
 DATA_VALIDATION: >-
