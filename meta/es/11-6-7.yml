@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València Plan Valenciano de Estadística 2019-2022.
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Consellería de Agricultura
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +50,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-   Los datos utilizados provienen del fichero de mediciones en las estaciones de la red de vigilancia y control de la contaminación atmosférica de: Viveros (39° 28' 46'' N, 0° 22' 10'' O), Avda. Francia (39° 27' 27'' N, 0° 20' 34'' O), Pista de Silla (39° 27' 29'' N, 0° 22' 36'' O), Universidad Politècnica (39° 28' 47'' N, 0° 20' 15'' O) (desde 04/04/2008), Bulevar Sur (39° 27' 1'' N, 0° 23' 47'' O) (desde 24/05/2010), Linares (39° 28' 8'' N, 0° 23' 31'' O) (hasta 24/05/2010), Nuevo Centro (39° 28' 52'' N, 0° 23' 16'' O) (hasta 06/08/2009) y Aragón (39° 28' 37'' N, 0° 21' 17'' O) (hasta 04/04/2008).
+  Los datos utilizados provienen del fichero de mediciones en las estaciones de la red de vigilancia y control de la contaminación atmosférica de: Viveros (39° 28' 46'' N, 0° 22' 10'' O), Avda. Francia (39° 27' 27'' N, 0° 20' 34'' O), Pista de Silla (39° 27' 29'' N, 0° 22' 36'' O), Universidad Politècnica (39° 28' 47'' N, 0° 20' 15'' O) (desde 04/04/2008), Bulevar Sur (39° 27' 1'' N, 0° 23' 47'' O) (desde 24/05/2010), Linares (39° 28' 8'' N, 0° 23' 31'' O) (hasta 24/05/2010), Nuevo Centro (39° 28' 52'' N, 0° 23' 16'' O) (hasta 06/08/2009) y Aragón (39° 28' 37'' N, 0° 21' 17'' O) (hasta 04/04/2008).
 DATA_COMP: >-
   Los niveles medios anuales se han obtenido como media aritmética de los niveles medios mensuales de cada estación.
 DATA_VALIDATION: >-

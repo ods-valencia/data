@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Fuente Actividad Portuaria de València.
+  Actividad Portuaria de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-   Se incluye el total de sólidos al por mayor, líquidos al por mayor y mercancía general. Los sólidos o líquidos al por mayor son los que se transportan sin envasar y su medida de control es su peso en toneladas. No se incluye los datos referidos a avituallamiento y pesca.
+  Se incluye el total de sólidos al por mayor, líquidos al por mayor y mercancía general. Los sólidos o líquidos al por mayor son los que se transportan sin envasar y su medida de control es su peso en toneladas. No se incluye los datos referidos a avituallamiento y pesca.
 DATA_COMP: >-
   Suma entre el total de mercancías cargadas en el Puerto de València el año de referencia y el total de mercancías descargadas en el Puerto de València el año de referencia.
 DATA_VALIDATION: >-

@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Fichero Mensual Parados LABORA.
+  Fichero Mensual Parados LABORA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

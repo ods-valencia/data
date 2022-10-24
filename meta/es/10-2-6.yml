@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0506-Rentas en IRPF en la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística.
+  Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Documentación metodológica sobre el Atlas de Distribución de Renta de los Hogares del INE: [Atlas Renta](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
+  Documentación metodológica sobre el Atlas de Distribución de Renta de los Hogares del INE: [Atlas Renta](https://www.ine.es/experimental/atlas/exp_atlas_proyecto.pdf).
    
-   Los conceptos tributarios incluidos en la renta neta del hogar se describen en el documento metodológico de la operación estadística.
+  Los conceptos tributarios incluidos en la renta neta del hogar se describen en el documento metodológico de la operación estadística.
 DATA_COMP: >-
   Cociente entre la renta que controla el 20% más pobre y la renta total.
 DATA_VALIDATION: >-

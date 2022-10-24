@@ -34,6 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Servicio de Mobilidad. Ayuntamiento de Valencia.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +52,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   Documentación relativa a ValenBisi: [ValenBisi](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=3). 
-   
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre junio y julio de 2018, publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo junio/julio de 2017 - junio/julio de 2018. Se entrevistó un total de 2.301 personas empadronadas en la ciudad de València.
+  Documentación relativa a ValenBisi: [ValenBisi](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=3).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

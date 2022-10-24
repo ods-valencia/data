@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   1103-Encuesta de tecnologías de la información y comunicaciones en los hogares, en la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares del Instituto Nacional de Estadística.
+  Explotación estadística Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Indicador de la equipación de tecnologías de la información y la comunicación, como en este caso el ordenador, en las viviendas familiares principales de la ciudad habitados por personas mayores de 15 años.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  Indicador de la equipación de tecnologías de la información y la comunicación, como en este caso el ordenador, en las viviendas familiares principales de la ciudad habitadas por personas mayores de 15 años.
    
-   Documentación metodológica sobre la Encuesta sobre Equipación y Uso de Tecnologías de la Información y Comunicación en los Hogares del INE: [Encuesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).
+  Documentación metodológica sobre la Encuesta sobre Equipación y Uso de Tecnologías de la Información y Comunicación en los Hogares del INE: [Encuesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).
 DATA_COMP: >-
   Cociente entre el número de viviendas que poseen algún tipo de ordenador (sobremesa, portátil, otro tipo, como por ejemplo agenda electrónica, PDA o Pocket PC) y el número total de viviendas.
 DATA_VALIDATION: >-

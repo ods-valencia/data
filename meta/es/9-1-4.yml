@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Fuente AENA.
+  AENA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-   Los pasajeros en tráfico (que llegan al aeropuerto y continúan su viaje en un vuelo con el mismo número de vuelo que en el cual llegaron) se consideran como llegadas al aeropuerto. El número total de pasajeros incluye por lo tanto la suma de las llegadas más las salidas del Aeropuerto de València, por lo cual incluye pasajeros embarcados, desembarcados o en tráfico. El Aeropuerto de València (Código IATA: VLC, código OACI: LEVC) está situado a ocho kilómetros en el oeste de la capital.
+  Los pasajeros en tráfico (que llegan al aeropuerto y continúan su viaje en un vuelo con el mismo número de vuelo que en el cual llegaron) se consideran como llegadas al aeropuerto. El número total de pasajeros incluye por lo tanto la suma de las llegadas más las salidas del Aeropuerto de València, por lo cual incluye pasajeros embarcados, desembarcados o en tráfico. El Aeropuerto de València (Código IATA: VLC, código OACI: LEVC) está situado a ocho kilómetros en el oeste de la capital.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-
