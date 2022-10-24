@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta de Población Activa (Instituto Valenciano de Estadística).
+  Explotación estadística Encuesta de Población Activa (Instituto Nacional de Estadística).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,10 +53,10 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Documentación metodológica sobre la Encuesta de Población Activa: [Encuesta Población Activa](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
+  Documentación metodológica sobre la Encuesta de Población Activa: [Encuesta Población Activa](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
    
-   La Encuesta de población activa (EPA) se realiza desde 1964, siendo la metodología vigente en la actualidad la de 2005. Se trata de una investigación continua y de periodicidad trimestral dirigida a las familias, la finalidad principal de la cual es obtener datos de la forma de trabajo y de sus diversas categorías (ocupados, parados), así como de la población ajena al mercado laboral (inactivos).
-   Dado que la EPA no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel de error que el asociado a ámbitos territoriales más amplios y tendrán que ser tratadas con cautela. La rama de actividad asociada a la población ocupada se clasifica según la Clasificación Nacional de Actividades Económicas de 2009 (CNAE-2009).
+  La Encuesta de Población Activa (EPA) se realiza desde 1964, siendo la metodología vigente en la actualidad la de 2005. Se trata de una investigación continua y de periodicidad trimestral dirigida a las familias, la finalidad principal de la cual es obtener datos de la forma de trabajo y de sus diversas categorías (ocupados, parados), así como de la población ajena al mercado laboral (inactivos).
+  Dado que la EPA no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel de error que el asociado a ámbitos territoriales más amplios y tendrán que ser tratadas con cautela. La rama de actividad asociada a la población ocupada se clasifica según la Clasificación Nacional de Actividades Económicas de 2009 (CNAE-2009).
 DATA_COMP: >-
   Media anual de los porcentajes trimestrales de población ocupada en el sector primario respecto al total de población ocupada para el año de referencia para la ciudad.
 DATA_VALIDATION: >-

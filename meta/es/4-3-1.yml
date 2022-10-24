@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Séptima Ola Barómetro de Opinión Ciudadana: Educación y Formación. (2018).
+  Séptima Ola Barómetro de Opinión Ciudadana: Educación y Formación. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,15 +51,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Eneroalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-   Documentación metodológica sobre la 7 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 7](https://www.valencia.es/estadistica/Barometro/Metodologia7.pdf).
+  Documentación metodológica sobre la 7 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 7](https://www.valencia.es/estadistica/Barometro/Metodologia7.pdf).
    
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Diciembre de 2018 y Enero de 2019 publicándose el Barómetro el mes de febrero. Aunque los resultados se publican para el año 2018, las respuestas comprenden el intervalo Diciembre2017/Enero2018 - Diciembre2018/Enero2019. Se entrevistó un total de 1737 personas de 18 a 64 años empadronadas en la ciudad de València.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Diciembre de 2018 y Enero de 2019 publicándose el Barómetro el mes de febrero. Aunque los resultados se publican para el año 2018, las respuestas comprenden el intervalo Diciembre2017/Enero2018 - Diciembre2018/Enero2019. Se entrevistó un total de 1737 personas de 18 a 64 años empadronadas en la ciudad de València.
    
-   Para las tasas específicas por sexo se consideran las personas de este sexo.  El diseño del barómetro, previo a la pregunta sobre este indicador, preguntaba si el entrevistado se encontraba estudiando actualmente. Esto comportaba que este pudiera considerar que la realización de un curso, taller o actividad era independiente, contestando que no.
+  Para las tasas específicas por sexo se consideran las personas de este sexo.  El diseño del barómetro, previo a la pregunta sobre este indicador, preguntaba si el entrevistado se encontraba estudiando actualmente. Esto comportaba que este pudiera considerar que la realización de un curso, taller o actividad era independiente, contestando que no.
    
-   De este modo, se ha ponderado cómo que SÍ QUE están realizando actividades formativas a todos aquellos entrevistados que afirmaron encontrarse estudiando en el momento de la entrevista.
+  De este modo, se ha ponderado cómo que SÍ QUE están realizando actividades formativas a todos aquellos entrevistados que afirmaron encontrarse estudiando en el momento de la entrevista.
 DATA_COMP: >-
   Cociente del número de residentes en la ciudad de entre 18 y 64 años de edad que declaran haber realizado actividades educativas en los últimos 12 meses respecto al número de residentes encuestados de ese mismo rango de edad.
 DATA_VALIDATION: >-

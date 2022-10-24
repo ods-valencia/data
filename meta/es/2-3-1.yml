@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.2-3-title
 SDG_INDICATOR: >-
-  Superficie destinada en tierras cultivadas
+  Superficie destinada a tierras cultivadas
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta sobre Superficies de Cultivos y Aprovechamientos por Términos Municipales (Ministerio de Agricultura, Alimentación y Medio Ambiente).
+  Explotación estadística Encuesta sobre Superficies de Cultivos y Aprovechamientos por Términos Municipales (Ministerio de Agricultura, Alimentación y Medio Ambiente).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Esta información forma parte de la Estadística de Superficies y Rendimientos de Cultivos por Términos Municipales que realiza el Ministerio de Agricultura, Alimentación y Medio Ambiente, que se realiza con periodicidad anual desde el año 1990 en colaboración con los Servicios Estadísticos de las Comunidades Autónomas. Se basa en una investigación en campo, en la cual se toma información directamente a pie de parcela en una muestra georeferenciada del territorio nacional, realizada en los meses de mayo a agosto.
+  Esta información forma parte de la Estadística de Superficies y Rendimientos de Cultivos por Términos Municipales que realiza el Ministerio de Agricultura, Alimentación y Medio Ambiente, que se realiza con periodicidad anual desde el año 1990 en colaboración con los Servicios Estadísticos de las Comunidades Autónomas. Se basa en una investigación en campo, en la cual se toma información directamente a pie de parcela en una muestra georeferenciada del territorio nacional, realizada en los meses de mayo a agosto.
 DATA_COMP: >-
   Las tierras cultivadas incluyen las tierras con cultivos herbáceos, leñosos o en barbecho, ya sean de secano o de regadío. No incluye el terreno forestal, los pastos y pastoreos, las superficies no agrícolas, la superficie de ríos y lagos o el terreno improductivo.
 DATA_VALIDATION: >-

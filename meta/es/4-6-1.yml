@@ -51,11 +51,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   En el numerador se han considerado las personas con 25 o más años de edad que tienen registrado en el Padrón un nivel de estudios igual a 1 (No sabe leer ni escribir) o 11 (No sabe leer ni escribir). Igual a 2 (Titulación Inferior a Graduado Escolar), 21 (Sin Estudios) o 22 (Enseñanza Primaria incompleta. Cinco cursos de EGB o equivaliendo o Certificado de Escolaridad o equivaliendo). Igual a 3 (Graduado Escolar o Equivaliendo), 31 (Bachiller Elemental. Graduado Escolar. EGB completa. Primaria completa. ESO. Formación profesional básica) o 32 (Formación Profesional de Primer Grado. Formación profesional de Grado Medio. Oficialía Industrial).  
+  En el numerador se han considerado las personas con 25 o más años de edad que tienen registrado en el Padrón un nivel de estudios igual a 1 (No sabe leer ni escribir) o 11 (No sabe leer ni escribir). Igual a 2 (Titulación Inferior a Graduado Escolar), 21 (Sin Estudios) o 22 (Enseñanza Primaria incompleta. Cinco cursos de EGB o equivalente o Certificado de Escolaridad o equivalente). Igual a 3 (Graduado Escolar o Equivalente), 31 (Bachiller Elemental. Graduado Escolar. EGB completa. Primaria completa. ESO. Formación profesional básica) o 32 (Formación Profesional de Primer Grado. Formación profesional de Grado Medio. Oficialía Industrial).  
    
-   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).
+  Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).
    
-   Para su cálculo se ha utilizado la información registrada en el Padrón Municipal de Habitantes de la ciudad de València a 1 de enero del año de referencia.
+  Para su cálculo se ha utilizado la información registrada en el Padrón Municipal de Habitantes de la ciudad de València a 1 de enero del año de referencia.
 DATA_COMP: >-
   Cociente del número de personas entre 25 y 64 años de edad con nivel de estudios 1, 2 o 3 entre el total de personas de 25 a 64 años de edad residentes en la ciudad a 1 de enero del año de referencia.
 DATA_VALIDATION: >-

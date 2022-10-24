@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Explotación estadística Equipación Escolar de la Ciudad de València (Oficina de Estadística del Ayuntamiento de València).
+  Explotación estadística Equipación Escolar de la Ciudad de València (Oficina de Estadística del Ayuntamiento de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,13 +53,13 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-   La educación secundaria postobligatoria incluye la educación de bachillerato y los ciclos formativos de Grado Medio.
-   La educación de bachillerato tiene como finalidad la formación Eneroal del alumnado, así como su orientación y preparación para conseguir una madurez intelectual y humana que los permita integrarse en la vida activa o continuar estudios superiores, tanto universitarios como de formación profesional específica de grado superior. En los estudios de bachillerato puede acceder el alumnado que esté en posesión del título de Graduado en Educación Secundaria Obligatoria.
-   Los ciclos formativos de Grado Medio (CFGM) son estudios profesionales más próximos a la realidad del mercado de trabajo y que conducen en el título de Técnico Mediano.
+  La educación secundaria postobligatoria incluye la educación de bachillerato y los ciclos formativos de Grado Medio.
+  La educación de bachillerato tiene como finalidad la formación general del alumnado, así como su orientación y preparación para conseguir una madurez intelectual y humana que los permita integrarse en la vida activa o continuar estudios superiores, tanto universitarios como de formación profesional específica de grado superior. En los estudios de bachillerato puede acceder el alumnado que esté en posesión del título de Graduado en Educación Secundaria Obligatoria.
+  Los ciclos formativos de Grado Medio (CFGM) son estudios profesionales más próximos a la realidad del mercado de trabajo y que conducen en el título de Técnico Medio.
    
-   Este indicador expresa el porcentaje de alumnos que promocionan respecto al total de alumnos que es evaluado en segundo curso de bachiller o segundo curso de CFGM. La promoción de estos cursos está regulada por la legislación educativa aplicable en cada curso académico.  Para el año t, esta información proviene de los resultados de evaluación del curso t-1/t obtenida de la explotación estadística de los datos a cierre de curso de los centros que imparten segundo de Bachiller y/o segundo de CFGM situados en la ciudad de València. Esta información no incluye los centros con sistemas educativos extranjeros. 
+  Este indicador expresa el porcentaje de alumnos que promocionan respecto al total de alumnos que es evaluado en segundo curso de bachiller o segundo curso de CFGM. La promoción de estos cursos está regulada por la legislación educativa aplicable en cada curso académico.  Para el año t, esta información proviene de los resultados de evaluación del curso t-1/t obtenida de la explotación estadística de los datos a cierre de curso de los centros que imparten segundo de Bachiller y/o segundo de CFGM situados en la ciudad de València. Esta información no incluye los centros con sistemas educativos extranjeros. 
    
-   Para las tasas específicas por sexo se consideran las personas de este sexo.
+  Para las tasas específicas por sexo se consideran las personas de este sexo.
 DATA_COMP: >-
   Cociente del alumnado que promociona en segundo de bachillerato o segundo de CFGM entre el alumnado total evaluado.
 DATA_VALIDATION: >-

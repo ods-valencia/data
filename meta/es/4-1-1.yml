@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Explotación estadística Equipación Escolar de la Ciudad de València (Oficina de Estadística del Ayuntamiento de València).
+  Explotación estadística Equipación Escolar de la Ciudad de València (Oficina de Estadística del Ayuntamiento de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,11 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
-   La educación secundaria obligatoria (ESO) tiene una duración de cuatro cursos académicos, que se siguen ordinariamente entre los 12 y los 16 años de edad. Se establece un modelo común para los tres primeros cursos y se le da en el cuarto curso un carácter orientador. Al concluir esta etapa, el alumnado puede seguir sus estudios de Bachillerato o Ciclos Formativos o puede acceder en al mundo laboral.
+  La educación secundaria obligatoria (ESO) tiene una duración de cuatro cursos académicos, que se siguen ordinariamente entre los 12 y los 16 años de edad. Se establece un modelo común para los tres primeros cursos y se le da en el cuarto curso un carácter orientador. Al concluir esta etapa, el alumnado puede seguir sus estudios de Bachillerato o Ciclos Formativos o puede acceder en al mundo laboral.
    
-   Este indicador expresa el porcentaje de alumnos que promocionan respecto al total de alumnos que son evaluados en el cuarto curso de la ESO. La promoción de este curso está regulada por la legislación educativa aplicable en cada curso académico.  Para el año t, esta información proviene de los resultados de evaluación del curso t-1/t obtenida de la explotación estadística de los datos a cierre de curso de los centros que imparten cuarto de ESO situados en la ciudad de València. Esta información no incluye los centros con sistemas educativos extranjeros. 
+  Este indicador expresa el porcentaje de alumnos que promocionan respecto al total de alumnos que son evaluados en el cuarto curso de la ESO. La promoción de este curso está regulada por la legislación educativa aplicable en cada curso académico.  Para el año t, esta información proviene de los resultados de evaluación del curso t-1/t obtenida de la explotación estadística de los datos a cierre de curso de los centros que imparten cuarto de ESO situados en la ciudad de València. Esta información no incluye los centros con sistemas educativos extranjeros. 
    
-   Para las tasas específicas por sexo se consideran las personas de este sexo.
+  Para las tasas específicas por sexo se consideran las personas de este sexo.
 DATA_COMP: >-
   Cociente del alumnado que promociona en cuarto de ESO entre el alumnado total evaluado.
 DATA_VALIDATION: >-

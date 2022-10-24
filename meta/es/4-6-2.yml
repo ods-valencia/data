@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Proporción de personas entre 25 y 64 años de edad residentes en la ciudad con titulación de educación secundaria obligatoria o inferior. 
+  Proporción de personas entre 25 y 64 años de edad residentes en la ciudad con titulación superior a la de educación secundaria obligatoria.
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
@@ -51,10 +51,10 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). También forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   En el numerador se han considerado las personas con 25 o más años de edad que tienen registrado en el Padrón un nivel de estudios igual a 4 (Bachiller, FP de Segundo grado o Títulos Equiv. o Superiores), 41 (FP de Segundo Grado. Formación profesional de Grado Superior. Maestría Industrial), 42 (Bachiller Superior. BUP. Bachiller LOGSE), 43 (Otras titulaciones medianas (Auxiliar de Clínica, Secretariado, Programador de informática. Auxiliar de vuelo. Diplomados en Artes y Oficios, etc..)), 44 (Diplomados en Escuelas Universitarias (Empresariales, Profesorado de EGB, ATS y similares)), 45 (Arquitecto o Ingeniero Técnico), 46 (Licenciado Universitario. Arquitecto o Ingeniero Superior. Grado universitario), 47 (Titulados de Estudios Superiores no Universitarios) y 48 (Doctorado y Estudios de posgrado o especialización para Licenciados. Máster universitario).  
-   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad). 
+  En el numerador se han considerado las personas con 25 o más años de edad que tienen registrado en el Padrón un nivel de estudios igual a 4 (Bachiller, FP de Segundo grado o Títulos Equiv. o Superiores), 41 (FP de Segundo Grado. Formación profesional de Grado Superior. Maestría Industrial), 42 (Bachiller Superior. BUP. Bachiller LOGSE), 43 (Otras titulaciones medianas (Auxiliar de Clínica, Secretariado, Programador de informática. Auxiliar de vuelo. Diplomados en Artes y Oficios, etc..)), 44 (Diplomados en Escuelas Universitarias (Empresariales, Profesorado de EGB, ATS y similares)), 45 (Arquitecto o Ingeniero Técnico), 46 (Licenciado Universitario. Arquitecto o Ingeniero Superior. Grado universitario), 47 (Titulados de Estudios Superiores no Universitarios) y 48 (Doctorado y Estudios de posgrado o especialización para Licenciados. Máster universitario).  
+  Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad). 
    
-   Para su cálculo se ha utilizado la información registrada en el Padrón Municipal de Habitantes de la ciudad de València a 1 de enero del año de referencia.
+  Para su cálculo se ha utilizado la información registrada en el Padrón Municipal de Habitantes de la ciudad de València a 1 de enero del año de referencia.
 DATA_COMP: >-
   Cociente del número de personas entre 25 y 64 años de edad con nivel de estudios 4 entre el total de personas de 25 a 64 años de edad residentes en la ciudad a 1 de enero del año de referencia.
 DATA_VALIDATION: >-

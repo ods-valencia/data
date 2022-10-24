@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Explotación estadística Matriculación Universitaria (Universidades públicas y privadas en la ciudad).
+  Explotación estadística Matriculación Universitaria (Universidades públicas y privadas en la ciudad).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews. 
    
-   Documentación relativa al alumnado en las universidades valencianas: [Universidades](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=9).
+  Documentación relativa al alumnado en las universidades valencianas: [Universidades](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=9).
    
-   Para el año t, esta información proviene de la matriculación en centros universitarios para el curso t-1/t.  La información procede de las universidades públicas y privadas de la ciudad. En concreto incluye información de la Universitat Politècnica de València (no incluye el alumnado de la Escuela Politècnica Superior de Alcoy ni de la Escuela Politècnica Superior de Gandia), de la Universitat de València (no incluye el alumnado de los centros adscritos ni el centro de Ontinyent), de la Universidad Nacional a Distancia (no incluye el alumnado de la sede de Alzira , la extensión de Gandia, el aula de Xàtiva , la extensión de Ontinyent y el aula de Sagunto ), de la Universidad Cardenal Herrera – CEU (incluye el alumnado de los centros situados en la ciudad), de la Facultad de Teología San Vicente Ferrer, de la Universidad Europea de València, de Florida Universitaria, de la Universidad Católica de València San Vicente Mártir (no incluye el alumnado de los centros de Alzira y Xàtiva), de la Escuela Universitaria de Enfermería La Fe, de la Escuela Universitaria de Enfermería Nuestra Señora del Sagrado Coro, de la Universidad Internacional Valenciana y del Centro Universitario EDEM. 
+  Para el año t, esta información proviene de la matriculación en centros universitarios para el curso t-1/t.  La información procede de las universidades públicas y privadas de la ciudad. En concreto incluye información de la Universitat Politècnica de València (no incluye el alumnado de la Escuela Politècnica Superior de Alcoy ni de la Escuela Politècnica Superior de Gandia), de la Universitat de València (no incluye el alumnado de los centros adscritos ni el centro de Ontinyent), de la Universidad Nacional a Distancia (no incluye el alumnado de la sede de Alzira, la extensión de Gandia, el aula de Xàtiva, la extensión de Ontinyent y el aula de Sagunto), de la Universidad Cardenal Herrera – CEU (incluye el alumnado de los centros situados en la ciudad), de la Facultad de Teología San Vicente Ferrer, de la Universidad Europea de València, de Florida Universitaria, de la Universidad Católica de València San Vicente Mártir (no incluye el alumnado de los centros de Alzira y Xàtiva), de la Escuela Universitaria de Enfermería La Fe, de la Escuela Universitaria de Enfermería Nuestra Señora del Sagrado Corazón, de la Universidad Internacional Valenciana y del Centro Universitario EDEM. 
 DATA_COMP: >-
   Cociente del número de mujeres matriculadas en estudios universitarios entre el total de personas matriculadas en estudios universitarios en las universidades públicas y privadas de la ciudad de València. Dentro de los estudios universitarios se incluyen los estudios de grado, másteres, programas de doctorado, posgrados oficiales, diplomas de posgrado (de especialización o experto universitarios) o diplomas de extensión universitaria.
 DATA_VALIDATION: >-

@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta sobre la Estructura de las Explotaciones Agrícolas del Instituto Nacional de Estadística.
+  Explotación estadística Encuesta sobre la Estructura de las Explotaciones Agrícolas del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,11 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Documentación metodológica de la Encuesta sobre la Estructura de las Explotaciones Agrícolas del INE: [Estructura Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf). 
    
-   Los resultados que se ofrecen proceden de la explotación estadística del fichero de microdatos de la Encuesta sobre la Estructura de las Explotaciones Agrícolas, seleccionando las explotaciones agrícolas situadas en la ciudad. Dado que la Encuesta sobre la Estructura de las Explotaciones Agrícolas no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel de error que el asociado a ámbitos territoriales más amplios, y tendrán que ser tratadas con cautela a causa del reducido tamaño muestral de explotaciones de la ciudad (32 explotaciones).  La metodología asociada a esta operación puede consultarse en https://bit.ly/30miytu. En la documentación metodológica se muestra una tabla de equivalencias entre unidades de trabajo-año, jornadas, horas de trabajo o porcentaje de trabajo realizado por una persona. 
+  Los resultados que se ofrecen proceden de la explotación estadística del fichero de microdatos de la Encuesta sobre la Estructura de las Explotaciones Agrícolas, seleccionando las explotaciones agrícolas situadas en la ciudad. Dado que la Encuesta sobre la Estructura de las Explotaciones Agrícolas no está diseñada para ofrecer estimaciones a nivel municipal, las estimaciones ofrecidas tendrán un mayor nivel de error que el asociado a ámbitos territoriales más amplios, y tendrán que ser tratadas con cautela a causa del reducido tamaño muestral de explotaciones de la ciudad (32 explotaciones).  En la documentación metodológica se muestra una tabla de equivalencias entre unidades de trabajo-año, jornadas, horas de trabajo o porcentaje de trabajo realizado por una persona. 
    
-   El periodo de referencia es el año agrícola 2016, es decir, la campaña agrícola comprendida entre el 1 de octubre de 2015 y el 30 de septiembre de 2016.
+  El periodo de referencia es el año agrícola 2016, es decir, la campaña agrícola comprendida entre el 1 de octubre de 2015 y el 30 de septiembre de 2016.
 DATA_COMP: >-
-  Se entiende por producción estándar el valor de la producción correspondiente a la situación mediana de una determinada región para cada característica agrícola. Se entiende por producción la suma del valor de los productos, que se obtienen multiplicando la producción por unidad por el precio de salida de la explotación, sin incluir el IVA, los impuestos sobre los productos y los pagos directos. Las producciones estándares se determinan utilizando datos básicos medianos calculados a lo largo de un periodo de referencia de cinco años.
+  Se entiende por producción estándar el valor de la producción correspondiente a la situación media de una determinada región para cada característica agrícola. Se entiende por producción la suma del valor de los productos, que se obtienen multiplicando la producción por unidad por el precio de salida de la explotación, sin incluir el IVA, los impuestos sobre los productos y los pagos directos. Las producciones estándares se determinan utilizando datos básicos medios calculados a lo largo de un periodo de referencia de cinco años.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
