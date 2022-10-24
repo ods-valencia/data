@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendició de Comptes (www.rendiciondecuentas.es) que mostra la informació sobre la gestió econòmica i financera de les Entitats locals deduïda dels Comptes Generals rendits per les pròpies entitats.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Portal de Rendició de Comptes (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +50,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  El grup de programes 172 inclou els programes 1721 (Protecció contra la contaminació acústica, lumínica, atmosfèrica), 1722 (Qualitat ambiental, energies renovables, canvi climàtic), 1723 (Platges), 1724 (Protecció Medi Ambient - Devesa Albufera). Les despeses pressupostàries són els que procedeixen de la liquidació de la despesa dels capítols vinculats a comptes dels grups 6 i 7 del Pla General de Comptabilitat Pública adaptat a l'Administració local ( PGCPAL). Respecte a les despeses no pressupostàries s'han prorratejat seguint la distribució entre grups de programes de les despeses pressupostàries, conforme a l'indicat en la regulació de la nota 19 de la memòria recollida en la  ICAL, que estableix que, en absència de millor criteri, es distribuiran “en la proporció que, sobre la despesa total que constituïsca al seu torn despesa pressupostària, supose cadascun dels grups de programes”. La població utilitzada en el denominador de l'indicador és la població oficinal publicada per l'INE del municipi a 1 de gener de cada any.
+  El grup de programes 172 inclou els programes 1721 (Protecció contra la contaminació acústica, lumínica, atmosfèrica), 1722 (Qualitat ambiental, energies renovables, canvi climàtic), 1723 (Platges), 1724 (Protecció Medi Ambient - Devesa Albufera). Les despeses pressupostàries són les que procedeixen de la liquidació de la despesa dels capítols vinculats a comptes dels grups 6 i 7 del Pla General de Comptabilitat Pública adaptat a l'Administració local (PGCPAL). Respecte a les despeses no pressupostàries s'han prorratejat seguint la distribució entre grups de programes de les despeses pressupostàries, conforme a l'indicat en la regulació de la nota 19 de la memòria recollida en la ICAL, que estableix que, en absència de millor criteri, es distribuiran “en la proporció que, sobre la despesa total que constituïsca al seu torn despesa pressupostària, supose cadascun dels grups de programes”. La població utilitzada en el denominador de l'indicador és la població oficial publicada per l'INE del municipi a 1 de gener de cada any.
 DATA_COMP: >-
-  Quocient de les despeses (pressupostaris o no pressupostaris) associats a l'activitat de protecció i millora del medi ambient segons el model d'activitats estructurat definit en la Instrucció de Comptabilitat per a l'Administració Local ( ICAL) entre la població a 1 de gener d'aquest exercici.
+  Quocient de les despeses (pressupostaris o no pressupostaris) associats a l'activitat de protecció i millora del medi ambient segons el model d'activitats estructurat definit en la Instrucció de Comptabilitat per a l'Administració Local (ICAL) entre la població a 1 de gener d'aquest exercici.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

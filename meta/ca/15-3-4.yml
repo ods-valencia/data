@@ -33,6 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Agència Estatal de Meteorologia.
 COLL_METHOD: >-
 
@@ -50,7 +51,8 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Temperatura llegida en un termòmetre exposat a l'aire i protegit de la radiació solar. Les dades s'han obtingut de l'estació manual situada als Jardins Municipals de Vivers de la ciutat de València (39° 28' 50'' N, 00° 21' 59'' O).
-  L'Organització Meteorològica Mundial (OMM) estableix com a període normal de referència per a les dades climatològiques del decenni de 2010 el corresponent al període 1981-2010. Aquesta comparació permet canvis en les variables climatològiques a curt termini.
+  
+  Encara que el període normal de referència per a les dades climatològiques del decenni de 2010 és el corresponent al període 1981-2010, l'Organització Meteorològica Mundial ( OMM) ha introduït el període 1961-90 com a període de referència per a la vigilància i l'avaluació de la variabilitat del clima i el canvi climàtic a llarg termini.
 DATA_COMP: >-
   Temperatura mitjana anual de l'any menys la mitjana de les temperatures mitjanes anuals registrades al llarg del període 1981-2010 en l'estació meteorològica de Vivers. La temperatura mitjana anual es calcula com a mitjana aritmètica de les temperatures mitjanes mensuals observades durant l'any de referència.
 DATA_VALIDATION: >-

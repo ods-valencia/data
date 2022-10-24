@@ -49,7 +49,8 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm). També forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  
   L'indicador inclou les subvencions associades al Programa de Cooperació Internacional per al Desenvolupament, al programa d'Educació per al Desenvolupament i la Ciutadania Global, al programa d'Accions Humanitàries i d'Emergències, així com tots aquells convenis del Servei de Cooperació al Desenvolupament i Migració les actuacions dels quals estiguen relacionades amb els objectius de desenvolupament sostenible.
 DATA_COMP: >-
   El pressupost executat total (en euros) d'Ajuda Oficial al Desenvolupament de l'Ajuntament de València relacionat amb l’ODS 1 durant l'exercici de referència s'obté com a suma dels imports subvencionats associats a aquest ODS de les diferents actuacions subvencionades.

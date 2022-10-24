@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendició de Comptes (www.rendiciondecuentas.es) que mostra la informació sobre la gestió econòmica i financera de les Entitats locals deduïda dels Comptes Generals rendits per les pròpies entitats.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Portal de Rendició de Comptes (www.rendiciondecuentas.es)
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,10 +50,14 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  La informació s'extrau del Compte General de l'Ajuntament de València, no de la d'entitats dependents (organismes autònoms, societats mercantils, entitats públiques empresarials o fundacions adscrites) o entitats en les quals participa. Aquest indicador forma permet comparar el passiu d'entitats amb diferències en la seua població de referència. 
+  La informació s'extrau del Compte General de l'Ajuntament de València, no de la d'entitats dependents (organismes autònoms, societats mercantils, entitats públiques empresarials o fundacions adscrites) o entitats en les quals participa. Aquest indicador permet comparar el passiu d'entitats amb diferències en la seua població de referència. 
+  
    
-  El passiu total es calcula com la suma del passiu corrent i el passiu no corrent reflectits en el Compte General de l'Ajuntament de València per a un determinat exercici. El passiu corrent o exigible a curt termini (crèdits de funcionament) recull les obligacions el venciment de les quals és inferior a un any. El passiu no corrent o exigible a llarg termini (crèdits de finançament) recull les obligacions amb un venciment superior a un any: provisions a llarg termini. La població utilitzada en el denominador de l'indicador és la població oficinal publicada per l'INE del municipi a 1 de gener de cada any.
+  
+  El passiu total es calcula com la suma del passiu corrent i el passiu no corrent reflectits en el Compte General de l'Ajuntament de València per a un determinat exercici. El passiu corrent o exigible a curt termini (crèdits de funcionament) recull les obligacions el venciment de les quals és inferior a un any. El passiu no corrent o exigible a llarg termini (crèdits de finançament) recull les obligacions amb un venciment superior a un any: provisions a llarg termini. La població utilitzada en el denominador de l'indicador és la població oficial publicada per l'INE del municipi a 1 de gener de cada any.
+  
    
+  
   Documentació metodològica sobre Indicadors del Compte General de les Entitats Locals: [Rendició de Comptes](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
   Quocient del passiu total de l'Ajuntament d'un determinat exercici entre la població del municipi a 1 de gener d'aquest exercici.
