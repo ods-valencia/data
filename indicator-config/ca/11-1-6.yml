@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Preu mitjà m² habitatge en lloguer
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: Preu mitjà m² habitatge en lloguer
 indicator_number: '11.1.6'
 national_geographical_coverage: València
