@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Cuarta Ola Barómetro de Opinión Ciudadana: Situación Política. (2018).
+  Cuarta Ola Barómetro de Opinión Ciudadana: Situación Política. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Documentación metodológica sobre la 4 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 4](https://www.valencia.es/estadistica/Barometro/Metodologia4.pdf).
    
-   A todos los encuestados se los pide que valoren su grado de acuerdo con la afirmación que los/as políticos/as no se preocupen mucho de la gente como ellos, midiendo el grado de acuerdo como 1. Muy de acuerdo, 2. De acuerdo, 3. Ni de acuerdo ni en desacuerdo, 4. En desacuerdo, 5. Muy en desacuerdo. A partir de las respuestas obtenidas en los encuestados que valoran al grado de acuerdo, y teniendo en cuenta los factores de elevación asociados a los individuos encuestados, se estima el porcentaje de personas de 18 o más años de edad que están en desacuerdo o muy en desacuerdo con esta afirmación.
+  A todos los encuestados se los pide que valoren su grado de acuerdo con la afirmación que los/as políticos/as no se preocupen mucho de la gente como ellos, midiendo el grado de acuerdo como 1. Muy de acuerdo, 2. De acuerdo, 3. Ni de acuerdo ni en desacuerdo, 4. En desacuerdo, 5. Muy en desacuerdo. A partir de las respuestas obtenidas en los encuestados que valoran al grado de acuerdo, y teniendo en cuenta los factores de elevación asociados a los individuos encuestados, se estima el porcentaje de personas de 18 o más años de edad que están en desacuerdo o muy en desacuerdo con esta afirmación.
    
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Febrero y Marzo de 2018, publicándose el Barómetro el mes de mayo. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Febrero/Marzo 2017 - Febrero/Marzo 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Febrero y Marzo de 2018, publicándose el Barómetro el mes de mayo. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Febrero/Marzo 2017 - Febrero/Marzo 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
   Cociente del número de personas de 18 o más años que contestan que están en desacuerdo o muy en desacuerdo con la afirmación que los/as políticos/as no se preocupan mucho de la gente como ellos respecto al total de población de 18 o más años de edad que ofrece su grado de acuerdo con esa afirmación.
 DATA_VALIDATION: >-

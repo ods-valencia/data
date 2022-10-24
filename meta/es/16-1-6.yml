@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Infracciones penales tipificadas como delitos por robos con violencia o intimidación (incluidas en el arte. 242 del Código Penal) en la ciudad conocidas por las diferentes Fuerzas y Cuerpos de Seguridad (Guardia Civil, Cuerpo Nacional de Policía, Policía Autonómica o Policía Local de València), ya sea por medio de denuncia interpuesta o por actuación policial realizada motu proprio (labor preventiva o de investigación).
+  Infracciones penales tipificadas como delitos por robos con violencia o intimidación (incluidas en el art. 242 del Código Penal) en la ciudad conocidas por las diferentes Fuerzas y Cuerpos de Seguridad (Guardia Civil, Cuerpo Nacional de Policía, Policía Autonómica o Policía Local de València), ya sea por medio de denuncia interpuesta o por actuación policial realizada.
 UNIT_MEASURE: >-
   Tanto por 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Balance Trimestral de Criminalidad del SEC (Sistema Estadístico de Criminalidad) del Ministerio del Interior.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Explotación estadística Balance Trimestral de Criminalidad del SEC (Sistema Estadístico de Criminalidad) del Ministerio del Interior.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,13 +50,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del grupo IDENCITY. 
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofrece información para ámbitos territoriales superiores. También forma parte del Panel ODS de la Comisión Europea definido en European Handbook for SDG Voluntary Local Reviews y del Panel ODS de la Red Española para el Desarrollo Sostenible.
    
-   Documentación metodológica sobre el Balance Trimestral de Criminalidad: (https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:b36b25ac-491b-49a6-be33-9cdcb168f0c9/01_Metodolog%C3%ADA_Balances_criminalidad.pdf).
+  Documentación metodológica sobre el Balance Trimestral de Criminalidad: [Balance Criminalidad](https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:b36b25ac-491b-49a6-be33-9cdcb168f0c9/01_Metodolog%C3%ADA_Balances_criminalidad.pdf).
    
-   Documentación metodológica sobre la Explotación estadística del Padrón Municipal de Habitantes de València: [Explotación Estadística Padrón](https://www.valencia.es/estadistica/Padron/2020/Padron2020Cast.pdf).
-   
-   Los datos del último año son provisionales pendientes de consolidar. La población de referencia utilizada para el cálculo el indicador es la calculada a mitad de año a partir de la semisuma de las poblaciones registradas en el Padrón Municipal del Ayuntamiento de València a 1 de enero del año de referencia y del año siguiente.
+  La población a mitad del año t se ha calculado como semisuma de las poblaciones a 1 de enero del año t y del año t+1. Los datos del último año son provisionales, están pendientes de consolidar.
 DATA_COMP: >-
   Cociente del número de delitos por robos con violencia o intimidación durante el año de referencia entre la población calculada a mitad del año.
 DATA_VALIDATION: >-

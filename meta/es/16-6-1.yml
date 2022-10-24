@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendición de Cuentas (www.rendiciondecuentas.es) que muestra la información sobre la gestión económica y financiera de las Entidades locales deducida de las Cuentas Generales rendidas por las propias entidades.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +52,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. El signo de este indicador muestra si el ejercicio ha dado superávit (valor positivo) o déficit (valor negativo).
    
-   El resultado presupuestario se obtiene sumando el resultado presupuestario (derechos reconocidos limpios menos obligaciones reconocidas limpias) de las operaciones financieras (activos financieros y pasivos financieros) y no financieras (operaciones corrientes y operaciones de capital). El resultado presupuestario ajustado se obtiene sumando al resultado presupuestario los créditos gastados financiados con remanente de tesorería para gastos generales, sumando las desviaciones de financiación negativas del ejercicio y restando las desviaciones de financiación positivas del ejercicio. La población utilizada en el denominador del indicador es la población oficinal publicada por la INE del municipio a 1 de enero de cada año.
+  El resultado presupuestario se obtiene sumando el resultado presupuestario (derechos reconocidos netos menos obligaciones reconocidas netas de las operaciones financieras (activos financieros y pasivos financieros) y no financieras (operaciones corrientes y operaciones de capital). El resultado presupuestario ajustado se obtiene sumando al resultado presupuestario los créditos gastados financiados con remanente de tesorería para gastos generales, sumando las desviaciones de financiación negativas del ejercicio y restando las desviaciones de financiación positivas del ejercicio. La población utilizada en el denominador del indicador es la población oficial publicada por el INE del municipio a 1 de enero de cada año.
    
-   Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
+  Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
   Cociente del resultado presupuestario ajustado del ejercicio reflejado en la liquidación del presupuesto de un determinado ejercicio entre la población del municipio a 1 de enero de este ejercicio.
 DATA_VALIDATION: >-

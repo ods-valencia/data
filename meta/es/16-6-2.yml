@@ -33,7 +33,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendición de Cuentas (www.rendiciondecuentas.es) que muestra la información sobre la gestión económica y financiera de las Entidades locales deducida de las Cuentas Generales rendidas por las propias entidades.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +50,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. Este indicador forma permite comparar el pasivo de entidades con diferencias en su población de referencia. 
+  La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. Este indicador permite comparar el pasivo de entidades con diferencias en su población de referencia. 
    
-   El pasivo total se calcula como la suma de la pasiva corriente y el pasivo no corriendo reflejados en la Cuenta General del Ayuntamiento de València para un determinado ejercicio. La pasiva corriente o exigible a corto plazo (créditos de funcionamiento) recoge las obligaciones el vencimiento de las cuales es inferior en un año. El pasivo no corriente o exigible a largo plazo (créditos de financiación) recoge las obligaciones con un vencimiento superior en un año: provisiones a largo plazo. La población utilizada en el denominador del indicador es la población oficinal publicada por la INE del municipio a 1 de enero de cada año.
+  El pasivo total se calcula como la suma del pasivo corriente y el pasivo no corriente reflejados en la Cuenta General del Ayuntamiento de València para un determinado ejercicio. El pasivo corriente o exigible a corto plazo (créditos de funcionamiento) recoge las obligaciones el vencimiento de las cuales es inferior en un año. El pasivo no corriente o exigible a largo plazo (créditos de financiación) recoge las obligaciones con un vencimiento superior en un año: provisiones a largo plazo. La población utilizada en el denominador del indicador es la población oficial publicada por el INE del municipio a 1 de enero de cada año.
    
-   Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
+  Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
   Cociente del pasivo total del Ayuntamiento de un determinado ejercicio entre la población del municipio a 1 de enero de este ejercicio.
 DATA_VALIDATION: >-

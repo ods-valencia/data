@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Consellería de Agricultura.
+  Servicio Gestión Sostenible Residuos Urbanos
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/), del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews y del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-   No se incluyen los datos de los residuos depositados en el Ecoparque de Vara de Quart. La población calculada a mitad del año de referencia se obtiene como semisuma de las poblaciones correspondientes a 1 de enero del año de referencia y 1 de enero del año siguiente. Los datos de población provienen de la explotación estadística del fichero del Padrón Municipal de Habitantes del Ayuntamiento de València.
-   
-   Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  No se incluyen los datos de los residuos depositados en el Ecoparque de Vara de Quart. La población calculada a mitad del año de referencia se obtiene como semisuma de las poblaciones correspondientes a 1 de enero del año de referencia y 1 de enero del año siguiente. Los datos de población provienen de la explotación estadística del fichero del Padrón Municipal de Habitantes del Ayuntamiento de València.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

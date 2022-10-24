@@ -49,11 +49,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del grupo IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Documentación metodológica sobre la 3 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 3](https://www.valencia.es/estadistica/Barometro/Metodologia3.pdf).
    
-   Documentación metodológica sobre la 3 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 3](https://www.valencia.es/estadistica/Barometro/Metodologia3.pdf).
-   
-   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre diciembre de 2017 y febrero de 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.  La persona entrevistada tenía que elegir tres temas entre los siguientes asuntos medioambientales: producción de residuos, consumo excesivo de energía, contaminación del mar, playas y la Albufera, mala calidad del aire, perdida de terreno de cultivo de huerta, contaminación acústica, falta de espacios verdes, desaparición de especies autóctonas y aparición de especies invasoras, mala calidad del agua de consumo y la contaminación de aguas subterráneas, plagas, cambio climático, incendios forestales.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre diciembre de 2017 y febrero de 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.  La persona entrevistada tenía que elegir tres temas entre los siguientes asuntos medioambientales: producción de residuos, consumo excesivo de energía, contaminación del mar, playas y la Albufera, mala calidad del aire, perdida de terreno de cultivo de huerta, contaminación acústica, falta de espacios verdes, desaparición de especies autóctonas y aparición de especies invasoras, mala calidad del agua de consumo y la contaminación de aguas subterráneas, plagas, cambio climático, incendios forestales.
 DATA_COMP: >-
   Cociente entre la población que considerar el cambio climático como uno de los tres temas medioambientales de la ciudad que más le preocupa y el total de la población encuestada.
 DATA_VALIDATION: >-

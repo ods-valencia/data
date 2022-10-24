@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Consellería de Agricultura.
+  Consellería de Agricultura.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,7 +51,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentación relativa al Tratado de Residuos: [Residuos](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=12).
+  Documentación relativa al Tratado de Residuos: [Residuos](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=12).
 DATA_COMP: >-
   Cociente entre las toneladas de residuos sólidos tratadas el año de referencia y el total de toneladas de residuos sólidos registradas.
 DATA_VALIDATION: >-
