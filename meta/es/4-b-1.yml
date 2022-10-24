@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-   Cheque escolar (Servicio de Educación del Ayuntamiento de València).
+  Cheque escolar (Servicio de Educación del Ayuntamiento de València).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentación relativa al cheque escolar: [Cheque Escolar](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=16).
+  Documentación relativa al cheque escolar: [Cheque Escolar](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=16).
    
-   El Cheque Escolar es un sistema de ayudas económicas a la escolarización infantil de 0 a 5 años, destinadas a compensar desigualdades, sufragando los gastos de enseñanza de aquellos menores empadronados en el municipio de València, y se conceden en función de la renta familiar, atendiendo también las particularidades propias de las unidades familiares que las solicitan. Se trata de contribuir a la escolarización temprana como inicio de una escolarización obligatoria satisfactoria de nuestros niños y niñas, pero no solo: también permiten a los padres y madres con menos recursos, el acceso a la ocupación y/o a la formación continua, en una etapa de la vida en que las curas a los pequeños y pequeñas los harían imposible sin estas ayudas, que se convocan durante las primeras semanas de cada año para el curso académico siguiente.
+  El Cheque Escolar es un sistema de ayudas económicas a la escolarización infantil de 0 a 5 años, destinadas a compensar desigualdades, sufragando los gastos de enseñanza de aquellos menores empadronados en el municipio de València, y se conceden en función de la renta familiar, atendiendo también las particularidades propias de las unidades familiares que las solicitan. Se trata de contribuir a la escolarización temprana como inicio de una escolarización obligatoria satisfactoria de nuestros niños y niñas, pero no solo: también permiten a los padres y madres con menos recursos, el acceso a la ocupación y/o a la formación continua, en una etapa de la vida en que las curas a los pequeños y pequeñas lo harían imposible sin estas ayudas, que se convocan durante las primeras semanas de cada año para el curso académico siguiente.
 DATA_COMP: >-
   Cantidad total asignada (en euros) en el programa de Cheque escolar, que es financiado exclusivamente por el Ayuntamiento de València. El importe asignado al año t corresponde al curso escolar t-1/t.
 DATA_VALIDATION: >-

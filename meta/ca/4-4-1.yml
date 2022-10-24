@@ -50,15 +50,23 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  
    
+  
   Documentació metodològica sobre l'Enquesta sobre Equipament i Ús de Tecnologies de la Informació i Comunicació en les Llars de l'INE: [Enquesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).
+  
    
+  
   Per a les taxes específiques per sexe (edat) es consideren les persones d'aquest sexe (edat).  Malgrat que l'Enquesta sobre Equipament i Ús de Tecnologies d'Informació i Comunicació en les Llars es realitza de manera anual, les preguntes respecte a la competències en habilitats informàtiques no apareixen per a l'any 2018. De l'any 2014 cap arrere la pregunta es feia en un context diferent.
+  
    
-  En l'enquesta es recullen  les següents habilitats informàtiques: descarregar un programari o canviar la seua configuració; transferir fitxers entre l'ordinador i altres dispositius; crear presentacions que integren text, imatges o taules; programar en un llenguatge de programació; copiar o moure fitxers o carpetes i usar funcions bàsiques d'un full de càlcul. 
+  
+  En l'enquesta es recullen les següents habilitats informàtiques: descarregar un programari o canviar la seua configuració; transferir fitxers entre l'ordinador i altres dispositius; crear presentacions que integren text, imatges o taules; programar en un llenguatge de programació; copiar o moure fitxers o carpetes i usar funcions bàsiques d'un full de càlcul. 
+  
    
-  Es considera que una persona ha realitzat una habilitat informàtica en els últims 12 mesos si ha respost afirmativament almenys a una  d'aquestes tasques.
+  
+  Es considera que una persona ha realitzat una habilitat informàtica en els últims 12 mesos si ha respost afirmativament almenys a una d'aquestes tasques.
 DATA_COMP: >-
   Quocient entre les persones de 16 a 74 anys que en els últims 12 mesos han fet alguna tasca que requerira d'habilitats informàtiques i el total de la població de 16 a 74 anys d'edat residents a la ciutat.
 DATA_VALIDATION: >-

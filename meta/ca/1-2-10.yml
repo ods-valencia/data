@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre de persones de 80 anys o més que estan empadronats en un full familiar format per una única persona.
+  Nombre de persones de 80 anys o més que estan empadronades en un full familiar format per una única persona.
 UNIT_MEASURE: >-
   Persones
 CLASS_SYSTEM: >-
@@ -49,7 +49,8 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf). 
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2022/Padron2022Val.pdf). 
+  
   El concepte de llar familiar adoptada correspon amb el conjunt de persones residents en un mateix habitatge familiar que apareixen inscrites en un mateix full padronal. No és per tant coincident amb el concepte ampli de llar (persona o conjunt de persones que resideixen habitualment en un mateix habitatge familiar principal) que s'utilitza, per exemple, en l'Enquesta Contínua de Llars. Tampoc és coincident amb el concepte estricte de llar (persona o conjunt de persones que ocupen en comú un habitatge familiar principal o part, i consumeixen i/o comparteixen aliments o altres béns amb càrrec a un mateix pressupost) utilitzat, per exemple, en l'Enquesta de Pressupostos Familiars. La informació referida a llars utilitzada per a aquest indicador és, per tant, una aproximació a la realitat, i ha de ser presa amb una certa cautela en ser obtinguda d'una font l'objecte de la qual no és tractar aquesta variable.  Encara que aquest indicador no és un indicador directe de pobresa, s'ha inclòs en aquesta meta per a reflectir la grandària d'un col·lectiu poblacional amb unes condicions d'ingressos específiques i que requereix d'unes cures especials.
 DATA_COMP: >-
   Nombre de persones de 80 o més anys d'edat en fulls padronals familiars formats per una única persona registrades en el Padró Municipal d'Habitants de l'Ajuntament de València a 1 de gener de l'any de referència. 

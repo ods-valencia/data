@@ -51,10 +51,12 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Documentació metodològica sobre l'Enquesta de Pressupostos Familiars de l'INE: [Enquesta Pressupostos Familiars](https://www.ine.es/metodologia/t25/t2530p458.pdf).
+  
    
+  
   Atés que la EPF no està dissenyada per a oferir estimacions a nivell municipal, les estimacions oferides tindran un major nivell d'error que l'associat a àmbits territorials més amplis i hauran de ser tractades amb cautela. En qualsevol cas, les estimacions facilitades per l'INE per a la ciutat únicament s'ofereixen per als 12 grans grups de despesa (en comptes dels 95 codis de despesa per a la comunitat o els 268 codis de despesa per al total nacional), sense desglossar per cap variable de classificació, la qual cosa redueix l'impacte de l'anteriorment exposat.  Des del 2016 s'utilitza la nova classificació europea de consum, denominada ECOICOP (European Classification of Individual Consumption by Purpose), que presenta alguns canvis en els criteris respecte als conceptes que s'inclouen en cada parcel·la de despesa respecte a la classificació anterior (COICOP/HBS). La ECOICOP està estructurada en els següents dotze grans grups: 1. Aliments i begudes no alcohòliques; 2. Begudes alcohòliques i tabac; 3. Vestit i calçat; 4. Habitatge, aigua, electricitat, gas i altres combustibles; 5. Mobles, articles de la llar i articles per al manteniment corrent de la llar; 6. Sanitat; 7. Transport; 8. Comunicacions; 9. Oci i cultura; 10. Ensenyament; 11. Restaurants i hotels; 12. Altres béns i serveis.
 DATA_COMP: >-
-  Quocient de la despesa total anual de les persones residents en llars privades en habitatges familiars principals de la ciutat de València destinada a aliments o begudes no alcohòliques entre la despesa total anual total durant l'any de referència. 
+  Quocient de la despesa total anual de les persones residents en llars privades en habitatges familiars principals de la ciutat de València destinada a aliments o begudes no alcohòliques entre la despesa anual total durant l'any de referència. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

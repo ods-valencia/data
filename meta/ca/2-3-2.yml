@@ -34,7 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Enquesta de Població Activa (Institut Valencià d'Estadística).
+  Explotació estadística Enquesta de Població Activa (Institut Nacional d'Estadística).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +51,13 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
    
+  
   Documentació metodològica sobre l'Enquesta de Població Activa: [Enquesta Població Activa](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
-  L'Enquesta de població activa (EPA) es realitza des de 1964, sent la metodologia vigent en l'actualitat la de 2005. Es tracta d'una investigació contínua i de periodicitat trimestral dirigida a les famílies, la finalitat principal de la qual és obtindre dades de la forma de treball i de les seues diverses categories (ocupats, aturats), així com de la població aliena al mercat laboral (inactius).
+  
+  L'Enquesta de Població Activa (EPA) es realitza des de 1964, sent la metodologia vigent en l'actualitat la de 2005. Es tracta d'una investigació contínua i de periodicitat trimestral dirigida a les famílies, la finalitat principal de la qual és obtindre dades de la forma de treball i de les seues diverses categories (ocupats, aturats), així com de la població aliena al mercat laboral (inactius).
+  
   Atés que la EPA no està dissenyada per a oferir estimacions a nivell municipal, les estimacions oferides tindran un major nivell d'error que l'associat a àmbits territorials més amplis i hauran de ser tractades amb cautela. La branca d'activitat associada a la població ocupada es classifica segons la Classificació Nacional d'Activitats Econòmiques de 2009 (CNAE-2009).
 DATA_COMP: >-
   Mitjana anual dels percentatges trimestrals de població ocupada en el sector primari respecte al total de població ocupada per a l'any de referència per a la ciutat.

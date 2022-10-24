@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   1103-Encuesta de tecnologías de la información y comunicaciones en los hogares en la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares del Instituto Nacional de Estadística.
+  Explotación estadística Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,15 +51,15 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Eneroalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-   Documentación metodológica sobre la Encuesta sobre Equipación y Uso de Tecnologías de la Información y Comunicación en los Hogares del INE: [Encuesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).
+  Documentación metodológica sobre la Encuesta sobre Equipación y Uso de Tecnologías de la Información y Comunicación en los Hogares del INE: [Encuesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).
    
-   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).  A pesar de que la Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares se realiza de manera anual, las preguntas respecto a la competencias en habilidades informáticas no aparecen para el año 2018. Del año 2014 hacia atrás la pregunta se hacía en un contexto diferente.
+  Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).  A pesar de que la Encuesta sobre Equipación y Uso de Tecnologías de Información y Comunicación en los Hogares se realiza de manera anual, las preguntas respecto a la competencias en habilidades informáticas no aparecen para el año 2018. Del año 2014 hacia atrás la pregunta se hacía en un contexto diferente.
    
-   En la encuesta se recogen las siguientes habilidades informáticas: descargar un software o cambiar su configuración; transferir ficheros entre el ordenador y otros dispositivos; crear presentaciones que integran texto, imágenes o mesas; programar en un lenguaje de programación; copiar o mover ficheros o carpetas y usar funciones básicas de una hoja de cálculo. 
+  En la encuesta se recogen las siguientes habilidades informáticas: descargar un software o cambiar su configuración; transferir ficheros entre el ordenador y otros dispositivos; crear presentaciones que integran texto, imágenes o mesas; programar en un lenguaje de programación; copiar o mover ficheros o carpetas y usar funciones básicas de una hoja de cálculo. 
    
-   Se considera que una persona ha realizado una habilidad informática en los últimos 12 meses si ha respondido afirmativamente al menos a una de estas tareas.
+  Se considera que una persona ha realizado una habilidad informática en los últimos 12 meses si ha respondido afirmativamente al menos a una de estas tareas.
 DATA_COMP: >-
   Cociente entre las personas de 16 a 74 años que en los últimos 12 meses han hecho alguna tarea que requiriera de habilidades informáticas y el total de la población de 16 a 74 años de edad residentes en la ciudad.
 DATA_VALIDATION: >-

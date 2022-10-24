@@ -34,7 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística  Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'Institut Nacional d'Estadística.
+  Explotació estadística Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'Institut Nacional d'Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,8 +51,12 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Documentació metodològica de l'Enquesta sobre l'Estructura de les Explotacions Agrícoles de l'INE: [Estructura Agrícola](https://www.ine.es/daco/daco42/agricultura/meto_2016.pdf).
+  
    
-  Els resultats que s'ofereixen procedeixen de l'explotació estadística del fitxer de microdades de l'Enquesta sobre l'Estructura de les Explotacions Agrícoles, seleccionant les explotacions agrícoles situades a la ciutat. Atés que l'Enquesta sobre l'Estructura de les Explotacions Agrícoles no està dissenyada per a oferir estimacions a nivell municipal, les estimacions oferides tindran un major nivell d’error que l'associat a àmbits territorials més amplis, i hauran de ser tractades amb cautela a causa de la reduïda grandària mostral d'explotacions de la ciutat (32 explotacions).
+  
+  Els resultats que s'ofereixen procedeixen de l'explotació estadística del fitxer de microdades de l'Enquesta sobre l'Estructura de les Explotacions Agrícoles, seleccionant les explotacions agrícoles situades a la ciutat. Atés que l'Enquesta sobre l'Estructura de les Explotacions Agrícoles no està dissenyada per a oferir estimacions a nivell municipal, les estimacions oferides tindran un major nivell d’error que l'associat a àmbits territorials més amplis, i hauran de ser tractades amb cautela a causa de la reduïda grandària mostral d'explotacions de la ciutat (32 explotacions).  En la documentació metodològica es mostra una taula d'equivalències entre unitats de treball-any, jornades, hores de treball o percentatge de treball realitzat per una persona. 
+  
+  El període de referència és l'any agrícola 2016, és a dir, la campanya agrícola compresa entre l'1 d'octubre de 2015 i el 30 de setembre de 2016.
 DATA_COMP: >-
   Les dades de treball en l'explotació agrícola s'expressen com a nombre d'unitats de treball-any (UTA). Una UTA equival al treball que realitza una persona a temps complet al llarg de l'any.
 DATA_VALIDATION: >-

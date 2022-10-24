@@ -51,6 +51,7 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
   Aquesta informació forma part de l'Estadística de Superfícies i Rendiments de Cultius per Termes Municipals que realitza el Ministeri d'Agricultura, Alimentació i Medi Ambient, que es realitza amb periodicitat anual des de l'any 1990 en col·laboració amb els Serveis Estadístics de les Comunitats Autònomes. Es basa en una investigació en camp, en la qual es pren informació directament a peu de parcel·la en una mostra georeferenciada del territori nacional, realitzada en els mesos de maig a agost.
 DATA_COMP: >-
   Les terres cultivades inclouen les terres amb cultius herbacis, llenyosos o en guaret, ja siguen de secà o de regadiu. No inclou el terreny forestal, les pastures i pasturatges, les superfícies no agrícoles, la superfície de rius i llacs o el terreny improductiu.
