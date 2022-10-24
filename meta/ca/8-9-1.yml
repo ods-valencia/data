@@ -50,7 +50,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre l'Enquesta d'Ocupació Hotelera: [EOH](https://www.ine.es/daco/daco42/ocuphotel/meto_eoh.pdf).                                                                                                          La informació està referida a l'oferta en establiments hotelers situats a la ciutat a 31 de desembre de cada any. La informació associada a l'any t correspon amb la situació a 31 de desembre de l'any t-1.
+  La informació està referida a l'oferta en establiments hotelers situats a la ciutat a 31 de desembre de cada any. La informació associada a l'any t correspon amb la situació a 31 de desembre de l'any t-1.
 DATA_COMP: >-
   Recull informació dels establiments hotelers procedent de la tabulació estadística dels establiments del Registre General d'Empreses, Establiments i Professions Turístiques situats a la ciutat, que és remés per l'Agència Valenciana de Turisme de Presidència de la Generalitat Valenciana.
 DATA_VALIDATION: >-

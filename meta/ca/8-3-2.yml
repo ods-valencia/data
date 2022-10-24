@@ -34,7 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Explotació estadística Estadística de treballadors  afiliats a la Seguretat Social (Institut Valencià d'Estadística).
+  Explotació estadística Estadística de Treballadors  Afiliats a la Seguretat Social (Institut Valencià d'Estadística).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,10 +51,14 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Els treballadors afiliats són treballadors en alta laboral i situacions assimilades (incapacitat laboral, suspensió per regulació d'ocupació, desocupació parcial, ...). Ha d'indicar-se que el nombre de treballadors afiliats no es correspon necessàriament amb el de treballadors, sinó amb el de situacions que generen obligació de cotitzar, per la qual cosa una mateixa persona es comptabilitza tantes vegades com situacions de cotització tinga, ja siga per tindre diverses activitats en un mateix règim o en varis.
+  
   L'àmbit territorial de referència del treballador afiliat és el domicili del compte de cotització per als treballadors per compte d'altri i el de persona física per a la resta.
+  
   La informació procedeix de l'explotació estadística del Fitxer d'Afiliació dels Treballadors a la Seguretat Social, la gestió del qual correspon a la Tresoreria General de la Seguretat Social i a l'Institut Social de la Marina.
+  
    
-  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  
+  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf).
 DATA_COMP: >-
   Quocient entre el número mig anual d'afiliacions al règim autònom de la Seguretat Social entre el número mig anual d'afiliacions a la Seguretat Social amb domicili a la ciutat de València per a l'any de referència. 
 DATA_VALIDATION: >-

@@ -34,7 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Espai Dones i Igualtat. Servei d'Igualtat i Polítiques inclusive.
+  Espai Dones i Igualtat. Servei d'Igualtat i Polítiques inclusives.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,8 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  En les dades relatives a l'any 2017 o anterior, l'Espai Dones i Igualtat del Servei d'Igualtat i Polítiques inclusives no existia com a tal. No obstant això la mateixa informació era proporcionada pel Centre d'Informació i Orientació a la Dona (CMIO) dels Serveis socials municipals.
+  En les dades relatives a l'any 2017 o anterior, l'Espai Dones i Igualtat del Servei d'Igualtat i Polítiques inclusives no existia com a tal. No obstant això la mateixa informació era proporcionada pel Centre d'Informació i Orientació a la Dona (CMIO) dels Serveis Socials municipals.
+  
    
+  
   Documentació relativa al nombre de dones ateses en l'Espai Dones i Igualtat: [Espai Dones i Igualtat](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=16).  L’Espai Dones i Igualtat és un espai gratuït municipal d'informació, orientació i assessorament amb perspectiva de gènere que informa de recursos socials, jurídics, sanitaris i activitats en matèria d'igualtat i de violència de gènere. Conté espais per a poder fer atencions individualitzades i, a més, en les instal·lacions també es duen a terme cursos, tallers i xarrades de conscienciació i prevenció.
 DATA_COMP: >-
   Valor numèric directament proporcionat per Espai Dones i Igualtat del Servei d'Igualtat i Polítiques inclusives.

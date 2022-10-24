@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
    
-  Servei Valencià d'Ocupació i Formació LABORA.
+  Explotació estadística Servei Valencià d'Ocupació i Formació LABORA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,7 +53,7 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
   
-  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf). 
+  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf). 
   
   L'atur  registrat està constituït pel total de demandes d'ocupació en alta registrades pel Servei Valencià d'Ocupació i Formació existents l'últim dia de cada mes, excloent les que corresponguen a situacions laborals descrites en l'Ordre Ministerial d'11 de Març de 1985 (BOE de 14/3/85) per la qual s'estableixen criteris estadístics per al mesurament de l'atur registrat.
 DATA_COMP: >-

@@ -50,7 +50,8 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació relativa al nombre de dones a les quals s'ha concedit ordres d'allunyament: [Violència Domèstica](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15). 
+  Documentació relativa al nombre de dones a les quals s'ha concedit ordres d'allunyament: [Ordres Allunyament](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=15). 
+  
   L'ordre d'allunyament és una resolució judicial que, en els casos en què existisquen indicis fundats de la comissió de delictes o faltes de violència domèstica i existisca una situació objectiva de risc per a la víctima, ordena la seua protecció mitjançant l'adopció de mesures cautelars civils i/o penals, a més d'activar les mesures d'assistència i protecció social necessàries, per remissió de l'ordre de protecció als punts de coordinació de les comunitats autònomes.
 DATA_COMP: >-
   Valor numèric registrat en els butlletins estadístics trimestrals dels Jutjats de Primera Instància i Instrucció de la ciutat.
