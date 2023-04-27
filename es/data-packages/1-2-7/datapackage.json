@@ -11,29 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "18 a 64",
-                "<18",
-                ">=65"
-              ]
-            },
-            "title": "Edad"
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Hombres",
-                "Mujeres"
+                "Mujeres",
+                ""
               ]
             },
             "title": "Sexo"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<18",
+                "18 a 64",
+                ">=65",
+                ""
+              ]
+            },
+            "title": "Edad"
           },
           {
             "name": "GeoCode",
@@ -44,11 +49,6 @@
             "name": "Value",
             "type": "number",
             "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
           }
         ]
       }

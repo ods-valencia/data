@@ -11,14 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Valor"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Any"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
           }
         ]
       }
