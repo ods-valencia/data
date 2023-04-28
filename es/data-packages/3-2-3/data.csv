@@ -1,4 +1,5 @@
 Year,Sexo,GeoCode,Value
+2021,,,2.84
 2020,,,3.71
 2019,,,2.06
 2018,,,2.83
@@ -11,6 +12,7 @@ Year,Sexo,GeoCode,Value
 2011,,,2.9
 2010,,,3.84
 2009,,,3.61
+2021,Hombres,,2.01
 2020,Hombres,,3.49
 2019,Hombres,,2.67
 2018,Hombres,,4.15
@@ -23,6 +25,7 @@ Year,Sexo,GeoCode,Value
 2011,Hombres,,3.62
 2010,Hombres,,3.24
 2009,Hombres,,4.0
+2021,Mujeres,,3.77
 2020,Mujeres,,3.95
 2019,Mujeres,,1.42
 2018,Mujeres,,1.39

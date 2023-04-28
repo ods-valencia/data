@@ -1,4 +1,5 @@
 Year,Sexe,GeoCode,Value
+2021,,,2.84
 2020,,,4.07
 2019,,,2.75
 2018,,,3.16
@@ -11,6 +12,7 @@ Year,Sexe,GeoCode,Value
 2011,,,3.42
 2010,,,4.99
 2009,,,4.23
+2021,Homes,,2.01
 2020,Homes,,4.19
 2019,Homes,,2.67
 2018,Homes,,4.47
@@ -23,6 +25,7 @@ Year,Sexe,GeoCode,Value
 2011,Homes,,4.66
 2010,Homes,,4.74
 2009,Homes,,4.94
+2021,Dones,,3.77
 2020,Dones,,3.95
 2019,Dones,,2.83
 2018,Dones,,1.73

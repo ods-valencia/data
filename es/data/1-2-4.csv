@@ -1,4 +1,5 @@
 Year,Sexo,Edad,Value
+2021,,,8.4
 2020,,,12.2
 2019,,,4.7
 2018,,,4.0
@@ -8,6 +9,7 @@ Year,Sexo,Edad,Value
 2014,,,11.5
 2013,,,8.2
 2012,,,5.1
+2021,Hombres,,8.2
 2020,Hombres,,9.7
 2019,Hombres,,3.4
 2018,Hombres,,3.8
@@ -17,6 +19,7 @@ Year,Sexo,Edad,Value
 2014,Hombres,,11.4
 2013,Hombres,,8.4
 2012,Hombres,,6.0
+2021,Mujeres,,8.6
 2020,Mujeres,,14.4
 2019,Mujeres,,5.9
 2018,Mujeres,,3.2
@@ -26,6 +29,7 @@ Year,Sexo,Edad,Value
 2014,Mujeres,,10.9
 2013,Mujeres,,8.0
 2012,Mujeres,,4.6
+2021,,<16,8.6
 2020,,<16,17.6
 2019,,<16,8.3
 2018,,<16,7.0
