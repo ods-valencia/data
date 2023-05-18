@@ -27,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones residents a la ciutat amb ingressos per unitat de consum (escala OCDE modificada) per davall del 60% de la mitjana d'ingressos per unitat de consum de la Comunitat Valenciana.
+  Percentatge de persones residents a la ciutat amb ingressos per unitat de consum (escala OCDE modificada) per davall del 60% de la mediana d'ingressos per unitat de consum de la Comunitat Valenciana.
 UNIT_MEASURE: >-
   Percentatge
 CLASS_SYSTEM: >-
@@ -64,7 +64,7 @@ REC_USE_LIM: >-
   
   Com la mitjana dels ingressos a la Comunitat Valenciana és inferior a la d'Espanya, els percentatges de pobresa amb llindar autonòmic són sensiblement inferiors als que es tenen utilitzant el llindar nacional.
 DATA_COMP: >-
-  Quocient de la població en risc de pobresa relativa considerant el llindar autonòmic de pobresa respecte a la població resident a la ciutat, expressat en percentatge. El llindar autonòmic de pobresa relativa s'obté calculant el 60% del valor mitjà (percentil 50) de la distribució d'ingressos per unitat de consum de les persones enquestades residents a la Comunitat Valenciana. 
+  Quocient de la població en risc de pobresa relativa considerant el llindar autonòmic de pobresa respecte a la població resident a la ciutat, expressat en percentatge. El llindar autonòmic de pobresa relativa s'obté calculant el 60% del valor de la mediana (percentil 50) de la distribució d'ingressos per unitat de consum de les persones enquestades residents a la Comunitat Valenciana. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
