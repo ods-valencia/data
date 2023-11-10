@@ -1,6 +1,7 @@
 Year,Sexo,Value
-2021,,54.56
-2020,,55.51
+2022,,59.02
+2021,,45.94
+2020,,52.41
 2019,,48.71
 2018,,46.11
 2017,,38.55
@@ -11,8 +12,9 @@ Year,Sexo,Value
 2012,,21.72
 2011,,18.53
 2010,,14.18
-2021,Hombres,64.89
-2020,Hombres,59.93
+2022,Hombres,64.28
+2021,Hombres,54.56
+2020,Hombres,66.09
 2019,Hombres,57.92
 2018,Hombres,53.03
 2017,Hombres,44.42
@@ -23,8 +25,9 @@ Year,Sexo,Value
 2012,Hombres,22.89
 2011,Hombres,20.3
 2010,Hombres,15.36
-2021,Mujeres,44.77
-2020,Mujeres,51.58
+2022,Mujeres,54.14
+2021,Mujeres,37.78
+2020,Mujeres,40.6
 2019,Mujeres,39.17
 2018,Mujeres,39.36
 2017,Mujeres,31.25
