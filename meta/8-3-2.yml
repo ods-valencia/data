@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-3-title
 SDG_INDICATOR: >-
-  Población afiliada en régimen autónomo
+  Treballadors afiliats en règim autònom
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de personas afiliadas al régímen autónomo.
+  Percentatge d'afiliacions  al règim autònom respecte al total d'afiliacions registrades.
 UNIT_MEASURE: >-
-  Porcentaje
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
+  Explotació estadística Estadística de Treballadors  Afiliats a la Seguretat Social (Institut Valencià d'Estadística).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,13 +50,17 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Los trabajadores afiliados son trabajadores en alta laboral y situaciones asimiladas (incapacidad laboral, suspensión por regulación de ocupación, desocupación parcial, ...). Tiene que indicarse que el número de trabajadores afiliados no se corresponde necesariamente con el de trabajadores, sino con el de situaciones que generan obligación de cotizar, por lo cual una misma persona se contabiliza tantas veces como situaciones de cotización tenga, ya sea para tener varias actividades en un mismo régimen o en varios.
-   El ámbito territorial de referencia del trabajador afiliado es el domicilio de la cuenta de cotización para los trabajadores por cuenta ajena y el de persona física para el resto.
-   La información procede de la explotación estadística del Fichero de Afiliación de los Trabajadores a la Seguridad Social, la gestión del cual corresponde a la Tesorería General de la Seguridad Social y en el Instituto Social de la Marina.
+  Els treballadors afiliats són treballadors en alta laboral i situacions assimilades (incapacitat laboral, suspensió per regulació d'ocupació, desocupació parcial, ...). Ha d'indicar-se que el nombre de treballadors afiliats no es correspon necessàriament amb el de treballadors, sinó amb el de situacions que generen obligació de cotitzar, per la qual cosa una mateixa persona es comptabilitza tantes vegades com situacions de cotització tinga, ja siga per tindre diverses activitats en un mateix règim o en varis.
+  
+  L'àmbit territorial de referència del treballador afiliat és el domicili del compte de cotització per als treballadors per compte d'altri i el de persona física per a la resta.
+  
+  La informació procedeix de l'explotació estadística del Fitxer d'Afiliació dels Treballadors a la Seguretat Social, la gestió del qual correspon a la Tresoreria General de la Seguretat Social i a l'Institut Social de la Marina.
+  
    
-   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  
+  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf).
 DATA_COMP: >-
-  Cociente del número de trabajadores afiliados al régimen de autónomos entre el total de trabajadores afiliados a la Seguridad Social el último día del mes de diciembre del año de referencia.
+  Quocient entre el número mig anual d'afiliacions al règim autònom de la Seguretat Social entre el número mig anual d'afiliacions a la Seguretat Social amb domicili a la ciutat de València per a l'any de referència. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -34,7 +34,6 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +50,12 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  
    
+  
   Consulta a la Web del CGPJ (www.poderjudicial.es), a data setembre de l'any següent a l'any de referència de les dades. 
+  
   La població utilitzada en el denominador és la població estimada a un de juliol de l'any de referència de les dades (t), com a mitjana aritmètica entre la població a un de gener d'aqueix any i la població a un de gener de l'any següent (t+1).
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
   Quocient del nombre de denúncies per violència de gènere de dones residents a la ciutat l'any de referència respecte al total de dones residents a la ciutat.
 DATA_VALIDATION: >-

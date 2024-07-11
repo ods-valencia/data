@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-5-title
 SDG_INDICATOR: >-
-  Porcentaje de población con discapacidad entre los parados
+  Percentatge de població amb discapacitat entre els desocupats
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Porcentaje de personas con discapacidad entre el total de parados.
+  Percentatge de persones desocupades amb alguna discapacitat entre el total de persones desocupades residents a la ciutat durant l'any de referència.
 UNIT_MEASURE: >-
-  Porcentaje
+  Percentatge
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
    
-   Explotación Estadística Fichero Mensual Parados LABORA.
+  Explotació estadística Servei Valencià d'Ocupació i Formació LABORA.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
-   
-   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
+  
+  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf). 
+  
+  L'atur  registrat està constituït pel total de demandes d'ocupació en alta registrades pel Servei Valencià d'Ocupació i Formació existents l'últim dia de cada mes, excloent les que corresponguen a situacions laborals descrites en l'Ordre Ministerial d'11 de Març de 1985 (BOE de 14/3/85) per la qual s'estableixen criteris estadístics per al mesurament de l'atur registrat.
 DATA_COMP: >-
-  Cociente entre las personas con discapacidad desocupadas y el total de personas desocupadas.
+  Quocient de la mitjana anual del nombre de persones amb alguna mena de discapacitat residents a la ciutat demandants d'ocupació entre la mitjana anual de persones residents a la ciutat demandants d'ocupació per a l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

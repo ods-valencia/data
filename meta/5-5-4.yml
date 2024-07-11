@@ -51,8 +51,11 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   Per a l'any X la informació correspon al personal docent en la UV en el curs X-1/X.
+  
    
+  
   Documentació relativa al personal docent en la UV: [UV](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=9). 
+  
   S'inclou el professorat emèrit, professorat amb càtedra universitària, professorat amb càtedra d'escola universitària, professorat titular d'universitat, professorat titular d'escola universitària, professorat contractat doctor, professorat ajudant doctor, professorat associat i un altre professorat (professorat col·laborador, ajudant o visitant). No inclou el professorat que imparteix docència en el centre universitari d'Ontinyent ni en els centres adscrits a la Universitat de València.
 DATA_COMP: >-
   Quocient entre el nombre de dones docents en la UV i el total de docents en la UV. 
