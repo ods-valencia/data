@@ -50,10 +50,14 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  Aquest indicador forma part del Panell ODS de l'Institut Nacional d'Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) i del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/va/ods), que ofereixen aquesta informació per a àmbits territorials superiors.
+  
    
+  
   Per a les taxes específiques per sexe (edat) es consideren les persones d'aquest sexe (edat). L'enquesta recull els resultats per a persones entre 16 i 74 anys.
+  
    
+  
   Documentació metodològica sobre l'Enquesta sobre Equipament i Ús de Tecnologies de la Informació i Comunicació en les Llars de l'INE: [Enquesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).  L'objectiu general de l'enquesta és obtindre dades del desenvolupament i evolució del que s'ha denominat la Societat de la Informació. Per a això es recull informació de l'equipament de les llars en tecnologies d'informació i la comunicació (connexió a internet, telefonia fixa i mòbil, equipament informàtic) i de l'ús i els nous hàbits de la població espanyola respecte a Internet: activitats realitzades, utilització del comerç electrònic, capacitats i coneixements informàtics, mesures adoptades sobre protecció, seguretat i privacitat, relacions amb l'administració electrònica i el teletreball.
 DATA_COMP: >-
   Quocient entre el nombre de persones de 16 a 74 anys d'edat que ha utilitzat Internet en els últims tres mesos entre el total de persones enquestades de 16 a 74 anys d'edat residents a la ciutat.
