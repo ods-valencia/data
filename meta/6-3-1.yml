@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.6-3-title
 SDG_INDICATOR: >-
-  Cabal diari de les aigües residuals
+  Caudal diario de las aguas residuales
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Cabal diari de les aigües residuals del municipi.
+  Caudal diario de las aguas residuales del municipio.
 UNIT_MEASURE: >-
-  Litres
+  Litros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Cicle Integral de l'Aigua.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+  Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Per al càlcul d'aquest indicador s'han sumat els cabals diaris de les depuradores que depuren aigües residuals procedents de la ciutat de València. S'han inclòs les depuradores que donen servei de manera exclusiva a la ciutat (el Palmar, el Saler, Massarojos, Perellonet, Casal d'Esplai i Pinedo 1) i les que també donen servei a altres localitats de l'Horta (Pinedo 2, Conca Carraixet, Quart - Benàger). En les depuradores de Pinedo 2 i Conca Carraixet el cabal diari corresponent a la població de València s'ha estimat utilitzant la proporció de població de la ciutat de València respecte a la població a la qual dona servei cada depuradora.
+  Para el cálculo de este indicador se han sumado los caudales diarios de las depuradoras que depuran aguas residuales procedentes de la ciudad de València. Se han incluido las depuradoras que dan servicio de manera exclusiva en la ciudad (el Palmar, el Saler, Massarojos, Perellonet, Casal d'Esplai  y Pinedo 1) y las que también dan servicio en otras localidades de l'Horta (Pinedo 2, Conca Carraixet, Quart - Benàger). En las depuradoras de Pinedo 2 y Conca Carraixet el caudal diario correspondiente a la población de València se ha estimado utilizando la proporción de población de la ciudad de València respecto a la población a la cual da servicio cada depuradora.
 DATA_COMP: >-
-  Suma dels cabals diaris de les depuradores que tracten aigües residuals procedents de la ciutat de València durant l'any de referència.
+  Suma de los caudales diarios de las depuradoras que tratan aguas residuales procedentes de la ciudad de València durante el año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

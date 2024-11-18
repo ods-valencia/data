@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.6-3-title
 SDG_INDICATOR: >-
-  Substàncies sòlides eliminades
+  Sustancias sólidas eliminadas
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge d'aigües residuals que reben tractament primari.
+  Porcentaje de aguas residuales que reciben tratamiento primario.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Cicle Integral de l'Aigua.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+  Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,13 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
-  
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  
-  Tractament primari és el procés utilitzat per a eliminar les substàncies sòlides de les aigües residuals.
+  Tratamiento primario es el proceso utilizado para eliminar las sustancias sólidas de las aguas residuales.
 DATA_COMP: >-
-  Quocient de la divisió del volum d'aigües residuals que són objecte de tractament primari entre el volum total d'aigües residuals produïdes a la ciutat l'any de referència.
+  Cociente de la división del volumen de aguas residuales que son objeto de tratamiento primario entre el volumen total de aguas residuales producidas en la ciudad el año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

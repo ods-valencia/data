@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.6-1-title
 SDG_INDICATOR: >-
-  Consum de litres d'aigua domèstica per habitant i dia
+  Consumo de litros de agua doméstica por habitante y día
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Consum d'aigua d'ús domèstic per habitant i dia.
+  Consumo de agua de uso doméstico por habitante y día.
 UNIT_MEASURE: >-
-  Litres per habitant i dia
+  Litros por habitante y día
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Cicle Integral de l'Aigua.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+  Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/). També forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/). También forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
 DATA_COMP: >-
-  Quocient entre l'aigua facturada a les persones abonades per a ús domèstic al llarg de l'any de referència i la població a 1 de juliol de l'any de referència, dividit al seu torn entre el nombre de dies de l'any de referència (365, o 366).
+  Cociente entre el agua facturada a las personas abonadas para uso doméstico a lo largo del año de referencia y la población a 1 de julio del año de referencia, dividido a su vez entre el número de días del año de referencia (365, o 366).
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

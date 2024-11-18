@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.6-3-title
 SDG_INDICATOR: >-
-  Reducció de DQO
+  Reducción de DQO
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge d'aigües residuals que reben tractament terciari.
+  Porcentaje de aguas residuales que reciben tratamiento terciario.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Cicle Integral de l'Aigua.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+  Ciclo Integral del agua.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,13 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
-  
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  
-  Tractament terciari és el procés utilitzat per a eliminar els productes químics com el fòsfor i nitrogen. Aquest tractament de depuració té per objecte higienitzar i adequar l'aigua per al seu consum urbà i per a les aplicacions industrials que requerisquen de la màxima puresa de l'aigua. També es coneix com a reducció del DQO, nomenclatura que representa la quantitat d'oxigen necessari per a oxidar la matèria orgànica per mitjà de dicromat en una solució àcida i convertir-la en CO2 i aigua.
+  Tratamiento terciario es el proceso utilizado para eliminar los productos químicos como el fósforo y nitrógeno. Este tratamiento de depuración tiene por objeto higienizar y adecuar el agua para su consumo urbano y para las aplicaciones industriales que requieran de la máxima pureza del agua. También se conoce como reducción del DQO, nomenclatura que representa la cantidad de oxígeno necesario para oxidar la materia orgánica por medio de dicromato en una solución ácida y convertirla en CO₂ y agua.
 DATA_COMP: >-
-  Quocient de la divisió del volum d'aigües residuals que són objecte de tractament terciari entre el volum total d'aigües residuals produïdes a la ciutat l'any de referència.
+  Cociente de la división del volumen de aguas residuales que son objeto de tratamiento terciario entre el volumen total de aguas residuales producidas en la ciudad el año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

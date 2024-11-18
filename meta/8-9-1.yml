@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.8-9-title
 SDG_INDICATOR: >-
-  Nombre de places en establiments hotelers
+  Número de plazas en establecimientos hoteleros
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre total de places en establiments hotelers (hotels, hostals, pensions i albergs urbans) situats a la ciutat de València a 31 de desembre de l'any anterior al de referència.
+  Número total de plazas en establecimientos hoteleros (hoteles, hostales, pensiones y albergues urbanos) situados en la ciudad de València a 31 de diciembre del año anterior al de referencia.
 UNIT_MEASURE: >-
-  Places hoteleres
+  Plazas hoteleras
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.                                                        
-  Registre General d'Empreses, Establiments i Professions Turístiques. Agència Valenciana de Turisme.
+  0505-Indicadoras sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+  Registro General de Empresas, Establecimientos y Profesiones Turísticas. Agencia Valenciana de Turismo.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,9 +50,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  La informació està referida a l'oferta en establiments hotelers situats a la ciutat a 31 de desembre de cada any. La informació associada a l'any t correspon amb la situació a 31 de desembre de l'any t-1.
+  La información está referida a la oferta en establecimientos hoteleros situados en la ciudad a 31 de diciembre de cada año. La información asociada al año t corresponde con la situación a 31 de diciembre del año t-1.
 DATA_COMP: >-
-  Recull informació dels establiments hotelers procedent de la tabulació estadística dels establiments del Registre General d'Empreses, Establiments i Professions Turístiques situats a la ciutat, que és remés per l'Agència Valenciana de Turisme de Presidència de la Generalitat Valenciana.
+  Recoge información de los establecimientos hoteleros procedente de la tabulación estadística de los establecimientos del Registro General de Empresas, Establecimientos y Profesiones Turísticas situados en la ciudad, que es remitido por la Agencia Valenciana de Turismo de Presidencia de la Generalitat Valenciana.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
