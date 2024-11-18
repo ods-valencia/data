@@ -54,9 +54,9 @@ REC_USE_LIM: >-
   
    
   
-  Les dades de MetroValència inclouen els referits a les estacions de metro que es troben en el terme municipal de la ciutat de València, així com el nombre de viatgers amb origen en aquestes estacions, que són: València Sud, Sant Isidre, Safranar (abans de 2011 Hospital), Patraix, Joaquín Sorolla-Jesús, Pl. Espanya, Àngel Guimerà, Túria, Campanar-La Fe, Beniferri, Benimàmet, Els Carolines/Fira, Machado, Benimaclet, Facultats, Albereda, Colón, Xàtiva, Av. del Cid, Nou d'Octubre, Bailèn, Aragó, Amistat, Ayora i Marítim-Serreria. Per als viatgers amb origen l'estació de Marítim-Serreria de l'any 2015 i anteriors, en els quals únicament es disposa de la suma total dels viatgers de la parada de metro i tramvia, la dada s'estima considerant el 85% del total (obtingut a partir de la proporció dels anys 2016 i 2017).  La població calculada a meitat de l'any de referència s'obté com a semisuma de les poblacions corresponents a 1 de gener de l'any de referència i 1 de gener de l'any següent.
+  Les dades de MetroValència inclouen els referits a les estacions de metro que es troben en el terme municipal de la ciutat de València, així com el nombre de viatgers amb origen en aquestes estacions.  La població calculada a meitat de l'any de referència s'obté com a semisuma de les poblacions corresponents a 1 de gener de l'any de referència i 1 de gener de l'any següent.
 DATA_COMP: >-
-  Nombre de viatges realitzats amb metro durant l'any de referència dividit per la població a 1 de juliol d'aquest any.
+  Nombre de viatges realitzats amb metro/tramvia durant l'any de referència dividit per la població a 1 de juliol d'aquest any.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

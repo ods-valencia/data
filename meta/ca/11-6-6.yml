@@ -54,7 +54,7 @@ REC_USE_LIM: >-
   
    
   
-  Les dades utilitzades provenen del fitxer de mesuraments en les estacions de la xarxa de vigilància i control de la contaminació atmosfèrica de: Vivers (39° 28' 46'' N, 0° 22' 10'' O), Av. França (39° 27' 27'' N, 0° 20' 34'' O), Pista de Silla (39° 27' 29'' N, 0° 22' 36'' O), Universitat Politècnica (39° 28' 47'' N, 0° 20' 15'' O) (des de 04/04/2008), Bulevard Sud (39° 27' 1'' N, 0° 23' 47'' O) (des de 24/05/2010), Linares (39° 28' 8'' N, 0° 23' 31'' O) (fins a 24/05/2010), Nou Centre (39° 28' 52'' N, 0° 23' 16'' O) (fins a 06/08/2009) i Aragó (39° 28' 37'' N, 0° 21' 17'' O) (fins a 04/04/2008).
+  Les dades utilitzades provenen del fitxer de mesuraments en les estacions de la xarxa de vigilància i control de la contaminació atmosfèrica de: Vivers (39° 28' 46'' N, 0° 22' 10'' O), Av. França (39° 27' 27'' N, 0° 20' 34'' O), Pista de Silla (39° 27' 29'' N, 0° 22' 36'' O), Universitat Politècnica (39° 28' 47'' N, 0° 20' 15'' O) (des de 04/04/2008), Bulevard Sud (39° 27' 1'' N, 0° 23' 47'' O) (des de 24/05/2010), Linares (39° 28' 8'' N, 0° 23' 31'' O) (fins a 24/05/2010), Nuevo Centro (39° 28' 52'' N, 0° 23' 16'' O) (fins a 06/08/2009), Molí de Sol (39° 28' 52'' N, 0° 24' 30'' O),  Port Moll Transport Ponent (39° 27' 33'' N, 0° 19' 24'' O) (des de 25/07/2020), Port antic llit Túria (39° 27' 01'' N, 0° 19' 44'' O) (des de 15/07/2021).
 DATA_COMP: >-
   Els nivells mitjans anuals s'han obtingut com a mitjana aritmètica dels nivells mitjans mensuals de cada estació.
 DATA_VALIDATION: >-
