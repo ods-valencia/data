@@ -55,6 +55,7 @@ REC_USE_LIM: >-
    
   Para las tasas específicas por sexo (edad) se consideran las personas de este sexo (edad).
   Documentación metodológica sobre la Encuesta de Población Activa del INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
+  La Encuesta de Población Activa (EPA) se realiza desde 1964, siendo la metodología vigente en la actualidad la de 2021. Para los datos anteriores a 2021 se emplea la metodología de 2005.
 DATA_COMP: >-
   Cociente del número estimado de personas económicamente activas (ocupadas o paradas) entre el total de personas de 16 o más años de edad residentes en la ciudad. 
 DATA_VALIDATION: >-
