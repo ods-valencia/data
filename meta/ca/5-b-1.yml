@@ -60,7 +60,7 @@ REC_USE_LIM: >-
   
   Documentació metodològica sobre l'Enquesta sobre Equipament i Ús de Tecnologies de la Informació i Comunicació en les Llars de l'INE: [Enquesta TIC](https://www.ine.es/metodologia/t25/t25304506620.pdf).  L'objectiu general de l'enquesta és obtindre dades del desenvolupament i evolució del que s'ha denominat la Societat de la Informació. Per a això es recull informació de l'equipament de les llars en tecnologies d'informació i la comunicació (connexió a internet, telefonia fixa i mòbil, equipament informàtic) i de l'ús i els nous hàbits de la població espanyola respecte a Internet: activitats realitzades, utilització del comerç electrònic, capacitats i coneixements informàtics, mesures adoptades sobre protecció, seguretat i privacitat, relacions amb l'administració electrònica i el teletreball.
 DATA_COMP: >-
-  Quocient entre el nombre de persones de 16 a 74 anys d'edat que ha utilitzat Internet en els últims tres mesos entre el total de persones enquestades de 16 a 74 anys d'edat residents a la ciutat.
+  Quocient entre el nombre de persones de 16 a 74 anys d'edat que ha utilitzat Internet en els últims tres mesos entre el total de persones enquestades de l'esmentada edat residents a la ciutat.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

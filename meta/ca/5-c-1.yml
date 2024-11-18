@@ -59,6 +59,8 @@ REC_USE_LIM: >-
    
   
   Documentació metodològica sobre l'Enquesta de Població Activa de l'INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
+  
+  L'Enquesta de Població Activa (EPA) es realitza des de 1964, sent la metodologia vigent en l'actualitat la de 2021. Per a les dades anteriors a 2021 s'empra la metodologia de 2005.
 DATA_COMP: >-
   Quocient del nombre estimat de persones econòmicament actives (ocupades o parades) entre el total de persones de 16 o més anys d'edat residents a la ciutat. 
 DATA_VALIDATION: >-
