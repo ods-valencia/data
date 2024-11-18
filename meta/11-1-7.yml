@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-1-title
 SDG_INDICATOR: >-
-  Taxa de sobrecàrrega preu de l'habitatge
+  Tasa de sobrecarga precio de la vivienda
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Taxa de sobrecàrrega preu de l'habitatge.
+  Diferencia entre la variación anual del precio de la vivienda libre y la variación anual del IPC general.
 UNIT_MEASURE: >-
-  Taxa
+  Tasa
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  1504-Censo de inmuebles de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+  Explotación estadística Catastro de Bienes e Inmuebles.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +51,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  El preu de l'habitatge lliure es calcula anualment com la mitjana dels preus dels quatre trimestres. L'IPC general es calcula anualment com la mitjana dels índexs mensuals.
+  El precio de la vivienda libre se calcula anualmente como la media de los precios de los cuatro trimestres. El IPC general se calcula anualmente como la media de los índices mensuales.
+  Documentación relativa al Censo de Bienes e Inmuebles: [Bienes e Inmuebles](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=4).
 DATA_COMP: >-
-  Diferència entre la variació anual del preu de l'habitatge lliure i la variació anual de l'IPC general.
+  Diferencia entre la variación anual del precio de la vivienda libre y la variación anual del IPC general.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

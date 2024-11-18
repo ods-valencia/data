@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-2-title
 SDG_INDICATOR: >-
-  Viatges en EMT per habitant
+  Viajes en EMT por habitante
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Viatges en EMT realitzats l'any de referència en relació a la població.
+  Viajes en EMT realizados el año de referencia en relación en la población.
 UNIT_MEASURE: >-
-  Viatges per habitant
+  Viajes por habitante
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  Empresa Municipal de Transportes de València (EMT).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,11 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  Només es comptabilitzen les dades facilitades per l'EMT. La població calculada a meitat de l'any de referència s'obté com a semisuma de les poblacions corresponents a 1 de gener de l'any de referència i 1 de gener de l'any següent.
+  Solo se contabilizan los datos facilitados por la EMT. La población calculada a mitad del año de referencia se obtiene como semisuma de las poblaciones correspondientes a 1 de enero del año de referencia y 1 de enero del año siguiente.
 DATA_COMP: >-
-  Quocient del nombre de viatges realitzats amb autobús (bitllets cancel·lats) durant l'any dividit per la població a 1 de juliol de l'any de referència. 
+  Cociente del número de viajes realizados en autobús (billetes cancelados) durante el año dividido por la población a 1 de julio del año de referencia. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

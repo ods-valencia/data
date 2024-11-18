@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-3-title
 SDG_INDICATOR: >-
-  Densitat de la població
+  Densidad de la población
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Evolució de la densitat de la població.
+  Evolución de la densidad de la población.
 UNIT_MEASURE: >-
-  Habitants per quilòmetre quadrat
+  Habitantes por kilómetro cuadrado
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-   
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0211-Características de la población de Valencia. Padrón municipal de Valencia a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,14 +49,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Representa el número medio de habitantes por kilómetro cuadrado de la superficie potencialmente habitable de la ciudad. 
+  El dato de población proviene de la explotación estadística del fichero del Padrón Municipal de Habitantes del Ayuntamiento de València. El dato de superficie proviene del cálculo del área definida por los límites municipales registrada en el SIGESPA, exceptuando la superficie del puerto y del lago de la Albufera.
    
-  Representa el nombre mitjà d'habitants per quilòmetre quadrat de la superfície potencialment habitable de la ciutat. 
-  La dada de població prové de l'explotació estadística del fitxer del Padró Municipal d'Habitants de l'Ajuntament de València. La dada de superfície prové del càlcul de l'àrea definida pels límits municipals registrada en el SIGESPA, exceptuant la superfície del port i del llac de l'Albufera.
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/Padron/2022/Padron2022Val.pdf).
 DATA_COMP: >-
-  Quocient entre la població resident a 1 de gener de l'any de referència i la superfície de la ciutat de València, excepte la superfície del port i del llac de l'Albufera.
+  Cociente entre la población residente a 1 de enero del año de referencia y la superficie de la ciudad de València, excepto la superficie del puerto y del lago de la Albufera.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

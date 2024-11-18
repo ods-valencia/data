@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-3-title
 SDG_INDICATOR: >-
-  Superfície construïda per cápita.
+  Superficie construida por cápita
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Relació entre la superfície urbana de parcel·les edificades i la població empadronada en el municipi de València l'any de referència.
+  Relación entre la superficie urbana de parcelas edificadas y la población empadronada en el municipio de València el año de referencia.
 UNIT_MEASURE: >-
-  Quilòmetres quadrats per habitant
+  Kilómetros cuadrados por habitante
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
+  1504-Censo de inmuebles de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
    
-  Explotació estadística Portal de la Direcció General del Cadastre.
+  Explotación estadística Catastro de Bienes e Inmuebles.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,15 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews. 
+  No se consideran en ningún caso los kilómetros cuadrados de superficie de parcelas sin edificar.
    
-  No es consideren en cap cas els quilòmetres quadrats de superfície de parcel·les sense edificar.
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-  Documentació metodològica sobre el Portal de la Direcció General del Cadastre: [Direcció General del Cadastre](http://www.catastro.minhap.gob.es/esp/estadistica_1.asp).
+  Documentación relativa al Censo de Bienes e Inmuebles: [Bienes e Inmuebles](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=4).
 DATA_COMP: >-
-  Quocient entre el total de quilòmetres quadrats de superfície urbana de parcel·les edificades construïdes l'any de referència i la població empadronada en el municipi de València en aquest any.
+  Cociente entre el total de kilómetros cuadrados de superficie urbana de parcelas edificadas construidas el año de referencia y la población empadronada en el municipio de València en este año.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
