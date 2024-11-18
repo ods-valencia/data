@@ -50,7 +50,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  La informació analitzada en aquest indicador recull la freqüència de consum d'alcohol autoinformada per l'enquestat. Està recollida en la pregunta P55 del qüestionari d'adults (població de 15 i més anys d'edat) de l'Enquesta de Salut de la Comunitat Valenciana 2016. Aquesta informació no està recollida en l'Enquesta de Salut de la Comunitat Valenciana 2010.
+  La informació analitzada en aquest indicador recull la freqüència de consum d'alcohol autoinformada per l'enquestat. Està recollida  en la pregunta P65 del qüestionari d'adults (població de 15 i més anys d'edat) de l'Enquesta de Salut de la Comunitat Valenciana 2022 i en la pregunta P55 del qüestionari d'adults (població de 15 i més anys d'edat) de l'Enquesta de Salut de la Comunitat Valenciana 2016. Aquesta informació no està recollida en l'Enquesta de Salut de la Comunitat Valenciana 2010.
 DATA_COMP: >-
   Quocient del nombre de persones de 15 i més anys d'edat que contesten que consumeixen begudes alcohòliques diàriament, 4-6 vegades per setmana, 2-3 vegades per setmana o una vegada a la setmana respecte al total de persones residents a la ciutat que contesten a la qüestió.
 DATA_VALIDATION: >-

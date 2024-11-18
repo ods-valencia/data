@@ -35,6 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
   Primera Ola Barómetro de Opinión Ciudadana: Movilidad. (2017).
+  Vigesimoprimera Ola Barómetro de Opinión Ciudadana: Movilidad. (2023).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -55,6 +56,9 @@ REC_USE_LIM: >-
   Documentación metodológica sobre la 1 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 1](https://www.valencia.es/estadistica/Barometro/Metodologia1.pdf).
    
   Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Febrero y Marzo de 2017. Se entrevistó un total de 2211 personas empadronadas en la ciudad de València.
+  Documentación metodológica sobre la 21 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 21](https://www.valencia.es/estadistica/Barometro/Metodologia21.pdf).
+   
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Febrero y Marzo de 2023. Se entrevistó un total de 2358 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
   Media aritmética de la valoración de la población respecto a la facilidad para desplazarse con EMT.
 DATA_VALIDATION: >-

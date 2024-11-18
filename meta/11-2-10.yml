@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-2-title
 SDG_INDICATOR: >-
-  Preu del bitllet senzill d'EMT
+  Precio del billete sencillo EMT
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Evolució anual del preu del bitllet senzill per a viatjar en EMT.
+  Evolución anual del precio del billete sencillo para viajar en EMT.
 UNIT_MEASURE: >-
   Euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+  Empresa Municipal de Transportes de València (EMT).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +51,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
-   
-  Documentació relativa a EMT: [EMT](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=3).
+  Documentación relativa a EMT: [EMT](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=3).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

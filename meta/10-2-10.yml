@@ -35,7 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
    
-   Explotación estadística Encuesta de Población Activa del Instituto Nacional de Estadística.
+  Explotación estadística Encuesta de Población Activa del Instituto Nacional de Estadística.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -53,9 +53,9 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-   Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2020.pdf).
+  Documentación metodológica sobre la Estadística de Mercado Laboral: [Mercado Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf).
    
-   Documentación metodológica sobre la Encuesta de Población Activa de la INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
+  Documentación metodológica sobre la Encuesta de Población Activa de la INE: [EPA](https://www.ine.es/inebaseDYN/epa30308/docs/resumetepa21.pdf).
 DATA_COMP: >-
   Cociente entre las personas desocupadas de nacionalidad extranjera y el total de personas desocupadas.
 DATA_VALIDATION: >-

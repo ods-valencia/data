@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-b-title
 SDG_INDICATOR: >-
-  Romanent de tresoreria per a despeses generals
+  Remanente de tesorería para gastos generales
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  El romanent de tresoreria disponible per al finançament de despeses generals reflecteix la situació de liquiditat de l'entitat al tancament de l'exercici, que es troba disponible per a finançar despeses, resultant un indicador molt important per a valorar la solvència financera a curt termini de l'entitat local. 
+  El remanente de tesorería disponible para la financiación de gastos generales refleja la situación de liquidez de la entidad al cierre del ejercicio, que se encuentra disponible para financiar gastos, resultando un indicador muy importante para valorar la solvencia financiera a corto plazo de la entidad local. 
 UNIT_MEASURE: >-
-  Milions d'euros
+  Millones de euros
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Portal de Rendició de Comptes (www.rendiciondecuentas.es).
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+  Explotación estadística Portal de Rendición de Cuentas
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,13 +51,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/).
    
-  El romanent de tresoreria s'obté com a suma dels fons líquids més els drets pendents de cobrament, deduint les obligacions pendents de pagament i agregant les partides pendents d'aplicació. Els saldos de dubtós cobrament corresponen a aquells drets reconeguts que figuren comptabilitzats i que, previsiblement, no donaran lloc al seu cobrament. Les desviacions de finançament afectat representen la diferència que ha existit en l'exercici entre els drets reconeguts per ingressos que estan vinculats (afectats) a un determinat projecte de despesa i les obligacions reconegudes d'aquest, el ritme d'execució de les quals no ha resultat homogeni (per exemple, una obra finançada amb una subvenció, que s'ha anat executant al llarg de l'any, però encara no s'ha rebut el finançament de la mateixa).
+  El remanente de tesorería se obtiene como suma de los fondos líquidos más los derechos pendientes de cobro, deduciendo las obligaciones pendientes de pago y agregando las partidas pendientes de aplicación. Los saldos de dudoso cobro corresponden a aquellos derechos reconocidos que figuran contabilizados y que, previsiblemente, no darán lugar a su cobro. Las desviaciones de financiación afectada representan la diferencia que ha existido en el ejercicio entre los derechos reconocidos por ingresos que están vinculados (afectados) a un determinado proyecto de gasto y las obligaciones reconocidas de este, el ritmo de ejecución de las cuales no ha resultado homogéneo (por ejemplo, una obra financiada con una subvención, que se ha ido ejecutando a lo largo del año, pero todavía no se ha recibido la financiación de la misma).
    
-  Quan el romanent de tresoreria presenta valors negatius, ens indica que l'entitat local haurà d'obtindre majors recursos futurs per a atendre l'excés de despeses, és a dir, l'entitat és incapaç d'afrontar els seus deutes en finalitzar l'exercici. Aquesta insolvència a curt termini sorgeix perquè al llarg de l'exercici hi ha hagut més despeses que ingressos, sense que els recursos líquids siguen suficients.
+  Cuando el remanente de tesorería presenta valores negativos, nos indica que la entidad local tendrá que obtener mayores recursos futuros para atender el exceso de gastos, es decir, la entidad es incapaz de afrontar sus deudas al finalizar el ejercicio. Esta insolvencia a corto plazo surge porque a lo largo del ejercicio ha habido más gastos que ingresos, sin que los recursos líquidos sean suficientes.
 DATA_COMP: >-
-  És el resultat de deduir al romanent de tresoreria els saldos de dubtós cobrament i l'excés de finançament afectat (suma de les desviacions amb finançaments afectats, positives i acumulades a fi d'exercici). 
+  Es el resultado de deducir al remanente de tesorería los saldos de dudoso cobro y el exceso de financiación afectada (suma de las desviaciones con financiaciones afectadas, positivas y acumuladas a fin de ejercicio). 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

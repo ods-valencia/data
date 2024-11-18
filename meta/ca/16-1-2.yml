@@ -35,6 +35,7 @@ CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Sisena Ona Baròmetre d'Opinió Ciutadana: Convivència i Turisme. (2018).
+  Vint-i-tresena Ona Baròmetre d'Opinió Ciutadana: Seguretat. (2023).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,7 +53,11 @@ RATIONALE: >-
 REC_USE_LIM: >-
   Documentació metodològica sobre la 6 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 6](https://www.valencia.es/estadistica/Barometro/Metodologia6.pdf).
   
+  Documentació metodològica sobre la 23 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 23](https://www.valencia.es/estadistica/Barometro/Metodologia23.pdf).
+  
   Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Setembre i Octubre de 2018, publicant-se el Baròmetre el mes de desembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Setembre/Octubre 2017 - Setembre/Octubre 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
+  
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar en desembre de 2023, publicant-se el Baròmetre en març de 2024. Es va entrevistar un total de 2356 persones empadronades a la ciutat de València.
 DATA_COMP: >-
   Mitjana aritmètica de les valoracions de la població de 18 i més anys sobre el grau de seguretat del barri en el qual resideixen en una escala 0-10, on 0 és molt insegur i 10 és molt segur.
 DATA_VALIDATION: >-

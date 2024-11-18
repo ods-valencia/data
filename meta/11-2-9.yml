@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.11-2-title
 SDG_INDICATOR: >-
-  Usuaris abonats a Valenbisi
+  Usuarios abonados a ValenBisi
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Nombre d'abonats a Valenbisi l'any de referència.
+  Número de abonados a Valenbisi el año de referencia.
 UNIT_MEASURE: >-
-  Abonats
+  Abonados
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Servicio de Mobilidad. Ayuntamiento de Valencia.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +50,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews.
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  Documentació relativa a ValenBisi: [ValenBisi](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=3).
+  Documentación relativa a ValenBisi: [ValenBisi](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=3).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-
