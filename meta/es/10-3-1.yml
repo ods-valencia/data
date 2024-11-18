@@ -34,6 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   Quinta Ola Barómetro de Opinión Ciudadana: Convivencia y Derechos Sociales. (2018).
+  Vigésimo tercera Ola Barómetro de Opinión Ciudadana: Seguridad. (2023).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -52,8 +53,10 @@ REC_USE_LIM: >-
   Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm).
    
   Documentación metodológica sobre la 5 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
+  Documentación metodológica sobre la 23 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 23](https://www.valencia.es/estadistica/Barometro/Metodologia23.pdf).
    
-  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Junio y Julio de 2018 publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Junio/Julio 2017 - Junio/Julio 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.   
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Junio y Julio de 2018 publicándose el Barómetro el mes de septiembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Junio/Julio 2017 - Junio/Julio 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron en diciembre de 2023, publicándose el Barómetro en marzo de 2024. Se entrevistó un total de 2356 personas empadronadas en la ciudad de València.   
 DATA_COMP: >-
   Cociente entre el número de personas que han sufrido discriminación por motivos de cualquier índole el año de referencia y el total de personas en el municipio de València.
 DATA_VALIDATION: >-
