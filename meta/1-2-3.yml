@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.1-2-title
 SDG_INDICATOR: >-
-  Població en risc de pobresa i/o exclusió social considerant el llindar autonòmic de pobresa: indicador AROPE
+  Población en riesgo de pobreza y/o exclusión social considerando el umbral autonómico de pobreza: indicador AROPE
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,14 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge de persones que estan en risc de pobresa relativa considerant el llindar autonòmic de pobresa, que pateixen privació material severa o que viuen en llars amb baixa intensitat d'ocupació. Encara que una persona complisca dues o tres condicions, es comptabilitza una sola vegada.
+  Porcentaje de personas que están en riesgo de pobreza relativa considerando el umbral autonómico de pobreza, que sufren privación material severa o que viven en hogares con baja intensidad de ocupación. Aunque una persona cumpla dos o tres condiciones, se contabiliza una sola vez.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Explotació estadística Enquesta de Condicions de Vida (ECV) de la Generalitat Valenciana.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+  Explotación estadística Encuesta de Condiciones de Vida (ECV) de la Generalitat Valenciana.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,37 +51,27 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del Portal Estadístic de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofereix aquesta informació per a àmbits territorials superiors.
+  Este indicador forma parte del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrece esta información para ámbitos territoriales superiores.
    
-  Documentació metodològica sobre Indicadors de Pobresa i Condicions de Vida a nivell subregional: [Pobresa i Condicions de Vida](https://pegv.gva.es/auto/produccion/web/ECV/Metodologia/Metodologia_val.htm).
+  Documentación metodológica sobre Indicadores de Pobreza y Condiciones de Vida a nivel subregional: [Pobreza y Condiciones de Vida](https://pegv.gva.es/auto/produccion/web/ECV/Metodologia/Metodologia_cas.htm).
    
-  Els ingressos que s'utilitzen en el càlcul d'aquest indicador corresponen a l'any anterior al de l'enquesta i són directament informats per l'enquestat. El nombre d'unitats de consum d'una llar es calcula utilitzant l'escala OCDE modificada, que assigna un pes d'1 a la primera persona de 14 o més anys, un pes de 0,5 a la resta de persones de 14 o més anys i un pes de 0,3 a les persones de menys de 14 anys.
-  Com la mitjana dels ingressos a la Comunitat Valenciana és inferior a la d'Espanya, els percentatges de pobresa amb llindar autonòmic són sensiblement inferiors als que es tenen utilitzant el llindar nacional.  Una persona estarà en risc de pobresa relativa si viu amb uns ingressos per unitat de consum per davall del llindar autonòmic de pobresa l'any anterior a l'entrevista. L'ingrés de cadascuna de les persones que resideixen en una determinada llar es calcula com l'ingrés del total de la llar a la qual pertanyen entre el seu nombre d'unitats de consum segons l'escala OCDE modificada. A continuació s'obté la mitjana (percentil 50) de la distribució d'ingressos de totes les persones residents en totes les llars de la Comunitat Valenciana, sent el 60% d'aquest valor el llindar autonòmic de pobresa considerat per a mesurar la pobresa relativa. 
-  Una persona viu en una llar amb una intensitat d'ocupació baixa si els seus membres en edat de treballar ho van fer menys del 20% del seu potencial total de treball l'any anterior al de l'entrevista. Per a això es calcula el nombre de mesos en què els membres de la llar han estat treballant durant l'any de referència (els mesos amb treball a jornada completa compte com 1, els mesos a jornada parcial com 0,5 i els mesos sense treball com 0), i d'altra banda el total de mesos en què teòricament eixos mateixos membres podrien haver treballat. A continuació es calcula el ràtio, establint que la llar té una intensitat d'ocupació baixa si el seu valor és inferior al 20%. Aquesta condició només s'aplica a la població de 0 a 59 anys d'edat.
+  Los ingresos que se utilizan en el cálculo de este indicador corresponden al año anterior al de la encuesta y son directamente informados por el encuestado. El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años.
+  Como la media de los ingresos en la Comunidad Valenciana es inferior a la de España, los porcentajes de pobreza con umbral autonómico son sensiblemente inferiores a los que se tienen utilizando el umbral nacional.
+   
+  Una persona sufre privación material severa si el hogar en el cual vive carece al menos de cuatro conceptos de los nueve siguientes:
+  1) No puede permitirse ir de vacaciones al menos una semana al año. 
+  2) No puede permitirse una comida de carne, pollo o pescado al menos cada dos días.
+  3) No puede permitirse mantener la vivienda con una temperatura adecuada.
+  4) No tiene capacidad para afrontar gastos imprevistos (de 650 euros).
+  5) Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal (hipoteca o alquiler, recibos de gas, comunidad...) en los últimos 12 meses.
+  6) No puede permitirse disponer de un automóvil.
+  7) No puede permitirse disponer de teléfono.
+  8) No puede permitirse disponer de un televisor.
+  9) No puede permitirse disponer de una lavadora.  Una persona estará en riesgo de pobreza relativa si vive con unos ingresos por unidad de consumo por debajo del umbral autonómico de pobreza el año anterior a la entrevista. El ingreso de cada una de las personas que residen en un determinado hogar se calcula como el ingreso del total del hogar al cual pertenecen entre su número de unidades de consumo según la escala OCDE modificada. A continuación se obtiene la mediana (percentil 50) de la distribución de ingresos de todas las personas residentes en todos los hogares de la Comunidad Valenciana, siendo el 60% de este valor el umbral autonómico de pobreza considerado para medir la pobreza relativa.
+   
+  Una persona vive en un hogar con una intensidad de ocupación baja si sus miembros en edad de trabajar lo hicieron menos del 20% de su potencial total de trabajo el año anterior al de la entrevista. Para esto, se calcula el número de meses en que los miembros del hogar han estado trabajando durante el año de referencia (los meses con trabajo a jornada completa cuenta como 1, los meses a jornada parcial como 0,5 y los meses sin trabajo como 0), y por otro lado el total de meses en que teóricamente esos mismos miembros podrían haber trabajado. A continuación se calcula el ratio, estableciendo que el hogar tiene una intensidad de ocupación baja si su valor es inferior al 20%. Esta condición solo se aplica en la población de 0 a 59 años de edad.
 DATA_COMP: >-
-  Una persona estarà en risc de pobresa relativa si viu amb uns ingressos per unitat de consum per davall del llindar autonòmic de pobresa l'any anterior a l'entrevista.
-
-  Una persona pateix privació material severa si la llar en la qual viu manca almenys de quatre conceptes dels nou següents:
-
-  1) No pot permetre's anar de vacances almenys una setmana a l'any. 
-
-  2) No pot permetre's un menjar de carn, pollastre o peix almenys cada dos dies.
-
-  3) No pot permetre's mantindre l'habitatge amb una temperatura adequada.
-
-  4) No té capacitat per a afrontar despeses imprevistes (de 650 euros).
-
-  5) Ha tingut retards en el pagament de despeses relacionades amb l'habitatge principal (hipoteca o lloguer, rebuts de gas, comunitat...) en els últims 12 mesos.
-
-  6) No pot permetre's disposar d'un automòbil.
-
-  7) No pot permetre's disposar de telèfon.
-
-  8) No pot permetre's disposar d'un televisor.
-
-  9) No pot permetre's disposar d'una llavadora.
-
-  Una persona viu en una llar amb baixa intensitat d'ocupació si els seus membres en edat de treballar ho van fer menys del 20% del seu potencial total de treball l'any anterior al de l'entrevista. 
+  Cociente de la población en riesgo de pobreza y/o exclusión social respecto a la población residente en la ciudad, expresado en porcentaje. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
