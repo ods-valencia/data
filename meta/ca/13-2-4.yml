@@ -29,7 +29,7 @@ CONTACT_EMAIL: >-
 STAT_CONC_DEF: >- 
   Emissions de CO2 per cada 100 habitants en l'any de referència. 
 UNIT_MEASURE: >-
-  Tonelades per 100 habitants
+  Tones per 100 habitants
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
