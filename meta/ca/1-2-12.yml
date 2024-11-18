@@ -53,7 +53,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Les seccions definides com a vulnerables (per a un tema o en l'índex global) són aquelles que la seua puntuacio´ en aqueix tema o en l'indicador global es situ´a per davall (o igual) al percentil 10% (p0,1) de la distribució formada per totes les puntuacions finals de les seccions en aqueix tema o en l'índex global.
+  Les seccions definides com a vulnerables (per a un tema o en l'índex global) són aquelles que la seua puntuació en aqueix tema o en l'indicador global es sitúa per davall (o igual) al percentil 10% (p0,1) de la distribució formada per totes les puntuacions finals de les seccions en aqueix tema o en l'índex global.
   
    
   
