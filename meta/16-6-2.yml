@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-6-title
 SDG_INDICATOR: >-
-  Endeutament municipal per habitant
+  Endeudamiento municipal por habitante
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Deute de l'Ajuntament de València per habitant.
+  Deuda del Ayuntamiento de València por habitante.
 UNIT_MEASURE: >-
-  Euros per habitant
+  Euros por habitante
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendició de Comptes (www.rendiciondecuentas.es) que mostra la informació sobre la gestió econòmica i financera de les Entitats locals deduïda dels Comptes Generals rendits per les pròpies entitats.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,14 +50,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  La informació s'extrau del Compte General de l'Ajuntament de València, no de la d'entitats dependents (organismes autònoms, societats mercantils, entitats públiques empresarials o fundacions adscrites) o entitats en les quals participa. Aquest indicador forma permet comparar el passiu d'entitats amb diferències en la seua població de referència. 
+  La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. Este indicador permite comparar el pasivo de entidades con diferencias en su población de referencia. 
    
-  El passiu total es calcula com la suma del passiu corrent i el passiu no corrent reflectits en el Compte General de l'Ajuntament de València per a un determinat exercici. El passiu corrent o exigible a curt termini (crèdits de funcionament) recull les obligacions el venciment de les quals és inferior a un any. El passiu no corrent o exigible a llarg termini (crèdits de finançament) recull les obligacions amb un venciment superior a un any: provisions a llarg termini. La població utilitzada en el denominador de l'indicador és la població oficinal publicada per l'INE del municipi a 1 de gener de cada any.
+  El pasivo total se calcula como la suma del pasivo corriente y el pasivo no corriente reflejados en la Cuenta General del Ayuntamiento de València para un determinado ejercicio. El pasivo corriente o exigible a corto plazo (créditos de funcionamiento) recoge las obligaciones el vencimiento de las cuales es inferior en un año. El pasivo no corriente o exigible a largo plazo (créditos de financiación) recoge las obligaciones con un vencimiento superior en un año: provisiones a largo plazo. La población utilizada en el denominador del indicador es la población oficial publicada por el INE del municipio a 1 de enero de cada año.
    
-  Documentació metodològica sobre Indicadors del Compte General de les Entitats Locals:
-  (https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/indicadores_de_la_cuenta_general_de_las_entidades_locales_instrucciones_2015v2.pdf).
+  Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
-  Quocient del passiu total de l'Ajuntament d'un determinat exercici entre la població del municipi a 1 de gener d'aquest exercici.
+  Cociente del pasivo total del Ayuntamiento de un determinado ejercicio entre la población del municipio a 1 de enero de este ejercicio.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

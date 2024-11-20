@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-7-title
 SDG_INDICATOR: >-
-  Pressupost destinat a processos de Pressupostos Participatius Municipals
+  Presupuesto destinado a procesos de Presupuestos Participativos Municipales
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Recursos econòmics municipals en inversió que s'assignen a través de Pressupostos Participatius.
+  Recursos económicos municipales en inversión que se asignan a través de Presupuestos Participativos.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Servei de Descentralització i Participació Ciutadana de l'Ajuntament de València.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Servicio de Descentralización y Participación Ciudadana del Ayuntamiento de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +50,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Comissió Europea definit en European Handbook for SDG Voluntary Local Reviews.
+  Este indicador forma parte del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  Els Pressupostos Participatius Municipals són processos estructurats i cíclics on els ciutadans es converteixen en actors centrals en la presa de decisions sobre l'assignació de fons públics. Per a la ciutat de València aquests processos consten de diferents fases: una primera fase de presentació de propostes, una segona fase de suport ciutadà a les propostes presentades, una tercera fase d'estudi de viabilitat jurídica, tècnica i/o pressupostària per part dels serveis tècnics de l'Ajuntament, i una quarta fase de votació de propostes viables i amb suficients suports.
+  Los Presupuestos Participativos Municipales son procesos estructurados y cíclicos donde los ciudadanos se convierten en actores centrales en la toma de decisiones sobre la asignación de fondos públicos. Para la ciudad de València estos procesos constan de diferentes fases: una primera fase de presentación de propuestas, una segunda fase de apoyo ciudadano a las propuestas presentadas, una tercera fase de estudio de viabilidad jurídica, técnica y/o presupuestaria por parte de los servicios técnicos del Ayuntamiento, y una cuarta fase de votación de propuestas viables y con suficientes apoyos.
 DATA_COMP: >-
-  Quocient del pressupost total assignat a processos de Pressupostos Participatius respecte al pressupost municipal ordinari de despeses destinat als capítols 6 (inversions reals) i 7 (transferències de capital) de l'Ajuntament de València.
+  Cociente del presupuesto total asignado a procesos de Presupuestos Participativos respecto al presupuesto municipal ordinario de gastos destinado a los capítulos 6 (inversiones reales) y 7 (transferencias de capital) del Ayuntamiento de València.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.15-3-title
 SDG_INDICATOR: >-
-  Diferencia temperatura mitjana anual respecte al valor mitjà del període 1961-1990
+  Diferencia temperatura respecto a la media del periodo 1961-90
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Diferència entre la temperatura mitjana anual registrada i el valor mitjà del període 1961-1990 en l'estació meteorològica de Vivers
+  Diferencia entre la temperatura media anual registrada y el valor medio del periodo 1961-1990 en la estación meteorológica de Viveros.
 UNIT_MEASURE: >-
-  Graus centígrads
+  Grados centígrados
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Agència Estatal de Meteorologia
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Agencia Estatal de Meteorología.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,10 +50,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Temperatura llegida en un termòmetre exposat a l'aire i protegit de la radiació solar. Les dades s'han obtingut de l'estació manual situada als Jardins Municipals de Vivers de la ciutat de València (39° 28' 50'' N, 00° 21' 59'' O).
-  Encara que el període normal de referència per a les dades climatològiques del decenni de 2010 és el corresponent al període 1981-2010, l'Organització Meteorològica Mundial ( OMM) ha introduït el període 1961-90 com a període de referència per a la vigilància i l'avaluació de la variabilitat del clima i el canvi climàtic a llarg termini.
+  Temperatura leída en un termómetro expuesto al aire y protegido de la radiación solar. Los datos se han obtenido de la estación manual situada en los Jardines Municipales de Viveros de la ciudad de València (39° 28' 50'' N, 00° 21' 59'' O).
+  Aunque el periodo normal de referencia para los datos climatológicos del decenio de 2010 es el correspondiente al periodo 1981-2010, la Organización Meteorológica Mundial ( OMM) ha introducido el periodo 1961-90 como periodo de referencia para la vigilancia y la evaluación de la variabilidad del clima y el cambio climático a largo plazo.
 DATA_COMP: >-
-  Temperatura mitjana anual de l'any menys la mitjana de les temperatures mitjanes anuals registrades al llarg del període 1961-1990 en l'estació meteorològica de Vivers. La temperatura mitjana anual es calcula com a mitjana aritmètica de les temperatures mitjanes mensuals observades durant l'any de referència
+  Temperatura media anual del año menos la media de las temperaturas medias anuales registradas a lo largo del periodo 1961-1990 en la estación meteorológica de Viveros. La temperatura media anual se calcula como media aritmética de las temperaturas medianas mensuales observadas durante el año de referencia.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-6-title
 SDG_INDICATOR: >-
-  Inversió per habitant
+  Inversión por habitante
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Despesa pressupostària realitzada en inversions en l'exercici per habitant.
+  Gasto presupuestario realizado en inversiones en el ejercicio por habitante.
 UNIT_MEASURE: >-
-  Euros per habitant
+  Euros por habitante
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendició de Comptes (www.rendiciondecuentas.es) que mostra la informació sobre la gestió econòmica i financera de les Entitats locals deduïda dels Comptes Generals rendits per les pròpies entitats.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +50,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  La informació s'extrau del Compte General de l'Ajuntament de València, no de la d'entitats dependents (organismes autònoms, societats mercantils, entitats públiques empresarials o fundacions adscrites) o entitats en les quals participa. 
+  La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. 
    
-  Documentació metodològica sobre Indicadors del Compte General de les Entitats Locals: (https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/indicadores_de_la_cuenta_general_de_las_entidades_locales_instrucciones_2015v2.pdf).
+  Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
-  Quocient de l'import total de les de les obligacions reconegudes netes en la liquidació del pressupost de despeses dels capítols 6 (inversions reals) i 7 (transferències de capital) de l'Ajuntament de València d'un determinat exercici entre la població oficial del municipi a 1 de gener d'aqueix mateix any.
+  Cociente del importe total de las obligaciones reconocidas netas en la liquidación del presupuesto de gastos de los capítulos 6 (inversiones reales) y 7 (transferencias de capital) del Ayuntamiento de València de un determinado ejercicio entre la población oficial del municipio a 1 de enero de ese mismo año.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

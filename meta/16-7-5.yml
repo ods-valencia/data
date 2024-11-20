@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-7-title
 SDG_INDICATOR: >-
-  Pressupost per a participació ciutadana per càpita
+  Gasto en participación ciudadana por habitante
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Despeses econòmiques incloses en la liquidació del pressupost municipal destinat a participació ciutadana (grup de despesa 924) per resident a la ciutat.
+  Gastos económicos incluidos en la liquidación del presupuesto municipal destinado a participación ciudadana (grupo de gasto 924) por residente en la ciudad.
 UNIT_MEASURE: >-
-  Euros per habitant
+  Euros por habitante
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendició de Comptes (www.rendiciondecuentas.es) que mostra la informació sobre la gestió econòmica i financera de les Entitats locals deduïda dels Comptes Generals rendits per les pròpies entitats.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +50,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Les despeses pressupostàries són els que procedeixen de la liquidació de la despesa dels capítols vinculats a comptes dels grups 6 i 7 del Pla General de Comptabilitat Pública adaptat a l'Administració local (PGCPAL). Respecte a les despeses no pressupostàries s'han prorratejat seguint la distribució entre grups de programes de les despeses pressupostàries, conforme a l'indicat en la regulació de la nota 19 de la memòria recollida en la ICAL, que estableix que, en absència de millor criteri, es distribuiran “en la proporció que, sobre la despesa total que constituïsca al seu torn despesa pressupostària, supose cadascun dels grups de programes”. La població utilitzada en el denominador de l'indicador és la població oficinal publicada per l'INE del municipi a 1 de gener de cada any.
+  Los gastos presupuestarios son los que proceden de la liquidación del gasto de los capítulos vinculados a cuentas de los grupos 6 y 7 del Plan General de Contabilidad Pública adaptado a la Administración local (PGCPAL). Respecto a los gastos no presupuestarios se han prorrateado siguiendo la distribución entre grupos de programas de los gastos presupuestarios, conforme a lo indicado en la regulación de la nota 19 de la memoria recogida en la ICAL, que establece que, en ausencia de mejor criterio, se distribuirán “en la proporción que, sobre el gasto total que constituya a su vez gasto presupuestario, supone cada uno de los grupos de programas”. La población utilizada en el denominador del indicador es la población oficial publicada por el INE del municipio a 1 de enero de cada año.
+   
+   
+  Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
-  Quocient de les despeses (pressupostaris o no pressupostaris) associats a l'activitat de participació ciutadana segons el model d'activitats estructurat definit en la Instrucció de Comptabilitat per a l'Administració Local (ICAL) entre la població a 1 de gener d'aquest exercici.
+  Cociente de los gastos (presupuestarios o no presupuestarios) asociados a la actividad de participación ciudadana según el modelo de actividades estructurado definido en la Instrucción de Contabilidad para la Administración Local (ICAL) entre la población a 1 de enero de este ejercicio.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
