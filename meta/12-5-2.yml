@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.12-5-title
 SDG_INDICATOR: >-
-  Contenidors de vidre per cada 1.000 habitants
+  Contenedores de vidrio por cada 1.000 habitantes
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Quocient entre el nombre de contenidors de vidre l'any de referència t entre la població a 1 de gener de l'any t+1.
+  Cociente entre el número de contenedores de vidrio el año de referencia t entre la población a 1 de enero del año t+1.
 UNIT_MEASURE: >-
-  Tant per 1.000
+  Tanto por 1.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+  Servicio Gestión Sostenible Residuos Urbanos
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,12 +51,10 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  La població calculada a meitat de l'any de referència s'obté com a semisuma de les poblacions corresponents a 1 de gener de l'any de referència i 1 de gener de l'any següent. 
-  Les dades de població provenen de l'explotació estadística del fitxer del Padró Municipal d'Habitants de l'Ajuntament de València.
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  La población calculada a mitad del año de referencia se obtiene como semisuma de las poblaciones correspondientes a 1 de enero del año de referencia y 1 de enero del año siguiente. 
+  Los datos de población provienen de la explotación estadística del fichero del Padrón Municipal de Habitantes del Ayuntamiento de València.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

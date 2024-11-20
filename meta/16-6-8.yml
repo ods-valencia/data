@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-6-title
 SDG_INDICATOR: >-
-  Valoració de la gestió municipal
+  Valoración de la población adulta de la gestión municipal
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Valoració mitjana de la població de 18 o més anys d'edat de la gestió municipal.
+  Valoración media de la población de 18 o más años de edad de la gestión municipal.
 UNIT_MEASURE: >-
   Escala 1-10
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Baròmetre d'Opinió Ciutadana de la ciutat de València.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+  Barómetro de Opinión Ciudadana de la ciudad de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,12 +51,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre el Baròmetre d'Opinió Ciutadana de la ciutat de València:
-   https://www.valencia.es/cas/estadistica/barometro-municipal 
+  Documentación metodológica sobre el Barómetro de Opinión Ciudadana de la ciudad de València: [Barómetro](https://www.valencia.es/cas/estadistica/barometro-municipal). 
    
-  A tots els enquestats se'ls demana que valoren la gestió de l'Ajuntament de València, en una escala del 0 al 10, on 0 és molt dolenta i 10 és molt bona. A partir de les respostes obtingudes en els enquestats que valoren la gestió, i tenint en compte els factors d'elevació associats als individus enquestats, s'estima la valoració mitjana de les persones de 18 o més anys d'edat respecte a la gestió de l'Ajuntament de València.
+  A todos los encuestados se les pide que valoren la gestión del Ayuntamiento de València, en una escala del 0 al 10, donde 0 es muy mala y 10 es muy buena. A partir de las respuestas obtenidas en los encuestados que valoran la gestión, y teniendo en cuenta los factores de elevación asociados a los individuos encuestados, se estima la valoración media de las personas de 18 o más años de edad respecto a la gestión del Ayuntamiento de València.
 DATA_COMP: >-
-  Mitjana aritmètica de les valoracions de la població de 18 i més anys sobre la gestió de l'Ajuntament de València en una escala 0-10, on 0 és molt dolenta i 10 és molt bona. Si en un any s'ha recollit aquesta informació per a diferents referències temporals, es mostra la mitjana aritmètica de les mitjanes de les valoracions recollides.
+  Media aritmética de las valoraciones de la población de 18 y más años sobre la gestión del Ayuntamiento de València en una escala 0-10, donde 0 es muy mala y 10 es muy buena. Si en un año se ha recogido esta información para diferentes referencias temporales, se muestra la media aritmética de las medias de las valoraciones recogidas.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-1-title
 SDG_INDICATOR: >-
-  Taxa de delictes contra la llibertat i indemnitat sexual
+  Tasa de delitos contra la libertad e indemnidad sexual
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Infraccions penals tipificades com a delictes contra la llibertat i indemnitat sexual (incloses en el Títol VIII del Llibre II del Codi Penal) a la ciutat conegudes per les diferents Forces i Cossos de Seguretat (Guàrdia Civil, Cos Nacional de Policia, Policia Autonòmica o Policia Local de València), ja siga per mitjà de denúncia interposada o per actuació policial realitzada motu proprio (labor preventiva o d'investigació).
+  Infracciones penales tipificadas como delitos contra la libertad e indemnidad sexual (incluidas en el Título VIII del Libro II del Código Penal) en la ciudad conocidas por las diferentes Fuerzas y Cuerpos de Seguridad (Guardia Civil, Cuerpo Nacional de Policía, Policía Autonómica o Policía Local de València), ya sea por medio de denuncia interpuesta o por actuación policial realizada.
 UNIT_MEASURE: >-
-  Tant per 100.000
+  Tanto por 100.000
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Balanç Trimestral de Criminalitat del SEC (Sistema Estadístic de Criminalitat) del Ministeri de l'Interior.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Explotación estadística Balance Trimestral de Criminalidad del SEC (Sistema Estadístico de Criminalidad) del Ministerio del Interior.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,15 +50,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del panell d'indicadors locals de Idencity.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm), que ofrece información para ámbitos territoriales superiores. También forma parte del Panel ODS de la Comisión Europea definido en European Handbook for SDG Voluntary Local Reviews y del Panel ODS de la Red Española para el Desarrollo Sostenible.
    
-  Documentació metodològica sobre el Balanç Trimestral de Criminalitat: (https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:b36b25ac-491b-49a6-be33-9cdcb168f0c9/01_Metodolog%C3%ADA_Balances_criminalitat.pdf).
+  Documentación metodológica sobre el Balance Trimestral de Criminalidad: [Balance Criminalidad](https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:b36b25ac-491b-49a6-be33-9cdcb168f0c9/01_Metodolog%C3%ADA_Balances_criminalidad.pdf).
    
-  Documentació metodològica sobre l'Explotació estadística del Padró Municipal d'Habitants de València: [Explotació Estadística Padró](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
-   
-  Les dades de l'últim any són provisionals pendents de consolidar. La població de referència utilitzada per al càlcul l'indicador és la calculada a meitat d'any a partir de la semisuma de les poblacions registrades en el Padró Municipal de l'Ajuntament de València a 1 de gener de l'any de referència i de l'any següent.
+  La población a mitad del año t se ha calculado como semisuma de las poblaciones a 1 de enero del año t y del año t+1. Los datos del último año son provisionales, están pendientes de consolidar.
 DATA_COMP: >-
-  Quocient del nombre de delictes contra la llibertat i indemnitat sexual durant l'any de referència entre la població calculada a meitat de l'any.
+  Cociente del número de delitos contra la libertad e indemnidad sexual durante el año de referencia entre la población calculada a mitad del año.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

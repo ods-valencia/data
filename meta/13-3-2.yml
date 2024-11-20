@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.13-3-title
 SDG_INDICATOR: >-
-  Població que considera que l'afecta el calfament global
+  Población que considera que le afecta el calentamiento global
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge que considera que l'afecta el calfament global hui dia.
+  Porcentaje que considera que le afecta el calentamiento global hoy en día.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Tercera ona del Baròmetre Municipal d'Opinió Ciutadana de la ciutat de València. Temàtica d'espais verds, medi ambient i neteja de la ciutat.
+  Tercera Ola Barómetro de Opinión Ciudadana: Espacios Verdes, Medio Ambiente y Limpieza de la Ciudad. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,13 +49,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Documentación metodológica sobre la 3 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 3](https://www.valencia.es/estadistica/Barometro/Metodologia3.pdf).
    
-  Documentació metodològica sobre la 3 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 3](https://www.valencia.es/estadistica/Barometro/Metodologia3.pdf).
-   
-  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Desembre de 2017 i Febrer de 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre diciembre de 2017 y febrero de 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
-  Quocient entre la població que considera que l'afecta el calfament global i el total de la població enquestada.
+  Cociente entre la población que considera que le afecta el calentamiento global y el total de la población encuestada.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

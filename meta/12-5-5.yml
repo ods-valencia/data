@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.12-5-title
 SDG_INDICATOR: >-
-  Recollida anual de vidre per habitant
+  Recogida anual de vidrio por habitante
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Quocient entre la quantitat de vidre recollida durant l'any de referència entre la població calculada a meitat de l'any.
+  Cociente entre la cantidad de vidrio recogida durante el año de referencia entre la población calculada a mitad del año.
 UNIT_MEASURE: >-
-  Quilograms per habitant
+  Kilogramos por habitante
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+  Servicio Gestión Sostenible Residuos Urbanos
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  No s'inclouen les dades dels residus depositats en l'Ecoparc de Vara de Quart. La població calculada a meitat de l'any de referència s'obté com a semisuma de les poblacions corresponents a 1 de gener de l'any de referència i 1 de gener de l'any següent.  Les dades de població provenen de l'explotació estadística del fitxer del Padró Municipal d'Habitants de l'Ajuntament de València.
-   
-  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
+  No se incluyen los datos de los residuos depositados en el Ecoparque de Vara de Quart. La población calculada a mitad del año de referencia se obtiene como semisuma de las poblaciones correspondientes a 1 de enero del año de referencia y 1 de enero del año siguiente. Los datos de población provienen de la explotación estadística del fichero del Padrón Municipal de Habitantes del Ayuntamiento de València.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-

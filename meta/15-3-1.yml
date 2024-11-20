@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.15-3-title
 SDG_INDICATOR: >-
-  Percentatge precipitació total anual respecte al valor mitjà del període 1961-1990
+  Porcentaje precipitación total anual respecto a la media del periodo 1961-90
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge que representa la precipitació total anual registrada respecte al valor total anual mitjà registrat al llarg del període 1961-1990 en l'estació meteorològica de Vivers
+  Porcentaje que representa la precipitación total anual registrada respecto al valor total anual medio registrado a lo largo del periodo 1961-1990 en la estación meteorológica de Viveros.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Agència Estatal de Meteorologia
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Agencia Estatal de Meteorología.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +50,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Es considera precipitació qualsevol agregat de partícules aquoses, líquides o sòlides, cristal·litzades o amorfes, que cauen des d'un núvol i aconsegueixen el sòl. La precipitació caiguda en un determinat lloc es mesura en l/m² (quantitat d'aigua recollida en una superfície d'un metre quadrat), que és equivalent a mil·límetres (altura que aconseguiria la capa d'aigua si no es filtrara ni evaporara). Les mesures s'han obtingut considerant dies civils (de 0 a 24 h.). Les dades s'han obtingut de l'estació automàtica situada als Jardins Municipals de Vivers de la ciutat de València (39° 28' 50'' N, 00° 21' 59'' O).
-  Encara que el període normal de referència per a les dades climatològiques del decenni de 2010 és el corresponent al període 1981-2010, l'Organització Meteorològica Mundial ( OMM) ha introduït el període 1961-90 com a període de referència per a la vigilància i l'avaluació de la variabilitat del clima i el canvi climàtic a llarg termini.
-  Un percentatge major de 100 indicarà que en aqueix any s'ha registrat una precipitació total major que l'observada en el període de referència, mentre que un valor menor de 100 indicarà el contrari. Per exemple, si per a un any aquest índex pren un valor igual al 75%, voldrà dir que aqueix any la precipitació total ha sigut un 75% de la mitjana del període de comparació.
+  Se considera precipitación cualquier agregado de partículas acuosas, líquidas o sólidas, cristalizadas o amorfas, que caen desde una nube y consiguen el suelo. La precipitación caída en un determinado lugar se mide en l/m² (cantidad de agua recogida en una superficie de un metro cuadrado), que es equivalente a milímetros (altura que conseguiría la capa de agua si no se filtrara ni evaporara). Las medidas se han obtenido considerando días civiles (de 0 a 24 h.). Los datos se han obtenido de la estación automática situada en los Jardines Municipales de Viveros de la ciudad de València (39° 28' 50'' N, 00° 21' 59'' O).
+  Aunque el periodo normal de referencia para los datos climatológicos del decenio de 2010 es el correspondiente al periodo 1981-2010, la Organización Meteorológica Mundial ( OMM) ha introducido el periodo 1961-90 como periodo de referencia para la vigilancia y la evaluación de la variabilidad del clima y el cambio climático a largo plazo.
+  Un porcentaje mayor de 100 indicará que en ese año se ha registrado una precipitación total mayor que la observada en el periodo de referencia, mientras que un valor menor de 100 indicará lo contrario. Por ejemplo, si para un año este índice toma un valor igual al 75%, querrá decir que ese año la precipitación total ha sido un 75% de la media del periodo de comparación.
 DATA_COMP: >-
-  Quocient de la precipitació total anual registrada respecte al valor total anual mitjà registrat al llarg del període 1961-1990 en l'estació meteorològica de Vivers 
+  Cociente de la precipitación total anual registrada respecto al valor total anual medio registrado a lo largo del periodo 1961-1990 en la estación meteorológica de Viveros. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

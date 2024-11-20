@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-6-title
 SDG_INDICATOR: >-
-  Superàvit municipal per habitant 
+  Superávit municipal por habitante
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,14 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Resultat pressupostari ajustat (superàvit o dèficit) per habitant.
+  Resultado presupuestario ajustado (superávit o déficit) por habitante.
 UNIT_MEASURE: >-
-  Euros per habitant
+  Euros por habitante
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Portal de Rendició de Comptes (www.rendiciondecuentas.es) que mostra la informació sobre la gestió econòmica i financera de les Entitats locals deduïda dels Comptes Generals rendits per les pròpies entitats.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+  Portal de Rendición de Cuentas (www.rendiciondecuentas.es).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,14 +50,13 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  La informació s'extrau del Compte General de l'Ajuntament de València, no de la d'entitats dependents (organismes autònoms, societats mercantils, entitats públiques empresarials o fundacions adscrites) o entitats en les quals participa. El signe d'aquest indicador mostra si l'exercici ha donat superàvit (valor positiu) o dèficit (valor negatiu).
+  La información se extrae de la Cuenta General del Ayuntamiento de València, no de la de entidades dependientes (organismos autónomos, sociedades mercantiles, entidades públicas empresariales o fundaciones adscritas) o entidades en las cuales participa. El signo de este indicador muestra si el ejercicio ha dado superávit (valor positivo) o déficit (valor negativo).
    
-  El resultat pressupostari s'obté sumant el resultat pressupostari (drets reconeguts nets menys obligacions reconegudes netes) de les operacions financeres (actius financers i passius financers) i no financeres (operacions corrents i operacions de capital). El resultat pressupostari ajustat s'obté sumant al resultat pressupostari els crèdits gastats finançats amb romanent de tresoreria per a despeses generals, sumant les desviacions de finançament negatives de l'exercici i restant les desviacions de finançament positives de l'exercici. La població utilitzada en el denominador de l'indicador és la població oficinal publicada per l'INE del municipi a 1 de gener de cada any.
+  El resultado presupuestario se obtiene sumando el resultado presupuestario (derechos reconocidos netos menos obligaciones reconocidas netas de las operaciones financieras (activos financieros y pasivos financieros) y no financieras (operaciones corrientes y operaciones de capital). El resultado presupuestario ajustado se obtiene sumando al resultado presupuestario los créditos gastados financiados con remanente de tesorería para gastos generales, sumando las desviaciones de financiación negativas del ejercicio y restando las desviaciones de financiación positivas del ejercicio. La población utilizada en el denominador del indicador es la población oficial publicada por el INE del municipio a 1 de enero de cada año.
    
-  Documentació metodològica sobre Indicadors del Compte General de les Entitats Locals:
-  (https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/indicadores_de_la_cuenta_general_de_las_entidades_locales_instrucciones_2015v2.pdf).
+  Documentación metodológica sobre Indicadores de la Cuenta General de las Entidades Locales: [Rendición de Cuentas](https://www.rendiciondecuentas.es/export/sites/portaldelciudadano/comun/documentos/INDICADORES_DE_LA_CUENTA_GENERAL_DE_LAS_ENTIDADES_LOCALES_INSTRUCCIONES_2015v2.pdf).
 DATA_COMP: >-
-  Quocient del resultat pressupostari ajustat de l'exercici reflectit en la liquidació del pressupost d'un determinat exercici entre la població del municipi a 1 de gener d'aquest exercici.
+  Cociente del resultado presupuestario ajustado del ejercicio reflejado en la liquidación del presupuesto de un determinado ejercicio entre la población del municipio a 1 de enero de este ejercicio.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

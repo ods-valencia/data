@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.16-1-title
 SDG_INDICATOR: >-
-  Valoració de la població adulta del grau de seguretat del seu barri de residència
+  Valoración de la población adulta del grado de seguridad de su barrio de residencia
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,16 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Valoració mitjana de la població de 18 o més anys d'edat del grau de seguretat del seu barri de residència.
+  Valoración media de la población de 18 o más años de edad del grado de seguridad de su barrio de residencia.
 UNIT_MEASURE: >-
   Escala 1-10
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  Baròmetre d'Opinió Ciutadana de la ciutat de València.
+  9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
+  Sexta Ola Barómetro de Opinión Ciudadana: Convivencia y Turismo. (2018).
+  Vigésimo tercera Ola Barómetro de Opinión Ciudadana: Seguridad. (2023).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,11 +52,12 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Documentació metodològica sobre la sisena ona del Baròmetre d'Opinió Ciutadana de la ciutat de València: https://www.valencia.es/estadistica/Barometro/Metodologia6.pdf
-   
-  A tots els enquestats se'ls demana que valoren la seguretat del seu barri de residència, en una escala del 0 al 10, on 0 és molt insegur i 10 és molt segur. A partir de les respostes obtingudes en els enquestats que valoren el grau de seguretat, i tenint en compte els factors d'elevació associats als individus enquestats, s'estima la valoració mitjana de les persones de 18 o més anys d'edat respecte al grau de seguretat del seu barri de residència.
+  Documentación metodológica sobre la 6 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 6](https://www.valencia.es/estadistica/Barometro/Metodologia6.pdf).
+  Documentación metodológica sobre la 23 Ola del Barómetro de Opinión Ciudadana: [Barómetro Ola 23](https://www.valencia.es/estadistica/Barometro/Metodologia23.pdf).
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron entre Septiembre y Octubre de 2018, publicándose el Barómetro el mes de diciembre. Aunque los resultados se publican para el año 2018, las respuestas comprenden intervalo Septiembre/Octubre 2017 - Septiembre/Octubre 2018. Se entrevistó un total de 2301 personas empadronadas en la ciudad de València.
+  Las entrevistas que se recogieron para la información del Barómetro se realizaron en diciembre de 2023, publicándose el Barómetro en marzo de 2024. Se entrevistó un total de 2356 personas empadronadas en la ciudad de València.
 DATA_COMP: >-
-  Mitjana aritmètica de les valoracions de la població de 18 i més anys sobre el grau de seguretat del barri en el qual resideixen en una escala 0-10, on 0 és molt insegur i 10 és molt segur.
+  Media aritmética de las valoraciones de la población de 18 y más años sobre el grado de seguridad del barrio en el cual residen en una escala 0-10, donde 0 es muy inseguro y 10 es muy seguro.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

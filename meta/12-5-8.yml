@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.12-5-title
 SDG_INDICATOR: >-
-  Percentatge de residus que són reciclats
+  Porcentaje de residuos que son reciclados
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,15 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Percentatge total de residus, tant els sòlids com les substàncies recollides en contenidors específics, que són reciclats.
+  Porcentaje total de residuos, tanto los sólidos como las sustancias recogidas en contenedores específicos, que son reciclados.
 UNIT_MEASURE: >-
-  Percentatge
+  Porcentaje
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
+  0505-Indicadores sociales de la ciudad de València. Plan Valenciano de Estadística 2019-2022. 
+   
+  Servicio Gestión Sostenible Residuos Urbanos
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -49,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/), del Panell ODS definit en European Handbook for SDG Voluntary Local Reviews i del Panell ODS del grup IDENCITY (https://www.idencityconsulting.com/indiceods/).
+  Este indicador forma parte del Panel ODS de la Red Española para el Desarrollo Sostenible (https://spanish-cities.sdgindex.org/) y del Panel ODS definido en European Handbook for SDG Voluntary Local Reviews.
    
-  Els residus sòlids urbans de la ciutat de València, juntament amb els de la resta de municipis de l'àrea metropolitana, són enviats a la planta de tractament de Los Hornillos. De l'activitat de la planta s'obté un percentatge total de residus sòlids urbans que són reciclats. Aquest percentatge s'aplica al total de residus que provenen de València per a estimar quantes tones es reciclen dels residus originats a la ciutat. El percentatge de residus totals que són reciclats s'obté de la divisió de la suma dels residus depositats en contenidors especials de vidre, cartó i paper o plàstic (que suposem es recicla íntegrament) més l'estimació anterior dividit pel total de residus (sòlids urbans i els de contenidors específics). No s'inclouen les dades dels residus depositats en l'Ecoparc de Vara de Quart.
+  Los residuos sólidos urbanos de la ciudad de València, junto con los del resto de municipios del área metropolitana, son enviados a la planta de tratamiento de Los Hornillos. De la actividad de la planta se obtiene un porcentaje total de residuos sólidos urbanos que son reciclados. Este porcentaje se aplica al total de residuos que provienen de València para estimar cuántas toneladas se reciclan de los residuos originados en la ciudad. El porcentaje de residuos totales que son reciclados se obtiene de la división de la suma de los residuos depositados en contenedores especiales de vidrio, cartón y papel o plástico (que suponemos se recicla íntegramente) más la estimación anterior dividido por el total de residuos (sólidos urbanos y los de contenedores específicos). No se incluyen los datos de los residuos depositados en el Ecoparque de Vara de Quart.
 DATA_COMP: >-
   
 DATA_VALIDATION: >-
