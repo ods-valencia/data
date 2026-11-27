@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Porcentaje de población que vive en secciones censales vulnerables a
   nivel de equipación
 graph_titles: []
-graph_type: bar
+graph_type: line
 indicator_name: Porcentaje de población que vive en secciones censales vulnerables
   a nivel de equipación
 indicator_number: '11.1.3'
