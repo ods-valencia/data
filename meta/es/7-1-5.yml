@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.7-1-title
 SDG_INDICATOR: >-
-  Puntos de alumbramiento público
+  Punts d'enllumenament públic
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,15 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Total de puntos de alumbramiento público en el municipio.
+  Total de punts d'enllumenament públic en el municipi.
 UNIT_MEASURE: >-
-  Puntos de alumbrado
+  Punts d'enllumenament
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9906-Anuario estadístico de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
-   
-  Servicio de Alumbrado y Eficiencia Energética.
+  Servici d'Arquitectura i de Servicis Centrals Tècnics.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -51,9 +49,11 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  La información recoge puntos de alumbrado público viarios y en jardines, pasos inferiores o monumentos. Se presentan de manera conjunta puntos de alumbrado de vapor de sodio, vapor de mercurio, luces led o halógenos metálicos.
+  La informació recull punts d'enllumenat públic viaris i en jardins, passos inferiors o monuments. Es presenten de manera conjunta punts d'enllumenat de vapor de sodi, vapor de mercuri, llums led o halògens metàl·lics.
+  
    
-  Documentación relativa a los puntos de alumbrado público: [Alumbrado Público](https://www.valencia.es/cas/estadistica/anuario-estadistica?capitulo=8).
+  
+  Documentació relativa als punts d'enllumenat públic: [Enllumenat Públic](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=8).
 DATA_COMP: >-
   
 DATA_VALIDATION: >-
