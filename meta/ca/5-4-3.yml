@@ -33,8 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
-  Cinquena Ona Baròmetre d'Opinió Ciutadana: Convivència i Drets Socials. (2018).
+  Cinquena Onada Baròmetre d'Opinió Ciutadana: Convivència i Drets Socials. (2018).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -54,7 +53,7 @@ REC_USE_LIM: >-
   
    
   
-  Documentació metodològica sobre la 5 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
+  Documentació metodològica sobre la 5 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Onada 5](https://www.valencia.es/estadistica/Barometro/Metodologia5.pdf).
   
    
   
@@ -62,7 +61,7 @@ REC_USE_LIM: >-
   
    
   
-  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Juny i Juliol de 2018 publicant-se el Baròmetre el mes de setembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Juny/Juliol 2017 - Juny/Juliol 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Juny i Juliol de 2018 publicant-se el Baròmetre el mes de setembre. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Juny/Juliol 2018 - Juny/Juliol 2018. Es va entrevistar un total de 2301 persones empadronades a la ciutat de València.
 DATA_COMP: >-
   Quocient del temps total dedicat a tasques domèstiques de la llar entre el total de persones enquestades que responen a la pregunta.
 DATA_VALIDATION: >-

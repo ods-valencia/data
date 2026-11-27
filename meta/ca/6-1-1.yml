@@ -60,7 +60,7 @@ REC_USE_LIM: >-
   
   Documentació relativa al consum d'aigua: [Aigua](https://www.valencia.es/val/estadistica/anuari-estadistica?capitulo=8).
 DATA_COMP: >-
-  Quocient entre l'aigua facturada a les persones abonades al llarg de l'any de referència i la població a 1 de juliol de l'any de referència, dividit al seu torn entre el nombre de dies de l'any de referència (365, o 366).
+  Quocient entre l'aigua facturada a les persones abonades al llarg de l'any de referència i la població a 1 de juliol de l'any de referència, dividit al seu torn entre el nombre de dies de l'any de referència (365 o 366).
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

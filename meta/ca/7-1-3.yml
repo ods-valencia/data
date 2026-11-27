@@ -27,13 +27,12 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Consum de gas per habitant i dia.
+  Consum de gas per habitant i dia
 UNIT_MEASURE: >-
-  KWH per habitant i dia
+  kWh per habitant i dia
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
   Nedgia Gas.
 COLL_METHOD: >-
 

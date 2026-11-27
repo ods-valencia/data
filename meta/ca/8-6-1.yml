@@ -33,7 +33,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Explotació estadística Servei Valencià d'Ocupació i Formació LABORA.
 COLL_METHOD: >-
 
@@ -58,7 +57,7 @@ REC_USE_LIM: >-
   
    
   
-  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf).  Baix nivell formatiu inclou les persones sense estudis, amb estudis primaris incomplets, amb estudis primaris complets, o amb programes per a la formació i inserció laboral de més de 300 hores que no precisen d'una titulació acadèmica d'educació secundària per a la seua realització per als mesos de l'any de referència.
+  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2025_val.pdf).  Baix nivell formatiu inclou les persones sense estudis, amb estudis primaris incomplets, amb estudis primaris complets, o amb programes per a la formació i inserció laboral de més de 300 hores que no precisen d'una titulació acadèmica d'educació secundària per a la seua realització per als mesos de l'any de referència.
 DATA_COMP: >-
   Es calcula com la mitjana del nombre de persones de 16 a 34 anys d'edat demandants d'ocupació en alta l'últim dia de cada mes registrades pel Servei Valencià d'Ocupació i Formació amb baix nivell formatiu per als mesos de l'any de referència.
 DATA_VALIDATION: >-

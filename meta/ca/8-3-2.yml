@@ -33,7 +33,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022. 
   Explotació estadística Estadística de Treballadors  Afiliats a la Seguretat Social (Institut Valencià d'Estadística).
 COLL_METHOD: >-
 
@@ -58,7 +57,7 @@ REC_USE_LIM: >-
   
    
   
-  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2021.pdf).
+  Documentació metodològica sobre l'Estadística de Mercat Laboral: [Mercat Laboral](https://www.valencia.es/estadistica/CatPub/files/MercadoLaboral/MercadoLaboral2025_val.pdf).
 DATA_COMP: >-
   Quocient entre el número mig anual d'afiliacions al règim autònom de la Seguretat Social entre el número mig anual d'afiliacions a la Seguretat Social amb domicili a la ciutat de València per a l'any de referència. 
 DATA_VALIDATION: >-

@@ -29,12 +29,11 @@ CONTACT_EMAIL: >-
 STAT_CONC_DEF: >- 
   Consum d'energia elèctrica total per habitant i dia.
 UNIT_MEASURE: >-
-  KWH per habitant i dia
+  kWh per habitant i dia
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0505-Indicadores sociales de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Iberdrola.
+  DATADIS.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
