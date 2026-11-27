@@ -17,12 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proporció de persones entre 16 i 74 anys que han utilitzat alguna habilitat
+graph_title: Proporció de persones de 16 a 74 anys que han utilitzat alguna habilitat
   informàtica en els últims 12 mesos
 graph_titles: []
 graph_type: line
-indicator_name: Proporció de persones entre 16 i 74 anys que han utilitzat alguna
-  habilitat informàtica en els últims 12 mesos
+indicator_name: Proporció de persones de 16 a 74 anys que han utilitzat alguna habilitat
+  informàtica en els últims 12 mesos
 indicator_number: '4.4.1'
 national_geographical_coverage: València
 page_content: ''
