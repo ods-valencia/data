@@ -33,7 +33,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Explotació estadística del Registre Autonòmic de Centres, Serveis i Establiments Sanitaris.
 COLL_METHOD: >-
 
@@ -50,7 +49,7 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Accés al Registre Autonòmic de Centres, Serveis i Establiments Sanitaris: [Establiments Sanitaris](http://www.san.gva.es/web/registros/centros-sanitarios).
+  Accés al Registre Autonòmic de Centres, Serveis i Establiments Sanitaris: [Establiments Sanitaris](https://www.san.gva.es/es/web/centros-servicios-y-establecimientos-sanitarios/registro-autonomico-de-centros-servicios-y-establecimientos-sanitarios-de-la-comunidad-valenciana).
   
   S'han inclòs tots els centres sanitaris que apareixen amb Tipus de centre Clíniques dentals. Per tant, no inclou altres centres classificats amb altres tipus en els quals es desenvolupen activitats d'odontologia / estomatologia, com poden ser Hospitals, Centres Polivalents o Serveis sanitaris integrats en una organització no sanitària.  
   

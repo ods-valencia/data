@@ -33,8 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
-  Setena Ona Baròmetre d'Opinió Ciutadana: Educació i Formació. (2018).
+  Setena Ona Baròmetre d'Opinió Ciutadana: Educació i Formació. (2018). Oficina d'Estadística de l'Ajuntament de València.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -58,7 +57,13 @@ REC_USE_LIM: >-
   
    
   
-  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Desembre de 2018 i Gener de 2019 publicant-se el Baròmetre el mes de febrer. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Desembre2017/Gener2018 - Desembre2018/Gener2019. Es va entrevistar un total de 1737 persones de 18 a 64 anys empadronades a la ciutat de València.
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Desembre de 2018 i Gener de 2019 publicant-se el Baròmetre el mes de febrer. Encara que els resultats es publiquen per a l'any 2018, les respostes comprenen l'interval Desembre2018/Gener2019 - Desembre2018/Gener2019. Es va entrevistar un total de 1737 persones de 18 a 64 anys empadronades a la ciutat de València.
+  
+  Documentació metodològica sobre la 20 Ona del Baròmetre d'Opinió Ciutadana: [Baròmetre Ona 20](https://www.valencia.es/estadistica/Barometro/Metodologia20.pdf).
+  
+   
+  
+  Les entrevistes que es van recollir per a la informació del Baròmetre es van realitzar entre Gener de 2023 i Febrer de 2023 publicant-se el Baròmetre el mes de febrer. Es va entrevistar un total de 2355 persones de 18 a 64 anys empadronades a la ciutat de València.
   
   Per a les taxes específiques per sexe es consideren les persones d'aquest sexe.  El disseny del baròmetre, previ a la pregunta sobre aquest indicador, preguntava si l'entrevistat es trobava estudiant actualment. Això comportava que aquest poguera considerar que la realització d'un curs, taller o activitat era independent, contestant que no.
   

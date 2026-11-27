@@ -33,10 +33,10 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  9907-Datos estadísticos de la ciudad de València. Pla Valencià d'Estadística 2019-2022.
   Novena Ona Baròmetre d'Opinió Ciutadana: Salut, Alimentació i Esport. (2019).
   Explotació estadística Enquesta de Salut de la Comunitat Valenciana (Conselleria de Sanitat Universal i Salut Pública).
   Vint-i-quatrena Ona Baròmetre d'Opinió Ciutadana: Salut. (2024).
+  Trigèsima primera Ona Baròmetre d'Opinió Ciutadana: Salut. (2026).
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -64,7 +64,9 @@ REC_USE_LIM: >-
   
   Les dades de 2019 procedeixen de la novena ona del Baròmetre Municipal d'Opinió Ciutadana de l'Ajuntament de València. La grandària mostral associada a aquesta operació és sensiblement major (2.298 persones de 18 o més anys), per la qual cosa les estimacions seran molt més precises. 
   
-  Les dades de 2024 procedeixen de la vint-i-quatrena onada del Baròmetre Municipal d'Opinió Ciutadana de l'Ajuntament de València. La grandària mostral associada a aquesta operació és 2.357 persones de 18 o més anys.
+  Les dades de 2024 procedeixen de la vint-i-quatrena onada del Baròmetre Municipal d'Opinió Ciutadana de l'Ajuntament de València. La grandària mostral associada a aquesta operació és 2.357 persones de 18 o més anys. 
+  
+  Les dades de 2025 procedeixen de la trigèsima primera onada del Baròmetre Municipal d'Opinió Ciutadana de l'Ajuntament de València. La grandària mostral associada a aquesta operació és 2.300 persones de 18 o més anys.
 DATA_COMP: >-
   L'Índex de Massa Corporal (IMC) es calcula dividint el pes corporal de cada individu (en quilograms) entre el quadrat de l'alçada (en metres). L'IMC resultant es classifica en quatre categories:
 
